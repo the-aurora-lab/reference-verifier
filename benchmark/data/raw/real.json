@@ -1,0 +1,6623 @@
+{
+ "description": "Genuine references. meta is the compact metadata each BibTeX entry is written from: the registry record with the curated changes listed in overrides (e.g. a title stored in capitals by the registry); style lists the messy-but-valid BibTeX forms applied.",
+ "retrieved": "2026-10-23",
+ "items": [
+  {
+   "n": 1,
+   "registry": "crossref",
+   "ident": "10.1038/nature14539",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Deep learning",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yann",
+      "family": "LeCun"
+     },
+     {
+      "given": "Yoshua",
+      "family": "Bengio"
+     },
+     {
+      "given": "Geoffrey",
+      "family": "Hinton"
+     }
+    ],
+    "year": 2015,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "521",
+    "number": "7553",
+    "pages": "436-444",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/nature14539",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 2,
+   "registry": "crossref",
+   "ident": "10.1162/neco.1997.9.8.1735",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Long Short-Term Memory",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Sepp",
+      "family": "Hochreiter"
+     },
+     {
+      "given": "Jürgen",
+      "family": "Schmidhuber"
+     }
+    ],
+    "year": 1997,
+    "container": "Neural Computation",
+    "short_container": "Neural Computation",
+    "volume": "9",
+    "number": "8",
+    "pages": "1735-1780",
+    "publisher": "MIT Press",
+    "doi": "10.1162/neco.1997.9.8.1735",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 3,
+   "registry": "crossref",
+   "ident": "10.1038/nature16961",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 20,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Mastering the game of Go with deep neural networks and tree search",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "David",
+      "family": "Silver"
+     },
+     {
+      "given": "Aja",
+      "family": "Huang"
+     },
+     {
+      "given": "Chris J.",
+      "family": "Maddison"
+     },
+     {
+      "given": "Arthur",
+      "family": "Guez"
+     },
+     {
+      "given": "Laurent",
+      "family": "Sifre"
+     },
+     {
+      "given": "George",
+      "family": "van den Driessche"
+     },
+     {
+      "given": "Julian",
+      "family": "Schrittwieser"
+     },
+     {
+      "given": "Ioannis",
+      "family": "Antonoglou"
+     },
+     {
+      "given": "Veda",
+      "family": "Panneershelvam"
+     },
+     {
+      "given": "Marc",
+      "family": "Lanctot"
+     },
+     {
+      "given": "Sander",
+      "family": "Dieleman"
+     },
+     {
+      "given": "Dominik",
+      "family": "Grewe"
+     },
+     {
+      "given": "John",
+      "family": "Nham"
+     },
+     {
+      "given": "Nal",
+      "family": "Kalchbrenner"
+     },
+     {
+      "given": "Ilya",
+      "family": "Sutskever"
+     },
+     {
+      "given": "Timothy",
+      "family": "Lillicrap"
+     },
+     {
+      "given": "Madeleine",
+      "family": "Leach"
+     },
+     {
+      "given": "Koray",
+      "family": "Kavukcuoglu"
+     },
+     {
+      "given": "Thore",
+      "family": "Graepel"
+     },
+     {
+      "given": "Demis",
+      "family": "Hassabis"
+     }
+    ],
+    "year": 2016,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "529",
+    "number": "7587",
+    "pages": "484-489",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/nature16961",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 4,
+   "registry": "crossref",
+   "ident": "10.1002/j.1538-7305.1948.tb01338.x",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [
+    "no_doi"
+   ],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A Mathematical Theory of Communication",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "C. E.",
+      "family": "Shannon"
+     }
+    ],
+    "year": 1948,
+    "container": "Bell System Technical Journal",
+    "short_container": "",
+    "volume": "27",
+    "number": "3",
+    "pages": "379-423",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "doi": "10.1002/j.1538-7305.1948.tb01338.x",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 5,
+   "registry": "crossref",
+   "ident": "10.1109/5.726791",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [
+    "abbrev_journal"
+   ],
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Gradient-based learning applied to document recognition",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Y.",
+      "family": "Lecun"
+     },
+     {
+      "given": "L.",
+      "family": "Bottou"
+     },
+     {
+      "given": "Y.",
+      "family": "Bengio"
+     },
+     {
+      "given": "P.",
+      "family": "Haffner"
+     }
+    ],
+    "year": 1998,
+    "container": "Proceedings of the IEEE",
+    "short_container": "Proc. IEEE",
+    "volume": "86",
+    "number": "11",
+    "pages": "2278-2324",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "doi": "10.1109/5.726791",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 6,
+   "registry": "crossref",
+   "ident": "10.1145/362384.362685",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A relational model of data for large shared data banks",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "E. F.",
+      "family": "Codd"
+     }
+    ],
+    "year": 1970,
+    "container": "Communications of the ACM",
+    "short_container": "Commun. ACM",
+    "volume": "13",
+    "number": "6",
+    "pages": "377-387",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "doi": "10.1145/362384.362685",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 7,
+   "registry": "crossref",
+   "ident": "10.1145/1327452.1327492",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [
+    "double_brace"
+   ],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "MapReduce",
+    "subtitle": "simplified data processing on large clusters",
+    "authors": [
+     {
+      "given": "Jeffrey",
+      "family": "Dean"
+     },
+     {
+      "given": "Sanjay",
+      "family": "Ghemawat"
+     }
+    ],
+    "year": 2008,
+    "container": "Communications of the ACM",
+    "short_container": "Commun. ACM",
+    "volume": "51",
+    "number": "1",
+    "pages": "107-113",
+    "publisher": "Association for Computing Machinery (ACM)",
+    "doi": "10.1145/1327452.1327492",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 8,
+   "registry": "crossref",
+   "ident": "10.1038/s41586-020-2649-2",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 26,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Array programming with NumPy",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Charles R.",
+      "family": "Harris"
+     },
+     {
+      "given": "K. Jarrod",
+      "family": "Millman"
+     },
+     {
+      "given": "Stéfan J.",
+      "family": "van der Walt"
+     },
+     {
+      "given": "Ralf",
+      "family": "Gommers"
+     },
+     {
+      "given": "Pauli",
+      "family": "Virtanen"
+     },
+     {
+      "given": "David",
+      "family": "Cournapeau"
+     },
+     {
+      "given": "Eric",
+      "family": "Wieser"
+     },
+     {
+      "given": "Julian",
+      "family": "Taylor"
+     },
+     {
+      "given": "Sebastian",
+      "family": "Berg"
+     },
+     {
+      "given": "Nathaniel J.",
+      "family": "Smith"
+     },
+     {
+      "given": "Robert",
+      "family": "Kern"
+     },
+     {
+      "given": "Matti",
+      "family": "Picus"
+     },
+     {
+      "given": "Stephan",
+      "family": "Hoyer"
+     },
+     {
+      "given": "Marten H.",
+      "family": "van Kerkwijk"
+     },
+     {
+      "given": "Matthew",
+      "family": "Brett"
+     },
+     {
+      "given": "Allan",
+      "family": "Haldane"
+     },
+     {
+      "given": "Jaime Fernández",
+      "family": "del Río"
+     },
+     {
+      "given": "Mark",
+      "family": "Wiebe"
+     },
+     {
+      "given": "Pearu",
+      "family": "Peterson"
+     },
+     {
+      "given": "Pierre",
+      "family": "Gérard-Marchant"
+     },
+     {
+      "given": "Kevin",
+      "family": "Sheppard"
+     },
+     {
+      "given": "Tyler",
+      "family": "Reddy"
+     },
+     {
+      "given": "Warren",
+      "family": "Weckesser"
+     },
+     {
+      "given": "Hameer",
+      "family": "Abbasi"
+     },
+     {
+      "given": "Christoph",
+      "family": "Gohlke"
+     },
+     {
+      "given": "Travis E.",
+      "family": "Oliphant"
+     }
+    ],
+    "year": 2020,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "585",
+    "number": "7825",
+    "pages": "357-362",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/s41586-020-2649-2",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 9,
+   "registry": "crossref",
+   "ident": "10.1023/A:1010933404324",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Random Forests",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Leo",
+      "family": "Breiman"
+     }
+    ],
+    "year": 2001,
+    "container": "Machine Learning",
+    "short_container": "Machine Learning",
+    "volume": "45",
+    "number": "1",
+    "pages": "5-32",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1023/a:1010933404324",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 10,
+   "registry": "crossref",
+   "ident": "10.1038/nature14236",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [
+    "and_others",
+    "initials"
+   ],
+   "n_authors": 19,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Human-level control through deep reinforcement learning",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Volodymyr",
+      "family": "Mnih"
+     },
+     {
+      "given": "Koray",
+      "family": "Kavukcuoglu"
+     },
+     {
+      "given": "David",
+      "family": "Silver"
+     },
+     {
+      "given": "Andrei A.",
+      "family": "Rusu"
+     },
+     {
+      "given": "Joel",
+      "family": "Veness"
+     },
+     {
+      "given": "Marc G.",
+      "family": "Bellemare"
+     },
+     {
+      "given": "Alex",
+      "family": "Graves"
+     },
+     {
+      "given": "Martin",
+      "family": "Riedmiller"
+     },
+     {
+      "given": "Andreas K.",
+      "family": "Fidjeland"
+     },
+     {
+      "given": "Georg",
+      "family": "Ostrovski"
+     },
+     {
+      "given": "Stig",
+      "family": "Petersen"
+     },
+     {
+      "given": "Charles",
+      "family": "Beattie"
+     },
+     {
+      "given": "Amir",
+      "family": "Sadik"
+     },
+     {
+      "given": "Ioannis",
+      "family": "Antonoglou"
+     },
+     {
+      "given": "Helen",
+      "family": "King"
+     },
+     {
+      "given": "Dharshan",
+      "family": "Kumaran"
+     },
+     {
+      "given": "Daan",
+      "family": "Wierstra"
+     },
+     {
+      "given": "Shane",
+      "family": "Legg"
+     },
+     {
+      "given": "Demis",
+      "family": "Hassabis"
+     }
+    ],
+    "year": 2015,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "518",
+    "number": "7540",
+    "pages": "529-533",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/nature14236",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 11,
+   "registry": "crossref",
+   "ident": "10.1038/323533a0",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Learning representations by back-propagating errors",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "David E.",
+      "family": "Rumelhart"
+     },
+     {
+      "given": "Geoffrey E.",
+      "family": "Hinton"
+     },
+     {
+      "given": "Ronald J.",
+      "family": "Williams"
+     }
+    ],
+    "year": 1986,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "323",
+    "number": "6088",
+    "pages": "533-536",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/323533a0",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 12,
+   "registry": "crossref",
+   "ident": "10.1109/CVPR.2016.90",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [],
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "proceedings-article",
+    "title": "Deep Residual Learning for Image Recognition",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Kaiming",
+      "family": "He"
+     },
+     {
+      "given": "Xiangyu",
+      "family": "Zhang"
+     },
+     {
+      "given": "Shaoqing",
+      "family": "Ren"
+     },
+     {
+      "given": "Jian",
+      "family": "Sun"
+     }
+    ],
+    "year": 2016,
+    "container": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "770-778",
+    "publisher": "IEEE",
+    "doi": "10.1109/cvpr.2016.90",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 13,
+   "registry": "crossref",
+   "ident": "10.18653/v1/N19-1423",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [],
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "proceedings-article",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jacob",
+      "family": "Devlin"
+     },
+     {
+      "given": "Ming-Wei",
+      "family": "Chang"
+     },
+     {
+      "given": "Kenton",
+      "family": "Lee"
+     },
+     {
+      "given": "Kristina",
+      "family": "Toutanova"
+     }
+    ],
+    "year": 2019,
+    "container": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "4171-4186",
+    "publisher": "Association for Computational Linguistics",
+    "doi": "10.18653/v1/n19-1423",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 14,
+   "registry": "crossref",
+   "ident": "10.1109/CVPR.2009.5206848",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [
+    "no_doi"
+   ],
+   "n_authors": 6,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "proceedings-article",
+    "title": "ImageNet: A large-scale hierarchical image database",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jia",
+      "family": "Deng"
+     },
+     {
+      "given": "Wei",
+      "family": "Dong"
+     },
+     {
+      "given": "Richard",
+      "family": "Socher"
+     },
+     {
+      "given": "Li-Jia",
+      "family": "Li"
+     },
+     {
+      "given": "",
+      "family": "Kai Li"
+     },
+     {
+      "given": "",
+      "family": "Li Fei-Fei"
+     }
+    ],
+    "year": 2009,
+    "container": "2009 IEEE Conference on Computer Vision and Pattern Recognition",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "248-255",
+    "publisher": "IEEE",
+    "doi": "10.1109/cvpr.2009.5206848",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 15,
+   "registry": "crossref",
+   "ident": "10.1007/978-3-319-24574-4_28",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book-chapter",
+    "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Olaf",
+      "family": "Ronneberger"
+     },
+     {
+      "given": "Philipp",
+      "family": "Fischer"
+     },
+     {
+      "given": "Thomas",
+      "family": "Brox"
+     }
+    ],
+    "year": 2015,
+    "container": "Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "234-241",
+    "publisher": "Springer International Publishing",
+    "doi": "10.1007/978-3-319-24574-4_28",
+    "isbn": "9783319245737",
+    "series": "Lecture Notes in Computer Science"
+   }
+  },
+  {
+   "n": 16,
+   "registry": "crossref",
+   "ident": "10.1007/978-3-319-10602-1_48",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 8,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book-chapter",
+    "title": "Microsoft COCO: Common Objects in Context",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Tsung-Yi",
+      "family": "Lin"
+     },
+     {
+      "given": "Michael",
+      "family": "Maire"
+     },
+     {
+      "given": "Serge",
+      "family": "Belongie"
+     },
+     {
+      "given": "James",
+      "family": "Hays"
+     },
+     {
+      "given": "Pietro",
+      "family": "Perona"
+     },
+     {
+      "given": "Deva",
+      "family": "Ramanan"
+     },
+     {
+      "given": "Piotr",
+      "family": "Dollár"
+     },
+     {
+      "given": "C. Lawrence",
+      "family": "Zitnick"
+     }
+    ],
+    "year": 2014,
+    "container": "Computer Vision – ECCV 2014",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "740-755",
+    "publisher": "Springer International Publishing",
+    "doi": "10.1007/978-3-319-10602-1_48",
+    "isbn": "9783319106014",
+    "series": "Lecture Notes in Computer Science"
+   }
+  },
+  {
+   "n": 17,
+   "registry": "dblp",
+   "ident": "journals/jmlr/PedregosaVGMTGBPWDVPCBPD11",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 16,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "journals/jmlr/PedregosaVGMTGBPWDVPCBPD11",
+    "dblp_type": "Article",
+    "title": "Scikit-learn: Machine Learning in Python",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Fabian",
+      "family": "Pedregosa"
+     },
+     {
+      "given": "Gaël",
+      "family": "Varoquaux"
+     },
+     {
+      "given": "Alexandre",
+      "family": "Gramfort"
+     },
+     {
+      "given": "Vincent",
+      "family": "Michel"
+     },
+     {
+      "given": "Bertrand",
+      "family": "Thirion"
+     },
+     {
+      "given": "Olivier",
+      "family": "Grisel"
+     },
+     {
+      "given": "Mathieu",
+      "family": "Blondel"
+     },
+     {
+      "given": "Peter",
+      "family": "Prettenhofer"
+     },
+     {
+      "given": "Ron",
+      "family": "Weiss"
+     },
+     {
+      "given": "Vincent",
+      "family": "Dubourg"
+     },
+     {
+      "given": "Jake",
+      "family": "VanderPlas"
+     },
+     {
+      "given": "Alexandre",
+      "family": "Passos"
+     },
+     {
+      "given": "David",
+      "family": "Cournapeau"
+     },
+     {
+      "given": "Matthieu",
+      "family": "Brucher"
+     },
+     {
+      "given": "Matthieu",
+      "family": "Perrot"
+     },
+     {
+      "given": "Edouard",
+      "family": "Duchesnay"
+     }
+    ],
+    "year": 2011,
+    "container": "J. Mach. Learn. Res.",
+    "short_container": "J. Mach. Learn. Res.",
+    "volume": "12",
+    "number": "",
+    "pages": "2825-2830",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://dl.acm.org/doi/10.5555/1953048.2078195"
+   }
+  },
+  {
+   "n": 18,
+   "registry": "dblp",
+   "ident": "journals/jmlr/SrivastavaHKSS14",
+   "field": "cs",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 5,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "journals/jmlr/SrivastavaHKSS14",
+    "dblp_type": "Article",
+    "title": "Dropout: a simple way to prevent neural networks from overfitting",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Nitish",
+      "family": "Srivastava"
+     },
+     {
+      "given": "Geoffrey E.",
+      "family": "Hinton"
+     },
+     {
+      "given": "Alex",
+      "family": "Krizhevsky"
+     },
+     {
+      "given": "Ilya",
+      "family": "Sutskever"
+     },
+     {
+      "given": "Ruslan",
+      "family": "Salakhutdinov"
+     }
+    ],
+    "year": 2014,
+    "container": "J. Mach. Learn. Res.",
+    "short_container": "J. Mach. Learn. Res.",
+    "volume": "15",
+    "number": "1",
+    "pages": "1929-1958",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://dl.acm.org/doi/10.5555/2627435.2670313"
+   }
+  },
+  {
+   "n": 19,
+   "registry": "dblp",
+   "ident": "conf/nips/VaswaniSPUJGKP17",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [
+    "with_url"
+   ],
+   "n_authors": 8,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/nips/VaswaniSPUJGKP17",
+    "dblp_type": "Inproceedings",
+    "title": "Attention is All you Need",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ashish",
+      "family": "Vaswani"
+     },
+     {
+      "given": "Noam",
+      "family": "Shazeer"
+     },
+     {
+      "given": "Niki",
+      "family": "Parmar"
+     },
+     {
+      "given": "Jakob",
+      "family": "Uszkoreit"
+     },
+     {
+      "given": "Llion",
+      "family": "Jones"
+     },
+     {
+      "given": "Aidan N.",
+      "family": "Gomez"
+     },
+     {
+      "given": "Lukasz",
+      "family": "Kaiser"
+     },
+     {
+      "given": "Illia",
+      "family": "Polosukhin"
+     }
+    ],
+    "year": 2017,
+    "container": "Advances in Neural Information Processing Systems 30: Annual Conference on Neural Information Processing Systems 2017, December 4-9, 2017, Long Beach, CA, USA",
+    "short_container": "NIPS",
+    "volume": "",
+    "number": "",
+    "pages": "5998-6008",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html"
+   }
+  },
+  {
+   "n": 20,
+   "registry": "dblp",
+   "ident": "conf/nips/KrizhevskySH12",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [
+    "abbrev_journal",
+    "with_url"
+   ],
+   "n_authors": 3,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/nips/KrizhevskySH12",
+    "dblp_type": "Inproceedings",
+    "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Alex",
+      "family": "Krizhevsky"
+     },
+     {
+      "given": "Ilya",
+      "family": "Sutskever"
+     },
+     {
+      "given": "Geoffrey E.",
+      "family": "Hinton"
+     }
+    ],
+    "year": 2012,
+    "container": "Advances in Neural Information Processing Systems 25: 26th Annual Conference on Neural Information Processing Systems 2012. Proceedings of a meeting held December 3-6, 2012, Lake Tahoe, Nevada, United States.",
+    "short_container": "NIPS",
+    "volume": "",
+    "number": "",
+    "pages": "1106-1114",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html"
+   }
+  },
+  {
+   "n": 21,
+   "registry": "dblp",
+   "ident": "conf/nips/GoodfellowPMXWOCB14",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [
+    "abbrev_journal",
+    "initials"
+   ],
+   "n_authors": 8,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/nips/GoodfellowPMXWOCB14",
+    "dblp_type": "Inproceedings",
+    "title": "Generative Adversarial Nets",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ian J.",
+      "family": "Goodfellow"
+     },
+     {
+      "given": "Jean",
+      "family": "Pouget-Abadie"
+     },
+     {
+      "given": "Mehdi",
+      "family": "Mirza"
+     },
+     {
+      "given": "Bing",
+      "family": "Xu"
+     },
+     {
+      "given": "David",
+      "family": "Warde-Farley"
+     },
+     {
+      "given": "Sherjil",
+      "family": "Ozair"
+     },
+     {
+      "given": "Aaron C.",
+      "family": "Courville"
+     },
+     {
+      "given": "Yoshua",
+      "family": "Bengio"
+     }
+    ],
+    "year": 2014,
+    "container": "Advances in Neural Information Processing Systems 27: Annual Conference on Neural Information Processing Systems 2014, December 8-13 2014, Montreal, Quebec, Canada",
+    "short_container": "NIPS",
+    "volume": "",
+    "number": "",
+    "pages": "2672-2680",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://proceedings.neurips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html"
+   }
+  },
+  {
+   "n": 22,
+   "registry": "dblp",
+   "ident": "conf/icml/IoffeS15",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/icml/IoffeS15",
+    "dblp_type": "Inproceedings",
+    "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Sergey",
+      "family": "Ioffe"
+     },
+     {
+      "given": "Christian",
+      "family": "Szegedy"
+     }
+    ],
+    "year": 2015,
+    "container": "Proceedings of the 32nd International Conference on Machine Learning, ICML 2015, Lille, France, 6-11 July 2015",
+    "short_container": "ICML",
+    "volume": "",
+    "number": "",
+    "pages": "448-456",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "http://proceedings.mlr.press/v37/ioffe15.html"
+   }
+  },
+  {
+   "n": 23,
+   "registry": "dblp",
+   "ident": "conf/nips/HoJA20",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [],
+   "n_authors": 3,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/nips/HoJA20",
+    "dblp_type": "Inproceedings",
+    "title": "Denoising Diffusion Probabilistic Models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jonathan",
+      "family": "Ho"
+     },
+     {
+      "given": "Ajay",
+      "family": "Jain"
+     },
+     {
+      "given": "Pieter",
+      "family": "Abbeel"
+     }
+    ],
+    "year": 2020,
+    "container": "Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual.",
+    "short_container": "NeurIPS",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html"
+   }
+  },
+  {
+   "n": 24,
+   "registry": "dblp",
+   "ident": "conf/nips/BrownMRSKDNSSAA20",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 31,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/nips/BrownMRSKDNSSAA20",
+    "dblp_type": "Inproceedings",
+    "title": "Language Models are Few-Shot Learners",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Tom B.",
+      "family": "Brown"
+     },
+     {
+      "given": "Benjamin",
+      "family": "Mann"
+     },
+     {
+      "given": "Nick",
+      "family": "Ryder"
+     },
+     {
+      "given": "Melanie",
+      "family": "Subbiah"
+     },
+     {
+      "given": "Jared",
+      "family": "Kaplan"
+     },
+     {
+      "given": "Prafulla",
+      "family": "Dhariwal"
+     },
+     {
+      "given": "Arvind",
+      "family": "Neelakantan"
+     },
+     {
+      "given": "Pranav",
+      "family": "Shyam"
+     },
+     {
+      "given": "Girish",
+      "family": "Sastry"
+     },
+     {
+      "given": "Amanda",
+      "family": "Askell"
+     },
+     {
+      "given": "Sandhini",
+      "family": "Agarwal"
+     },
+     {
+      "given": "Ariel",
+      "family": "Herbert-Voss"
+     },
+     {
+      "given": "Gretchen",
+      "family": "Krueger"
+     },
+     {
+      "given": "Tom",
+      "family": "Henighan"
+     },
+     {
+      "given": "Rewon",
+      "family": "Child"
+     },
+     {
+      "given": "Aditya",
+      "family": "Ramesh"
+     },
+     {
+      "given": "Daniel M.",
+      "family": "Ziegler"
+     },
+     {
+      "given": "Jeffrey",
+      "family": "Wu"
+     },
+     {
+      "given": "Clemens",
+      "family": "Winter"
+     },
+     {
+      "given": "Christopher",
+      "family": "Hesse"
+     },
+     {
+      "given": "Mark",
+      "family": "Chen"
+     },
+     {
+      "given": "Eric",
+      "family": "Sigler"
+     },
+     {
+      "given": "Mateusz",
+      "family": "Litwin"
+     },
+     {
+      "given": "Scott",
+      "family": "Gray"
+     },
+     {
+      "given": "Benjamin",
+      "family": "Chess"
+     },
+     {
+      "given": "Jack",
+      "family": "Clark"
+     },
+     {
+      "given": "Christopher",
+      "family": "Berner"
+     },
+     {
+      "given": "Sam",
+      "family": "McCandlish"
+     },
+     {
+      "given": "Alec",
+      "family": "Radford"
+     },
+     {
+      "given": "Ilya",
+      "family": "Sutskever"
+     },
+     {
+      "given": "Dario",
+      "family": "Amodei"
+     }
+    ],
+    "year": 2020,
+    "container": "Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual.",
+    "short_container": "NeurIPS",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html"
+   }
+  },
+  {
+   "n": 25,
+   "registry": "dblp",
+   "ident": "conf/icml/RadfordKHRGASAM21",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 12,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/icml/RadfordKHRGASAM21",
+    "dblp_type": "Inproceedings",
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Alec",
+      "family": "Radford"
+     },
+     {
+      "given": "Jong Wook",
+      "family": "Kim"
+     },
+     {
+      "given": "Chris",
+      "family": "Hallacy"
+     },
+     {
+      "given": "Aditya",
+      "family": "Ramesh"
+     },
+     {
+      "given": "Gabriel",
+      "family": "Goh"
+     },
+     {
+      "given": "Sandhini",
+      "family": "Agarwal"
+     },
+     {
+      "given": "Girish",
+      "family": "Sastry"
+     },
+     {
+      "given": "Amanda",
+      "family": "Askell"
+     },
+     {
+      "given": "Pamela",
+      "family": "Mishkin"
+     },
+     {
+      "given": "Jack",
+      "family": "Clark"
+     },
+     {
+      "given": "Gretchen",
+      "family": "Krueger"
+     },
+     {
+      "given": "Ilya",
+      "family": "Sutskever"
+     }
+    ],
+    "year": 2021,
+    "container": "Proceedings of the 38th International Conference on Machine Learning, ICML 2021, 18-24 July 2021, Virtual Event.",
+    "short_container": "ICML",
+    "volume": "",
+    "number": "",
+    "pages": "8748-8763",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "http://proceedings.mlr.press/v139/radford21a.html"
+   }
+  },
+  {
+   "n": 26,
+   "registry": "dblp",
+   "ident": "conf/iclr/DosovitskiyB0WZ21",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 12,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/iclr/DosovitskiyB0WZ21",
+    "dblp_type": "Inproceedings",
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Alexey",
+      "family": "Dosovitskiy"
+     },
+     {
+      "given": "Lucas",
+      "family": "Beyer"
+     },
+     {
+      "given": "Alexander",
+      "family": "Kolesnikov"
+     },
+     {
+      "given": "Dirk",
+      "family": "Weissenborn"
+     },
+     {
+      "given": "Xiaohua",
+      "family": "Zhai"
+     },
+     {
+      "given": "Thomas",
+      "family": "Unterthiner"
+     },
+     {
+      "given": "Mostafa",
+      "family": "Dehghani"
+     },
+     {
+      "given": "Matthias",
+      "family": "Minderer"
+     },
+     {
+      "given": "Georg",
+      "family": "Heigold"
+     },
+     {
+      "given": "Sylvain",
+      "family": "Gelly"
+     },
+     {
+      "given": "Jakob",
+      "family": "Uszkoreit"
+     },
+     {
+      "given": "Neil",
+      "family": "Houlsby"
+     }
+    ],
+    "year": 2021,
+    "container": "9th International Conference on Learning Representations, ICLR 2021, Virtual Event, Austria, May 3-7, 2021",
+    "short_container": "ICLR",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://openreview.net/forum?id=YicbFdNTTy"
+   }
+  },
+  {
+   "n": 27,
+   "registry": "dblp",
+   "ident": "conf/iclr/KipfW17",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/iclr/KipfW17",
+    "dblp_type": "Inproceedings",
+    "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Thomas N.",
+      "family": "Kipf"
+     },
+     {
+      "given": "Max",
+      "family": "Welling"
+     }
+    ],
+    "year": 2017,
+    "container": "5th International Conference on Learning Representations, ICLR 2017, Toulon, France, April 24-26, 2017, Conference Track Proceedings",
+    "short_container": "ICLR (Poster)",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://openreview.net/forum?id=SJU4ayYgl"
+   }
+  },
+  {
+   "n": 28,
+   "registry": "dblp",
+   "ident": "conf/nips/MikolovSCCD13",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "style": [
+    "abbrev_journal",
+    "first_last"
+   ],
+   "n_authors": 5,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/nips/MikolovSCCD13",
+    "dblp_type": "Inproceedings",
+    "title": "Distributed Representations of Words and Phrases and their Compositionality",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Tomás",
+      "family": "Mikolov"
+     },
+     {
+      "given": "Ilya",
+      "family": "Sutskever"
+     },
+     {
+      "given": "Kai",
+      "family": "Chen"
+     },
+     {
+      "given": "Gregory S.",
+      "family": "Corrado"
+     },
+     {
+      "given": "Jeffrey",
+      "family": "Dean"
+     }
+    ],
+    "year": 2013,
+    "container": "Advances in Neural Information Processing Systems 26: 27th Annual Conference on Neural Information Processing Systems 2013. Proceedings of a meeting held December 5-8, 2013, Lake Tahoe, Nevada, United States.",
+    "short_container": "NIPS",
+    "volume": "",
+    "number": "",
+    "pages": "3111-3119",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://proceedings.neurips.cc/paper/2013/hash/9aa42b31882ec039965f3c4923ce901b-Abstract.html"
+   }
+  },
+  {
+   "n": 29,
+   "registry": "arxiv",
+   "ident": "1503.02531",
+   "field": "cs",
+   "entry_type": "misc",
+   "style": [
+    "arxiv_journal"
+   ],
+   "n_authors": 3,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Distilling the Knowledge in a Neural Network",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Geoffrey",
+      "family": "Hinton"
+     },
+     {
+      "given": "Oriol",
+      "family": "Vinyals"
+     },
+     {
+      "given": "Jeff",
+      "family": "Dean"
+     }
+    ],
+    "year": 2015,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "1503.02531",
+    "arxiv_class": "stat.ML"
+   }
+  },
+  {
+   "n": 30,
+   "registry": "arxiv",
+   "ident": "1707.06347",
+   "field": "cs",
+   "entry_type": "misc",
+   "style": [],
+   "n_authors": 5,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Proximal Policy Optimization Algorithms",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "John",
+      "family": "Schulman"
+     },
+     {
+      "given": "Filip",
+      "family": "Wolski"
+     },
+     {
+      "given": "Prafulla",
+      "family": "Dhariwal"
+     },
+     {
+      "given": "Alec",
+      "family": "Radford"
+     },
+     {
+      "given": "Oleg",
+      "family": "Klimov"
+     }
+    ],
+    "year": 2017,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "1707.06347",
+    "arxiv_class": "cs.LG"
+   }
+  },
+  {
+   "n": 31,
+   "registry": "arxiv",
+   "ident": "2001.08361",
+   "field": "cs",
+   "entry_type": "misc",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 10,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Scaling Laws for Neural Language Models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jared",
+      "family": "Kaplan"
+     },
+     {
+      "given": "Sam",
+      "family": "McCandlish"
+     },
+     {
+      "given": "Tom",
+      "family": "Henighan"
+     },
+     {
+      "given": "Tom B.",
+      "family": "Brown"
+     },
+     {
+      "given": "Benjamin",
+      "family": "Chess"
+     },
+     {
+      "given": "Rewon",
+      "family": "Child"
+     },
+     {
+      "given": "Scott",
+      "family": "Gray"
+     },
+     {
+      "given": "Alec",
+      "family": "Radford"
+     },
+     {
+      "given": "Jeffrey",
+      "family": "Wu"
+     },
+     {
+      "given": "Dario",
+      "family": "Amodei"
+     }
+    ],
+    "year": 2020,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "2001.08361",
+    "arxiv_class": "cs.LG"
+   }
+  },
+  {
+   "n": 32,
+   "registry": "arxiv",
+   "ident": "2307.09288",
+   "field": "cs",
+   "entry_type": "misc",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 68,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Hugo",
+      "family": "Touvron"
+     },
+     {
+      "given": "Louis",
+      "family": "Martin"
+     },
+     {
+      "given": "Kevin",
+      "family": "Stone"
+     },
+     {
+      "given": "Peter",
+      "family": "Albert"
+     },
+     {
+      "given": "Amjad",
+      "family": "Almahairi"
+     },
+     {
+      "given": "Yasmine",
+      "family": "Babaei"
+     },
+     {
+      "given": "Nikolay",
+      "family": "Bashlykov"
+     },
+     {
+      "given": "Soumya",
+      "family": "Batra"
+     },
+     {
+      "given": "Prajjwal",
+      "family": "Bhargava"
+     },
+     {
+      "given": "Shruti",
+      "family": "Bhosale"
+     },
+     {
+      "given": "Dan",
+      "family": "Bikel"
+     },
+     {
+      "given": "Lukas",
+      "family": "Blecher"
+     }
+    ],
+    "year": 2023,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "2307.09288",
+    "arxiv_class": "cs.CL"
+   }
+  },
+  {
+   "n": 33,
+   "registry": "arxiv",
+   "ident": "1607.06450",
+   "field": "cs",
+   "entry_type": "misc",
+   "style": [
+    "arxiv_journal"
+   ],
+   "n_authors": 3,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Layer Normalization",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jimmy Lei",
+      "family": "Ba"
+     },
+     {
+      "given": "Jamie Ryan",
+      "family": "Kiros"
+     },
+     {
+      "given": "Geoffrey E.",
+      "family": "Hinton"
+     }
+    ],
+    "year": 2016,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "1607.06450",
+    "arxiv_class": "stat.ML"
+   }
+  },
+  {
+   "n": 34,
+   "registry": "arxiv",
+   "ident": "1606.08415",
+   "field": "cs",
+   "entry_type": "misc",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Gaussian Error Linear Units (GELUs)",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Dan",
+      "family": "Hendrycks"
+     },
+     {
+      "given": "Kevin",
+      "family": "Gimpel"
+     }
+    ],
+    "year": 2016,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "1606.08415",
+    "arxiv_class": "cs.LG"
+   }
+  },
+  {
+   "n": 35,
+   "registry": "arxiv",
+   "ident": "math/0211159",
+   "field": "math",
+   "entry_type": "misc",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "arxiv",
+    "title": "The entropy formula for the Ricci flow and its geometric applications",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Grisha",
+      "family": "Perelman"
+     }
+    ],
+    "year": 2002,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "math/0211159",
+    "arxiv_class": "math.DG"
+   }
+  },
+  {
+   "n": 36,
+   "registry": "arxiv",
+   "ident": "math/0303109",
+   "field": "math",
+   "entry_type": "misc",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 1,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Ricci flow with surgery on three-manifolds",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Grisha",
+      "family": "Perelman"
+     }
+    ],
+    "year": 2003,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "math/0303109",
+    "arxiv_class": "math.DG"
+   }
+  },
+  {
+   "n": 37,
+   "registry": "arxiv",
+   "ident": "0907.5424",
+   "field": "physics",
+   "entry_type": "misc",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "arxiv",
+    "title": "TASI Lectures on Inflation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Daniel",
+      "family": "Baumann"
+     }
+    ],
+    "year": 2009,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "0907.5424",
+    "arxiv_class": "hep-th"
+   }
+  },
+  {
+   "n": 38,
+   "registry": "arxiv",
+   "ident": "hep-th/9711200",
+   "field": "physics",
+   "entry_type": "misc",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "arxiv",
+    "title": "The Large N Limit of Superconformal Field Theories and Supergravity",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Juan M.",
+      "family": "Maldacena"
+     }
+    ],
+    "year": 1997,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "hep-th/9711200",
+    "arxiv_class": "hep-th"
+   }
+  },
+  {
+   "n": 39,
+   "registry": "crossref",
+   "ident": "10.1038/35057062",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Initial sequencing and analysis of the human genome",
+    "subtitle": "",
+    "authors": [
+     {
+      "literal": "International Human Genome Sequencing Consortium"
+     }
+    ],
+    "year": 2001,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "409",
+    "number": "6822",
+    "pages": "860-921",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/35057062",
+    "isbn": ""
+   },
+   "extra_note": "Corporate author as printed in the article byline (Crossref lists 274 contributors)."
+  },
+  {
+   "n": 40,
+   "registry": "crossref",
+   "ident": "10.1038/171737a0",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "J. D.",
+      "family": "Watson"
+     },
+     {
+      "given": "F. H. C.",
+      "family": "Crick"
+     }
+    ],
+    "year": 1953,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "171",
+    "number": "4356",
+    "pages": "737-738",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/171737a0",
+    "isbn": ""
+   },
+   "overrides": {
+    "authors": [
+     {
+      "given": "J. D.",
+      "family": "Watson"
+     },
+     {
+      "given": "F. H. C.",
+      "family": "Crick"
+     }
+    ]
+   }
+  },
+  {
+   "n": 41,
+   "registry": "crossref",
+   "ident": "10.1016/S0021-9258(19)52451-6",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [
+    "abbrev_journal"
+   ],
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Protein Measurement with the Folin Phenol Reagent",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "OliverH.",
+      "family": "Lowry"
+     },
+     {
+      "given": "NiraJ.",
+      "family": "Rosebrough"
+     },
+     {
+      "given": "A. Lewis",
+      "family": "Farr"
+     },
+     {
+      "given": "RoseJ.",
+      "family": "Randall"
+     }
+    ],
+    "year": 1951,
+    "container": "Journal of Biological Chemistry",
+    "short_container": "Journal of Biological Chemistry",
+    "volume": "193",
+    "number": "1",
+    "pages": "265-275",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/s0021-9258(19)52451-6",
+    "isbn": ""
+   },
+   "overrides": {
+    "title": "Protein Measurement with the Folin Phenol Reagent"
+   },
+   "extra_note": "Crossref stores the title in capitals ('PROTEIN MEASUREMENT WITH THE FOLIN PHENOL REAGENT'); the entry uses title case."
+  },
+  {
+   "n": 42,
+   "registry": "crossref",
+   "ident": "10.1038/227680a0",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Cleavage of Structural Proteins during the Assembly of the Head of Bacteriophage T4",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "U. K.",
+      "family": "Laemmli"
+     }
+    ],
+    "year": 1970,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "227",
+    "number": "5259",
+    "pages": "680-685",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/227680a0",
+    "isbn": ""
+   },
+   "overrides": {
+    "authors": [
+     {
+      "given": "U. K.",
+      "family": "Laemmli"
+     }
+    ]
+   }
+  },
+  {
+   "n": 43,
+   "registry": "crossref",
+   "ident": "10.1126/science.1225829",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 6,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Martin",
+      "family": "Jinek"
+     },
+     {
+      "given": "Krzysztof",
+      "family": "Chylinski"
+     },
+     {
+      "given": "Ines",
+      "family": "Fonfara"
+     },
+     {
+      "given": "Michael",
+      "family": "Hauer"
+     },
+     {
+      "given": "Jennifer A.",
+      "family": "Doudna"
+     },
+     {
+      "given": "Emmanuelle",
+      "family": "Charpentier"
+     }
+    ],
+    "year": 2012,
+    "container": "Science",
+    "short_container": "Science",
+    "volume": "337",
+    "number": "6096",
+    "pages": "816-821",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "doi": "10.1126/science.1225829",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 44,
+   "registry": "crossref",
+   "ident": "10.1016/j.cell.2006.07.024",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Kazutoshi",
+      "family": "Takahashi"
+     },
+     {
+      "given": "Shinya",
+      "family": "Yamanaka"
+     }
+    ],
+    "year": 2006,
+    "container": "Cell",
+    "short_container": "Cell",
+    "volume": "126",
+    "number": "4",
+    "pages": "663-676",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.cell.2006.07.024",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 45,
+   "registry": "crossref",
+   "ident": "10.1056/NEJMoa2001017",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 18,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A Novel Coronavirus from Patients with Pneumonia in China, 2019",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Na",
+      "family": "Zhu"
+     },
+     {
+      "given": "Dingyu",
+      "family": "Zhang"
+     },
+     {
+      "given": "Wenling",
+      "family": "Wang"
+     },
+     {
+      "given": "Xingwang",
+      "family": "Li"
+     },
+     {
+      "given": "Bo",
+      "family": "Yang"
+     },
+     {
+      "given": "Jingdong",
+      "family": "Song"
+     },
+     {
+      "given": "Xiang",
+      "family": "Zhao"
+     },
+     {
+      "given": "Baoying",
+      "family": "Huang"
+     },
+     {
+      "given": "Weifeng",
+      "family": "Shi"
+     },
+     {
+      "given": "Roujian",
+      "family": "Lu"
+     },
+     {
+      "given": "Peihua",
+      "family": "Niu"
+     },
+     {
+      "given": "Faxian",
+      "family": "Zhan"
+     },
+     {
+      "given": "Xuejun",
+      "family": "Ma"
+     },
+     {
+      "given": "Dayan",
+      "family": "Wang"
+     },
+     {
+      "given": "Wenbo",
+      "family": "Xu"
+     },
+     {
+      "given": "Guizhen",
+      "family": "Wu"
+     },
+     {
+      "given": "George F.",
+      "family": "Gao"
+     },
+     {
+      "given": "Wenjie",
+      "family": "Tan"
+     }
+    ],
+    "year": 2020,
+    "container": "New England Journal of Medicine",
+    "short_container": "N Engl J Med",
+    "volume": "382",
+    "number": "8",
+    "pages": "727-733",
+    "publisher": "Massachusetts Medical Society",
+    "doi": "10.1056/nejmoa2001017",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 46,
+   "registry": "crossref",
+   "ident": "10.1056/NEJMoa2034577",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [
+    "and_others",
+    "initials"
+   ],
+   "n_authors": 29,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Fernando P.",
+      "family": "Polack"
+     },
+     {
+      "given": "Stephen J.",
+      "family": "Thomas"
+     },
+     {
+      "given": "Nicholas",
+      "family": "Kitchin"
+     },
+     {
+      "given": "Judith",
+      "family": "Absalon"
+     },
+     {
+      "given": "Alejandra",
+      "family": "Gurtman"
+     },
+     {
+      "given": "Stephen",
+      "family": "Lockhart"
+     },
+     {
+      "given": "John L.",
+      "family": "Perez"
+     },
+     {
+      "given": "Gonzalo",
+      "family": "Pérez Marc"
+     },
+     {
+      "given": "Edson D.",
+      "family": "Moreira"
+     },
+     {
+      "given": "Cristiano",
+      "family": "Zerbini"
+     },
+     {
+      "given": "Ruth",
+      "family": "Bailey"
+     },
+     {
+      "given": "Kena A.",
+      "family": "Swanson"
+     },
+     {
+      "given": "Satrajit",
+      "family": "Roychoudhury"
+     },
+     {
+      "given": "Kenneth",
+      "family": "Koury"
+     },
+     {
+      "given": "Ping",
+      "family": "Li"
+     },
+     {
+      "given": "Warren V.",
+      "family": "Kalina"
+     },
+     {
+      "given": "David",
+      "family": "Cooper"
+     },
+     {
+      "given": "Robert W.",
+      "family": "Frenck"
+     },
+     {
+      "given": "Laura L.",
+      "family": "Hammitt"
+     },
+     {
+      "given": "Özlem",
+      "family": "Türeci"
+     },
+     {
+      "given": "Haylene",
+      "family": "Nell"
+     },
+     {
+      "given": "Axel",
+      "family": "Schaefer"
+     },
+     {
+      "given": "Serhat",
+      "family": "Ünal"
+     },
+     {
+      "given": "Dina B.",
+      "family": "Tresnan"
+     },
+     {
+      "given": "Susan",
+      "family": "Mather"
+     },
+     {
+      "given": "Philip R.",
+      "family": "Dormitzer"
+     },
+     {
+      "given": "Uğur",
+      "family": "Şahin"
+     },
+     {
+      "given": "Kathrin U.",
+      "family": "Jansen"
+     },
+     {
+      "given": "William C.",
+      "family": "Gruber"
+     }
+    ],
+    "year": 2020,
+    "container": "New England Journal of Medicine",
+    "short_container": "N Engl J Med",
+    "volume": "383",
+    "number": "27",
+    "pages": "2603-2615",
+    "publisher": "Massachusetts Medical Society",
+    "doi": "10.1056/nejmoa2034577",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 47,
+   "registry": "crossref",
+   "ident": "10.1016/j.cell.2011.02.013",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [
+    "double_brace"
+   ],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Hallmarks of Cancer: The Next Generation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Douglas",
+      "family": "Hanahan"
+     },
+     {
+      "given": "Robert A.",
+      "family": "Weinberg"
+     }
+    ],
+    "year": 2011,
+    "container": "Cell",
+    "short_container": "Cell",
+    "volume": "144",
+    "number": "5",
+    "pages": "646-674",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.cell.2011.02.013",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 48,
+   "registry": "crossref",
+   "ident": "10.1006/meth.2001.1262",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [
+    "latex_accents"
+   ],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Analysis of Relative Gene Expression Data Using Real-Time Quantitative PCR and the 2−ΔΔCT Method",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Kenneth J.",
+      "family": "Livak"
+     },
+     {
+      "given": "Thomas D.",
+      "family": "Schmittgen"
+     }
+    ],
+    "year": 2001,
+    "container": "Methods",
+    "short_container": "Methods",
+    "volume": "25",
+    "number": "4",
+    "pages": "402-408",
+    "publisher": "Elsevier BV",
+    "doi": "10.1006/meth.2001.1262",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 49,
+   "registry": "crossref",
+   "ident": "10.1016/S0022-2836(05)80360-2",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Basic local alignment search tool",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Stephen F.",
+      "family": "Altschul"
+     },
+     {
+      "given": "Warren",
+      "family": "Gish"
+     },
+     {
+      "given": "Webb",
+      "family": "Miller"
+     },
+     {
+      "given": "Eugene W.",
+      "family": "Myers"
+     },
+     {
+      "given": "David J.",
+      "family": "Lipman"
+     }
+    ],
+    "year": 1990,
+    "container": "Journal of Molecular Biology",
+    "short_container": "Journal of Molecular Biology",
+    "volume": "215",
+    "number": "3",
+    "pages": "403-410",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/s0022-2836(05)80360-2",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 50,
+   "registry": "crossref",
+   "ident": "10.1038/nmeth.2019",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 16,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Fiji: an open-source platform for biological-image analysis",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Johannes",
+      "family": "Schindelin"
+     },
+     {
+      "given": "Ignacio",
+      "family": "Arganda-Carreras"
+     },
+     {
+      "given": "Erwin",
+      "family": "Frise"
+     },
+     {
+      "given": "Verena",
+      "family": "Kaynig"
+     },
+     {
+      "given": "Mark",
+      "family": "Longair"
+     },
+     {
+      "given": "Tobias",
+      "family": "Pietzsch"
+     },
+     {
+      "given": "Stephan",
+      "family": "Preibisch"
+     },
+     {
+      "given": "Curtis",
+      "family": "Rueden"
+     },
+     {
+      "given": "Stephan",
+      "family": "Saalfeld"
+     },
+     {
+      "given": "Benjamin",
+      "family": "Schmid"
+     },
+     {
+      "given": "Jean-Yves",
+      "family": "Tinevez"
+     },
+     {
+      "given": "Daniel James",
+      "family": "White"
+     },
+     {
+      "given": "Volker",
+      "family": "Hartenstein"
+     },
+     {
+      "given": "Kevin",
+      "family": "Eliceiri"
+     },
+     {
+      "given": "Pavel",
+      "family": "Tomancak"
+     },
+     {
+      "given": "Albert",
+      "family": "Cardona"
+     }
+    ],
+    "year": 2012,
+    "container": "Nature Methods",
+    "short_container": "Nat Methods",
+    "volume": "9",
+    "number": "7",
+    "pages": "676-682",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/nmeth.2019",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 51,
+   "registry": "crossref",
+   "ident": "10.1016/S0140-6736(20)30925-9",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019",
+    "subtitle": "",
+    "authors": [
+     {
+      "literal": "GBD 2019 Diseases and Injuries Collaborators"
+     }
+    ],
+    "year": 2020,
+    "container": "The Lancet",
+    "short_container": "The Lancet",
+    "volume": "396",
+    "number": "10258",
+    "pages": "1204-1222",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/s0140-6736(20)30925-9",
+    "isbn": ""
+   },
+   "overrides": {
+    "authors": [
+     {
+      "literal": "GBD 2019 Diseases and Injuries Collaborators"
+     }
+    ]
+   },
+   "extra_note": "Corporate author as printed in the article byline (Crossref lists the 1030 collaborators)."
+  },
+  {
+   "n": 52,
+   "registry": "crossref",
+   "ident": "10.1093/bioinformatics/btu170",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Trimmomatic: a flexible trimmer for Illumina sequence data",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Anthony M.",
+      "family": "Bolger"
+     },
+     {
+      "given": "Marc",
+      "family": "Lohse"
+     },
+     {
+      "given": "Bjoern",
+      "family": "Usadel"
+     }
+    ],
+    "year": 2014,
+    "container": "Bioinformatics",
+    "short_container": "",
+    "volume": "30",
+    "number": "15",
+    "pages": "2114-2120",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1093/bioinformatics/btu170",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 53,
+   "registry": "crossref",
+   "ident": "10.1371/journal.pmed.0020124",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Why Most Published Research Findings Are False",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "John P. A.",
+      "family": "Ioannidis"
+     }
+    ],
+    "year": 2005,
+    "container": "PLoS Medicine",
+    "short_container": "PLoS Med",
+    "volume": "2",
+    "number": "8",
+    "pages": "e124",
+    "publisher": "Public Library of Science (PLoS)",
+    "doi": "10.1371/journal.pmed.0020124",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 54,
+   "registry": "crossref",
+   "ident": "10.1136/bmj.b2535",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [
+    "no_doi"
+   ],
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "D.",
+      "family": "Moher"
+     },
+     {
+      "given": "A.",
+      "family": "Liberati"
+     },
+     {
+      "given": "J.",
+      "family": "Tetzlaff"
+     },
+     {
+      "given": "D. G",
+      "family": "Altman"
+     },
+     {
+      "literal": "for the PRISMA Group"
+     }
+    ],
+    "year": 2009,
+    "container": "BMJ",
+    "short_container": "BMJ",
+    "volume": "339",
+    "number": "jul21 1",
+    "pages": "b2535",
+    "publisher": "BMJ",
+    "doi": "10.1136/bmj.b2535",
+    "isbn": ""
+   },
+   "overrides": {
+    "pages": "b2535"
+   }
+  },
+  {
+   "n": 55,
+   "registry": "crossref",
+   "ident": "10.1136/bmj.327.7414.557",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Measuring inconsistency in meta-analyses",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Julian P T",
+      "family": "Higgins"
+     },
+     {
+      "given": "Simon G",
+      "family": "Thompson"
+     },
+     {
+      "given": "Jonathan J",
+      "family": "Deeks"
+     },
+     {
+      "given": "Douglas G",
+      "family": "Altman"
+     }
+    ],
+    "year": 2003,
+    "container": "BMJ",
+    "short_container": "BMJ",
+    "volume": "327",
+    "number": "7414",
+    "pages": "557-560",
+    "publisher": "BMJ",
+    "doi": "10.1136/bmj.327.7414.557",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 56,
+   "registry": "crossref",
+   "ident": "10.1038/s41586-021-03819-2",
+   "field": "biomed",
+   "entry_type": "article",
+   "style": [
+    "latex_accents"
+   ],
+   "n_authors": 34,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Highly accurate protein structure prediction with AlphaFold",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "John",
+      "family": "Jumper"
+     },
+     {
+      "given": "Richard",
+      "family": "Evans"
+     },
+     {
+      "given": "Alexander",
+      "family": "Pritzel"
+     },
+     {
+      "given": "Tim",
+      "family": "Green"
+     },
+     {
+      "given": "Michael",
+      "family": "Figurnov"
+     },
+     {
+      "given": "Olaf",
+      "family": "Ronneberger"
+     },
+     {
+      "given": "Kathryn",
+      "family": "Tunyasuvunakool"
+     },
+     {
+      "given": "Russ",
+      "family": "Bates"
+     },
+     {
+      "given": "Augustin",
+      "family": "Žídek"
+     },
+     {
+      "given": "Anna",
+      "family": "Potapenko"
+     },
+     {
+      "given": "Alex",
+      "family": "Bridgland"
+     },
+     {
+      "given": "Clemens",
+      "family": "Meyer"
+     },
+     {
+      "given": "Simon A. A.",
+      "family": "Kohl"
+     },
+     {
+      "given": "Andrew J.",
+      "family": "Ballard"
+     },
+     {
+      "given": "Andrew",
+      "family": "Cowie"
+     },
+     {
+      "given": "Bernardino",
+      "family": "Romera-Paredes"
+     },
+     {
+      "given": "Stanislav",
+      "family": "Nikolov"
+     },
+     {
+      "given": "Rishub",
+      "family": "Jain"
+     },
+     {
+      "given": "Jonas",
+      "family": "Adler"
+     },
+     {
+      "given": "Trevor",
+      "family": "Back"
+     },
+     {
+      "given": "Stig",
+      "family": "Petersen"
+     },
+     {
+      "given": "David",
+      "family": "Reiman"
+     },
+     {
+      "given": "Ellen",
+      "family": "Clancy"
+     },
+     {
+      "given": "Michal",
+      "family": "Zielinski"
+     },
+     {
+      "given": "Martin",
+      "family": "Steinegger"
+     },
+     {
+      "given": "Michalina",
+      "family": "Pacholska"
+     },
+     {
+      "given": "Tamas",
+      "family": "Berghammer"
+     },
+     {
+      "given": "Sebastian",
+      "family": "Bodenstein"
+     },
+     {
+      "given": "David",
+      "family": "Silver"
+     },
+     {
+      "given": "Oriol",
+      "family": "Vinyals"
+     },
+     {
+      "given": "Andrew W.",
+      "family": "Senior"
+     },
+     {
+      "given": "Koray",
+      "family": "Kavukcuoglu"
+     },
+     {
+      "given": "Pushmeet",
+      "family": "Kohli"
+     },
+     {
+      "given": "Demis",
+      "family": "Hassabis"
+     }
+    ],
+    "year": 2021,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "596",
+    "number": "7873",
+    "pages": "583-589",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/s41586-021-03819-2",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 57,
+   "registry": "crossref",
+   "ident": "10.1103/PhysRevLett.116.061102",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 1012,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Observation of Gravitational Waves from a Binary Black Hole Merger",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "B. P.",
+      "family": "Abbott"
+     },
+     {
+      "given": "R.",
+      "family": "Abbott"
+     },
+     {
+      "given": "T. D.",
+      "family": "Abbott"
+     },
+     {
+      "given": "M. R.",
+      "family": "Abernathy"
+     },
+     {
+      "given": "F.",
+      "family": "Acernese"
+     },
+     {
+      "given": "K.",
+      "family": "Ackley"
+     },
+     {
+      "given": "C.",
+      "family": "Adams"
+     },
+     {
+      "given": "T.",
+      "family": "Adams"
+     },
+     {
+      "given": "P.",
+      "family": "Addesso"
+     },
+     {
+      "given": "R. X.",
+      "family": "Adhikari"
+     },
+     {
+      "given": "V. B.",
+      "family": "Adya"
+     },
+     {
+      "given": "C.",
+      "family": "Affeldt"
+     }
+    ],
+    "year": 2016,
+    "container": "Physical Review Letters",
+    "short_container": "Phys. Rev. Lett.",
+    "volume": "116",
+    "number": "6",
+    "pages": "061102",
+    "publisher": "American Physical Society (APS)",
+    "doi": "10.1103/physrevlett.116.061102",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 58,
+   "registry": "crossref",
+   "ident": "10.1016/j.physletb.2012.08.020",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 2932,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "G.",
+      "family": "Aad"
+     },
+     {
+      "given": "T.",
+      "family": "Abajyan"
+     },
+     {
+      "given": "B.",
+      "family": "Abbott"
+     },
+     {
+      "given": "J.",
+      "family": "Abdallah"
+     },
+     {
+      "given": "S.",
+      "family": "Abdel Khalek"
+     },
+     {
+      "given": "A.A.",
+      "family": "Abdelalim"
+     },
+     {
+      "given": "O.",
+      "family": "Abdinov"
+     },
+     {
+      "given": "R.",
+      "family": "Aben"
+     },
+     {
+      "given": "B.",
+      "family": "Abi"
+     },
+     {
+      "given": "M.",
+      "family": "Abolins"
+     },
+     {
+      "given": "O.S.",
+      "family": "AbouZeid"
+     },
+     {
+      "given": "H.",
+      "family": "Abramowicz"
+     }
+    ],
+    "year": 2012,
+    "container": "Physics Letters B",
+    "short_container": "Physics Letters B",
+    "volume": "716",
+    "number": "1",
+    "pages": "1-29",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.physletb.2012.08.020",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 59,
+   "registry": "crossref",
+   "ident": "10.1103/PhysRev.47.777",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "A.",
+      "family": "Einstein"
+     },
+     {
+      "given": "B.",
+      "family": "Podolsky"
+     },
+     {
+      "given": "N.",
+      "family": "Rosen"
+     }
+    ],
+    "year": 1935,
+    "container": "Physical Review",
+    "short_container": "Phys. Rev.",
+    "volume": "47",
+    "number": "10",
+    "pages": "777-780",
+    "publisher": "American Physical Society (APS)",
+    "doi": "10.1103/physrev.47.777",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 60,
+   "registry": "crossref",
+   "ident": "10.1002/andp.19053221004",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [
+    "latex_accents"
+   ],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Zur Elektrodynamik bewegter Körper",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "A.",
+      "family": "Einstein"
+     }
+    ],
+    "year": 1905,
+    "container": "Annalen der Physik",
+    "short_container": "Annalen der Physik",
+    "volume": "322",
+    "number": "10",
+    "pages": "891-921",
+    "publisher": "Wiley",
+    "doi": "10.1002/andp.19053221004",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 61,
+   "registry": "crossref",
+   "ident": "10.1126/science.1102896",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 8,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Electric Field Effect in Atomically Thin Carbon Films",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "K. S.",
+      "family": "Novoselov"
+     },
+     {
+      "given": "A. K.",
+      "family": "Geim"
+     },
+     {
+      "given": "S. V.",
+      "family": "Morozov"
+     },
+     {
+      "given": "D.",
+      "family": "Jiang"
+     },
+     {
+      "given": "Y.",
+      "family": "Zhang"
+     },
+     {
+      "given": "S. V.",
+      "family": "Dubonos"
+     },
+     {
+      "given": "I. V.",
+      "family": "Grigorieva"
+     },
+     {
+      "given": "A. A.",
+      "family": "Firsov"
+     }
+    ],
+    "year": 2004,
+    "container": "Science",
+    "short_container": "Science",
+    "volume": "306",
+    "number": "5696",
+    "pages": "666-669",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "doi": "10.1126/science.1102896",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 62,
+   "registry": "crossref",
+   "ident": "10.1038/s41586-019-1666-5",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 77,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Quantum supremacy using a programmable superconducting processor",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Frank",
+      "family": "Arute"
+     },
+     {
+      "given": "Kunal",
+      "family": "Arya"
+     },
+     {
+      "given": "Ryan",
+      "family": "Babbush"
+     },
+     {
+      "given": "Dave",
+      "family": "Bacon"
+     },
+     {
+      "given": "Joseph C.",
+      "family": "Bardin"
+     },
+     {
+      "given": "Rami",
+      "family": "Barends"
+     },
+     {
+      "given": "Rupak",
+      "family": "Biswas"
+     },
+     {
+      "given": "Sergio",
+      "family": "Boixo"
+     },
+     {
+      "given": "Fernando G. S. L.",
+      "family": "Brandao"
+     },
+     {
+      "given": "David A.",
+      "family": "Buell"
+     },
+     {
+      "given": "Brian",
+      "family": "Burkett"
+     },
+     {
+      "given": "Yu",
+      "family": "Chen"
+     }
+    ],
+    "year": 2019,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "574",
+    "number": "7779",
+    "pages": "505-510",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/s41586-019-1666-5",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 63,
+   "registry": "crossref",
+   "ident": "10.1103/PhysRev.136.B864",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Inhomogeneous Electron Gas",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "P.",
+      "family": "Hohenberg"
+     },
+     {
+      "given": "W.",
+      "family": "Kohn"
+     }
+    ],
+    "year": 1964,
+    "container": "Physical Review",
+    "short_container": "Phys. Rev.",
+    "volume": "136",
+    "number": "3B",
+    "pages": "B864-B871",
+    "publisher": "American Physical Society (APS)",
+    "doi": "10.1103/physrev.136.b864",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 64,
+   "registry": "crossref",
+   "ident": "10.1103/PhysRev.140.A1133",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [
+    "abbrev_journal"
+   ],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Self-Consistent Equations Including Exchange and Correlation Effects",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "W.",
+      "family": "Kohn"
+     },
+     {
+      "given": "L. J.",
+      "family": "Sham"
+     }
+    ],
+    "year": 1965,
+    "container": "Physical Review",
+    "short_container": "Phys. Rev.",
+    "volume": "140",
+    "number": "4A",
+    "pages": "A1133-A1138",
+    "publisher": "American Physical Society (APS)",
+    "doi": "10.1103/physrev.140.a1133",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 65,
+   "registry": "crossref",
+   "ident": "10.1103/PhysRevLett.77.3865",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Generalized Gradient Approximation Made Simple",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "John P.",
+      "family": "Perdew"
+     },
+     {
+      "given": "Kieron",
+      "family": "Burke"
+     },
+     {
+      "given": "Matthias",
+      "family": "Ernzerhof"
+     }
+    ],
+    "year": 1996,
+    "container": "Physical Review Letters",
+    "short_container": "Phys. Rev. Lett.",
+    "volume": "77",
+    "number": "18",
+    "pages": "3865-3868",
+    "publisher": "American Physical Society (APS)",
+    "doi": "10.1103/physrevlett.77.3865",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 66,
+   "registry": "crossref",
+   "ident": "10.1051/0004-6361/201833910",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 182,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Planck 2018 results. VI. Cosmological parameters",
+    "subtitle": "",
+    "authors": [
+     {
+      "literal": "Planck Collaboration"
+     },
+     {
+      "given": "N.",
+      "family": "Aghanim"
+     },
+     {
+      "given": "Y.",
+      "family": "Akrami"
+     },
+     {
+      "given": "M.",
+      "family": "Ashdown"
+     },
+     {
+      "given": "J.",
+      "family": "Aumont"
+     },
+     {
+      "given": "C.",
+      "family": "Baccigalupi"
+     },
+     {
+      "given": "M.",
+      "family": "Ballardini"
+     },
+     {
+      "given": "A. J.",
+      "family": "Banday"
+     },
+     {
+      "given": "R. B.",
+      "family": "Barreiro"
+     },
+     {
+      "given": "N.",
+      "family": "Bartolo"
+     },
+     {
+      "given": "S.",
+      "family": "Basak"
+     },
+     {
+      "given": "R.",
+      "family": "Battye"
+     }
+    ],
+    "year": 2020,
+    "container": "Astronomy & Astrophysics",
+    "short_container": "A&A",
+    "volume": "641",
+    "number": "",
+    "pages": "A6",
+    "publisher": "EDP Sciences",
+    "doi": "10.1051/0004-6361/201833910",
+    "isbn": ""
+   },
+   "overrides": {
+    "title": "Planck 2018 results. VI. Cosmological parameters",
+    "subtitle": ""
+   }
+  },
+  {
+   "n": 67,
+   "registry": "crossref",
+   "ident": "10.1086/300499",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [
+    "and_others",
+    "initials"
+   ],
+   "n_authors": 20,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Adam G.",
+      "family": "Riess"
+     },
+     {
+      "given": "Alexei V.",
+      "family": "Filippenko"
+     },
+     {
+      "given": "Peter",
+      "family": "Challis"
+     },
+     {
+      "given": "Alejandro",
+      "family": "Clocchiatti"
+     },
+     {
+      "given": "Alan",
+      "family": "Diercks"
+     },
+     {
+      "given": "Peter M.",
+      "family": "Garnavich"
+     },
+     {
+      "given": "Ron L.",
+      "family": "Gilliland"
+     },
+     {
+      "given": "Craig J.",
+      "family": "Hogan"
+     },
+     {
+      "given": "Saurabh",
+      "family": "Jha"
+     },
+     {
+      "given": "Robert P.",
+      "family": "Kirshner"
+     },
+     {
+      "given": "B.",
+      "family": "Leibundgut"
+     },
+     {
+      "given": "M. M.",
+      "family": "Phillips"
+     },
+     {
+      "given": "David",
+      "family": "Reiss"
+     },
+     {
+      "given": "Brian P.",
+      "family": "Schmidt"
+     },
+     {
+      "given": "Robert A.",
+      "family": "Schommer"
+     },
+     {
+      "given": "R. Chris",
+      "family": "Smith"
+     },
+     {
+      "given": "J.",
+      "family": "Spyromilio"
+     },
+     {
+      "given": "Christopher",
+      "family": "Stubbs"
+     },
+     {
+      "given": "Nicholas B.",
+      "family": "Suntzeff"
+     },
+     {
+      "given": "John",
+      "family": "Tonry"
+     }
+    ],
+    "year": 1998,
+    "container": "The Astronomical Journal",
+    "short_container": "",
+    "volume": "116",
+    "number": "3",
+    "pages": "1009-1038",
+    "publisher": "American Astronomical Society",
+    "doi": "10.1086/300499",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 68,
+   "registry": "crossref",
+   "ident": "10.1103/PhysRevLett.75.3969",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 7,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Bose-Einstein Condensation in a Gas of Sodium Atoms",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "K. B.",
+      "family": "Davis"
+     },
+     {
+      "given": "M. -O.",
+      "family": "Mewes"
+     },
+     {
+      "given": "M. R.",
+      "family": "Andrews"
+     },
+     {
+      "given": "N. J.",
+      "family": "van Druten"
+     },
+     {
+      "given": "D. S.",
+      "family": "Durfee"
+     },
+     {
+      "given": "D. M.",
+      "family": "Kurn"
+     },
+     {
+      "given": "W.",
+      "family": "Ketterle"
+     }
+    ],
+    "year": 1995,
+    "container": "Physical Review Letters",
+    "short_container": "Phys. Rev. Lett.",
+    "volume": "75",
+    "number": "22",
+    "pages": "3969-3973",
+    "publisher": "American Physical Society (APS)",
+    "doi": "10.1103/physrevlett.75.3969",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 69,
+   "registry": "crossref",
+   "ident": "10.1038/30918",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Collective dynamics of ‘small-world’ networks",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Duncan J.",
+      "family": "Watts"
+     },
+     {
+      "given": "Steven H.",
+      "family": "Strogatz"
+     }
+    ],
+    "year": 1998,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "393",
+    "number": "6684",
+    "pages": "440-442",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/30918",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 70,
+   "registry": "crossref",
+   "ident": "10.1007/BF01020332",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Quantitative universality for a class of nonlinear transformations",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Mitchell J.",
+      "family": "Feigenbaum"
+     }
+    ],
+    "year": 1978,
+    "container": "Journal of Statistical Physics",
+    "short_container": "J Stat Phys",
+    "volume": "19",
+    "number": "1",
+    "pages": "25-52",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/bf01020332",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 71,
+   "registry": "crossref",
+   "ident": "10.1063/1.1699114",
+   "field": "physics",
+   "entry_type": "article",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Equation of State Calculations by Fast Computing Machines",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Nicholas",
+      "family": "Metropolis"
+     },
+     {
+      "given": "Arianna W.",
+      "family": "Rosenbluth"
+     },
+     {
+      "given": "Marshall N.",
+      "family": "Rosenbluth"
+     },
+     {
+      "given": "Augusta H.",
+      "family": "Teller"
+     },
+     {
+      "given": "Edward",
+      "family": "Teller"
+     }
+    ],
+    "year": 1953,
+    "container": "The Journal of Chemical Physics",
+    "short_container": "",
+    "volume": "21",
+    "number": "6",
+    "pages": "1087-1092",
+    "publisher": "AIP Publishing",
+    "doi": "10.1063/1.1699114",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 72,
+   "registry": "crossref",
+   "ident": "10.1111/j.2517-6161.1996.tb02080.x",
+   "field": "math",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Regression Shrinkage and Selection Via the Lasso",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Robert",
+      "family": "Tibshirani"
+     }
+    ],
+    "year": 1996,
+    "container": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+    "short_container": "",
+    "volume": "58",
+    "number": "1",
+    "pages": "267-288",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1111/j.2517-6161.1996.tb02080.x",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 73,
+   "registry": "crossref",
+   "ident": "10.1111/j.2517-6161.1977.tb01600.x",
+   "field": "math",
+   "entry_type": "article",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Maximum Likelihood from Incomplete Data Via the EM Algorithm",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "A. P.",
+      "family": "Dempster"
+     },
+     {
+      "given": "N. M.",
+      "family": "Laird"
+     },
+     {
+      "given": "D. B.",
+      "family": "Rubin"
+     }
+    ],
+    "year": 1977,
+    "container": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+    "short_container": "",
+    "volume": "39",
+    "number": "1",
+    "pages": "1-22",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1111/j.2517-6161.1977.tb01600.x",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 74,
+   "registry": "crossref",
+   "ident": "10.1111/j.2517-6161.1995.tb02031.x",
+   "field": "math",
+   "entry_type": "article",
+   "style": [
+    "abbrev_journal"
+   ],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yoav",
+      "family": "Benjamini"
+     },
+     {
+      "given": "Yosef",
+      "family": "Hochberg"
+     }
+    ],
+    "year": 1995,
+    "container": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+    "short_container": "",
+    "volume": "57",
+    "number": "1",
+    "pages": "289-300",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1111/j.2517-6161.1995.tb02031.x",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 75,
+   "registry": "crossref",
+   "ident": "10.2307/2118559",
+   "field": "math",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Modular Elliptic Curves and Fermat's Last Theorem",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Andrew",
+      "family": "Wiles"
+     }
+    ],
+    "year": 1995,
+    "container": "The Annals of Mathematics",
+    "short_container": "The Annals of Mathematics",
+    "volume": "141",
+    "number": "3",
+    "pages": "443",
+    "publisher": "JSTOR",
+    "doi": "10.2307/2118559",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 76,
+   "registry": "crossref",
+   "ident": "10.1137/0111030",
+   "field": "math",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "An Algorithm for Least-Squares Estimation of Nonlinear Parameters",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Donald W.",
+      "family": "Marquardt"
+     }
+    ],
+    "year": 1963,
+    "container": "Journal of the Society for Industrial and Applied Mathematics",
+    "short_container": "Journal of the Society for Industrial and Applied Mathematics",
+    "volume": "11",
+    "number": "2",
+    "pages": "431-441",
+    "publisher": "Society for Industrial & Applied Mathematics (SIAM)",
+    "doi": "10.1137/0111030",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 77,
+   "registry": "crossref",
+   "ident": "10.1109/TIT.2006.871582",
+   "field": "math",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Compressed sensing",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "D.L.",
+      "family": "Donoho"
+     }
+    ],
+    "year": 2006,
+    "container": "IEEE Transactions on Information Theory",
+    "short_container": "IEEE Trans. Inform. Theory",
+    "volume": "52",
+    "number": "4",
+    "pages": "1289-1306",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "doi": "10.1109/tit.2006.871582",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 78,
+   "registry": "crossref",
+   "ident": "10.1109/TIT.2005.862083",
+   "field": "math",
+   "entry_type": "article",
+   "style": [
+    "latex_accents"
+   ],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "E.J.",
+      "family": "Candes"
+     },
+     {
+      "given": "J.",
+      "family": "Romberg"
+     },
+     {
+      "given": "T.",
+      "family": "Tao"
+     }
+    ],
+    "year": 2006,
+    "container": "IEEE Transactions on Information Theory",
+    "short_container": "IEEE Trans. Inform. Theory",
+    "volume": "52",
+    "number": "2",
+    "pages": "489-509",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "doi": "10.1109/tit.2005.862083",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 79,
+   "registry": "crossref",
+   "ident": "10.1093/biomet/57.1.97",
+   "field": "math",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Monte Carlo sampling methods using Markov chains and their applications",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "W. K.",
+      "family": "Hastings"
+     }
+    ],
+    "year": 1970,
+    "container": "Biometrika",
+    "short_container": "",
+    "volume": "57",
+    "number": "1",
+    "pages": "97-109",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1093/biomet/57.1.97",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 80,
+   "registry": "crossref",
+   "ident": "10.1080/00029890.1975.11994008",
+   "field": "math",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Period Three Implies Chaos",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Tien-Yien",
+      "family": "Li"
+     },
+     {
+      "given": "James A.",
+      "family": "Yorke"
+     }
+    ],
+    "year": 1975,
+    "container": "The American Mathematical Monthly",
+    "short_container": "The American Mathematical Monthly",
+    "volume": "82",
+    "number": "10",
+    "pages": "985-992",
+    "publisher": "Informa UK Limited",
+    "doi": "10.1080/00029890.1975.11994008",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 81,
+   "registry": "crossref",
+   "ident": "10.1038/261459a0",
+   "field": "math",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Simple mathematical models with very complicated dynamics",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Robert M.",
+      "family": "May"
+     }
+    ],
+    "year": 1976,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "261",
+    "number": "5560",
+    "pages": "459-467",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/261459a0",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 82,
+   "registry": "crossref",
+   "ident": "10.1214/aoms/1177729586",
+   "field": "math",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A Stochastic Approximation Method",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Herbert",
+      "family": "Robbins"
+     },
+     {
+      "given": "Sutton",
+      "family": "Monro"
+     }
+    ],
+    "year": 1951,
+    "container": "The Annals of Mathematical Statistics",
+    "short_container": "Ann. Math. Statist.",
+    "volume": "22",
+    "number": "3",
+    "pages": "400-407",
+    "publisher": "Institute of Mathematical Statistics",
+    "doi": "10.1214/aoms/1177729586",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 83,
+   "registry": "crossref",
+   "ident": "10.1214/aos/1176344552",
+   "field": "math",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Bootstrap Methods: Another Look at the Jackknife",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "B.",
+      "family": "Efron"
+     }
+    ],
+    "year": 1979,
+    "container": "The Annals of Statistics",
+    "short_container": "Ann. Statist.",
+    "volume": "7",
+    "number": "1",
+    "pages": "1-26",
+    "publisher": "Institute of Mathematical Statistics",
+    "doi": "10.1214/aos/1176344552",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 84,
+   "registry": "crossref",
+   "ident": "10.1080/01621459.1958.10501452",
+   "field": "math",
+   "entry_type": "article",
+   "style": [
+    "double_brace"
+   ],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Nonparametric Estimation from Incomplete Observations",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "E. L.",
+      "family": "Kaplan"
+     },
+     {
+      "given": "Paul",
+      "family": "Meier"
+     }
+    ],
+    "year": 1958,
+    "container": "Journal of the American Statistical Association",
+    "short_container": "Journal of the American Statistical Association",
+    "volume": "53",
+    "number": "282",
+    "pages": "457-481",
+    "publisher": "Informa UK Limited",
+    "doi": "10.1080/01621459.1958.10501452",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 85,
+   "registry": "crossref",
+   "ident": "10.1111/j.2517-6161.1972.tb00899.x",
+   "field": "math",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Regression Models and Life-Tables",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "D. R.",
+      "family": "Cox"
+     }
+    ],
+    "year": 1972,
+    "container": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+    "short_container": "",
+    "volume": "34",
+    "number": "2",
+    "pages": "187-202",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1111/j.2517-6161.1972.tb00899.x",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 86,
+   "registry": "crossref",
+   "ident": "10.1007/BF01700692",
+   "field": "math",
+   "entry_type": "article",
+   "style": [
+    "latex_accents"
+   ],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Kurt",
+      "family": "Gödel"
+     }
+    ],
+    "year": 1931,
+    "container": "Monatshefte für Mathematik und Physik",
+    "short_container": "Monatsh. f. Mathematik und Physik",
+    "volume": "38",
+    "number": "1",
+    "pages": "173-198",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/bf01700692",
+    "isbn": ""
+   },
+   "overrides": {
+    "volume": "38"
+   }
+  },
+  {
+   "n": 87,
+   "registry": "crossref",
+   "ident": "10.18637/jss.v067.i01",
+   "field": "math",
+   "entry_type": "article",
+   "style": [
+    "no_doi"
+   ],
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Fitting Linear Mixed-Effects Models Using lme4",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Douglas",
+      "family": "Bates"
+     },
+     {
+      "given": "Martin",
+      "family": "Mächler"
+     },
+     {
+      "given": "Ben",
+      "family": "Bolker"
+     },
+     {
+      "given": "Steve",
+      "family": "Walker"
+     }
+    ],
+    "year": 2015,
+    "container": "Journal of Statistical Software",
+    "short_container": "J. Stat. Soft.",
+    "volume": "67",
+    "number": "1",
+    "pages": "",
+    "publisher": "Foundation for Open Access Statistic",
+    "doi": "10.18637/jss.v067.i01",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 88,
+   "registry": "crossref",
+   "ident": "10.1109/TPAMI.1984.4767596",
+   "field": "math",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Stuart",
+      "family": "Geman"
+     },
+     {
+      "given": "Donald",
+      "family": "Geman"
+     }
+    ],
+    "year": 1984,
+    "container": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "short_container": "IEEE Trans. Pattern Anal. Mach. Intell.",
+    "volume": "6",
+    "number": "6",
+    "pages": "721-741",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "doi": "10.1109/tpami.1984.4767596",
+    "isbn": ""
+   },
+   "overrides": {
+    "volume": "6"
+   }
+  },
+  {
+   "n": 89,
+   "registry": "crossref",
+   "ident": "10.1111/j.1469-1809.1936.tb02137.x",
+   "field": "math",
+   "entry_type": "article",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Use of Multiple Measurements in Taxonomic Problems",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "R. A.",
+      "family": "Fisher"
+     }
+    ],
+    "year": 1936,
+    "container": "Annals of Eugenics",
+    "short_container": "Annals of Eugenics",
+    "volume": "7",
+    "number": "2",
+    "pages": "179-188",
+    "publisher": "Wiley",
+    "doi": "10.1111/j.1469-1809.1936.tb02137.x",
+    "isbn": ""
+   },
+   "overrides": {
+    "title": "The Use of Multiple Measurements in Taxonomic Problems",
+    "authors": [
+     {
+      "given": "R. A.",
+      "family": "Fisher"
+     }
+    ]
+   },
+   "extra_note": "Crossref stores the title in capitals ('THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS'); the entry uses title case."
+  },
+  {
+   "n": 90,
+   "registry": "crossref",
+   "ident": "10.2307/1914185",
+   "field": "social",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Prospect Theory: An Analysis of Decision under Risk",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Daniel",
+      "family": "Kahneman"
+     },
+     {
+      "given": "Amos",
+      "family": "Tversky"
+     }
+    ],
+    "year": 1979,
+    "container": "Econometrica",
+    "short_container": "Econometrica",
+    "volume": "47",
+    "number": "2",
+    "pages": "263",
+    "publisher": "JSTOR",
+    "doi": "10.2307/1914185",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 91,
+   "registry": "crossref",
+   "ident": "10.1126/science.185.4157.1124",
+   "field": "social",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Judgment under Uncertainty: Heuristics and Biases",
+    "subtitle": "Biases in judgments reveal some heuristics of thinking under uncertainty",
+    "authors": [
+     {
+      "given": "Amos",
+      "family": "Tversky"
+     },
+     {
+      "given": "Daniel",
+      "family": "Kahneman"
+     }
+    ],
+    "year": 1974,
+    "container": "Science",
+    "short_container": "Science",
+    "volume": "185",
+    "number": "4157",
+    "pages": "1124-1131",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "doi": "10.1126/science.185.4157.1124",
+    "isbn": ""
+   },
+   "overrides": {
+    "subtitle": "Biases in judgments reveal some heuristics of thinking under uncertainty"
+   }
+  },
+  {
+   "n": 92,
+   "registry": "crossref",
+   "ident": "10.2307/1879431",
+   "field": "social",
+   "entry_type": "article",
+   "style": [
+    "double_brace"
+   ],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Market for \"Lemons\": Quality Uncertainty and the Market Mechanism",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "George A.",
+      "family": "Akerlof"
+     }
+    ],
+    "year": 1970,
+    "container": "The Quarterly Journal of Economics",
+    "short_container": "The Quarterly Journal of Economics",
+    "volume": "84",
+    "number": "3",
+    "pages": "488",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.2307/1879431",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 93,
+   "registry": "crossref",
+   "ident": "10.1086/225469",
+   "field": "social",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Strength of Weak Ties",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Mark S.",
+      "family": "Granovetter"
+     }
+    ],
+    "year": 1973,
+    "container": "American Journal of Sociology",
+    "short_container": "American Journal of Sociology",
+    "volume": "78",
+    "number": "6",
+    "pages": "1360-1380",
+    "publisher": "University of Chicago Press",
+    "doi": "10.1086/225469",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 94,
+   "registry": "crossref",
+   "ident": "10.1126/science.aac4716",
+   "field": "social",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Estimating the reproducibility of psychological science",
+    "subtitle": "",
+    "authors": [
+     {
+      "literal": "Open Science Collaboration"
+     }
+    ],
+    "year": 2015,
+    "container": "Science",
+    "short_container": "Science",
+    "volume": "349",
+    "number": "6251",
+    "pages": "aac4716",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "doi": "10.1126/science.aac4716",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 95,
+   "registry": "crossref",
+   "ident": "10.1037/0022-3514.51.6.1173",
+   "field": "social",
+   "entry_type": "article",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Reuben M.",
+      "family": "Baron"
+     },
+     {
+      "given": "David A.",
+      "family": "Kenny"
+     }
+    ],
+    "year": 1986,
+    "container": "Journal of Personality and Social Psychology",
+    "short_container": "Journal of Personality and Social Psychology",
+    "volume": "51",
+    "number": "6",
+    "pages": "1173-1182",
+    "publisher": "American Psychological Association (APA)",
+    "doi": "10.1037/0022-3514.51.6.1173",
+    "isbn": ""
+   },
+   "overrides": {
+    "title": "The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations"
+   }
+  },
+  {
+   "n": 96,
+   "registry": "crossref",
+   "ident": "10.1126/science.162.3859.1243",
+   "field": "social",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Tragedy of the Commons",
+    "subtitle": "The population problem has no technical solution; it requires a fundamental extension in morality",
+    "authors": [
+     {
+      "given": "Garrett",
+      "family": "Hardin"
+     }
+    ],
+    "year": 1968,
+    "container": "Science",
+    "short_container": "Science",
+    "volume": "162",
+    "number": "3859",
+    "pages": "1243-1248",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "doi": "10.1126/science.162.3859.1243",
+    "isbn": ""
+   },
+   "overrides": {
+    "subtitle": "The population problem has no technical solution; it requires a fundamental extension in morality"
+   }
+  },
+  {
+   "n": 97,
+   "registry": "crossref",
+   "ident": "10.1191/1478088706qp063oa",
+   "field": "social",
+   "entry_type": "article",
+   "style": [
+    "no_doi"
+   ],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Using thematic analysis in psychology",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Virginia",
+      "family": "Braun"
+     },
+     {
+      "given": "Victoria",
+      "family": "Clarke"
+     }
+    ],
+    "year": 2006,
+    "container": "Qualitative Research in Psychology",
+    "short_container": "Qualitative Research in Psychology",
+    "volume": "3",
+    "number": "2",
+    "pages": "77-101",
+    "publisher": "Informa UK Limited",
+    "doi": "10.1191/1478088706qp063oa",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 98,
+   "registry": "crossref",
+   "ident": "10.1037/h0054346",
+   "field": "social",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A theory of human motivation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "A. H.",
+      "family": "Maslow"
+     }
+    ],
+    "year": 1943,
+    "container": "Psychological Review",
+    "short_container": "Psychological Review",
+    "volume": "50",
+    "number": "4",
+    "pages": "370-396",
+    "publisher": "American Psychological Association (APA)",
+    "doi": "10.1037/h0054346",
+    "isbn": ""
+   },
+   "overrides": {
+    "title": "A theory of human motivation"
+   }
+  },
+  {
+   "n": 99,
+   "registry": "crossref",
+   "ident": "10.1353/jod.1995.0002",
+   "field": "social",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Bowling Alone: America's Declining Social Capital",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Robert D",
+      "family": "Putnam"
+     }
+    ],
+    "year": 1995,
+    "container": "Journal of Democracy",
+    "short_container": "jod",
+    "volume": "6",
+    "number": "1",
+    "pages": "65-78",
+    "publisher": "Project MUSE",
+    "doi": "10.1353/jod.1995.0002",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 100,
+   "registry": "crossref",
+   "ident": "10.1111/j.1468-0335.1937.tb00002.x",
+   "field": "social",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Nature of the Firm",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "R. H.",
+      "family": "Coase"
+     }
+    ],
+    "year": 1937,
+    "container": "Economica",
+    "short_container": "Economica",
+    "volume": "4",
+    "number": "16",
+    "pages": "386-405",
+    "publisher": "Wiley",
+    "doi": "10.1111/j.1468-0335.1937.tb00002.x",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 101,
+   "registry": "crossref",
+   "ident": "10.1257/aer.91.5.1369",
+   "field": "social",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Colonial Origins of Comparative Development: An Empirical Investigation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Daron",
+      "family": "Acemoglu"
+     },
+     {
+      "given": "Simon",
+      "family": "Johnson"
+     },
+     {
+      "given": "James A",
+      "family": "Robinson"
+     }
+    ],
+    "year": 2001,
+    "container": "American Economic Review",
+    "short_container": "American Economic Review",
+    "volume": "91",
+    "number": "5",
+    "pages": "1369-1401",
+    "publisher": "American Economic Association",
+    "doi": "10.1257/aer.91.5.1369",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 102,
+   "registry": "crossref",
+   "ident": "10.1093/mind/LIX.236.433",
+   "field": "humanities",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Computing Machinery and Intelligence",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "A. M.",
+      "family": "Turing"
+     }
+    ],
+    "year": 1950,
+    "container": "Mind",
+    "short_container": "",
+    "volume": "LIX",
+    "number": "236",
+    "pages": "433-460",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1093/mind/lix.236.433",
+    "isbn": ""
+   },
+   "overrides": {
+    "title": "Computing Machinery and Intelligence",
+    "authors": [
+     {
+      "given": "A. M.",
+      "family": "Turing"
+     }
+    ]
+   },
+   "extra_note": "Crossref stores the title as 'I.—COMPUTING MACHINERY AND INTELLIGENCE'; the entry uses the usual form."
+  },
+  {
+   "n": 103,
+   "registry": "crossref",
+   "ident": "10.2307/2183914",
+   "field": "humanities",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "What Is It Like to Be a Bat?",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Thomas",
+      "family": "Nagel"
+     }
+    ],
+    "year": 1974,
+    "container": "The Philosophical Review",
+    "short_container": "The Philosophical Review",
+    "volume": "83",
+    "number": "4",
+    "pages": "435",
+    "publisher": "JSTOR",
+    "doi": "10.2307/2183914",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 104,
+   "registry": "crossref",
+   "ident": "10.1093/analys/23.6.121",
+   "field": "humanities",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Is Justified True Belief Knowledge?",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "E. L.",
+      "family": "Gettier"
+     }
+    ],
+    "year": 1963,
+    "container": "Analysis",
+    "short_container": "Analysis",
+    "volume": "23",
+    "number": "6",
+    "pages": "121-123",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1093/analys/23.6.121",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 105,
+   "registry": "crossref",
+   "ident": "10.1017/S0140525X00005756",
+   "field": "humanities",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Minds, brains, and programs",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "John R.",
+      "family": "Searle"
+     }
+    ],
+    "year": 1980,
+    "container": "Behavioral and Brain Sciences",
+    "short_container": "Behav Brain Sci",
+    "volume": "3",
+    "number": "3",
+    "pages": "417-424",
+    "publisher": "Cambridge University Press (CUP)",
+    "doi": "10.1017/s0140525x00005756",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 106,
+   "registry": "crossref",
+   "ident": "10.1093/analys/58.1.7",
+   "field": "humanities",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Extended Mind",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "A.",
+      "family": "Clark"
+     },
+     {
+      "given": "D.",
+      "family": "Chalmers"
+     }
+    ],
+    "year": 1998,
+    "container": "Analysis",
+    "short_container": "Analysis",
+    "volume": "58",
+    "number": "1",
+    "pages": "7-19",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1093/analys/58.1.7",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 107,
+   "registry": "crossref",
+   "ident": "10.1093/mind/XIV.4.479",
+   "field": "humanities",
+   "entry_type": "article",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "On Denoting",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "BERTRAND",
+      "family": "Russell"
+     }
+    ],
+    "year": 1905,
+    "container": "Mind",
+    "short_container": "Mind",
+    "volume": "XIV",
+    "number": "4",
+    "pages": "479-493",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1093/mind/xiv.4.479",
+    "isbn": ""
+   },
+   "overrides": {
+    "title": "On Denoting",
+    "authors": [
+     {
+      "given": "BERTRAND",
+      "family": "Russell"
+     }
+    ]
+   },
+   "extra_note": "Crossref stores the title as 'II.—ON DENOTING'; the entry uses the usual form."
+  },
+  {
+   "n": 108,
+   "registry": "crossref",
+   "ident": "10.2307/2181906",
+   "field": "humanities",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Two Dogmas of Empiricism",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "W. V.",
+      "family": "Quine"
+     }
+    ],
+    "year": 1951,
+    "container": "The Philosophical Review",
+    "short_container": "The Philosophical Review",
+    "volume": "60",
+    "number": "1",
+    "pages": "20",
+    "publisher": "JSTOR",
+    "doi": "10.2307/2181906",
+    "isbn": ""
+   },
+   "overrides": {
+    "title": "Two Dogmas of Empiricism"
+   },
+   "extra_note": "Crossref stores the title as 'Main Trends in Recent Philosophy: Two Dogmas of Empiricism'; the entry uses the usual form."
+  },
+  {
+   "n": 109,
+   "registry": "crossref",
+   "ident": "10.2307/796133",
+   "field": "humanities",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Trolley Problem",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Judith Jarvis",
+      "family": "Thomson"
+     }
+    ],
+    "year": 1985,
+    "container": "The Yale Law Journal",
+    "short_container": "The Yale Law Journal",
+    "volume": "94",
+    "number": "6",
+    "pages": "1395",
+    "publisher": "JSTOR",
+    "doi": "10.2307/796133",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 110,
+   "registry": "crossref",
+   "ident": "10.1126/science.155.3767.1203",
+   "field": "humanities",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Historical Roots of Our Ecologic Crisis",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Lynn",
+      "family": "White"
+     }
+    ],
+    "year": 1967,
+    "container": "Science",
+    "short_container": "Science",
+    "volume": "155",
+    "number": "3767",
+    "pages": "1203-1207",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "doi": "10.1126/science.155.3767.1203",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 111,
+   "registry": "crossref",
+   "ident": "10.2307/1864376",
+   "field": "humanities",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Gender: A Useful Category of Historical Analysis",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Joan W.",
+      "family": "Scott"
+     }
+    ],
+    "year": 1986,
+    "container": "The American Historical Review",
+    "short_container": "The American Historical Review",
+    "volume": "91",
+    "number": "5",
+    "pages": "1053",
+    "publisher": "JSTOR",
+    "doi": "10.2307/1864376",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 112,
+   "registry": "crossref",
+   "ident": "10.1093/past/50.1.76",
+   "field": "humanities",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Moral Economy of the English Crowd in the Eighteenth Century",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "E. P.",
+      "family": "Thompson"
+     }
+    ],
+    "year": 1971,
+    "container": "Past and Present",
+    "short_container": "Past and Present",
+    "volume": "50",
+    "number": "1",
+    "pages": "76-136",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1093/past/50.1.76",
+    "isbn": ""
+   },
+   "overrides": {
+    "title": "The Moral Economy of the English Crowd in the Eighteenth Century"
+   },
+   "extra_note": "Crossref stores the title in capitals ('THE MORAL ECONOMY OF THE ENGLISH CROWD IN THE EIGHTEENTH CENTURY'); the entry uses title case."
+  },
+  {
+   "n": 113,
+   "registry": "crossref",
+   "ident": "10.7208/chicago/9780226458106.001.0001",
+   "field": "humanities",
+   "entry_type": "book",
+   "style": [
+    "no_doi"
+   ],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "monograph",
+    "title": "The Structure of Scientific Revolutions",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Thomas S.",
+      "family": "Kuhn"
+     }
+    ],
+    "year": 1996,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "University of Chicago Press",
+    "doi": "10.7208/chicago/9780226458106.001.0001",
+    "isbn": "9780226458083"
+   }
+  },
+  {
+   "n": 114,
+   "registry": "crossref",
+   "ident": "10.1107/S0108767307043930",
+   "field": "other",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A short history of SHELX",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "George M.",
+      "family": "Sheldrick"
+     }
+    ],
+    "year": 2007,
+    "container": "Acta Crystallographica Section A Foundations of Crystallography",
+    "short_container": "Acta Crystallogr A Found Crystallogr",
+    "volume": "64",
+    "number": "1",
+    "pages": "112-122",
+    "publisher": "International Union of Crystallography (IUCr)",
+    "doi": "10.1107/s0108767307043930",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 115,
+   "registry": "crossref",
+   "ident": "10.1063/1.464913",
+   "field": "other",
+   "entry_type": "article",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Density-functional thermochemistry. III. The role of exact exchange",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Axel D.",
+      "family": "Becke"
+     }
+    ],
+    "year": 1993,
+    "container": "The Journal of Chemical Physics",
+    "short_container": "",
+    "volume": "98",
+    "number": "7",
+    "pages": "5648-5652",
+    "publisher": "AIP Publishing",
+    "doi": "10.1063/1.464913",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 116,
+   "registry": "crossref",
+   "ident": "10.1103/PhysRevB.37.785",
+   "field": "other",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Development of the Colle-Salvetti correlation-energy formula into a functional of the electron density",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Chengteh",
+      "family": "Lee"
+     },
+     {
+      "given": "Weitao",
+      "family": "Yang"
+     },
+     {
+      "given": "Robert G.",
+      "family": "Parr"
+     }
+    ],
+    "year": 1988,
+    "container": "Physical Review B",
+    "short_container": "Phys. Rev. B",
+    "volume": "37",
+    "number": "2",
+    "pages": "785-789",
+    "publisher": "American Physical Society (APS)",
+    "doi": "10.1103/physrevb.37.785",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 117,
+   "registry": "crossref",
+   "ident": "10.1002/joc.1276",
+   "field": "other",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Very high resolution interpolated climate surfaces for global land areas",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Robert J.",
+      "family": "Hijmans"
+     },
+     {
+      "given": "Susan E.",
+      "family": "Cameron"
+     },
+     {
+      "given": "Juan L.",
+      "family": "Parra"
+     },
+     {
+      "given": "Peter G.",
+      "family": "Jones"
+     },
+     {
+      "given": "Andy",
+      "family": "Jarvis"
+     }
+    ],
+    "year": 2005,
+    "container": "International Journal of Climatology",
+    "short_container": "Int. J. Climatol.",
+    "volume": "25",
+    "number": "15",
+    "pages": "1965-1978",
+    "publisher": "Wiley",
+    "doi": "10.1002/joc.1276",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 118,
+   "registry": "crossref",
+   "ident": "10.1038/461472a",
+   "field": "other",
+   "entry_type": "article",
+   "style": [
+    "and_others",
+    "latex_accents"
+   ],
+   "n_authors": 29,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A safe operating space for humanity",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Johan",
+      "family": "Rockström"
+     },
+     {
+      "given": "Will",
+      "family": "Steffen"
+     },
+     {
+      "given": "Kevin",
+      "family": "Noone"
+     },
+     {
+      "given": "Åsa",
+      "family": "Persson"
+     },
+     {
+      "given": "F. Stuart",
+      "family": "Chapin"
+     },
+     {
+      "given": "Eric F.",
+      "family": "Lambin"
+     },
+     {
+      "given": "Timothy M.",
+      "family": "Lenton"
+     },
+     {
+      "given": "Marten",
+      "family": "Scheffer"
+     },
+     {
+      "given": "Carl",
+      "family": "Folke"
+     },
+     {
+      "given": "Hans Joachim",
+      "family": "Schellnhuber"
+     },
+     {
+      "given": "Björn",
+      "family": "Nykvist"
+     },
+     {
+      "given": "Cynthia A.",
+      "family": "de Wit"
+     },
+     {
+      "given": "Terry",
+      "family": "Hughes"
+     },
+     {
+      "given": "Sander",
+      "family": "van der Leeuw"
+     },
+     {
+      "given": "Henning",
+      "family": "Rodhe"
+     },
+     {
+      "given": "Sverker",
+      "family": "Sörlin"
+     },
+     {
+      "given": "Peter K.",
+      "family": "Snyder"
+     },
+     {
+      "given": "Robert",
+      "family": "Costanza"
+     },
+     {
+      "given": "Uno",
+      "family": "Svedin"
+     },
+     {
+      "given": "Malin",
+      "family": "Falkenmark"
+     },
+     {
+      "given": "Louise",
+      "family": "Karlberg"
+     },
+     {
+      "given": "Robert W.",
+      "family": "Corell"
+     },
+     {
+      "given": "Victoria J.",
+      "family": "Fabry"
+     },
+     {
+      "given": "James",
+      "family": "Hansen"
+     },
+     {
+      "given": "Brian",
+      "family": "Walker"
+     },
+     {
+      "given": "Diana",
+      "family": "Liverman"
+     },
+     {
+      "given": "Katherine",
+      "family": "Richardson"
+     },
+     {
+      "given": "Paul",
+      "family": "Crutzen"
+     },
+     {
+      "given": "Jonathan A.",
+      "family": "Foley"
+     }
+    ],
+    "year": 2009,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "461",
+    "number": "7263",
+    "pages": "472-475",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/461472a",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 119,
+   "registry": "crossref",
+   "ident": "10.1126/science.1111772",
+   "field": "other",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 19,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Global Consequences of Land Use",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jonathan A.",
+      "family": "Foley"
+     },
+     {
+      "given": "Ruth",
+      "family": "DeFries"
+     },
+     {
+      "given": "Gregory P.",
+      "family": "Asner"
+     },
+     {
+      "given": "Carol",
+      "family": "Barford"
+     },
+     {
+      "given": "Gordon",
+      "family": "Bonan"
+     },
+     {
+      "given": "Stephen R.",
+      "family": "Carpenter"
+     },
+     {
+      "given": "F. Stuart",
+      "family": "Chapin"
+     },
+     {
+      "given": "Michael T.",
+      "family": "Coe"
+     },
+     {
+      "given": "Gretchen C.",
+      "family": "Daily"
+     },
+     {
+      "given": "Holly K.",
+      "family": "Gibbs"
+     },
+     {
+      "given": "Joseph H.",
+      "family": "Helkowski"
+     },
+     {
+      "given": "Tracey",
+      "family": "Holloway"
+     },
+     {
+      "given": "Erica A.",
+      "family": "Howard"
+     },
+     {
+      "given": "Christopher J.",
+      "family": "Kucharik"
+     },
+     {
+      "given": "Chad",
+      "family": "Monfreda"
+     },
+     {
+      "given": "Jonathan A.",
+      "family": "Patz"
+     },
+     {
+      "given": "I. Colin",
+      "family": "Prentice"
+     },
+     {
+      "given": "Navin",
+      "family": "Ramankutty"
+     },
+     {
+      "given": "Peter K.",
+      "family": "Snyder"
+     }
+    ],
+    "year": 2005,
+    "container": "Science",
+    "short_container": "Science",
+    "volume": "309",
+    "number": "5734",
+    "pages": "570-574",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "doi": "10.1126/science.1111772",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 120,
+   "registry": "crossref",
+   "ident": "10.1038/35002501",
+   "field": "other",
+   "entry_type": "article",
+   "style": [
+    "latex_accents"
+   ],
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Biodiversity hotspots for conservation priorities",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Norman",
+      "family": "Myers"
+     },
+     {
+      "given": "Russell A.",
+      "family": "Mittermeier"
+     },
+     {
+      "given": "Cristina G.",
+      "family": "Mittermeier"
+     },
+     {
+      "given": "Gustavo A. B.",
+      "family": "da Fonseca"
+     },
+     {
+      "given": "Jennifer",
+      "family": "Kent"
+     }
+    ],
+    "year": 2000,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "403",
+    "number": "6772",
+    "pages": "853-858",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/35002501",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 121,
+   "registry": "crossref",
+   "ident": "10.1038/387253a0",
+   "field": "other",
+   "entry_type": "article",
+   "style": [
+    "and_others"
+   ],
+   "n_authors": 13,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The value of the world's ecosystem services and natural capital",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Robert",
+      "family": "Costanza"
+     },
+     {
+      "given": "Ralph",
+      "family": "d'Arge"
+     },
+     {
+      "given": "Rudolf",
+      "family": "de Groot"
+     },
+     {
+      "given": "Stephen",
+      "family": "Farber"
+     },
+     {
+      "given": "Monica",
+      "family": "Grasso"
+     },
+     {
+      "given": "Bruce",
+      "family": "Hannon"
+     },
+     {
+      "given": "Karin",
+      "family": "Limburg"
+     },
+     {
+      "given": "Shahid",
+      "family": "Naeem"
+     },
+     {
+      "given": "Robert V.",
+      "family": "O'Neill"
+     },
+     {
+      "given": "Jose",
+      "family": "Paruelo"
+     },
+     {
+      "given": "Robert G.",
+      "family": "Raskin"
+     },
+     {
+      "given": "Paul",
+      "family": "Sutton"
+     },
+     {
+      "given": "Marjan",
+      "family": "van den Belt"
+     }
+    ],
+    "year": 1997,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "387",
+    "number": "6630",
+    "pages": "253-260",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/387253a0",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 122,
+   "registry": "crossref",
+   "ident": "10.1016/j.mattod.2014.10.040",
+   "field": "other",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Li-ion battery materials: present and future",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Naoki",
+      "family": "Nitta"
+     },
+     {
+      "given": "Feixiang",
+      "family": "Wu"
+     },
+     {
+      "given": "Jung Tae",
+      "family": "Lee"
+     },
+     {
+      "given": "Gleb",
+      "family": "Yushin"
+     }
+    ],
+    "year": 2015,
+    "container": "Materials Today",
+    "short_container": "Materials Today",
+    "volume": "18",
+    "number": "5",
+    "pages": "252-264",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.mattod.2014.10.040",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 123,
+   "registry": "crossref",
+   "ident": "10.1126/science.1230444",
+   "field": "other",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Chemistry and Applications of Metal-Organic Frameworks",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Hiroyasu",
+      "family": "Furukawa"
+     },
+     {
+      "given": "Kyle E.",
+      "family": "Cordova"
+     },
+     {
+      "given": "Michael",
+      "family": "O’Keeffe"
+     },
+     {
+      "given": "Omar M.",
+      "family": "Yaghi"
+     }
+    ],
+    "year": 2013,
+    "container": "Science",
+    "short_container": "Science",
+    "volume": "341",
+    "number": "6149",
+    "pages": "1230444",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "doi": "10.1126/science.1230444",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 124,
+   "registry": "crossref",
+   "ident": "10.1038/199947a0",
+   "field": "other",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Magnetic Anomalies Over Oceanic Ridges",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "F. J.",
+      "family": "Vine"
+     },
+     {
+      "given": "D. H.",
+      "family": "Matthews"
+     }
+    ],
+    "year": 1963,
+    "container": "Nature",
+    "short_container": "Nature",
+    "volume": "199",
+    "number": "4897",
+    "pages": "947-949",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/199947a0",
+    "isbn": ""
+   },
+   "overrides": {
+    "authors": [
+     {
+      "given": "F. J.",
+      "family": "Vine"
+     },
+     {
+      "given": "D. H.",
+      "family": "Matthews"
+     }
+    ]
+   }
+  },
+  {
+   "n": 125,
+   "registry": "crossref",
+   "ident": "10.1115/1.3662552",
+   "field": "other",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A New Approach to Linear Filtering and Prediction Problems",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "R. E.",
+      "family": "Kalman"
+     }
+    ],
+    "year": 1960,
+    "container": "Journal of Basic Engineering",
+    "short_container": "",
+    "volume": "82",
+    "number": "1",
+    "pages": "35-45",
+    "publisher": "ASME International",
+    "doi": "10.1115/1.3662552",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 126,
+   "registry": "crossref",
+   "ident": "10.1175/1520-0469(1963)020<0130:DNF>2.0.CO;2",
+   "field": "other",
+   "entry_type": "article",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Deterministic Nonperiodic Flow",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Edward N.",
+      "family": "Lorenz"
+     }
+    ],
+    "year": 1963,
+    "container": "Journal of the Atmospheric Sciences",
+    "short_container": "J. Atmos. Sci.",
+    "volume": "20",
+    "number": "2",
+    "pages": "130-141",
+    "publisher": "American Meteorological Society",
+    "doi": "10.1175/1520-0469(1963)020<0130:dnf>2.0.co;2",
+    "isbn": ""
+   }
+  },
+  {
+   "n": 127,
+   "registry": "crossref",
+   "ident": "10.1007/978-0-387-84858-7",
+   "field": "math",
+   "entry_type": "book",
+   "style": [],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book",
+    "title": "The Elements of Statistical Learning",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Trevor",
+      "family": "Hastie"
+     },
+     {
+      "given": "Robert",
+      "family": "Tibshirani"
+     },
+     {
+      "given": "Jerome",
+      "family": "Friedman"
+     }
+    ],
+    "year": 2009,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Springer New York",
+    "doi": "10.1007/978-0-387-84858-7",
+    "isbn": "9780387848570",
+    "series": "Springer Series in Statistics"
+   },
+   "overrides": {
+    "container": "",
+    "series": "Springer Series in Statistics"
+   }
+  },
+  {
+   "n": 128,
+   "registry": "crossref",
+   "ident": "10.1017/CBO9780511804441",
+   "field": "math",
+   "entry_type": "book",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "monograph",
+    "title": "Convex Optimization",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Stephen",
+      "family": "Boyd"
+     },
+     {
+      "given": "Lieven",
+      "family": "Vandenberghe"
+     }
+    ],
+    "year": 2004,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Cambridge University Press",
+    "doi": "10.1017/cbo9780511804441",
+    "isbn": "9780521833783"
+   }
+  },
+  {
+   "n": 129,
+   "registry": "crossref",
+   "ident": "10.1201/9780429492563",
+   "field": "math",
+   "entry_type": "book",
+   "style": [
+    "no_doi"
+   ],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book",
+    "title": "Nonlinear Dynamics and Chaos",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Steven H.",
+      "family": "Strogatz"
+     }
+    ],
+    "year": 2018,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "CRC Press",
+    "doi": "10.1201/9780429492563",
+    "isbn": "9780429961113"
+   }
+  },
+  {
+   "n": 130,
+   "registry": "crossref",
+   "ident": "10.1201/b16018",
+   "field": "math",
+   "entry_type": "book",
+   "style": [],
+   "n_authors": 6,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book",
+    "title": "Bayesian Data Analysis",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Andrew",
+      "family": "Gelman"
+     },
+     {
+      "given": "John B.",
+      "family": "Carlin"
+     },
+     {
+      "given": "Hal S.",
+      "family": "Stern"
+     },
+     {
+      "given": "David B.",
+      "family": "Dunson"
+     },
+     {
+      "given": "Aki",
+      "family": "Vehtari"
+     },
+     {
+      "given": "Donald B.",
+      "family": "Rubin"
+     }
+    ],
+    "year": 2013,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Chapman and Hall/CRC",
+    "doi": "10.1201/b16018",
+    "isbn": "9780429113079"
+   }
+  },
+  {
+   "n": 131,
+   "registry": "crossref",
+   "ident": "10.1017/CBO9780511803161",
+   "field": "cs",
+   "entry_type": "book",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "monograph",
+    "title": "Causality",
+    "subtitle": "Models, Reasoning, and Inference",
+    "authors": [
+     {
+      "given": "Judea",
+      "family": "Pearl"
+     }
+    ],
+    "year": 2009,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Cambridge University Press",
+    "doi": "10.1017/cbo9780511803161",
+    "isbn": "9780511803161"
+   }
+  },
+  {
+   "n": 132,
+   "registry": "crossref",
+   "ident": "10.1017/CBO9780511976667",
+   "field": "physics",
+   "entry_type": "book",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "monograph",
+    "title": "Quantum Computation and Quantum Information",
+    "subtitle": "10th Anniversary Edition",
+    "authors": [
+     {
+      "given": "Michael A.",
+      "family": "Nielsen"
+     },
+     {
+      "given": "Isaac L.",
+      "family": "Chuang"
+     }
+    ],
+    "year": 2012,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Cambridge University Press",
+    "doi": "10.1017/cbo9780511976667",
+    "isbn": "9781107002173"
+   }
+  },
+  {
+   "n": 133,
+   "registry": "crossref",
+   "ident": "10.1007/978-1-4757-3264-1",
+   "field": "cs",
+   "entry_type": "book",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book",
+    "title": "The Nature of Statistical Learning Theory",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Vladimir N.",
+      "family": "Vapnik"
+     }
+    ],
+    "year": 2000,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Springer New York",
+    "doi": "10.1007/978-1-4757-3264-1",
+    "isbn": "9781441931603"
+   }
+  },
+  {
+   "n": 134,
+   "registry": "crossref",
+   "ident": "10.1002/9781444319514",
+   "field": "social",
+   "entry_type": "book",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "monograph",
+    "title": "The Rise of the Network Society",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Manuel",
+      "family": "Castells"
+     }
+    ],
+    "year": 2009,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Wiley",
+    "doi": "10.1002/9781444319514",
+    "isbn": "9781405196864"
+   }
+  },
+  {
+   "n": 135,
+   "registry": "crossref",
+   "ident": "10.1002/9780470316696",
+   "field": "math",
+   "entry_type": "book",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "monograph",
+    "title": "Multiple Imputation for Nonresponse in Surveys",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Donald B.",
+      "family": "Rubin"
+     }
+    ],
+    "year": 1987,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Wiley",
+    "doi": "10.1002/9780470316696",
+    "isbn": "9780471087052",
+    "series": "Wiley Series in Probability and Statistics"
+   },
+   "overrides": {
+    "container": "",
+    "series": "Wiley Series in Probability and Statistics"
+   }
+  },
+  {
+   "n": 136,
+   "registry": "crossref",
+   "ident": "10.1037/13620-004",
+   "field": "social",
+   "entry_type": "incollection",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book-chapter",
+    "title": "Thematic analysis",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Virginia",
+      "family": "Braun"
+     },
+     {
+      "given": "Victoria",
+      "family": "Clarke"
+     }
+    ],
+    "year": 2012,
+    "container": "APA handbook of research methods in psychology, Vol 2: Research designs: Quantitative, qualitative, neuropsychological, and biological.",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "57-71",
+    "publisher": "American Psychological Association",
+    "doi": "10.1037/13620-004",
+    "isbn": "1433810050"
+   },
+   "overrides": {
+    "title": "Thematic analysis"
+   }
+  },
+  {
+   "n": 137,
+   "registry": "crossref",
+   "ident": "10.4324/9780203505984-16",
+   "field": "social",
+   "entry_type": "incollection",
+   "style": [],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book-chapter",
+    "title": "The Social Identity Theory of Intergroup Behavior",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Henri",
+      "family": "Tajfel"
+     },
+     {
+      "given": "John C.",
+      "family": "Turner"
+     }
+    ],
+    "year": 2004,
+    "container": "Political Psychology",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "276-293",
+    "publisher": "Psychology Press",
+    "doi": "10.4324/9780203505984-16",
+    "isbn": "9780203505984"
+   }
+  },
+  {
+   "n": 138,
+   "registry": "crossref",
+   "ident": "10.1016/b978-1-4832-1446-7.50035-2",
+   "field": "cs",
+   "entry_type": "incollection",
+   "style": [
+    "initials"
+   ],
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book-chapter",
+    "title": "Learning Internal Representations by Error Propagation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "D.E.",
+      "family": "Rumelhart"
+     },
+     {
+      "given": "G.E.",
+      "family": "Hinton"
+     },
+     {
+      "given": "R.J.",
+      "family": "Williams"
+     }
+    ],
+    "year": 1988,
+    "container": "Readings in Cognitive Science",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "399-421",
+    "publisher": "Elsevier",
+    "doi": "10.1016/b978-1-4832-1446-7.50035-2",
+    "isbn": "9781483214467"
+   },
+   "overrides": {
+    "authors": [
+     {
+      "given": "D.E.",
+      "family": "Rumelhart"
+     },
+     {
+      "given": "G.E.",
+      "family": "Hinton"
+     },
+     {
+      "given": "R.J.",
+      "family": "Williams"
+     }
+    ]
+   }
+  },
+  {
+   "n": 139,
+   "registry": "crossref",
+   "ident": "10.4324/9781003101536-9",
+   "field": "humanities",
+   "entry_type": "incollection",
+   "style": [],
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book-chapter",
+    "title": "Can the Subaltern Speak?",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Gayatri Chakravorty",
+      "family": "Spivak"
+     }
+    ],
+    "year": 2022,
+    "container": "Imperialism",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "171-219",
+    "publisher": "Routledge",
+    "doi": "10.4324/9781003101536-9",
+    "isbn": "9781003101536"
+   }
+  },
+  {
+   "n": 140,
+   "registry": "crossref",
+   "ident": "10.4324/9780203793206",
+   "field": "social",
+   "entry_type": "book",
+   "style": [
+    "no_doi"
+   ],
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book",
+    "title": "The Discovery of Grounded Theory",
+    "subtitle": "Strategies for Qualitative Research",
+    "authors": [
+     {
+      "given": "Barney G.",
+      "family": "Glaser"
+     },
+     {
+      "given": "Anselm L.",
+      "family": "Strauss"
+     }
+    ],
+    "year": 2017,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Routledge",
+    "doi": "10.4324/9780203793206",
+    "isbn": "9780203793206"
+   }
+  }
+ ]
+}

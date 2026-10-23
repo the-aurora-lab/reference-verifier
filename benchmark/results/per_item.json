@@ -1,0 +1,3080 @@
+[
+ {
+  "id": "real-0001",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Deep learning"
+ },
+ {
+  "id": "real-0002",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Long Short-Term Memory"
+ },
+ {
+  "id": "real-0003",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Mastering the game of Go with deep neural networks and tree search"
+ },
+ {
+  "id": "real-0004",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A Mathematical Theory of Communication"
+ },
+ {
+  "id": "real-0005",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Gradient-based learning applied to document recognition"
+ },
+ {
+  "id": "real-0006",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A relational model of data for large shared data banks"
+ },
+ {
+  "id": "real-0007",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "MapReduce: simplified data processing on large clusters"
+ },
+ {
+  "id": "real-0008",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Array programming with NumPy"
+ },
+ {
+  "id": "real-0009",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Random Forests"
+ },
+ {
+  "id": "real-0010",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Human-level control through deep reinforcement learning"
+ },
+ {
+  "id": "real-0011",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Learning representations by back-propagating errors"
+ },
+ {
+  "id": "real-0012",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Deep Residual Learning for Image Recognition"
+ },
+ {
+  "id": "real-0013",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+ },
+ {
+  "id": "real-0014",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "ImageNet: A large-scale hierarchical image database"
+ },
+ {
+  "id": "real-0015",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "U-Net: Convolutional Networks for Biomedical Image Segmentation"
+ },
+ {
+  "id": "real-0016",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Microsoft COCO: Common Objects in Context"
+ },
+ {
+  "id": "real-0017",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Scikit-learn: Machine Learning in Python"
+ },
+ {
+  "id": "real-0018",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Dropout: a simple way to prevent neural networks from overfitting"
+ },
+ {
+  "id": "real-0019",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Attention Is All You Need"
+ },
+ {
+  "id": "real-0020",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "ImageNet classification with deep convolutional neural networks"
+ },
+ {
+  "id": "real-0021",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Conditional Generative Adversarial Nets"
+ },
+ {
+  "id": "real-0022",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"
+ },
+ {
+  "id": "real-0023",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Denoising Diffusion Probabilistic Models"
+ },
+ {
+  "id": "real-0024",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Language Models are Few-Shot Learners"
+ },
+ {
+  "id": "real-0025",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Learning Transferable Visual Models From Natural Language Supervision"
+ },
+ {
+  "id": "real-0026",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"
+ },
+ {
+  "id": "real-0027",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Semi-Supervised Classification with Graph Convolutional Networks"
+ },
+ {
+  "id": "real-0028",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Distributed Representations of Words and Phrases and their Compositionality"
+ },
+ {
+  "id": "real-0029",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Distilling the Knowledge in a Neural Network"
+ },
+ {
+  "id": "real-0030",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Proximal Policy Optimization Algorithms"
+ },
+ {
+  "id": "real-0031",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Scaling Laws for Neural Language Models"
+ },
+ {
+  "id": "real-0032",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Llama 2: Open Foundation and Fine-Tuned Chat Models"
+ },
+ {
+  "id": "real-0033",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Layer Normalization"
+ },
+ {
+  "id": "real-0034",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Gaussian Error Linear Units (GELUs)"
+ },
+ {
+  "id": "real-0035",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The entropy formula for the Ricci flow and its geometric applications"
+ },
+ {
+  "id": "real-0036",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Ricci flow with surgery on three-manifolds"
+ },
+ {
+  "id": "real-0037",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "TASI Lectures on Inflation"
+ },
+ {
+  "id": "real-0038",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Large N Limit of Superconformal Field Theories and Supergravity"
+ },
+ {
+  "id": "real-0039",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Initial sequencing and analysis of the human genome"
+ },
+ {
+  "id": "real-0040",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid"
+ },
+ {
+  "id": "real-0041",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "PROTEIN MEASUREMENT WITH THE FOLIN PHENOL REAGENT"
+ },
+ {
+  "id": "real-0042",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Cleavage of Structural Proteins during the Assembly of the Head of Bacteriophage T4"
+ },
+ {
+  "id": "real-0043",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity"
+ },
+ {
+  "id": "real-0044",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors"
+ },
+ {
+  "id": "real-0045",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A Novel Coronavirus from Patients with Pneumonia in China, 2019"
+ },
+ {
+  "id": "real-0046",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine"
+ },
+ {
+  "id": "real-0047",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Hallmarks of Cancer: The Next Generation"
+ },
+ {
+  "id": "real-0048",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Analysis of Relative Gene Expression Data Using Real-Time Quantitative PCR and the 2−ΔΔCT Method"
+ },
+ {
+  "id": "real-0049",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Basic local alignment search tool"
+ },
+ {
+  "id": "real-0050",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Fiji: an open-source platform for biological-image analysis"
+ },
+ {
+  "id": "real-0051",
+  "label": "real",
+  "field": "biomed",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019\" in Crossref (authors differ)",
+  "match": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019"
+ },
+ {
+  "id": "real-0052",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Trimmomatic: a flexible trimmer for Illumina sequence data"
+ },
+ {
+  "id": "real-0053",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Why Most Published Research Findings Are False"
+ },
+ {
+  "id": "real-0054",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Preferred Reporting Items for Systematic Reviews and Meta-Analyses: The PRISMA Statement"
+ },
+ {
+  "id": "real-0055",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Measuring inconsistency in meta-analyses"
+ },
+ {
+  "id": "real-0056",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Highly accurate protein structure prediction with AlphaFold"
+ },
+ {
+  "id": "real-0057",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Observation of Gravitational Waves from a Binary Black Hole Merger"
+ },
+ {
+  "id": "real-0058",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC"
+ },
+ {
+  "id": "real-0059",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?"
+ },
+ {
+  "id": "real-0060",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Zur Elektrodynamik bewegter Körper"
+ },
+ {
+  "id": "real-0061",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Electric Field Effect in Atomically Thin Carbon Films"
+ },
+ {
+  "id": "real-0062",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Quantum supremacy using a programmable superconducting processor"
+ },
+ {
+  "id": "real-0063",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Inhomogeneous Electron Gas"
+ },
+ {
+  "id": "real-0064",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Self-Consistent Equations Including Exchange and Correlation Effects"
+ },
+ {
+  "id": "real-0065",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Generalized Gradient Approximation Made Simple"
+ },
+ {
+  "id": "real-0066",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "<i>Planck</i>\n                    2018 results: VI. Cosmological parameters"
+ },
+ {
+  "id": "real-0067",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant"
+ },
+ {
+  "id": "real-0068",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Bose-Einstein Condensation in a Gas of Sodium Atoms"
+ },
+ {
+  "id": "real-0069",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Collective dynamics of ‘small-world’ networks"
+ },
+ {
+  "id": "real-0070",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Quantitative universality for a class of nonlinear transformations"
+ },
+ {
+  "id": "real-0071",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Equation of State Calculations by Fast Computing Machines"
+ },
+ {
+  "id": "real-0072",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Regression Shrinkage and Selection Via the Lasso"
+ },
+ {
+  "id": "real-0073",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Maximum Likelihood from Incomplete Data Via the\n                    <i>EM</i>\n                    Algorithm"
+ },
+ {
+  "id": "real-0074",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing"
+ },
+ {
+  "id": "real-0075",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Modular Elliptic Curves and Fermat's Last Theorem"
+ },
+ {
+  "id": "real-0076",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "An Algorithm for Least-Squares Estimation of Nonlinear Parameters"
+ },
+ {
+  "id": "real-0077",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Compressed sensing"
+ },
+ {
+  "id": "real-0078",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information"
+ },
+ {
+  "id": "real-0079",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Monte Carlo sampling methods using Markov chains and their applications"
+ },
+ {
+  "id": "real-0080",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Period Three Implies Chaos"
+ },
+ {
+  "id": "real-0081",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Simple mathematical models with very complicated dynamics"
+ },
+ {
+  "id": "real-0082",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A Stochastic Approximation Method"
+ },
+ {
+  "id": "real-0083",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Bootstrap Methods: Another Look at the Jackknife"
+ },
+ {
+  "id": "real-0084",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Nonparametric Estimation from Incomplete Observations"
+ },
+ {
+  "id": "real-0085",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Regression Models and Life-Tables"
+ },
+ {
+  "id": "real-0086",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I"
+ },
+ {
+  "id": "real-0087",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Fitting Linear Mixed-Effects Models Using\n                    <b>lme4</b>"
+ },
+ {
+  "id": "real-0088",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images"
+ },
+ {
+  "id": "real-0089",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "THE USE OF MULTIPLE MEASUREMENTS IN TAXONOMIC PROBLEMS"
+ },
+ {
+  "id": "real-0090",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Prospect Theory: An Analysis of Decision under Risk"
+ },
+ {
+  "id": "real-0091",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty."
+ },
+ {
+  "id": "real-0092",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Market for \"Lemons\": Quality Uncertainty and the Market Mechanism"
+ },
+ {
+  "id": "real-0093",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Strength of Weak Ties"
+ },
+ {
+  "id": "real-0094",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Estimating the reproducibility of psychological science"
+ },
+ {
+  "id": "real-0095",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations."
+ },
+ {
+  "id": "real-0096",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Tragedy of the Commons: The population problem has no technical solution; it requires a fundamental extension in morality."
+ },
+ {
+  "id": "real-0097",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Using thematic analysis in psychology"
+ },
+ {
+  "id": "real-0098",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A theory of human motivation."
+ },
+ {
+  "id": "real-0099",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Bowling Alone: America's Declining Social Capital"
+ },
+ {
+  "id": "real-0100",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Nature of the Firm"
+ },
+ {
+  "id": "real-0101",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Colonial Origins of Comparative Development: An Empirical Investigation"
+ },
+ {
+  "id": "real-0102",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "I.—COMPUTING MACHINERY AND INTELLIGENCE"
+ },
+ {
+  "id": "real-0103",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "What Is It Like to Be a Bat?"
+ },
+ {
+  "id": "real-0104",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Is Justified True Belief Knowledge?"
+ },
+ {
+  "id": "real-0105",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Minds, brains, and programs"
+ },
+ {
+  "id": "real-0106",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Extended Mind"
+ },
+ {
+  "id": "real-0107",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "On Denoting"
+ },
+ {
+  "id": "real-0108",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Main Trends in Recent Philosophy: Two Dogmas of Empiricism"
+ },
+ {
+  "id": "real-0109",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Trolley Problem"
+ },
+ {
+  "id": "real-0110",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Historical Roots of Our Ecologic Crisis"
+ },
+ {
+  "id": "real-0111",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Gender: A Useful Category of Historical Analysis"
+ },
+ {
+  "id": "real-0112",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "THE MORAL ECONOMY OF THE ENGLISH CROWD IN THE EIGHTEENTH CENTURY"
+ },
+ {
+  "id": "real-0113",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Structure of Scientific Revolutions"
+ },
+ {
+  "id": "real-0114",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A short history of\n                    <i>SHELX</i>"
+ },
+ {
+  "id": "real-0115",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Density-functional thermochemistry. III. The role of exact exchange"
+ },
+ {
+  "id": "real-0116",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Development of the Colle-Salvetti correlation-energy formula into a functional of the electron density"
+ },
+ {
+  "id": "real-0117",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Very high resolution interpolated climate surfaces for global land areas"
+ },
+ {
+  "id": "real-0118",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A safe operating space for humanity"
+ },
+ {
+  "id": "real-0119",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Global Consequences of Land Use"
+ },
+ {
+  "id": "real-0120",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Biodiversity hotspots for conservation priorities"
+ },
+ {
+  "id": "real-0121",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The value of the world's ecosystem services and natural capital"
+ },
+ {
+  "id": "real-0122",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Li-ion battery materials: present and future"
+ },
+ {
+  "id": "real-0123",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Chemistry and Applications of Metal-Organic Frameworks"
+ },
+ {
+  "id": "real-0124",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Magnetic Anomalies Over Oceanic Ridges"
+ },
+ {
+  "id": "real-0125",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A New Approach to Linear Filtering and Prediction Problems"
+ },
+ {
+  "id": "real-0126",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Deterministic Nonperiodic Flow"
+ },
+ {
+  "id": "real-0127",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Elements of Statistical Learning"
+ },
+ {
+  "id": "real-0128",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Convex Optimization"
+ },
+ {
+  "id": "real-0129",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Nonlinear Dynamics and Chaos"
+ },
+ {
+  "id": "real-0130",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Bayesian Data Analysis"
+ },
+ {
+  "id": "real-0131",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Causality: Models, Reasoning, and Inference"
+ },
+ {
+  "id": "real-0132",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Quantum Computation and Quantum Information: 10th Anniversary Edition"
+ },
+ {
+  "id": "real-0133",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Nature of Statistical Learning Theory"
+ },
+ {
+  "id": "real-0134",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Rise of the Network Society"
+ },
+ {
+  "id": "real-0135",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Multiple Imputation for Nonresponse in Surveys"
+ },
+ {
+  "id": "real-0136",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Thematic analysis."
+ },
+ {
+  "id": "real-0137",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Social Identity Theory of Intergroup Behavior"
+ },
+ {
+  "id": "real-0138",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Learning Internal Representations by Error Propagation"
+ },
+ {
+  "id": "real-0139",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Can the Subaltern Speak?"
+ },
+ {
+  "id": "real-0140",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Discovery of Grounded Theory: Strategies for Qualitative Research"
+ },
+ {
+  "id": "fab-0001",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0002",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0003",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0004",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0005",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0006",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0007",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0008",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0009",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0010",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0011",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0012",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0013",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0014",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0015",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0016",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0017",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0018",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0019",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0020",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0021",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0022",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0023",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0024",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0025",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0026",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0027",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0028",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0029",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0030",
+  "label": "fabricated",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/j.jcp.2022.111264 belongs to a different work: \"Controlling conservation laws II: Compressible Navier–Stokes equations\"; no work with the entry's title was found either",
+  "match": null
+ },
+ {
+  "id": "fab-0031",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0032",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0033",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0034",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0035",
+  "label": "fabricated",
+  "field": "physics",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0036",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0037",
+  "label": "fabricated",
+  "field": "other",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0038",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0039",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0040",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0041",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0042",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0043",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0044",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0045",
+  "label": "fabricated",
+  "field": "other",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0046",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0047",
+  "label": "fabricated",
+  "field": "math",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1002/mma.733 belongs to a different work: \"Almost-periodic solutions to quasilinear evolution equations with a nonlocal nonlinearity\"; no work with the entry's title was found either",
+  "match": null
+ },
+ {
+  "id": "fab-0048",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0049",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "doi_not_found",
+  "severity": "high",
+  "note": "DOI 10.1145/3568924 is not registered; no work with this title was found either",
+  "match": null
+ },
+ {
+  "id": "fab-0050",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.3389/fams.2019.00044 belongs to a different work: \"Deep Learning in Music Recommendation Systems\"; no work with the entry's title was found either",
+  "match": null
+ },
+ {
+  "id": "fab-0051",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0052",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0053",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0054",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0055",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0056",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0057",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0058",
+  "label": "fabricated",
+  "field": "other",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0059",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0060",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0061",
+  "label": "fabricated",
+  "field": "other",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0062",
+  "label": "fabricated",
+  "field": "other",
+  "status": "doi_not_found",
+  "severity": "high",
+  "note": "DOI 10.1109/taes.2023.3245120 is not registered; no work with this title was found either",
+  "match": null
+ },
+ {
+  "id": "fab-0063",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0064",
+  "label": "fabricated",
+  "field": "other",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0065",
+  "label": "fabricated",
+  "field": "physics",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0066",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0067",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0068",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0069",
+  "label": "fabricated",
+  "field": "other",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0070",
+  "label": "fabricated",
+  "field": "social",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0071",
+  "label": "fabricated",
+  "field": "other",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0072",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0073",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0074",
+  "label": "fabricated",
+  "field": "social",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0075",
+  "label": "fabricated",
+  "field": "other",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0076",
+  "label": "fabricated",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0077",
+  "label": "fabricated",
+  "field": "other",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0078",
+  "label": "fabricated",
+  "field": "social",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0079",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0080",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "fab-0081",
+  "label": "fabricated",
+  "field": "other",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "wdoi-0001",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1086/225469 belongs to a different work: \"The Strength of Weak Ties\"; the cited work itself exists (found in Crossref)",
+  "match": "Measuring inconsistency in meta-analyses"
+ },
+ {
+  "id": "wdoi-0002",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/j.cell.2011.02.013 belongs to a different work: \"Hallmarks of Cancer: The Next Generation\"; the cited work itself exists (found in OpenAlex)",
+  "match": "Highly accurate protein structure prediction with AlphaFold"
+ },
+ {
+  "id": "wdoi-0003",
+  "label": "wrong_doi",
+  "field": "other",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1002/9780470316696 belongs to a different work: \"Multiple Imputation for Nonresponse in Surveys\"; the cited work itself exists (found in Crossref)",
+  "match": "Li-ion battery materials: present and future"
+ },
+ {
+  "id": "wdoi-0004",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/s0140-6736(20)30925-9 belongs to a different work: \"Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019\"; the cited work itself exists (found in Crossref)",
+  "match": "Analysis of Relative Gene Expression Data Using Real-Time Quantitative PCR and the 2−ΔΔCT Method"
+ },
+ {
+  "id": "wdoi-0005",
+  "label": "wrong_doi",
+  "field": "social",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1115/1.3662552 belongs to a different work: \"A New Approach to Linear Filtering and Prediction Problems\"; the cited work itself exists (found in Crossref)",
+  "match": "Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty."
+ },
+ {
+  "id": "wdoi-0006",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1038/s41586-019-1666-5 belongs to a different work: \"Quantum supremacy using a programmable superconducting processor\"; the cited work itself exists (found in Crossref)",
+  "match": "Bose-Einstein Condensation in a Gas of Sodium Atoms"
+ },
+ {
+  "id": "wdoi-0007",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1145/362384.362685 belongs to a different work: \"A relational model of data for large shared data banks\"; the cited work itself exists (found in Crossref)",
+  "match": "Why Most Published Research Findings Are False"
+ },
+ {
+  "id": "wdoi-0008",
+  "label": "wrong_doi",
+  "field": "social",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1111/j.1468-0335.1937.tb00002.x belongs to a different work: \"The Nature of the Firm\"; the cited work itself exists (found in Crossref)",
+  "match": "The Tragedy of the Commons: The population problem has no technical solution; it requires a fundamental extension in morality."
+ },
+ {
+  "id": "wdoi-0009",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1002/j.1538-7305.1948.tb01338.x belongs to a different work: \"A Mathematical Theory of Communication\"; the cited work itself exists (found in Crossref)",
+  "match": "Collective dynamics of ‘small-world’ networks"
+ },
+ {
+  "id": "wdoi-0010",
+  "label": "wrong_doi",
+  "field": "cs",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1038/nature14236 belongs to a different work: \"Human-level control through deep reinforcement learning\"; the cited work itself exists (found in Crossref)",
+  "match": "Mastering the game of Go with deep neural networks and tree search"
+ },
+ {
+  "id": "wdoi-0011",
+  "label": "wrong_doi",
+  "field": "math",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1136/bmj.327.7414.557 belongs to a different work: \"Measuring inconsistency in meta-analyses\"; the cited work itself exists (found in Crossref)",
+  "match": "Modular Elliptic Curves and Fermat's Last Theorem"
+ },
+ {
+  "id": "wdoi-0012",
+  "label": "wrong_doi",
+  "field": "cs",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1109/5.726791 belongs to a different work: \"Gradient-based learning applied to document recognition\"; the cited work itself exists (found in Crossref)",
+  "match": "Human-level control through deep reinforcement learning"
+ },
+ {
+  "id": "wdoi-0013",
+  "label": "wrong_doi",
+  "field": "math",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/b978-1-4832-1446-7.50035-2 belongs to a different work: \"Learning Internal Representations by Error Propagation\"; the cited work itself exists (found in Crossref)",
+  "match": "Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing"
+ },
+ {
+  "id": "wdoi-0014",
+  "label": "wrong_doi",
+  "field": "other",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/j.mattod.2014.10.040 belongs to a different work: \"Li-ion battery materials: present and future\"; the cited work itself exists (found in Crossref)",
+  "match": "Magnetic Anomalies Over Oceanic Ridges"
+ },
+ {
+  "id": "wdoi-0015",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1038/387253a0 belongs to a different work: \"The value of the world's ecosystem services and natural capital\"; the cited work itself exists (found in Crossref)",
+  "match": "Basic local alignment search tool"
+ },
+ {
+  "id": "wdoi-0016",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1038/30918 belongs to a different work: \"Collective dynamics of ‘small-world’ networks\"; the cited work itself exists (found in OpenAlex)",
+  "match": "Quantum supremacy using a programmable superconducting processor"
+ },
+ {
+  "id": "wdoi-0017",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1093/mind/lix.236.433 belongs to a different work: \"I.—COMPUTING MACHINERY AND INTELLIGENCE\"; the cited work itself exists (found in Crossref)",
+  "match": "Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant"
+ },
+ {
+  "id": "wdoi-0018",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1086/300499 belongs to a different work: \"Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant\"; the cited work itself exists (found in Crossref)",
+  "match": "Zur Elektrodynamik bewegter Körper"
+ },
+ {
+  "id": "wdoi-0019",
+  "label": "wrong_doi",
+  "field": "social",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1175/1520-0469(1963)020<0130:dnf>2.0.co;2 belongs to a different work: \"Deterministic Nonperiodic Flow\"; the cited work itself exists (found in Crossref)",
+  "match": "A theory of human motivation."
+ },
+ {
+  "id": "wdoi-0020",
+  "label": "wrong_doi",
+  "field": "humanities",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.2307/1864376 belongs to a different work: \"Gender: A Useful Category of Historical Analysis\"; the cited work itself exists (found in Crossref)",
+  "match": "Can the Subaltern Speak?"
+ },
+ {
+  "id": "wdoi-0021",
+  "label": "wrong_doi",
+  "field": "cs",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1038/199947a0 belongs to a different work: \"Magnetic Anomalies Over Oceanic Ridges\"; the cited work itself exists (found in Crossref)",
+  "match": "The Nature of Statistical Learning Theory"
+ },
+ {
+  "id": "wdoi-0022",
+  "label": "wrong_doi",
+  "field": "math",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1093/biomet/57.1.97 belongs to a different work: \"Monte Carlo sampling methods using Markov chains and their applications\"; the cited work itself exists (found in Crossref)",
+  "match": "Multiple Imputation for Nonresponse in Surveys"
+ },
+ {
+  "id": "wdoi-0023",
+  "label": "wrong_doi",
+  "field": "cs",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1080/00029890.1975.11994008 belongs to a different work: \"Period Three Implies Chaos\"; the cited work itself exists (found in Crossref)",
+  "match": "A relational model of data for large shared data banks"
+ },
+ {
+  "id": "wdoi-0024",
+  "label": "wrong_doi",
+  "field": "social",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1353/jod.1995.0002 belongs to a different work: \"Bowling Alone: America's Declining Social Capital\"; the cited work itself exists (found in Crossref)",
+  "match": "The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations."
+ },
+ {
+  "id": "wdoi-0025",
+  "label": "wrong_doi",
+  "field": "math",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1103/physrevlett.116.061102 belongs to a different work: \"Observation of Gravitational Waves from a Binary Black Hole Merger\"; the cited work itself exists (found in Crossref)",
+  "match": "Convex Optimization"
+ },
+ {
+  "id": "wdoi-0026",
+  "label": "wrong_doi",
+  "field": "cs",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1038/nature14236 belongs to a different work: \"Human-level control through deep reinforcement learning\"; the cited work itself exists (found in Crossref)",
+  "match": "Causality: Models, Reasoning, and Inference"
+ },
+ {
+  "id": "wdoi-0027",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/b978-1-4832-1446-7.50035-2 belongs to a different work: \"Learning Internal Representations by Error Propagation\"; the cited work itself exists (found in Crossref)",
+  "match": "PROTEIN MEASUREMENT WITH THE FOLIN PHENOL REAGENT"
+ },
+ {
+  "id": "wdoi-0028",
+  "label": "wrong_doi",
+  "field": "math",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1080/01621459.1958.10501452 belongs to a different work: \"Nonparametric Estimation from Incomplete Observations\"; the cited work itself exists (found in Crossref)",
+  "match": "Simple mathematical models with very complicated dynamics"
+ },
+ {
+  "id": "wdoi-0029",
+  "label": "wrong_doi",
+  "field": "social",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1038/nature16961 belongs to a different work: \"Mastering the game of Go with deep neural networks and tree search\"; the cited work itself exists (found in Crossref)",
+  "match": "Bowling Alone: America's Declining Social Capital"
+ },
+ {
+  "id": "wdoi-0030",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1126/science.1102896 belongs to a different work: \"Electric Field Effect in Atomically Thin Carbon Films\"; the cited work itself exists (found in Crossref)",
+  "match": "Equation of state calculations by fast computing machines"
+ },
+ {
+  "id": "wdoi-0031",
+  "label": "wrong_doi",
+  "field": "other",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1002/9781444319514 belongs to a different work: \"The Rise of the Network Society\"; the cited work itself exists (found in Crossref)",
+  "match": "A short history of\n                    <i>SHELX</i>"
+ },
+ {
+  "id": "wdoi-0032",
+  "label": "wrong_doi",
+  "field": "other",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1175/1520-0469(1963)020<0130:dnf>2.0.co;2 belongs to a different work: \"Deterministic Nonperiodic Flow\"; the cited work itself exists (found in Crossref)",
+  "match": "The Chemistry and Applications of Metal-Organic Frameworks"
+ },
+ {
+  "id": "wdoi-0033",
+  "label": "wrong_doi",
+  "field": "cs",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/j.physletb.2012.08.020 belongs to a different work: \"Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC\"; the cited work itself exists (found in Crossref)",
+  "match": "MapReduce: simplified data processing on large clusters"
+ },
+ {
+  "id": "wdoi-0034",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1038/s41586-019-1666-5 belongs to a different work: \"Quantum supremacy using a programmable superconducting processor\"; the cited work itself exists (found in Crossref)",
+  "match": "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?"
+ },
+ {
+  "id": "wdoi-0035",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1007/bf01020332 belongs to a different work: \"Quantitative universality for a class of nonlinear transformations\"; no work with the entry's title was found either",
+  "match": null
+ },
+ {
+  "id": "wdoi-0036",
+  "label": "wrong_doi",
+  "field": "other",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1002/joc.1276 belongs to a different work: \"Very high resolution interpolated climate surfaces for global land areas\"; the cited work itself exists (found in Crossref)",
+  "match": "Biodiversity hotspots for conservation priorities"
+ },
+ {
+  "id": "meta-0001",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Learning Transferable Visual Models From Natural Language Supervision"
+ },
+ {
+  "id": "meta-0002",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"Regression Models and Life-Tables\" in Crossref (authors differ)",
+  "match": "Regression Models and Life-Tables"
+ },
+ {
+  "id": "meta-0003",
+  "label": "metadata_error",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Prospect Theory: An Analysis of Decision under Risk"
+ },
+ {
+  "id": "meta-0004",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "arXiv math/0303109 resolves to the same authors, now titled \"Ricci flow with surgery on three-manifolds\"",
+  "match": "Ricci flow with surgery on three-manifolds"
+ },
+ {
+  "id": "meta-0005",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Mastering the game of Go with deep neural networks and tree search"
+ },
+ {
+  "id": "meta-0006",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Denoising Diffusion Probabilistic Models"
+ },
+ {
+  "id": "meta-0007",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Attention Is All You Need"
+ },
+ {
+  "id": "meta-0008",
+  "label": "metadata_error",
+  "field": "physics",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "meta-0009",
+  "label": "metadata_error",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Thematic analysis."
+ },
+ {
+  "id": "meta-0010",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"Modular Elliptic Curves and Fermat's Last Theorem\" in Crossref (authors differ)",
+  "match": "Modular Elliptic Curves and Fermat's Last Theorem"
+ },
+ {
+  "id": "meta-0011",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Deep Residual Learning for Image Recognition"
+ },
+ {
+  "id": "meta-0012",
+  "label": "metadata_error",
+  "field": "biomed",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "meta-0013",
+  "label": "metadata_error",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Highly accurate protein structure prediction with AlphaFold"
+ },
+ {
+  "id": "meta-0014",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I\" in Crossref (authors differ)",
+  "match": "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I"
+ },
+ {
+  "id": "meta-0015",
+  "label": "metadata_error",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A theory of human motivation."
+ },
+ {
+  "id": "meta-0016",
+  "label": "metadata_error",
+  "field": "physics",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "meta-0017",
+  "label": "metadata_error",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Collective dynamics of ‘small-world’ networks"
+ },
+ {
+  "id": "meta-0018",
+  "label": "metadata_error",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Measuring inconsistency in meta-analyses"
+ },
+ {
+  "id": "meta-0019",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Learning representations by back-propagating errors"
+ },
+ {
+  "id": "meta-0020",
+  "label": "metadata_error",
+  "field": "biomed",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019\" in Crossref (title similarity 0.80)",
+  "match": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019"
+ },
+ {
+  "id": "meta-0021",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Dropout: a simple way to prevent neural networks from overfitting"
+ },
+ {
+  "id": "meta-0022",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Array programming with NumPy"
+ },
+ {
+  "id": "meta-0023",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Monte Carlo sampling methods using Markov chains and their applications"
+ },
+ {
+  "id": "meta-0024",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "meta-0025",
+  "label": "metadata_error",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Chemistry and Applications of Metal-Organic Frameworks"
+ },
+ {
+  "id": "meta-0026",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"Compressed sensing\" in Crossref (authors differ)",
+  "match": "Compressed sensing"
+ },
+ {
+  "id": "meta-0027",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Conditional Generative Adversarial Nets"
+ },
+ {
+  "id": "meta-0028",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "meta-0029",
+  "label": "metadata_error",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Bowling Alone: America's Declining Social Capital"
+ },
+ {
+  "id": "meta-0030",
+  "label": "metadata_error",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "PROTEIN MEASUREMENT WITH THE FOLIN PHENOL REAGENT"
+ },
+ {
+  "id": "meta-0031",
+  "label": "metadata_error",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Density-functional thermochemistry. III. The role of exact exchange"
+ },
+ {
+  "id": "meta-0032",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "arXiv 1503.02531 resolves to the same authors, now titled \"Distilling the Knowledge in a Neural Network\"",
+  "match": "Distilling the Knowledge in a Neural Network"
+ },
+ {
+  "id": "meta-0033",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Language Models are Few-Shot Learners"
+ },
+ {
+  "id": "meta-0034",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Microsoft COCO: Common Objects in Context"
+ },
+ {
+  "id": "meta-0035",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Period Three Implies Chaos"
+ },
+ {
+  "id": "meta-0036",
+  "label": "metadata_error",
+  "field": "humanities",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "meta-0037",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The entropy formula for the Ricci flow and its geometric applications"
+ },
+ {
+  "id": "meta-0038",
+  "label": "metadata_error",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Global Consequences of Land Use"
+ },
+ {
+  "id": "meta-0039",
+  "label": "metadata_error",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Why Most Published Research Findings Are False"
+ },
+ {
+  "id": "meta-0040",
+  "label": "metadata_error",
+  "field": "physics",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "retr-0001",
+  "label": "retracted",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: An intrusion identification and prevention for cloud computing: From the perspective of deep learning"
+ },
+ {
+  "id": "retr-0002",
+  "label": "retracted",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: An improved memory adaptive up-growth to mine high utility itemsets from large transaction databases"
+ },
+ {
+  "id": "retr-0003",
+  "label": "retracted",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A new integrated methodology for constructing linguistic pythagorean fuzzy statements for decision making problems"
+ },
+ {
+  "id": "retr-0004",
+  "label": "retracted",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "[Retracted] Using an Improved PSO‐SVM Model to Recognize and Classify the Image Signals"
+ },
+ {
+  "id": "retr-0005",
+  "label": "retracted",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Retracted: Using Bayesian Network and AIS to Perform Feature Subset Selection"
+ },
+ {
+  "id": "retr-0006",
+  "label": "retracted",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A Novel Maximum Flow Algorithm with Neural Network for Time-Varying Wastage Networks"
+ },
+ {
+  "id": "retr-0007",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "lncRNA PLAC2 activated by H3K27 acetylation promotes cell proliferation and invasion via the activation of Wnt/β‑catenin pathway in oral squamous cell carcinoma"
+ },
+ {
+  "id": "retr-0008",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Electronic Cigarette Use and Myocardial Infarction Among Adults in the US Population Assessment of Tobacco and Health"
+ },
+ {
+  "id": "retr-0009",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: FNDC1 Promotes the Invasiveness of Gastric Cancer via Wnt/β-Catenin Signaling Pathway and Correlates With Peritoneal Metastasis and Prognosis"
+ },
+ {
+  "id": "retr-0010",
+  "label": "retracted",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Radiation reaction force on an accelerating point charge"
+ },
+ {
+  "id": "retr-0011",
+  "label": "retracted",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Impact of beauty and charm H1-ZEUS combined measurements on PDFs and determination of the strong coupling"
+ },
+ {
+  "id": "retr-0012",
+  "label": "retracted",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Temperature dependent photoluminescence with spontaneous piezoelectric field in ZnO∕Zn0.74Mg0.26O single quantum wells"
+ },
+ {
+  "id": "retr-0013",
+  "label": "retracted",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Steady State Analytical Equation of Motion of Linear Shaped Charges Jet Based on the Modification of Birkhoff Theory"
+ },
+ {
+  "id": "retr-0014",
+  "label": "retracted",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Nonlinear sub-diffusion and nonlinear sub-diffusion dispersion equations and their proposed solutions"
+ },
+ {
+  "id": "retr-0015",
+  "label": "retracted",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Toward the Nash Equilibrium Solutions for Large-Scale Pentagonal Fuzzy Continuous Static Games"
+ },
+ {
+  "id": "retr-0016",
+  "label": "retracted",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "On the Extremal Trees for Some Bond Incident Degree Indices with a Fixed Number of Segments"
+ },
+ {
+  "id": "retr-0017",
+  "label": "retracted",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Growth of polynomials with prescribed zeros"
+ },
+ {
+  "id": "retr-0018",
+  "label": "retracted",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "On normal solvability of a Dirichlet-type problem for a third-order improperly elliptic equation"
+ },
+ {
+  "id": "retr-0019",
+  "label": "retracted",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Statistical Convergent Topological Sequence Entropy Maps of the Circle"
+ },
+ {
+  "id": "retr-0020",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Incomplete Exchange Rate Pass-Through: Evidence from Exchange Rate Reform in China"
+ },
+ {
+  "id": "retr-0021",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Model Konseling Kelompok Cognitive Behavior  untuk Penanganan Self-esteem Siswa SMK"
+ },
+ {
+  "id": "retr-0022",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Economic policy uncertainty and commodity market volatility: implications for economic recovery"
+ },
+ {
+  "id": "retr-0023",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Spirits in a Material World:\n                    <i>Hauntology</i>\n                    , Historical Materialism, and Phenomenological Medium Theory"
+ },
+ {
+  "id": "retr-0024",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Physical exercise and psychological health of rural left-behind children: An experiment from China"
+ },
+ {
+  "id": "retr-0025",
+  "label": "retracted",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Two thinks at a time"
+ },
+ {
+  "id": "retr-0026",
+  "label": "retracted",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Arab Women in Nizar Kabbani's Poetry"
+ },
+ {
+  "id": "retr-0027",
+  "label": "retracted",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Paroles à la dérive: Déplacement et virulence chevillardiens"
+ },
+ {
+  "id": "retr-0028",
+  "label": "retracted",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "[Retracted] A Case Study of the Famous Fantasia under the Development Variation Environment Monitoring to Analyze the Characteristics of the Composition of the Suite"
+ },
+ {
+  "id": "retr-0029",
+  "label": "retracted",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Retracted Article: A Nation Within a Nation: Organizing African-American Communities before the Civil War"
+ },
+ {
+  "id": "retr-0030",
+  "label": "retracted",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A STUDY ON VIEWING ACT UNDER THE INFLUENCE OF VIEWER'S DENSITY AND SCALE OF BASIC EXHIBITION TANKS"
+ },
+ {
+  "id": "retr-0031",
+  "label": "retracted",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Synthesis, characterization, and theoretical studies of the photovoltaic properties of novel reactive azonitrobenzaldehyde derivatives"
+ },
+ {
+  "id": "retr-0032",
+  "label": "retracted",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Feature extraction method of stress distribution in indoor load-bearing buildings"
+ },
+ {
+  "id": "retr-0033",
+  "label": "retracted",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Effects of different storage conditions on chemical and physical properties of white mushrooms after vacuum cooling"
+ },
+ {
+  "id": "retr-0034",
+  "label": "retracted",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Influence of electropulsing globularization on the microstructure and mechanical properties of Ti–6Al–4V alloy strip with lamellar microstructure"
+ },
+ {
+  "id": "retr-0035",
+  "label": "retracted",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Significantly Improved Breakdown Strength and Energy Density in Polymer Composites with High Filler Loading by Constructing Isoelectronic Traps"
+ },
+ {
+  "id": "retr-0036",
+  "label": "retracted",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Retraction: Validated analytical modelling of frequency-based aspects, eccentricity and stress concentration in diesel engines with flexible crankshaft"
+ },
+ {
+  "id": "retr-0037",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: APP binds DR6 to trigger axon pruning and neuron death via distinct caspases"
+ },
+ {
+  "id": "retr-0038",
+  "label": "retracted",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Evidence of near-ambient superconductivity in a N-doped lutetium hydride"
+ },
+ {
+  "id": "retr-0039",
+  "label": "retracted",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Room-temperature superconductivity in a carbonaceous sulfur hydride"
+ },
+ {
+  "id": "retr-0040",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Signing at the beginning makes ethics salient and decreases dishonest                    self-reports in comparison to signing at the end"
+ },
+ {
+  "id": "retr-0041",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis"
+ },
+ {
+  "id": "retr-0042",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children"
+ },
+ {
+  "id": "retr-0043",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Stimulus-triggered fate conversion of somatic cells into pluripotency"
+ },
+ {
+  "id": "retr-0044",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Evidence of a Pluripotent Human Embryonic Stem Cell Line Derived from a Cloned Blastocyst"
+ },
+ {
+  "id": "retr-0045",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "When contact changes minds: An experiment on transmission of support for gay equality"
+ }
+]

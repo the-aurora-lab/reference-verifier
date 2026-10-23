@@ -12,7 +12,8 @@ from bibtexparser.latexenc import latex_to_unicode
 
 from ..model import Reference
 
-DOI_RE = re.compile(r"10\.\d{4,9}/[^\s\"<>{}]+", re.IGNORECASE)
+# Old SICI-style DOIs contain angle brackets: 10.1175/1520-0469(1963)020<0130:DNF>2.0.CO;2
+DOI_RE = re.compile(r"10\.\d{4,9}/[^\s\"{}]+", re.IGNORECASE)
 _ARXIV_NEW = re.compile(r"(?<![\d.])(\d{4}\.\d{4,5})(?:v\d+)?(?!\d)")
 _ARXIV_OLD = re.compile(r"\b([a-z\-]+(?:\.[A-Z]{2})?/\d{7})(?:v\d+)?\b")
 _ARXIV_DOI = re.compile(r"^10\.48550/arxiv\.(.+)$")

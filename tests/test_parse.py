@@ -86,3 +86,7 @@ def test_scan_tex(tmp_path):
     assert scan.cited == ["a", "b", "d", "c"]
     assert [p.name for p in scan.bib_files] == ["refs.bib", "other.bib"]
     assert not scan.cites_everything
+
+
+def test_sici_doi_keeps_angle_brackets():
+    assert normalize_doi("10.1175/1520-0469(1963)020<0130:DNF>2.0.CO;2") == "10.1175/1520-0469(1963)020<0130:dnf>2.0.co;2"

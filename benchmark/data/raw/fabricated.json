@@ -1,0 +1,4598 @@
+{
+ "description": "Hallucinated references copied from public compilations (reference metadata only). parsed is our transcription of the printed reference string into BibTeX fields; checks are our own title searches on 2026-10-23 (best title similarity per registry, 0-1).",
+ "items": [
+  {
+   "n": 1,
+   "source": "ansari2026-neurips2025",
+   "location": "Ansari (2026), Section 3.2 and Table 2 (Total Fabrication example)",
+   "cited_in": "a NeurIPS 2025 paper",
+   "raw": "John Smith and Jane Doe. Deep learning techniques for avatar-based interaction in virtual environments. IEEE Transactions on Neural Networks and Learning Systems, 32(12):5600–5612, 2021.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Deep learning techniques for avatar-based interaction in virtual environments",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "John",
+      "family": "Smith"
+     },
+     {
+      "given": "Jane",
+      "family": "Doe"
+     }
+    ],
+    "year": 2021,
+    "container": "IEEE Transactions on Neural Networks and Learning Systems",
+    "short_container": "",
+    "volume": "32",
+    "number": "12",
+    "pages": "5600–5612",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.672,
+     "best_title": "Towards Avatar-Based Interaction in Virtual Reality",
+     "best_id": "10.70675/ee4857f4z4df3z4a9ezabefz9651f6bf3228"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.667,
+     "best_title": "3D Interaction Techniques for Bimanual Haptics in Virtual Environments.",
+     "best_id": "books/sp/13/TalvasMCL13"
+    }
+   }
+  },
+  {
+   "n": 2,
+   "source": "ansari2026-neurips2025",
+   "location": "Ansari (2026), Section 3.2 (Total Fabrication example)",
+   "cited_in": "a NeurIPS 2025 paper",
+   "raw": "Zhipeng Zhang, Chang Liu, Shihan Wu, and Yan Zhao. EST: Event spatio-temporal transformer for object recognition with event cameras. In ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pages 1-5. IEEE, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "EST: Event spatio-temporal transformer for object recognition with event cameras",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Zhipeng",
+      "family": "Zhang"
+     },
+     {
+      "given": "Chang",
+      "family": "Liu"
+     },
+     {
+      "given": "Shihan",
+      "family": "Wu"
+     },
+     {
+      "given": "Yan",
+      "family": "Zhao"
+     }
+    ],
+    "year": 2023,
+    "container": "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "1-5",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.662,
+     "best_title": "Spiking Swin Transformer for UAV Object Detection Based on Event Cameras",
+     "best_id": "10.1109/isctech63666.2024.10845340"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.697,
+     "best_title": "Spatial-Temporal Transformer for Crime Recognition in Surveillance Videos.",
+     "best_id": "conf/avss/BoekhoudtT22"
+    }
+   }
+  },
+  {
+   "n": 3,
+   "source": "ansari2026-neurips2025",
+   "location": "Ansari (2026), Section 3.2 (Total Fabrication example)",
+   "cited_in": "a NeurIPS 2025 paper",
+   "raw": "Z. Zhu, T. Yu, X. Zhang, J. Li, Y. Zhang, and Y. Fu. Neuralrgb-d: Neural representations for depth estimation and scene mapping. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Neuralrgb-d: Neural representations for depth estimation and scene mapping",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Z.",
+      "family": "Zhu"
+     },
+     {
+      "given": "T.",
+      "family": "Yu"
+     },
+     {
+      "given": "X.",
+      "family": "Zhang"
+     },
+     {
+      "given": "J.",
+      "family": "Li"
+     },
+     {
+      "given": "Y.",
+      "family": "Zhang"
+     },
+     {
+      "given": "Y.",
+      "family": "Fu"
+     }
+    ],
+    "year": 2022,
+    "container": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.584,
+     "best_title": "Geometric and Neural Representations for 3D Scene Reconstruction",
+     "best_id": "10.14711/thesis-hdl174737"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.663,
+     "best_title": "Physics-Informed Implicit Neural Representations for Joint B0 Estimation and Echo Planar Imaging.",
+     "best_id": "conf/miccai/HuangWLLGRS25"
+    }
+   }
+  },
+  {
+   "n": 4,
+   "source": "ansari2026-neurips2025",
+   "location": "Ansari (2026), Section 3.4 and Table 2 (Identifier Hijacking example)",
+   "cited_in": "a NeurIPS 2025 paper",
+   "raw": "Alex Wang, Rishi Bommasani, Dan Hendrycks, Daniel Song, and Zhilin Zhang. Efficient few-shot learning with EFL: A single transformer for all tasks. arXiv:2107.13586, 2021.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Efficient few-shot learning with EFL: A single transformer for all tasks",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Alex",
+      "family": "Wang"
+     },
+     {
+      "given": "Rishi",
+      "family": "Bommasani"
+     },
+     {
+      "given": "Dan",
+      "family": "Hendrycks"
+     },
+     {
+      "given": "Daniel",
+      "family": "Song"
+     },
+     {
+      "given": "Zhilin",
+      "family": "Zhang"
+     }
+    ],
+    "year": 2021,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "misc",
+    "arxiv": "2107.13586"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.542,
+     "best_title": "Few-shot learning with domain spanning for supradiegetic and semantic language\n               tasks",
+     "best_id": "10.17760/d20808948"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.646,
+     "best_title": "Efficient Metric Learning with Graph Transformer for Accurate Colorectal Cancer Staging.",
+     "best_id": "conf/bhi/PeiZS22"
+    },
+    "arxiv_id": {
+     "id": "2107.13586",
+     "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+     "sim": 0.222
+    }
+   }
+  },
+  {
+   "n": 5,
+   "source": "ansari2026-neurips2025",
+   "location": "Ansari (2026), Section 3.6 and Table 2 (Semantic Hallucination example)",
+   "cited_in": "a NeurIPS 2025 paper",
+   "raw": "Nanda, N. (2023). Progress in mechanistic interpretability: Reverse-engineering induction heads in GPT-2.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Progress in mechanistic interpretability: Reverse-engineering induction heads in GPT-2",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "N.",
+      "family": "Nanda"
+     }
+    ],
+    "year": 2023,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "misc"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.584,
+     "best_title": "Mechanistic Interpretability of Animacy Effects on Structure Choice in GPT-2",
+     "best_id": "10.18653/v1/2026.conll-main.38"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.6,
+     "best_title": "Bridging Mechanistic Interpretability and Prompt Engineering with Gradient Ascent for Interpretable Persona Control.",
+     "best_id": "journals/corr/abs-2601-02896"
+    }
+   }
+  },
+  {
+   "n": 6,
+   "source": "ansari2026-neurips2025",
+   "location": "Ansari (2026), Section 3.5 and Table 2 (Placeholder Hallucination example)",
+   "cited_in": "a NeurIPS 2025 paper",
+   "raw": "Firstname Lastname and Others. Drivlme: A large-scale multi-agent driving benchmark, 2023. URL or arXiv ID to be updated.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Drivlme: A large-scale multi-agent driving benchmark",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Firstname",
+      "family": "Lastname"
+     }
+    ],
+    "year": 2023,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "misc",
+    "note": "URL or arXiv ID to be updated"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.595,
+     "best_title": "Adaptive replication of large-scale multi-agent systems",
+     "best_id": "10.1145/1082960.1082977"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.57,
+     "best_title": "DriveDNA: A Large-Scale Multimodal Naturalistic Driving Dataset and Benchmark for Driving Style Identification.",
+     "best_id": "journals/corr/abs-2607-23822"
+    }
+   }
+  },
+  {
+   "n": 7,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 6",
+   "cited_in": "ACL Anthology paper 2024.arabicnlp-1.24",
+   "raw": "Isabel Moreno and Wei Zhang. 2024. Evaluating multilingual models on nlp tasks in arabic. Computational Linguistics, 50(3):425–445.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Evaluating multilingual models on nlp tasks in arabic",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Isabel",
+      "family": "Moreno"
+     },
+     {
+      "given": "Wei",
+      "family": "Zhang"
+     }
+    ],
+    "year": 2024,
+    "container": "Computational Linguistics",
+    "short_container": "",
+    "volume": "50",
+    "number": "3",
+    "pages": "425–445",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.597,
+     "best_title": "Evaluating Multilingual and Arabic Large Language Models for Quranic QA",
+     "best_id": "10.21203/rs.3.rs-8001155/v1"
+    },
+    "openalex": {
+     "best_sim": 0.5,
+     "best_title": "Taqyim: Evaluating Arabic NLP Tasks Using ChatGPT Models",
+     "best_id": "https://openalex.org/W4382619177"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.649,
+     "best_title": "Evaluating Multilingual Question Answering Systems at CLEF.",
+     "best_id": "conf/lrec/FornerGMPRS10"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Isabel Moreno' plus title: best match 0.42 ('A Two-Stage Fine-tuning Approach for Democratizing Multil...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 189, best 0.65; no Crossref record found at the cited location (Computational Linguistics 50:425–445)."
+  },
+  {
+   "n": 8,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 25",
+   "cited_in": "ACL Anthology paper 2025.dravidianlangtech-1.38",
+   "raw": "Simran Khanuja, Kaustav Dey, El Moatez Billah Karim Nagoudi, et al. 2020. A new dataset and strong baselines for the detection of code-mixed offensive language. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1719–1726.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "A new dataset and strong baselines for the detection of code-mixed offensive language",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Simran",
+      "family": "Khanuja"
+     },
+     {
+      "given": "Kaustav",
+      "family": "Dey"
+     },
+     {
+      "given": "El Moatez Billah Karim",
+      "family": "Nagoudi"
+     }
+    ],
+    "year": 2020,
+    "container": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "1719–1726",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.57,
+     "best_title": "Hate Speech Detection with SOCOLD: Sinhala Obfuscated &amp; Code-Mixed Offensive Language Dataset",
+     "best_id": "10.1109/icarc68737.2026.11453581"
+    },
+    "openalex": {
+     "best_sim": 0.371,
+     "best_title": "Meta-Learning for Offensive Language Detection in Code-Mixed Texts",
+     "best_id": "https://openalex.org/W4210722113"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.568,
+     "best_title": "Are Strong Baselines Enough? False News Detection with Machine Learning.",
+     "best_id": "journals/fi/AslanPJ24"
+    }
+   }
+  },
+  {
+   "n": 9,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 50",
+   "cited_in": "ACL Anthology paper 2025.naacl-long.371",
+   "raw": "Jakob Prange, Khalil Mrini, and Noah A. Smith. 2023. Challenges and opportunities in nlp for systematic generalization: Beyond compositionality. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics. Association for Computational Linguistics.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Challenges and opportunities in nlp for systematic generalization: Beyond compositionality",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jakob",
+      "family": "Prange"
+     },
+     {
+      "given": "Khalil",
+      "family": "Mrini"
+     },
+     {
+      "given": "Noah A.",
+      "family": "Smith"
+     }
+    ],
+    "year": 2023,
+    "container": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Association for Computational Linguistics",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.455,
+     "best_title": "Emergent Language Generalization and Acquisition Speed are not tied to Compositionality",
+     "best_id": "10.18653/v1/2020.blackboxnlp-1.2"
+    },
+    "openalex": {
+     "best_sim": 0.411,
+     "best_title": "Machine learning on big data: Opportunities and challenges",
+     "best_id": "https://openalex.org/W2576683119"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.541,
+     "best_title": "Enabling Systematic Generalization in Abstract Spatial Reasoning through Meta-Learning for Compositionality.",
+     "best_id": "journals/corr/abs-2504-01445"
+    }
+   }
+  },
+  {
+   "n": 10,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 65",
+   "cited_in": "ACL Anthology paper 2025.acl-long.1554",
+   "raw": "Dorottya Demeszky, Weijie Gong, and Diyi Yang. 2019. Analyzing bias and framing in news articles on artificial intelligence: The case of sentiment analysis. In Proceedings of the 2019 Annual Conference on Empirical Methods in Natural Language Processing, pages 1655–1661.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Analyzing bias and framing in news articles on artificial intelligence: The case of sentiment analysis",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Dorottya",
+      "family": "Demeszky"
+     },
+     {
+      "given": "Weijie",
+      "family": "Gong"
+     },
+     {
+      "given": "Diyi",
+      "family": "Yang"
+     }
+    ],
+    "year": 2019,
+    "container": "Proceedings of the 2019 Annual Conference on Empirical Methods in Natural Language Processing",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "1655–1661",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.55,
+     "best_title": "Sentiment analysis of news videos about artificial intelligence in turkey: A YouTube case",
+     "best_id": "10.15198/seeci.2025.58.e897"
+    },
+    "openalex": {
+     "best_sim": 0.561,
+     "best_title": "Perceptions of STEM education and artificial intelligence: a Twitter (X) sentiment analysis",
+     "best_id": "https://openalex.org/W4407372061"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.649,
+     "best_title": "Analyzing behavioral intentions toward Generative Artificial Intelligence: the case of ChatGPT.",
+     "best_id": "journals/uais/NanSZZK25"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Dorottya Demeszky' plus title: best match 0.48 ('Utilizing Artificial Intelligence in Combating Human Traf...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 400, best 0.57."
+  },
+  {
+   "n": 11,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 67",
+   "cited_in": "ACL Anthology paper 2025.acl-long.248",
+   "raw": "Wei Chen, Arjun Kumar, and Lin Yang. 2024. Distraction-based attack prompts: An effective jailbreaking method for llms. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL).",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Distraction-based attack prompts: An effective jailbreaking method for llms",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Wei",
+      "family": "Chen"
+     },
+     {
+      "given": "Arjun",
+      "family": "Kumar"
+     },
+     {
+      "given": "Lin",
+      "family": "Yang"
+     }
+    ],
+    "year": 2024,
+    "container": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.488,
+     "best_title": "Decomposition, Synthesis, and Attack: A Multi-Instruction Fusion Method for Jailbreaking LLMs",
+     "best_id": "10.1109/jiot.2025.3525741"
+    },
+    "openalex": {
+     "best_sim": 0.545,
+     "best_title": "Feint and Attack: Attention-Based Strategies for Jailbreaking and Protecting LLMs",
+     "best_id": "https://openalex.org/W4404260791"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.48,
+     "best_title": "Distraction is All You Need for Multimodal Large Language Model Jailbreaking.",
+     "best_id": "conf/cvpr/YangFYGLLMD25"
+    }
+   }
+  },
+  {
+   "n": 12,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 129",
+   "cited_in": "ACL Anthology paper 2025.semeval-1.268",
+   "raw": "Min Li, Liangyou Li, and Philipp Koehn. 2022. Lowfrequency entity translation in neural machine translation. In Findings of the Association for Computational Linguistics: ACL 2022, pages 3021–3033.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Lowfrequency entity translation in neural machine translation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Min",
+      "family": "Li"
+     },
+     {
+      "given": "Liangyou",
+      "family": "Li"
+     },
+     {
+      "given": "Philipp",
+      "family": "Koehn"
+     }
+    ],
+    "year": 2022,
+    "container": "Findings of the Association for Computational Linguistics: ACL",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "3021–3033",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.653,
+     "best_title": "Effect of Named Entity Recognition on English-Vietnamese Neural Machine Translation",
+     "best_id": "10.18178/ijmlc.2022.12.2.1078"
+    },
+    "openalex": {
+     "best_sim": 0.63,
+     "best_title": "Measuring and Mitigating Name Biases in Neural Machine Translation",
+     "best_id": "https://openalex.org/W4285301689"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   }
+  },
+  {
+   "n": 13,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 138",
+   "cited_in": "ACL Anthology paper 2025.woah-1.21",
+   "raw": "Hande Kartal, Dilek Hakkani-Tür, and Gokhan Tur. 2022. Span-based detection of biased statements in news articles. In Proceedings of the 2022 Conference on Computational Linguistics. COLING.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Span-based detection of biased statements in news articles",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Hande",
+      "family": "Kartal"
+     },
+     {
+      "given": "Dilek",
+      "family": "Hakkani-Tür"
+     },
+     {
+      "given": "Gokhan",
+      "family": "Tur"
+     }
+    ],
+    "year": 2022,
+    "container": "Proceedings of the 2022 Conference on Computational Linguistics. COLING",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.626,
+     "best_title": "Emerging Trend Detection in News Articles",
+     "best_id": "10.70675/7a92cf20z7488z4551zb81dz255fc375df3b"
+    },
+    "openalex": {
+     "best_sim": 0.589,
+     "best_title": "Revealing Media Bias in News Articles",
+     "best_id": "https://openalex.org/W4321766921"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.621,
+     "best_title": "Logical Detection of Invalid SameAs Statements in RDF Data.",
+     "best_id": "conf/ekaw/PapaleoPSD14"
+    }
+   }
+  },
+  {
+   "n": 14,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 154",
+   "cited_in": "ACL Anthology paper 2025.emnlp-industry.187",
+   "raw": "Jun Xu, Fan Wang, and Shuo Chen. 2022. Automated question-answering for vehicle manuals using nlp and knowledge graphs. IEEE Transactions on Intelligent Transportation Systems.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Automated question-answering for vehicle manuals using nlp and knowledge graphs",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jun",
+      "family": "Xu"
+     },
+     {
+      "given": "Fan",
+      "family": "Wang"
+     },
+     {
+      "given": "Shuo",
+      "family": "Chen"
+     }
+    ],
+    "year": 2022,
+    "container": "IEEE Transactions on Intelligent Transportation Systems",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.597,
+     "best_title": "Question Answering over Spatiotemporal Knowledge Graphs",
+     "best_id": "10.70675/2560c7a7z1688z4dd2z84f8z2acde51c1831"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.641,
+     "best_title": "Automated Template Generation for Question Answering over Knowledge Graphs.",
+     "best_id": "conf/www/AbujabalYRW17"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Jun Xu' plus title: best match 0.66 ('Question answering over knowledge graphs'); arXiv author+keyword search: best 0.54; dblp records sharing the two longest title words: 81, best 0.64."
+  },
+  {
+   "n": 15,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 155",
+   "cited_in": "ACL Anthology paper 2025.emnlp-industry.189",
+   "raw": "Yifan Liu, Jiaqi Wang, and Zhi Zhang. 2024. Bias in ai investment advice: An analysis of home bias in large language models. arXiv preprint arXiv:2209.04538.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Bias in ai investment advice: An analysis of home bias in large language models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yifan",
+      "family": "Liu"
+     },
+     {
+      "given": "Jiaqi",
+      "family": "Wang"
+     },
+     {
+      "given": "Zhi",
+      "family": "Zhang"
+     }
+    ],
+    "year": 2024,
+    "container": "arXiv preprint arXiv:2209.04538",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.53,
+     "best_title": "Ethics and Fairness in Conversational AI: A Framework for Addressing Bias in Large-Scale Language Models",
+     "best_id": "10.47191/etj/v11i01.09"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.613,
+     "best_title": "GPT-InvestAR: Enhancing Stock Investment Strategies through Annual Report Analysis with Large Language Models.",
+     "best_id": "journals/corr/abs-2309-03079"
+    },
+    "arxiv_id": {
+     "id": "2209.04538",
+     "title": "Phase field model for multi-material shape optimization of inextensible rods",
+     "sim": 0.156
+    }
+   }
+  },
+  {
+   "n": 16,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 163",
+   "cited_in": "ACL Anthology paper 2025.emnlp-main.1119",
+   "raw": "Chenyan Yu, Lee Xiong, and Jamie Callan. 2022. A survey on conversational dense retrieval: Methods and challenges. arXiv preprint arXiv:2201.08452.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "A survey on conversational dense retrieval: Methods and challenges",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Chenyan",
+      "family": "Yu"
+     },
+     {
+      "given": "Lee",
+      "family": "Xiong"
+     },
+     {
+      "given": "Jamie",
+      "family": "Callan"
+     }
+    ],
+    "year": 2022,
+    "container": "arXiv preprint arXiv:2201.08452",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.654,
+     "best_title": "Few-Shot Conversational Dense Retrieval",
+     "best_id": "10.1145/3404835.3462856"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.641,
+     "best_title": "Persona-Based Conversational AI: State of the Art and Challenges.",
+     "best_id": "conf/icdm/LiuSV22"
+    },
+    "arxiv_id": {
+     "id": "2201.08452",
+     "title": "npm-filter: Automating the mining of dynamic information from npm packages",
+     "sim": 0.275
+    }
+   }
+  },
+  {
+   "n": 17,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 189",
+   "cited_in": "ACL Anthology paper 2025.emnlp-main.207",
+   "raw": "Shuang Chen, Yang Liu, and Erik Cambria. 2023. Knowledge-enhanced aspect-based sentiment analysis with external commonsense graphs. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), pages 13567–13579. Association for Computational Linguistics.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Knowledge-enhanced aspect-based sentiment analysis with external commonsense graphs",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Shuang",
+      "family": "Chen"
+     },
+     {
+      "given": "Yang",
+      "family": "Liu"
+     },
+     {
+      "given": "Erik",
+      "family": "Cambria"
+     }
+    ],
+    "year": 2023,
+    "container": "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "13567–13579",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.599,
+     "best_title": "A Knowledge Enhanced Graph Convolutional Network for Aspect-based Sentiment Analysis",
+     "best_id": "10.21203/rs.3.rs-2775154/v1"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.637,
+     "best_title": "Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM.",
+     "best_id": "conf/aaai/MaPC18"
+    }
+   }
+  },
+  {
+   "n": 18,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 211",
+   "cited_in": "ACL Anthology paper 2025.emnlp-main.831",
+   "raw": "Paola Espinosa, Sarah Kadi, Stefanie Kamps, and et al. 2017. Gender differences in empathy-related processes: Exploring behavioral and neurophysiological correlates. Psychoneuroendocrinology, 85:34–43.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Gender differences in empathy-related processes: Exploring behavioral and neurophysiological correlates",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Paola",
+      "family": "Espinosa"
+     },
+     {
+      "given": "Sarah",
+      "family": "Kadi"
+     },
+     {
+      "given": "Stefanie",
+      "family": "Kamps"
+     }
+    ],
+    "year": 2017,
+    "container": "Psychoneuroendocrinology",
+    "short_container": "",
+    "volume": "85",
+    "number": "",
+    "pages": "34–43",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.498,
+     "best_title": "Linguistic Empathy: Behavioral measures, neurophysiological correlates, and correlation with Psychological Empathy",
+     "best_id": "10.1016/j.neuropsychologia.2023.108650"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.497,
+     "best_title": "Qualitative Differences in L3 Learners' Neurophysiological Response to L1 versus L2 Transfer.",
+     "best_id": "conf/interspeech/FernandezH17"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Paola Espinosa' plus title: best match 0.46 ('Gender Differences in Political Budget Cycles'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 9, best 0.50; no Crossref record found at the cited location (Psychoneuroendocrinology 85:34–43)."
+  },
+  {
+   "n": 19,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 252",
+   "cited_in": "ACL Anthology paper 2025.findings-emnlp.645",
+   "raw": "Sho Kurita, Jonas Pfeiffer, Ivan Vulic, Edoardo Ponti, ´ and Anna Korhonen. 2020. A weighted approach to unsupervised multilingual transformer fine-tuning. In Proc. of AACL-IJCNLP.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "A weighted approach to unsupervised multilingual transformer fine-tuning",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Sho",
+      "family": "Kurita"
+     },
+     {
+      "given": "Jonas",
+      "family": "Pfeiffer"
+     },
+     {
+      "given": "Ivan",
+      "family": "Vulic"
+     },
+     {
+      "given": "Edoardo",
+      "family": "Ponti"
+     },
+     {
+      "family": "´",
+      "given": ""
+     },
+     {
+      "given": "Anna",
+      "family": "Korhonen"
+     }
+    ],
+    "year": 2020,
+    "container": "Proc. of AACL-IJCNLP",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.62,
+     "best_title": "Algorithm 1: Strategy 1: supervised transformer fine-tuning.",
+     "best_id": "10.7717/peerj-cs.3985/table-17"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.681,
+     "best_title": "A Simple Approach to Learning Unsupervised Multilingual Embeddings.",
+     "best_id": "conf/emnlp/JawanpuriaMM20"
+    }
+   }
+  },
+  {
+   "n": 20,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 285",
+   "cited_in": "ACL Anthology paper 2025.starsem-1.24",
+   "raw": "esse Dunietz, Sam Thomson, Chris Dyer, and Noah A. Smith. 2020. An interpretable, lexicalized model for implicit event causality. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 1703–1713.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "An interpretable, lexicalized model for implicit event causality",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "esse",
+      "family": "Dunietz"
+     },
+     {
+      "given": "Sam",
+      "family": "Thomson"
+     },
+     {
+      "given": "Chris",
+      "family": "Dyer"
+     },
+     {
+      "given": "Noah A.",
+      "family": "Smith"
+     }
+    ],
+    "year": 2020,
+    "container": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "1703–1713",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.528,
+     "best_title": "Explicit and Implicit Knowledge-Enhanced Model for Event Causality Identification",
+     "best_id": "10.2139/ssrn.4438100"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   }
+  },
+  {
+   "n": 21,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 293",
+   "cited_in": "ACL Anthology paper 2025.winlp-main.19",
+   "raw": "Yujia Tan, Wenpeng Zhang, Xiang Ren, and Qiji Chen. 2023b. Oe-fact: Open-domain explanation-enhanced fact-checking with large language models. In Findings of the Association for Computational Linguistics: EMNLP 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Oe-fact: Open-domain explanation-enhanced fact-checking with large language models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yujia",
+      "family": "Tan"
+     },
+     {
+      "given": "Wenpeng",
+      "family": "Zhang"
+     },
+     {
+      "given": "Xiang",
+      "family": "Ren"
+     },
+     {
+      "given": "Qiji",
+      "family": "Chen"
+     }
+    ],
+    "year": 2023,
+    "container": "Findings of the Association for Computational Linguistics: EMNLP",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.629,
+     "best_title": "Graph-of-Thoughts for Fact-Checking with Large Language Models",
+     "best_id": "10.18653/v1/2025.fever-1.21"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.494,
+     "best_title": "MCVE: multimodal claim verification and explanation framework for fact-checking system.",
+     "best_id": "journals/mms/LuuVN25"
+    }
+   }
+  },
+  {
+   "n": 22,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 10 row 14",
+   "cited_in": "ACL Anthology paper 2025.bhasha-1.2",
+   "raw": "Omri Abend and Ari Rappaport. 2017. The universal anaphora annotation framework. Transactions of the Association for Computational Linguistics, 5:561– 577.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "The universal anaphora annotation framework",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Omri",
+      "family": "Abend"
+     },
+     {
+      "given": "Ari",
+      "family": "Rappaport"
+     }
+    ],
+    "year": 2017,
+    "container": "Transactions of the Association for Computational Linguistics",
+    "short_container": "",
+    "volume": "5",
+    "number": "",
+    "pages": "561– 577",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.594,
+     "best_title": "Language resource management. Semantic annotation framework",
+     "best_id": "10.3403/30332766"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.651,
+     "best_title": "A graph-based image annotation framework.",
+     "best_id": "journals/prl/LiuWLM08"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Omri Abend' plus title: best match 0.41 ('Universal Joint Source-Channel Coding Under an Input Ener...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 400, best 0.65; no Crossref record found at the cited location (Transactions of the Association for Computational Linguistics 5:561– 577)."
+  },
+  {
+   "n": 23,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 10 row 60",
+   "cited_in": "ACL Anthology paper 2026.abjadnlp-1.49",
+   "raw": "Wenxuan Zhang, Kun Song, Sebastian Riedel, and Antoine Bosselut. 2023c. Benchmarking graph-based hallucination detection for factual consistency in summarization. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 4403–4418.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Benchmarking graph-based hallucination detection for factual consistency in summarization",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Wenxuan",
+      "family": "Zhang"
+     },
+     {
+      "given": "Kun",
+      "family": "Song"
+     },
+     {
+      "given": "Sebastian",
+      "family": "Riedel"
+     },
+     {
+      "given": "Antoine",
+      "family": "Bosselut"
+     }
+    ],
+    "year": 2023,
+    "container": "Findings of the Association for Computational Linguistics: EMNLP",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "4403–4418",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.598,
+     "best_title": "Evaluation Framework for Hallucination and Factual Consistency in Arabic Voice Agents",
+     "best_id": "10.2139/ssrn.5441054"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.649,
+     "best_title": "Aletheia: A Two-Stage Graph-Based Framework for Hallucination Detection in Abstractive Summarization.",
+     "best_id": "conf/icic/CaiLWZHHCWZW26"
+    }
+   }
+  },
+  {
+   "n": 24,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 10 row 61",
+   "cited_in": "ACL Anthology paper 2026.abjadnlp-1.51",
+   "raw": "Jiucai Li and Yong Jiang. 2023. Deepfake text detection: A study of detection methods and model robustness. arXiv preprint arXiv:2303.16876.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Deepfake text detection: A study of detection methods and model robustness",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jiucai",
+      "family": "Li"
+     },
+     {
+      "given": "Yong",
+      "family": "Jiang"
+     }
+    ],
+    "year": 2023,
+    "container": "arXiv preprint arXiv:2303.16876",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.444,
+     "best_title": "Table 1: Survey on deepfake detection methods.",
+     "best_id": "10.7717/peerj-cs.953/table-1"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.511,
+     "best_title": "Robustness in deepfake speech detection: A survey of failure mechanisms including an experimental case study.",
+     "best_id": "journals/csl/MaltbyWGMSLC27"
+    },
+    "arxiv_id": {
+     "id": "2303.16876",
+     "title": "Many-body localization proximity effect in two-species bosonic Hubbard model",
+     "sim": 0.362
+    }
+   }
+  },
+  {
+   "n": 25,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 10 row 91",
+   "cited_in": "ACL Anthology paper 2026.eacl-long.95",
+   "raw": "OpenAI. 2025a. Gpt-5: Scaling laws and emergent reasoning abilities. arXiv preprint arXiv:2505.12345.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Gpt-5: Scaling laws and emergent reasoning abilities",
+    "subtitle": "",
+    "authors": [
+     {
+      "family": "OpenAI",
+      "given": ""
+     }
+    ],
+    "year": 2025,
+    "container": "arXiv preprint arXiv:2505.12345",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.581,
+     "best_title": "Beyond Scaling Laws: Towards Scientific Reasoning-Driven LLM Architectures",
+     "best_id": "10.20944/preprints202504.2088.v1"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.555,
+     "best_title": "Enhancing Effects of Causal Scaffolding on Preschoolers' Analogical Reasoning Abilities.",
+     "best_id": "conf/cogsci/ReaganPGG24"
+    },
+    "arxiv_id": {
+     "id": "2505.12345",
+     "title": "UniEdit: A Unified Knowledge Editing Benchmark for Large Language Models",
+     "sim": 0.328
+    }
+   }
+  },
+  {
+   "n": 26,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 10 row 103",
+   "cited_in": "ACL Anthology paper 2026.findings-eacl.135",
+   "raw": "Kevin Walsh, Carlos Ramisch, Agata Savary, and Silvio Cordeiro. 2018. A dataset of verbal multiword expressions annotated with syntactic variants. In Proceedings of the Joint Workshop on Linguistic Annotation, Multiword Expressions and Constructions (LAW-MWE-CxG-2018), pages 101–110. Association for Computational Linguistics.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "A dataset of verbal multiword expressions annotated with syntactic variants",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Kevin",
+      "family": "Walsh"
+     },
+     {
+      "given": "Carlos",
+      "family": "Ramisch"
+     },
+     {
+      "given": "Agata",
+      "family": "Savary"
+     },
+     {
+      "given": "Silvio",
+      "family": "Cordeiro"
+     }
+    ],
+    "year": 2018,
+    "container": "Proceedings of the Joint Workshop on Linguistic Annotation, Multiword Expressions and Constructions (LAW-MWE-CxG-2018)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "101–110",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.566,
+     "best_title": "Predicting Compositionality of Verbal Multiword Expressions in Persian",
+     "best_id": "10.18653/v1/2023.mwe-1.5"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.609,
+     "best_title": "Evaluating Diversity of Multiword Expressions in Annotated Text.",
+     "best_id": "conf/coling/Lion-BoutonOSA22"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Kevin Walsh' plus title: best match 0.48 ('Numeric‐to‐verbal translation of probability expressions...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 21, best 0.61."
+  },
+  {
+   "n": 27,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 10 row 118",
+   "cited_in": "ACL Anthology paper 2026.findings-eacl.43",
+   "raw": "John W Ely, Jerome A Osheroff, Melisa L Chambliss, Mark H Ebell, and Mark E Rosenbaum. 2011. The value of clinical questions: identifying research priorities in primary care. BMJ Quality & Safety, 20(9):787–792.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "The value of clinical questions: identifying research priorities in primary care",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "John W",
+      "family": "Ely"
+     },
+     {
+      "given": "Jerome A",
+      "family": "Osheroff"
+     },
+     {
+      "given": "Melisa L",
+      "family": "Chambliss"
+     },
+     {
+      "given": "Mark H",
+      "family": "Ebell"
+     },
+     {
+      "given": "Mark E",
+      "family": "Rosenbaum"
+     }
+    ],
+    "year": 2011,
+    "container": "BMJ Quality & Safety",
+    "short_container": "",
+    "volume": "20",
+    "number": "9",
+    "pages": "787–792",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.55,
+     "best_title": "Identifying research gaps and priorities for African family medicine and primary health care",
+     "best_id": "10.4102/phcfm.v16i1.4534"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.528,
+     "best_title": "Information Delivery: Identifying Priorities, Performance, and Value.",
+     "best_id": "journals/ipm/BroadbentL93"
+    }
+   },
+   "manual_check": "Crossref search by first author 'John W Ely' plus title: best match 0.63 ('Clinical Nursing Research priorities in critical care: A...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 9, best 0.53; no Crossref record found at the cited location (BMJ Quality & Safety 20:787–792)."
+  },
+  {
+   "n": 28,
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 10 row 123",
+   "cited_in": "ACL Anthology paper 2026.loreslm-1.19",
+   "raw": "David Ifeoluwa Adelani, Jesujoba O. Alabi, Angela Fan, Julia Kreutzer, Samuel Olowobo, Ituen Okayo, Bernard Opoku, Chiamaka Chukwuneke, and 1 others. 2022. A few-shot learning approach for lowresource african languages. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 904–917.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "A few-shot learning approach for lowresource african languages",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "David Ifeoluwa",
+      "family": "Adelani"
+     },
+     {
+      "given": "Jesujoba O.",
+      "family": "Alabi"
+     },
+     {
+      "given": "Angela",
+      "family": "Fan"
+     },
+     {
+      "given": "Julia",
+      "family": "Kreutzer"
+     },
+     {
+      "given": "Samuel",
+      "family": "Olowobo"
+     },
+     {
+      "given": "Ituen",
+      "family": "Okayo"
+     },
+     {
+      "given": "Bernard",
+      "family": "Opoku"
+     },
+     {
+      "given": "Chiamaka",
+      "family": "Chukwuneke"
+     }
+    ],
+    "year": 2022,
+    "container": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "904–917",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.559,
+     "best_title": "Few-shot learning, a data-centric approach for adaptation",
+     "best_id": "10.70675/4f90d466z2cd1z4e11z9996z1615a464b603"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.497,
+     "best_title": "Quantifying the value of pronunciation lexicons for keyword search in lowresource languages.",
+     "best_id": "conf/icassp/ChenKPTYY13"
+    }
+   }
+  },
+  {
+   "n": 29,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission Fhp2uUGpgd",
+   "raw": "Jia You, Ying Peng, Xi Wang, Xiaoling Fang, Yan Guo, and et al. Artificial intelligence-based diabetic retinopathy grading in real-world clinical settings: a multicenter, retrospective study. Frontiers in Medicine, 9:869120, 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Artificial intelligence-based diabetic retinopathy grading in real-world clinical settings: a multicenter, retrospective study",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jia",
+      "family": "You"
+     },
+     {
+      "given": "Ying",
+      "family": "Peng"
+     },
+     {
+      "given": "Xi",
+      "family": "Wang"
+     },
+     {
+      "given": "Xiaoling",
+      "family": "Fang"
+     },
+     {
+      "given": "Yan",
+      "family": "Guo"
+     }
+    ],
+    "year": 2022,
+    "container": "Frontiers in Medicine",
+    "short_container": "",
+    "volume": "9",
+    "number": "",
+    "pages": "869120",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.493,
+     "best_title": "Real-World Performance of Artificial Intelligence in Diabetic Retinopathy Screening: A Systematic Review",
+     "best_id": "10.7759/cureus.108894"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.6,
+     "best_title": "Artificial intelligence based multispecialty mortality prediction models for septic shock in a multicenter retrospective study.",
+     "best_id": "journals/npjdm/WangLYBWY25"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Jia You' plus title: best match 0.58 ('Survival trends of gastrointestinal stromal tumor in real...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 18, best 0.60; no Crossref record found at the cited location (Frontiers in Medicine 9:869120)."
+  },
+  {
+   "n": 30,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission fScCawsZ77",
+   "raw": "Y. Hao, Z. Li, and G.E. Karniadakis. Data-efficient learning for pde solvers via physics-informed redundancy reduction. Journal of Computational Physics, 462:111264, 2022. doi: 10.1016/j.jcp. 2022.111264.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Data-efficient learning for pde solvers via physics-informed redundancy reduction",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Y.",
+      "family": "Hao"
+     },
+     {
+      "given": "Z.",
+      "family": "Li"
+     },
+     {
+      "given": "G.E.",
+      "family": "Karniadakis"
+     }
+    ],
+    "year": 2022,
+    "container": "Journal of Computational Physics",
+    "short_container": "",
+    "volume": "462",
+    "number": "",
+    "pages": "111264",
+    "publisher": "",
+    "doi": "10.1016/j.jcp.2022.111264",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "physics",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.608,
+     "best_title": "Data-efficient multidimensional free energy estimation via physics-informed score learning",
+     "best_id": "10.1063/5.0327436"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.589,
+     "best_title": "Faster Parameter-Efficient Tuning with Token Redundancy Reduction.",
+     "best_id": "conf/cvpr/KimP0KS25"
+    },
+    "doi": {
+     "id": "10.1016/j.jcp.2022.111264",
+     "title": "Controlling conservation laws II: Compressible Navier–Stokes equations",
+     "sim": 0.24
+    }
+   },
+   "transcription_note": "DOI line break in the source joined.",
+   "manual_check": "Crossref search by first author 'Y. Hao' plus title: best match 0.48 ('Inner Defect Detection via Physics-Informed Machine Learning'); arXiv author+keyword search: best 0.34; dblp records sharing the two longest title words: 288, best 0.59; no Crossref record found at the cited location (Journal of Computational Physics 462:111264)."
+  },
+  {
+   "n": 31,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission ORcb9LUjLQ",
+   "raw": "Y. Zhang, Q. Liu, and L. Song. Deep neural networks revisited: Benchmarking feedforward architectures for biomedical prediction. In International Conference on Learning Representations, 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Deep neural networks revisited: Benchmarking feedforward architectures for biomedical prediction",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Y.",
+      "family": "Zhang"
+     },
+     {
+      "given": "Q.",
+      "family": "Liu"
+     },
+     {
+      "given": "L.",
+      "family": "Song"
+     }
+    ],
+    "year": 2024,
+    "container": "International Conference on Learning Representations",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.506,
+     "best_title": "Feedforward neural networks on massively parallel architectures",
+     "best_id": "10.1049/pbcs055e_ch3"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.629,
+     "best_title": "Benchmarking of learning architectures for digital predistortion.",
+     "best_id": "conf/acssc/MagesacherS16"
+    }
+   }
+  },
+  {
+   "n": 32,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission sGeoILywEZ",
+   "raw": "Tianyu Zheng, Ge Zhang, Tianhao Shen, Xueling Liu, Bill Yuchen Lin, Jie Fu, Wenhu Chen, and Xiang Yue. Making tools for ai agents: A open source library for function generation and interface abstraction. arXiv preprint arXiv:2405.14011, 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Making tools for ai agents: A open source library for function generation and interface abstraction",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Tianyu",
+      "family": "Zheng"
+     },
+     {
+      "given": "Ge",
+      "family": "Zhang"
+     },
+     {
+      "given": "Tianhao",
+      "family": "Shen"
+     },
+     {
+      "given": "Xueling",
+      "family": "Liu"
+     },
+     {
+      "given": "Bill Yuchen",
+      "family": "Lin"
+     },
+     {
+      "given": "Jie",
+      "family": "Fu"
+     },
+     {
+      "given": "Wenhu",
+      "family": "Chen"
+     },
+     {
+      "given": "Xiang",
+      "family": "Yue"
+     }
+    ],
+    "year": 2024,
+    "container": "arXiv preprint arXiv:2405.14011",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.591,
+     "best_title": "interfacea: open-source library for protein interface analysis",
+     "best_id": "10.7490/f1000research.1117105.1"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.534,
+     "best_title": "HMDP: A New Protocol for Motion Pattern Generation Towards Behavior Abstraction.",
+     "best_id": "conf/robocup/MayerBMOA07"
+    },
+    "arxiv_id": {
+     "id": "2405.14011",
+     "title": "Nonlinear response theory of molecular machines",
+     "sim": 0.234
+    }
+   }
+  },
+  {
+   "n": 33,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission CmvEOdr8gD",
+   "raw": "Muhammad Husnain et al. Revolutionizing drug discovery with transformer-based models: A comprehensive survey. Drug Discovery Today, 28(10):103744, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Revolutionizing drug discovery with transformer-based models: A comprehensive survey",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Muhammad",
+      "family": "Husnain"
+     }
+    ],
+    "year": 2023,
+    "container": "Drug Discovery Today",
+    "short_container": "",
+    "volume": "28",
+    "number": "10",
+    "pages": "103744",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.619,
+     "best_title": "Revolutionizing Drug Discovery: A Comprehensive Review of AI Applications",
+     "best_id": "10.3390/ddc3010009"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.626,
+     "best_title": "Revolutionizing Wireless Networks with Federated Learning: A Comprehensive Review.",
+     "best_id": "journals/corr/abs-2308-04404"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Muhammad Husnain' plus title: best match 0.48 ('Crowd Counting and Density Estimation using Deep Network-...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 22, best 0.63; no Crossref record found at the cited location (Drug Discovery Today 28:103744)."
+  },
+  {
+   "n": 34,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission I06xiJR4ZL",
+   "raw": "H. E. Jones. Jumpstart triage for children. Prehospital and Disaster Medicine, 21:120-126, 2006.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Jumpstart triage for children",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "H. E.",
+      "family": "Jones"
+     }
+    ],
+    "year": 2006,
+    "container": "Prehospital and Disaster Medicine",
+    "short_container": "",
+    "volume": "21",
+    "number": "",
+    "pages": "120-126",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.625,
+     "best_title": "Jumpstart! Geography",
+     "best_id": "10.4324/9781315851839"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "manual_check": "Crossref search by first author 'H. E. Jones' plus title: best match 0.62 ('Jumpstart! Geography'); arXiv author+keyword search: no results; dblp two-word search: no results; no Crossref record found at the cited location (Prehospital and Disaster Medicine 21:120-126)."
+  },
+  {
+   "n": 35,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission YzYlqdvwRe",
+   "raw": "Alexander Kissinger et al. Zx-calculus-based synthesis of quantum circuits. Quantum, 5:1-14, 2021.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Zx-calculus-based synthesis of quantum circuits",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Alexander",
+      "family": "Kissinger"
+     }
+    ],
+    "year": 2021,
+    "container": "Quantum",
+    "short_container": "",
+    "volume": "5",
+    "number": "",
+    "pages": "1-14",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "physics",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.442,
+     "best_title": "Tooling: ZX Calculus Automated Pipelines",
+     "best_id": "10.1007/979-8-8688-2857-7_4"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.593,
+     "best_title": "Situation Calculus for Synthesis of Manufacturing Controllers.",
+     "best_id": "journals/corr/abs-1807-04561"
+    }
+   }
+  },
+  {
+   "n": 36,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission iX692WrV5k",
+   "raw": "Anjali Sen and et al. Morphological understanding and retrieval in indic languages. Journal of Indic Computational Linguistics, 12(3):45-67, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Morphological understanding and retrieval in indic languages",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Anjali",
+      "family": "Sen"
+     }
+    ],
+    "year": 2023,
+    "container": "Journal of Indic Computational Linguistics",
+    "short_container": "",
+    "volume": "12",
+    "number": "3",
+    "pages": "45-67",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.506,
+     "best_title": "GraphSageNMT: Graph-Augmented Neural Machine Translation With Dynamic Context Retrieval for Indic Languages",
+     "best_id": "10.1109/access.2026.3695199"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.447,
+     "best_title": "Understanding and Improving Morphological Learning in the Neural Machine Translation Decoder.",
+     "best_id": "conf/ijcnlp/DalviDSBV17"
+    }
+   }
+  },
+  {
+   "n": 37,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission EQqXTs1lpr",
+   "raw": "Hao Jiang, Connor W Coley, and William H Green. Advances in the application of molecular docking for the design of dna-encoded libraries. Journal of chemical information and modeling, 55(7):1297-1308, 2015.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Advances in the application of molecular docking for the design of dna-encoded libraries",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Hao",
+      "family": "Jiang"
+     },
+     {
+      "given": "Connor W",
+      "family": "Coley"
+     },
+     {
+      "given": "William H",
+      "family": "Green"
+     }
+    ],
+    "year": 2015,
+    "container": "Journal of chemical information and modeling",
+    "short_container": "",
+    "volume": "55",
+    "number": "7",
+    "pages": "1297-1308",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.654,
+     "best_title": "DEL-Dock: Molecular Docking-Enabled Modeling of DNA-Encoded Libraries",
+     "best_id": "10.1021/acs.jcim.2c01608.s001"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.581,
+     "best_title": "User-Centred Application for Modeling Journeys in Digital Libraries.",
+     "best_id": "conf/jcdl/TrabelsiSMC21a"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Hao Jiang' plus title: best match 0.52 ('The Application of Digital Technology in the Design Domain'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 111, best 0.58; the cited location (Journal of chemical information and modeling 55:1297-1308) holds a different article in Crossref, 'Benchmarking Data Sets for the Evaluation of Virtual Ligand Screeni...' (10.1021/acs.jcim.5b00090)."
+  },
+  {
+   "n": 38,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission ZAcUiIwUwu",
+   "raw": "Ruben Sanchez-Romero, Michael W Cole, and David M Schnyer. Estimating effective connectivity by jointly modeling neural dynamics and structural constraints. NeuroImage, 200:243-256, 2019a.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Estimating effective connectivity by jointly modeling neural dynamics and structural constraints",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ruben",
+      "family": "Sanchez-Romero"
+     },
+     {
+      "given": "Michael W",
+      "family": "Cole"
+     },
+     {
+      "given": "David M",
+      "family": "Schnyer"
+     }
+    ],
+    "year": 2019,
+    "container": "NeuroImage",
+    "short_container": "",
+    "volume": "200",
+    "number": "",
+    "pages": "243-256",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.492,
+     "best_title": "Estimating effective permeability using connectivity and branch length distribution of fracture network",
+     "best_id": "10.1016/j.jsg.2021.104314"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.538,
+     "best_title": "Repairing Wireless Sensor Network Connectivity with Mobility and Hop-Count Constraints.",
+     "best_id": "conf/adhoc-now/TruongBS13"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Ruben Sanchez-Romero' plus title: best match 0.49 ('Editorial: Brain connectivity, dynamics, and complexity'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 219, best 0.54; no Crossref record found at the cited location (NeuroImage 200:243-256)."
+  },
+  {
+   "n": 39,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission Ymz4vuN3ir",
+   "raw": "Shubham Aggarwal, Sharan Narang, Colin Raffel, et al. Let's think step by step is not enough: Enhancing reasoning with structured verification. arXiv preprint arXiv:2308.09840, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Let's think step by step is not enough: Enhancing reasoning with structured verification",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Shubham",
+      "family": "Aggarwal"
+     },
+     {
+      "given": "Sharan",
+      "family": "Narang"
+     },
+     {
+      "given": "Colin",
+      "family": "Raffel"
+     }
+    ],
+    "year": 2023,
+    "container": "arXiv preprint arXiv:2308.09840",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.613,
+     "best_title": "Evaluating Step-by-Step Reasoning through Symbolic Verification",
+     "best_id": "10.18653/v1/2024.findings-naacl.188"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.554,
+     "best_title": "Neuro-symbolic PRM: Enhancing Scientific Reasoning via Structured Traces and Symbolic Verification.",
+     "best_id": "journals/corr/abs-2608-26329"
+    },
+    "arxiv_id": {
+     "id": "2308.09840",
+     "title": "High Aspect Ratio Multi-stage Ducted Electroaerodynamic Thrusters for Micro Air Vehicle Propulsion",
+     "sim": 0.151
+    }
+   }
+  },
+  {
+   "n": 40,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission Uo9xZ2kePW",
+   "raw": "Y. Zhang, J. Li, H. Wang, Z. Liu, and J. Zhou. Transformer-based architectures with continuous age encoding for long-term chronic disease risk prediction. Journal of the American Medical Informatics Association (JAMIA), 30(12):2645-2654, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Transformer-based architectures with continuous age encoding for long-term chronic disease risk prediction",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Y.",
+      "family": "Zhang"
+     },
+     {
+      "given": "J.",
+      "family": "Li"
+     },
+     {
+      "given": "H.",
+      "family": "Wang"
+     },
+     {
+      "given": "Z.",
+      "family": "Liu"
+     },
+     {
+      "given": "J.",
+      "family": "Zhou"
+     }
+    ],
+    "year": 2023,
+    "container": "Journal of the American Medical Informatics Association (JAMIA)",
+    "short_container": "",
+    "volume": "30",
+    "number": "12",
+    "pages": "2645-2654",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.535,
+     "best_title": "Energy-Efficient Edge AI Wearables for Continuous Chronic Disease Risk Prediction",
+     "best_id": "10.5220/0014943900005024"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.586,
+     "best_title": "Exploring CNN and Transformer-Based Architectures to Improve Image Segmentation for Chronic Wound Measurement.",
+     "best_id": "conf/miccai/CarvalhoMSV24"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Y. Zhang' plus title: best match 0.48 ('Physics-constrained transformer learning for long-term sh...'); arXiv author+keyword search: best 0.50; dblp records sharing the two longest title words: 300, best 0.59; no Crossref record found at the cited location (Journal of the American Medical Informatics Association (JAMIA) 30:2645-2654)."
+  },
+  {
+   "n": 41,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission fKIGfRZ2Ow",
+   "raw": "Y. Chen, L. Wang, and D. Silver. Structural plasticity as a foundation for adaptive deep learning. In Proceedings of the International Conference on Learning Representations (ICLR), 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Structural plasticity as a foundation for adaptive deep learning",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Y.",
+      "family": "Chen"
+     },
+     {
+      "given": "L.",
+      "family": "Wang"
+     },
+     {
+      "given": "D.",
+      "family": "Silver"
+     }
+    ],
+    "year": 2024,
+    "container": "Proceedings of the International Conference on Learning Representations (ICLR)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.459,
+     "best_title": "Dynamic Behavior of Elastic-Plastic Beam-on-Foundation under Impact or Pulse Loading",
+     "best_id": "10.1016/b978-008043875-7/50144-1"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.556,
+     "best_title": "Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities.",
+     "best_id": "journals/corr/abs-2403-15356"
+    }
+   }
+  },
+  {
+   "n": 42,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission 8yKSnpZjyd",
+   "raw": "Raghav Goyal and Sung Lee. Non-markovian effects and memory bottlenecks in ar video models. ICML, 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Non-markovian effects and memory bottlenecks in ar video models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Raghav",
+      "family": "Goyal"
+     },
+     {
+      "given": "Sung",
+      "family": "Lee"
+     }
+    ],
+    "year": 2022,
+    "container": "ICML",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.533,
+     "best_title": "Non-Markovian memory effects in GaN lasers",
+     "best_id": "10.1016/s0038-1098(97)00195-6"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.39,
+     "best_title": "Bottlenecks in Markovian production lines: a systems approach.",
+     "best_id": "journals/trob/ChiangKM98"
+    }
+   }
+  },
+  {
+   "n": 43,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission oTnFATrtCD",
+   "raw": "Hyunjun Park, Gyoung S. Kim, and Sungroh Yoon. How to train your protein model: the effects of data and data splits on protein representation learning. Bioinformatics, 38(1):82-89, 2021.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "How to train your protein model: the effects of data and data splits on protein representation learning",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Hyunjun",
+      "family": "Park"
+     },
+     {
+      "given": "Gyoung S.",
+      "family": "Kim"
+     },
+     {
+      "given": "Sungroh",
+      "family": "Yoon"
+     }
+    ],
+    "year": 2021,
+    "container": "Bioinformatics",
+    "short_container": "",
+    "volume": "38",
+    "number": "1",
+    "pages": "82-89",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.491,
+     "best_title": "How to Train Your Neural Network with Dictionary Learning",
+     "best_id": "10.1109/dcc.2017.87"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.546,
+     "best_title": "Long-term causal effects estimation via latent surrogates representation learning.",
+     "best_id": "journals/nn/CaiCYWZYG24"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Hyunjun Park' plus title: best match 0.24 ('Ankyrin-like protein, AnkB'); arXiv author+keyword search: best 0.47; dblp records sharing the two longest title words: 400, best 0.54; no Crossref record found at the cited location (Bioinformatics 38:82-89)."
+  },
+  {
+   "n": 44,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission cdTCrRmV2v",
+   "raw": "Sanjay Gupta, Yang Li, and Yan Chen. Generalization in embodied ai with a mixture of task-specific experts. In Robotics: Science and Systems (RSS), 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Generalization in embodied ai with a mixture of task-specific experts",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Sanjay",
+      "family": "Gupta"
+     },
+     {
+      "given": "Yang",
+      "family": "Li"
+     },
+     {
+      "given": "Yan",
+      "family": "Chen"
+     }
+    ],
+    "year": 2023,
+    "container": "Robotics: Science and Systems (RSS)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.444,
+     "best_title": "Mote: Mixture of Task-Specific Experts for Pre-Trained Model-Based Continual Learning",
+     "best_id": "10.2139/ssrn.5035279"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.528,
+     "best_title": "To Boost Zero-Shot Generalization for Embodied Reasoning With Vision-Language Pre-Training.",
+     "best_id": "journals/tip/SuZZZZ24"
+    }
+   }
+  },
+  {
+   "n": 45,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission AbEpaD30zV",
+   "raw": "J. Smith and A. Jones. A review of computer vision applications in precision livestock farming. Journal of Agricultural AI, 4:1-25, 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "A review of computer vision applications in precision livestock farming",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "J.",
+      "family": "Smith"
+     },
+     {
+      "given": "A.",
+      "family": "Jones"
+     }
+    ],
+    "year": 2022,
+    "container": "Journal of Agricultural AI",
+    "short_container": "",
+    "volume": "4",
+    "number": "",
+    "pages": "1-25",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.617,
+     "best_title": "Integrating UAV-based LiDAR and 3D computer vision to enhance cattle growth monitoring in precision livestock farming",
+     "best_id": "10.18174/679794"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.602,
+     "best_title": "Accelerated Data Engine: A faster dataset construction workflow for computer vision applications in commercial livestock farms.",
+     "best_id": "journals/cea/WuZWCHL24"
+    }
+   }
+  },
+  {
+   "n": 46,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission JZ3Svjj9hG",
+   "raw": "Peter M. Spieth, Emily Palmer, and Miguel Santos. Randomised controlled trials-why they often fall short and what observational studies offer. Annals of Medicine, 52(11):523-532, 2020.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Randomised controlled trials-why they often fall short and what observational studies offer",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Peter M.",
+      "family": "Spieth"
+     },
+     {
+      "given": "Emily",
+      "family": "Palmer"
+     },
+     {
+      "given": "Miguel",
+      "family": "Santos"
+     }
+    ],
+    "year": 2020,
+    "container": "Annals of Medicine",
+    "short_container": "",
+    "volume": "52",
+    "number": "11",
+    "pages": "523-532",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.603,
+     "best_title": "Randomised controlled trials in general practice: Are preferable to observational studies",
+     "best_id": "10.1136/bmj.312.7033.779"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.568,
+     "best_title": "Power Calculations for Randomized Controlled Trials with Auxiliary Observational Data.",
+     "best_id": "conf/edm/LoweMWSG24"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Peter M. Spieth' plus title: best match 0.50 ('The role of varicocele repair in nonobstructive azoosperm...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 4, best 0.57; no Crossref record found at the cited location (Annals of Medicine 52:523-532)."
+  },
+  {
+   "n": 47,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission S3YAqJk653",
+   "raw": "M. Mathews and L. Carlson. Nonlinear state space modeling with discontinuous transitions. Mathematical Methods in the Applied Sciences, 29(8):1101-1122, 2006. doi: 10.1002/mma. 733.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Nonlinear state space modeling with discontinuous transitions",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "M.",
+      "family": "Mathews"
+     },
+     {
+      "given": "L.",
+      "family": "Carlson"
+     }
+    ],
+    "year": 2006,
+    "container": "Mathematical Methods in the Applied Sciences",
+    "short_container": "",
+    "volume": "29",
+    "number": "8",
+    "pages": "1101-1122",
+    "publisher": "",
+    "doi": "10.1002/mma.733",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "math",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.531,
+     "best_title": "State space averaging model of a dual stage converter in discontinuous conduction mode",
+     "best_id": "10.1109/compel.2017.8013367"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.489,
+     "best_title": "Adhesion-induced Discontinuous Transitions and Classifying Social Networks.",
+     "best_id": "journals/corr/abs-1808-02362"
+    },
+    "doi": {
+     "id": "10.1002/mma.733",
+     "title": "Almost-periodic solutions to quasilinear evolution equations with a nonlocal nonlinearity",
+     "sim": 0.147
+    }
+   },
+   "transcription_note": "DOI line break in the source joined.",
+   "manual_check": "Crossref search by first author 'M. Mathews' plus title: best match 0.42 ('NATURAL GAS PIPELINE DESIGN AND CONSTRUCTION IN PERMAFROS...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 6, best 0.49; no Crossref record found at the cited location (Mathematical Methods in the Applied Sciences 29:1101-1122)."
+  },
+  {
+   "n": 48,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission PrcNpPxWIQ",
+   "raw": "X. Li, W. Sun, and Q. Chen. Incorporating structural constraints in long-form text generation using pretrained language models. Computational Linguistics, 49(1):91-116, 2023. doi: 10.1162/ coli_a_0043",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Incorporating structural constraints in long-form text generation using pretrained language models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "X.",
+      "family": "Li"
+     },
+     {
+      "given": "W.",
+      "family": "Sun"
+     },
+     {
+      "given": "Q.",
+      "family": "Chen"
+     }
+    ],
+    "year": 2023,
+    "container": "Computational Linguistics",
+    "short_container": "",
+    "volume": "49",
+    "number": "1",
+    "pages": "91-116",
+    "publisher": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.646,
+     "best_title": "ReGen: Reinforcement Learning for Text and Knowledge Base Generation using Pretrained Language Models",
+     "best_id": "10.18653/v1/2021.emnlp-main.83"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.598,
+     "best_title": "Incorporating structural constraints into continuous optimization for causal discovery.",
+     "best_id": "journals/ijon/WangGLRZ24"
+    }
+   },
+   "transcription_note": "Truncated DOI in the source omitted.",
+   "manual_check": "Crossref search by first author 'X. Li' plus title: best match 0.59 ('Few-shot Knowledge Graph-to-Text Generation with Pretrain...'); arXiv author+keyword search: best 0.47; dblp records sharing the two longest title words: 141, best 0.60; no Crossref record found at the cited location (Computational Linguistics 49:91-116)."
+  },
+  {
+   "n": 49,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission PrcNpPxWIQ",
+   "raw": "L. Chen, Z. Wei, and Z. Hu. Improving reward estimation with rollout strategies in sequence generation tasks. Journal of Machine Learning Research, 24(19):1-20, 2023. doi: 10.1145/3568924.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Improving reward estimation with rollout strategies in sequence generation tasks",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "L.",
+      "family": "Chen"
+     },
+     {
+      "given": "Z.",
+      "family": "Wei"
+     },
+     {
+      "given": "Z.",
+      "family": "Hu"
+     }
+    ],
+    "year": 2023,
+    "container": "Journal of Machine Learning Research",
+    "short_container": "",
+    "volume": "24",
+    "number": "19",
+    "pages": "1-20",
+    "publisher": "",
+    "doi": "10.1145/3568924",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.556,
+     "best_title": "MixLoss: A Data Augmentation Method for Sequence Generation Tasks",
+     "best_id": "10.21203/rs.3.rs-2292487/v1"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.571,
+     "best_title": "Improving Uncertainty Estimation through Semantically Diverse Language Generation.",
+     "best_id": "conf/iclr/AichbergerSIH25"
+    },
+    "doi": {
+     "id": "10.1145/3568924",
+     "title": "",
+     "sim": 0.0
+    }
+   },
+   "manual_check": "Crossref search by first author 'L. Chen' plus title: best match 0.56 ('MixLoss: A Data Augmentation Method for Sequence Generati...'); arXiv author+keyword search: best 0.49; dblp records sharing the two longest title words: 400, best 0.57; no Crossref record found at the cited location (Journal of Machine Learning Research 24:1-20)."
+  },
+  {
+   "n": 50,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission B3jlwFJ2mb",
+   "raw": "Lexiang Chen, Jia Chen, Zhiyong Chen, and Guan Liu. A hybrid model for recommendation with feedback data by fusing latent dirichlet allocation and latent factor model. Frontiers in Applied Mathematics and Statistics, 5, 2019. ISSN 2297-4687. doi: 10.3389/fams.2019.00044.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "A hybrid model for recommendation with feedback data by fusing latent dirichlet allocation and latent factor model",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Lexiang",
+      "family": "Chen"
+     },
+     {
+      "given": "Jia",
+      "family": "Chen"
+     },
+     {
+      "given": "Zhiyong",
+      "family": "Chen"
+     },
+     {
+      "given": "Guan",
+      "family": "Liu"
+     }
+    ],
+    "year": 2019,
+    "container": "Frontiers in Applied Mathematics and Statistics",
+    "short_container": "",
+    "volume": "5",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "10.3389/fams.2019.00044",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.635,
+     "best_title": "A Hotel Hybrid Recommendation Method Based On Context-Driven Using Latent Dirichlet Allocation",
+     "best_id": "10.58837/chula.the.2018.163"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.635,
+     "best_title": "A Hotel Hybrid Recommendation Method based on Context-Driven using Latent Dirichlet Allocation.",
+     "best_id": "conf/jcsse/NimchaiyananM19"
+    },
+    "doi": {
+     "id": "10.3389/fams.2019.00044",
+     "title": "Deep Learning in Music Recommendation Systems",
+     "sim": 0.327
+    }
+   }
+  },
+  {
+   "n": 51,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission HsJJDxjJ4R",
+   "raw": "Anna K Blakney, Paul F McKay, and Robin J Shattock. Delivery of mrna-based vaccines and therapeutics with lipid nanoparticles. Biochemical Society Transactions, 47(4):1209-1218, 2019.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Delivery of mrna-based vaccines and therapeutics with lipid nanoparticles",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Anna K",
+      "family": "Blakney"
+     },
+     {
+      "given": "Paul F",
+      "family": "McKay"
+     },
+     {
+      "given": "Robin J",
+      "family": "Shattock"
+     }
+    ],
+    "year": 2019,
+    "container": "Biochemical Society Transactions",
+    "short_container": "",
+    "volume": "47",
+    "number": "4",
+    "pages": "1209-1218",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.444,
+     "best_title": "Oral administration of mRNA-LNP therapeutics",
+     "best_id": "10.1016/b978-0-443-45006-8.00003-3"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.347,
+     "best_title": "Perfluorocarbon Nanoparticles for Molecular Imaging and Targeted Therapeutics.",
+     "best_id": "journals/pieee/HughesCTMWCPSLN08"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Anna K Blakney' plus title: best match 0.49 ('INCREASED TRANSFECTION OF T AND NK CELLS WITH MRNA LIPID...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 1, best 0.35; the cited location (Biochemical Society Transactions 47:1209-1218) holds a different article in Crossref, 'Targeting centrosome amplification, an Achilles' heel of cancer' (10.1042/bst20190034)."
+  },
+  {
+   "n": 52,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission oFQN4JrriB",
+   "raw": "Peng, W.; et al. 2024. AI detection of AI-generated text in educational settings: A survey. arXiv preprint arXiv:2405.16784.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "AI detection of AI-generated text in educational settings: A survey",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "W.",
+      "family": "Peng"
+     }
+    ],
+    "year": 2024,
+    "container": "arXiv preprint arXiv:2405.16784",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.562,
+     "best_title": "An Empirical Study of AI-Generated Text Detection Tools",
+     "best_id": "10.33140/amlai.04.02.03"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.591,
+     "best_title": "Unfair items detection in educational measurement",
+     "best_id": "journals/corr/abs-1205-3380"
+    },
+    "arxiv_id": {
+     "id": "2405.16784",
+     "title": "The second-order zero differential uniformity of the swapped inverse functions over finite fields",
+     "sim": 0.221
+    }
+   }
+  },
+  {
+   "n": 53,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission aN3rmWuMtf",
+   "raw": "Marie-Catherine De Marneffe, Nicolas Simard, Wanrong Xu, et al. The shared task on implicit and explicit hate speech detection. In W-NUT, 2019.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "The shared task on implicit and explicit hate speech detection",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Marie-Catherine",
+      "family": "De Marneffe"
+     },
+     {
+      "given": "Nicolas",
+      "family": "Simard"
+     },
+     {
+      "given": "Wanrong",
+      "family": "Xu"
+     }
+    ],
+    "year": 2019,
+    "container": "W-NUT",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.624,
+     "best_title": "SharedCon: Implicit Hate Speech Detection using Shared Semantics",
+     "best_id": "10.18653/v1/2024.findings-acl.622"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.662,
+     "best_title": "DeHate: A Holistic Hateful Video Dataset for Explicit and Implicit Hate Detection.",
+     "best_id": "conf/mm/ZhangCYSSJF25"
+    }
+   }
+  },
+  {
+   "n": 54,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission xAtYHNe0Ey",
+   "raw": "Siyuan Han, Jiaqi Wang, Jie Luo, and Dong Liu. Neuro-symbolic generative model for medical report generation with prior knowledge. IEEE Transactions on Medical Imaging, 40(12):3436-3447, 2021.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Neuro-symbolic generative model for medical report generation with prior knowledge",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Siyuan",
+      "family": "Han"
+     },
+     {
+      "given": "Jiaqi",
+      "family": "Wang"
+     },
+     {
+      "given": "Jie",
+      "family": "Luo"
+     },
+     {
+      "given": "Dong",
+      "family": "Liu"
+     }
+    ],
+    "year": 2021,
+    "container": "IEEE Transactions on Medical Imaging",
+    "short_container": "",
+    "volume": "40",
+    "number": "12",
+    "pages": "3436-3447",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.596,
+     "best_title": "A hybrid deep generative neural model for financial report generation",
+     "best_id": "10.1016/j.knosys.2021.107093"
+    },
+    "arxiv": {
+     "best_sim": 0.376,
+     "best_title": "XAI-MeD: Explainable Knowledge Guided Neuro-Symbolic Framework for Domain Generalization and Rare Class Detection in Medical Imaging",
+     "best_id": "2601.02008"
+    },
+    "dblp": {
+     "best_sim": 0.489,
+     "best_title": "Select, Extend, and Generate: Generative Knowledge Selection for Open-Domain Dialogue Response Generation.",
+     "best_id": "conf/dasfaa/WuXTLW23"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Siyuan Han' plus title: best match 0.54 ('Unifying neural learning and symbolic reasoning for spina...'); arXiv author+keyword search: best 0.48; dblp records sharing the two longest title words: 400, best 0.62; the cited location (IEEE Transactions on Medical Imaging 40:3436-3447) holds a different article in Crossref, 'Computational Breast Anatomy Simulation Using Multi-Scale Perlin Noise' (10.1109/tmi.2021.3087958)."
+  },
+  {
+   "n": 55,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission 0a6WXyNxBG",
+   "raw": "Yang Cao, Rosa Martinez, and Sarah Thompson. Preserving indigenous languages through neural language models: Challenges and opportunities. Computational Linguistics, 49(3):567-592, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Preserving indigenous languages through neural language models: Challenges and opportunities",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yang",
+      "family": "Cao"
+     },
+     {
+      "given": "Rosa",
+      "family": "Martinez"
+     },
+     {
+      "given": "Sarah",
+      "family": "Thompson"
+     }
+    ],
+    "year": 2023,
+    "container": "Computational Linguistics",
+    "short_container": "",
+    "volume": "49",
+    "number": "3",
+    "pages": "567-592",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.497,
+     "best_title": "Promoting and Preserving Indigenous Languages and Cultures in the Americas Through Video Games",
+     "best_id": "10.1007/978-3-319-73400-2_114-1"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.61,
+     "best_title": "6G Integrated Sensing and Communications Channel Modeling: Challenges and Opportunities.",
+     "best_id": "journals/vtm/LiuGHMYZG24"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Yang Cao' plus title: best match 0.61 ('Privacy‐Preserving Outage Detection in Modern Distributio...'); arXiv author+keyword search: best 0.53; dblp records sharing the two longest title words: 400, best 0.61; no Crossref record found at the cited location (Computational Linguistics 49:567-592)."
+  },
+  {
+   "n": 56,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission s9cAknJjRB",
+   "raw": "Fabien Lotte, Haoran He, Alexander Casson, et al. Openbci for cognitive training and neurofeedback: Opportunities and challenges. Frontiers in Human Neuroscience, 17:1204, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Openbci for cognitive training and neurofeedback: Opportunities and challenges",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Fabien",
+      "family": "Lotte"
+     },
+     {
+      "given": "Haoran",
+      "family": "He"
+     },
+     {
+      "given": "Alexander",
+      "family": "Casson"
+     }
+    ],
+    "year": 2023,
+    "container": "Frontiers in Human Neuroscience",
+    "short_container": "",
+    "volume": "17",
+    "number": "",
+    "pages": "1204",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.592,
+     "best_title": "The Combination of Cognitive Training Exercises and Neurofeedback",
+     "best_id": "10.1201/b14658-10"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "manual_check": "Crossref search by first author 'Fabien Lotte' plus title: best match 0.60 ('EEG-based neuroergonomics for 3d user interfaces: opportu...'); arXiv author+keyword search: no results; dblp two-word search: no results; no Crossref record found at the cited location (Frontiers in Human Neuroscience 17:1204)."
+  },
+  {
+   "n": 57,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission RWPxyyjFyr",
+   "raw": "A. Kameo and J. Mörtsell. Evaluating the search results ranking with discounted cumulative gain (dcg). J. Chem. Soc., 30:3485-3494, 2004.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Evaluating the search results ranking with discounted cumulative gain (dcg)",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "A.",
+      "family": "Kameo"
+     },
+     {
+      "given": "J.",
+      "family": "Mörtsell"
+     }
+    ],
+    "year": 2004,
+    "container": "J. Chem. Soc.",
+    "short_container": "",
+    "volume": "30",
+    "number": "",
+    "pages": "3485-3494",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.503,
+     "best_title": "Model Based Comparison of Discounted Cumulative Gain and Average Precision",
+     "best_id": "10.1016/j.jda.2012.10.002"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.604,
+     "best_title": "Learning the Gain Values and Discount Factors of Discounted Cumulative Gains.",
+     "best_id": "journals/tkde/ZhouZCX14"
+    }
+   }
+  },
+  {
+   "n": 58,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission 4lUoPAXrCe",
+   "raw": "M. Huber et al. Weather2k: Integrating structured and unstructured data for enhanced weather forecasting. Journal of Climate Informatics, 8(2):e2023MS004019, 2023. doi: 10.1029/2023MS004019.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Weather2k: Integrating structured and unstructured data for enhanced weather forecasting",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "M.",
+      "family": "Huber"
+     }
+    ],
+    "year": 2023,
+    "container": "Journal of Climate Informatics",
+    "short_container": "",
+    "volume": "8",
+    "number": "2",
+    "pages": "e2023MS004019",
+    "publisher": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.631,
+     "best_title": "Integrating structured and unstructured data for livestock price forecasting: a sustainability study from South Korea",
+     "best_id": "10.3389/fsufs.2025.1613616"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.652,
+     "best_title": "FUSE-Traffic: Fusion of Unstructured and Structured data for Event-aware Traffic forecasting.",
+     "best_id": "conf/gis/YuX0Q25"
+    }
+   },
+   "transcription_note": "Truncated DOI in the source omitted."
+  },
+  {
+   "n": 59,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission lO1BLLh8K8",
+   "raw": "William Thompson, Jennifer Davis, and Carlos Martinez. Uncertainty quantification in neural drugtarget interaction models. Journal of Chemical Information and Modeling, 64(8):2145-2158, 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Uncertainty quantification in neural drugtarget interaction models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "William",
+      "family": "Thompson"
+     },
+     {
+      "given": "Jennifer",
+      "family": "Davis"
+     },
+     {
+      "given": "Carlos",
+      "family": "Martinez"
+     }
+    ],
+    "year": 2024,
+    "container": "Journal of Chemical Information and Modeling",
+    "short_container": "",
+    "volume": "64",
+    "number": "8",
+    "pages": "2145-2158",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.522,
+     "best_title": "NOVEL BAYESIAN NEURAL NETWORKS AND UNCERTAINTY QUANTIFICATION OF COMPUTATIONAL MECHANICS MODELS",
+     "best_id": "10.37099/mtu.dc.etdr/1674"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.639,
+     "best_title": "Framework for uncertainty quantification of wave-structure interaction in a flume.",
+     "best_id": "journals/corr/abs-2408-10784"
+    }
+   },
+   "manual_check": "Crossref search by first author 'William Thompson' plus title: best match 0.58 ('Uncertainty Quantification of Analytic Radiation-Driven N...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 39, best 0.64; no Crossref record found at the cited location (Journal of Chemical Information and Modeling 64:2145-2158)."
+  },
+  {
+   "n": 60,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission GtyMclqDqY",
+   "raw": "F. Liu, Y. Zhang, et al. Llm+robot: Large language models for robotics planning and skill learning. arXiv preprint arXiv:2304.12244, 2023b.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Llm+robot: Large language models for robotics planning and skill learning",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "F.",
+      "family": "Liu"
+     },
+     {
+      "given": "Y.",
+      "family": "Zhang"
+     }
+    ],
+    "year": 2023,
+    "container": "arXiv preprint arXiv:2304.12244",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.521,
+     "best_title": "LiP-LLM: Integrating Linear Programming and Dependency Graph With Large Language Models for Multi-Robot Task Planning",
+     "best_id": "10.1109/lra.2024.3518105"
+    },
+    "arxiv": {
+     "best_sim": 0.503,
+     "best_title": "Plan-Seq-Learn: Language Model Guided RL for Solving Long Horizon Robotics Tasks",
+     "best_id": "2405.01534"
+    },
+    "dblp": {
+     "best_sim": 0.602,
+     "best_title": "Novelty Adaptation Through Hybrid Large Language Model (LLM)-Symbolic Planning and LLM-guided Reinforcement Learning.",
+     "best_id": "journals/corr/abs-2603-11351"
+    },
+    "arxiv_id": {
+     "id": "2304.12244",
+     "title": "WizardLM: Empowering large pre-trained language models to follow complex instructions",
+     "sim": 0.423
+    }
+   }
+  },
+  {
+   "n": 61,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission JdB8CJkiv2",
+   "raw": "Ling Zheng, Xiaozhou Wu, Yiming Zhang, and Wei Li. Ai4space: An open benchmark for onboard deep learning in remote sensing satellites. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15:12345-12358, 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Ai4space: An open benchmark for onboard deep learning in remote sensing satellites",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ling",
+      "family": "Zheng"
+     },
+     {
+      "given": "Xiaozhou",
+      "family": "Wu"
+     },
+     {
+      "given": "Yiming",
+      "family": "Zhang"
+     },
+     {
+      "given": "Wei",
+      "family": "Li"
+     }
+    ],
+    "year": 2022,
+    "container": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "short_container": "",
+    "volume": "15",
+    "number": "",
+    "pages": "12345-12358",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.43,
+     "best_title": "Effective Video Scene Analysis for a Nanosatellite Based on an Onboard Deep Learning Method",
+     "best_id": "10.3390/rs15082143"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.476,
+     "best_title": "Noise Filtering Benchmark for Neuromorphic Satellites Observations.",
+     "best_id": "journals/corr/abs-2411-11233"
+    }
+   }
+  },
+  {
+   "n": 62,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission JdB8CJkiv2",
+   "raw": "P. Anderson, H. Kim, and L. Zhao. A survey on model compression techniques for onboard deep learning in nanosatellites. IEEE Transactions on Aerospace and Electronic Systems, 59(2):24002418, 2023. doi: 10.1109/TAES.2023.3245120. URL https://ieeexplore.ieee.org/ document/3245120.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "A survey on model compression techniques for onboard deep learning in nanosatellites",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "P.",
+      "family": "Anderson"
+     },
+     {
+      "given": "H.",
+      "family": "Kim"
+     },
+     {
+      "given": "L.",
+      "family": "Zhao"
+     }
+    ],
+    "year": 2023,
+    "container": "IEEE Transactions on Aerospace and Electronic Systems",
+    "short_container": "",
+    "volume": "59",
+    "number": "2",
+    "pages": "2400-2418",
+    "publisher": "",
+    "doi": "10.1109/TAES.2023.3245120",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.54,
+     "best_title": "A Survey on Network Quantization Techniques for Deep Neural Network Compression",
+     "best_id": "10.36227/techrxiv.173385950.03398368/v1"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "doi": {
+     "id": "10.1109/TAES.2023.3245120",
+     "title": "",
+     "sim": 0.0
+    }
+   },
+   "transcription_note": "Page range printed as '24002418' in the source; dash restored.",
+   "manual_check": "Crossref search by first author 'P. Anderson' plus title: best match 0.57 ('Memory- and Communication-Aware Model Compression for Dis...'); arXiv author+keyword search: no results; dblp two-word search: no results; no Crossref record found at the cited location (IEEE Transactions on Aerospace and Electronic Systems 59:24002418)."
+  },
+  {
+   "n": 63,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission Ze3diyHxr9",
+   "raw": "M. Zanella, I. Ayed, and Y. Li. Parameter-efficient fine-tuning with lora for industrial visionlanguage models. Journal of Artificial Intelligence Research, 70:123-135, 2024. doi: 10.1613/ jair.1.12345.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Parameter-efficient fine-tuning with lora for industrial visionlanguage models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "M.",
+      "family": "Zanella"
+     },
+     {
+      "given": "I.",
+      "family": "Ayed"
+     },
+     {
+      "given": "Y.",
+      "family": "Li"
+     }
+    ],
+    "year": 2024,
+    "container": "Journal of Artificial Intelligence Research",
+    "short_container": "",
+    "volume": "70",
+    "number": "",
+    "pages": "123-135",
+    "publisher": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.562,
+     "best_title": "BEFT vs. LoRA: Parameter-Efficient Fine-Tuning for Auto-Optimized Vision Transformers in Image Classification",
+     "best_id": "10.5220/0014476300004052"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "transcription_note": "Truncated DOI in the source omitted.",
+   "manual_check": "Crossref search by first author 'M. Zanella' plus title: best match 0.42 ('From Pampas to Pixels: Fine-Tuning Diffusion Models for G...'); arXiv author+keyword search: no results; dblp two-word search: no results; no Crossref record found at the cited location (Journal of Artificial Intelligence Research 70:123-135)."
+  },
+  {
+   "n": 64,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission ESzbS71g3D",
+   "raw": "M. Ashfaq et al. Integrating satellite imagery, climate time-series, and soil data for wheat yield forecasting in Pakistan. Agricultural and Forest Meteorology, 2025.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Integrating satellite imagery, climate time-series, and soil data for wheat yield forecasting in Pakistan",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "M.",
+      "family": "Ashfaq"
+     }
+    ],
+    "year": 2025,
+    "container": "Agricultural and Forest Meteorology",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.469,
+     "best_title": "Satellite Imagery Used for Electricity Consumption Forecasting in Africa For the First Time in New Service",
+     "best_id": "10.1163/9789004322714_cclc_2020-0007-0063"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.498,
+     "best_title": "Integrating Weather Foundation Model and Satellite to Enable Fine-Grained Solar Irradiance Forecasting.",
+     "best_id": "conf/kdd/MaYGZZZNWBS26"
+    }
+   }
+  },
+  {
+   "n": 65,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission tOoaF61MVZ",
+   "raw": "Junwei Chen, Xiao Yang, and Yuchen Wu. Quantum information bottleneck: A quantum channel perspective. Quantum Information and Computation, 20(7-8):634-645, 2020.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Quantum information bottleneck: A quantum channel perspective",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Junwei",
+      "family": "Chen"
+     },
+     {
+      "given": "Xiao",
+      "family": "Yang"
+     },
+     {
+      "given": "Yuchen",
+      "family": "Wu"
+     }
+    ],
+    "year": 2020,
+    "container": "Quantum Information and Computation",
+    "short_container": "",
+    "volume": "20",
+    "number": "7-8",
+    "pages": "634-645",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "physics",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.525,
+     "best_title": "Quantum estimation through a bottleneck",
+     "best_id": "10.1007/s11128-020-02875-3"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.632,
+     "best_title": "A Generalized Information Bottleneck Method: A Decision-Theoretic Perspective.",
+     "best_id": "journals/corr/abs-2602-18405"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Junwei Chen' plus title: best match 0.52 ('THE QUANTUM CAPACITY BOUNDS OF A LOSSY GAUSSIAN QUANTUM C...'); arXiv author+keyword search: best 0.61; dblp records sharing the two longest title words: 400, best 0.64; no Crossref record found at the cited location (Quantum Information and Computation 20:634-645)."
+  },
+  {
+   "n": 66,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission TNqbfqSPoD",
+   "raw": "Subhrajit Chakraborty and Ravi Patel. Augmenting clinical reasoning through knowledge discovery systems. Journal of Biomedical Informatics, 138:104151, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Augmenting clinical reasoning through knowledge discovery systems",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Subhrajit",
+      "family": "Chakraborty"
+     },
+     {
+      "given": "Ravi",
+      "family": "Patel"
+     }
+    ],
+    "year": 2023,
+    "container": "Journal of Biomedical Informatics",
+    "short_container": "",
+    "volume": "138",
+    "number": "",
+    "pages": "104151",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.487,
+     "best_title": "Augmenting medical case base reasoning systems with clinical knowledge derived from heterogeneous electronic patient records",
+     "best_id": "10.1109/cbms.2001.941756"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.503,
+     "best_title": "Augmenting Hit Identification by Virtual Screening Techniques in Small Molecule Drug Discovery.",
+     "best_id": "journals/jcisd/YanSGTHKCLZW20"
+    }
+   }
+  },
+  {
+   "n": 67,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission TNqbfqSPoD",
+   "raw": "Lei Wang, Min Zhao, and Wei Chen. Incorporating causal reasoning in medical temporal models. Artificial Intelligence in Medicine, 142:102803, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Incorporating causal reasoning in medical temporal models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Lei",
+      "family": "Wang"
+     },
+     {
+      "given": "Min",
+      "family": "Zhao"
+     },
+     {
+      "given": "Wei",
+      "family": "Chen"
+     }
+    ],
+    "year": 2023,
+    "container": "Artificial Intelligence in Medicine",
+    "short_container": "",
+    "volume": "142",
+    "number": "",
+    "pages": "102803",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.548,
+     "best_title": "Efficient Robot Navigation in Dense Crowds via Causal Reasoning on Spatio-Temporal Graphs",
+     "best_id": "10.21203/rs.3.rs-8600622/v1"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.632,
+     "best_title": "Incorporating Nonmonotonic Reasoning in Horn Clause Theories.",
+     "best_id": "conf/aaai/Delgrande91"
+    }
+   }
+  },
+  {
+   "n": 68,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission TNqbfqSPoD",
+   "raw": "Thanh Nguyen and Xuan Ding. Cudoctor: A fuzzy logic-based medical chatbot for patient support. IEEE Journal of Biomedical and Health Informatics, 24(9):2498-2506, 2020.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Cudoctor: A fuzzy logic-based medical chatbot for patient support",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Thanh",
+      "family": "Nguyen"
+     },
+     {
+      "given": "Xuan",
+      "family": "Ding"
+     }
+    ],
+    "year": 2020,
+    "container": "IEEE Journal of Biomedical and Health Informatics",
+    "short_container": "",
+    "volume": "24",
+    "number": "9",
+    "pages": "2498-2506",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.539,
+     "best_title": "GlaucomaGuide: A Retrieval Augmented Generation — Enhanced medical chatbot for patient support in glaucoma management",
+     "best_id": "10.1016/j.knosys.2026.116241"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   }
+  },
+  {
+   "n": 69,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission HyB46zt7QX",
+   "raw": "Sergio M. Vicente-Serrano et al. Understanding droughts: Models and trends. International Journal of Climatology, 35:180-190, 2015.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Understanding droughts: Models and trends",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Sergio M.",
+      "family": "Vicente-Serrano"
+     }
+    ],
+    "year": 2015,
+    "container": "International Journal of Climatology",
+    "short_container": "",
+    "volume": "35",
+    "number": "",
+    "pages": "180-190",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.454,
+     "best_title": "Dynamic compound droughts in the Contiguous United States",
+     "best_id": "10.1016/j.jhydrol.2023.130129"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.337,
+     "best_title": "Spatial Downscaling of GRACE Data Based on XGBoost Model for Improved Understanding of Hydrological Droughts in the Indus Basin Irrigation System (IBIS).",
+     "best_id": "journals/remotesensing/AliKJTAASDBZSNJK23"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Sergio M. Vicente-Serrano' plus title: best match 0.45 ('Dynamic compound droughts in the Contiguous United States'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 1, best 0.34; no Crossref record found at the cited location (International Journal of Climatology 35:180-190)."
+  },
+  {
+   "n": 70,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission cMc5mFC7ib",
+   "raw": "Jacquie D Vorauer and Sharon C Kumhyr. Inhibited help seeking: The roles of anticipated stigmatization, anticipated rejection, and predicted cost in avoidance of help seeking. Personality and Social Psychology Bulletin, 27(12):1613-1622, 2001.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Inhibited help seeking: The roles of anticipated stigmatization, anticipated rejection, and predicted cost in avoidance of help seeking",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jacquie D",
+      "family": "Vorauer"
+     },
+     {
+      "given": "Sharon C",
+      "family": "Kumhyr"
+     }
+    ],
+    "year": 2001,
+    "container": "Personality and Social Psychology Bulletin",
+    "short_container": "",
+    "volume": "27",
+    "number": "12",
+    "pages": "1613-1622",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "social",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.342,
+     "best_title": "Seeking professional help for an eating disorder: the role of stigma, anticipated outcomes, and attitudes",
+     "best_id": "10.31274/rtd-180813-15746"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "manual_check": "Crossref search by first author 'Jacquie D Vorauer' plus title: best match 0.34 ('Help-Seeking to Cope With Experiences of Violence Among W...'); arXiv author+keyword search: no results; dblp two-word search: no results; the cited location (Personality and Social Psychology Bulletin 27:1613-1622) holds a different article in Crossref, 'How One Cause Discounts or Augments Another: A Connectionist Accoun...' (10.1177/01461672012712005)."
+  },
+  {
+   "n": 71,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission sJgJIbDVWh",
+   "raw": "Paul D. Dobson and Andrew J. Doig. Distinguishing active from inactive compounds using carhart structural fingerprints. Journal of Chemical Information and Computer Sciences, 43(1):34-43, 2003.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Distinguishing active from inactive compounds using carhart structural fingerprints",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Paul D.",
+      "family": "Dobson"
+     },
+     {
+      "given": "Andrew J.",
+      "family": "Doig"
+     }
+    ],
+    "year": 2003,
+    "container": "Journal of Chemical Information and Computer Sciences",
+    "short_container": "",
+    "volume": "43",
+    "number": "1",
+    "pages": "34-43",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.49,
+     "best_title": "Deciphering Structural Determinants Distinguishing Active from Inactive Cell-Penetrating Peptides for Cytosolic mRNA Delivery",
+     "best_id": "10.1021/acs.bioconjchem.3c00346.s001"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.514,
+     "best_title": "Distinguishing Human Journalists from Artificial Storytellers Through Stylistic Fingerprints.",
+     "best_id": "journals/computers/TranSKA24"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Paul D. Dobson' plus title: best match 0.51 ('Synthesis of biological active compounds using carbohydra...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 4, best 0.51; no Crossref record found at the cited location (Journal of Chemical Information and Computer Sciences 43:34-43)."
+  },
+  {
+   "n": 72,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission hQ4Ph3TNYK",
+   "raw": "Jiawei Zhang, Yifan Liu, and Andreas Bulling. Hybrid eye model reconstruction using sparse landmarks and dense priors. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 13590-13599, 2021.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Hybrid eye model reconstruction using sparse landmarks and dense priors",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jiawei",
+      "family": "Zhang"
+     },
+     {
+      "given": "Yifan",
+      "family": "Liu"
+     },
+     {
+      "given": "Andreas",
+      "family": "Bulling"
+     }
+    ],
+    "year": 2021,
+    "container": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "13590-13599",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.678,
+     "best_title": "Sparse Image Reconstruction using Sparse Priors",
+     "best_id": "10.1109/icip.2006.312574"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.579,
+     "best_title": "3D face reconstruction with dense landmarks.",
+     "best_id": "journals/corr/abs-2204-02776"
+    }
+   }
+  },
+  {
+   "n": 73,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission fFgzAQAUqs",
+   "raw": "Gurwinder S Sidhu, Niloofar Asgarian, Russell Greiner, and Matthew R G Brown. Using fmri to predict schizophrenia diagnosis: methods and future directions. World Journal of Radiology, 5 (12):403-414, 2013.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Using fmri to predict schizophrenia diagnosis: methods and future directions",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Gurwinder S",
+      "family": "Sidhu"
+     },
+     {
+      "given": "Niloofar",
+      "family": "Asgarian"
+     },
+     {
+      "given": "Russell",
+      "family": "Greiner"
+     },
+     {
+      "given": "Matthew R G",
+      "family": "Brown"
+     }
+    ],
+    "year": 2013,
+    "container": "World Journal of Radiology",
+    "short_container": "",
+    "volume": "5",
+    "number": "12",
+    "pages": "403-414",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.533,
+     "best_title": "Fraud Detection Pipeline Using Machine Learning: Methods, Applications, and Future Directions",
+     "best_id": "10.31224/4771"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.638,
+     "best_title": "Machine learning techniques for the Schizophrenia diagnosis: a comprehensive review and future research directions.",
+     "best_id": "journals/jaihc/VermaG00SM23"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Gurwinder S Sidhu' plus title: best match 0.58 ('Computer-based protection: recent advances and future dir...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 2, best 0.64; no Crossref record found at the cited location (World Journal of Radiology 5:403-414)."
+  },
+  {
+   "n": 74,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission F41nD6rplT",
+   "raw": "[14] A. A. Author and A. B. Author. The Economics of Shared Parking: An Analysis of P2P Platforms. Journal of Industrial Economics, 71(2):233-260, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "The Economics of Shared Parking: An Analysis of P2P Platforms",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "A. A.",
+      "family": "Author"
+     },
+     {
+      "given": "A. B.",
+      "family": "Author"
+     }
+    ],
+    "year": 2023,
+    "container": "Journal of Industrial Economics",
+    "short_container": "",
+    "volume": "71",
+    "number": "2",
+    "pages": "233-260",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "social",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.586,
+     "best_title": "Analysis of Shared Parking Lots Pattern",
+     "best_id": "10.25236/matecc.2017.16"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.646,
+     "best_title": "The economics of crowdfunding platforms.",
+     "best_id": "journals/iepol/BelleflammeOP15"
+    }
+   }
+  },
+  {
+   "n": 75,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission F41nD6rplT",
+   "raw": "[17] A. G. Author and A. H. Author. Integrating Electric Vehicle Charging with Smart Parking Systems. Applied Energy, 307:118196, 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Integrating Electric Vehicle Charging with Smart Parking Systems",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "A. G.",
+      "family": "Author"
+     },
+     {
+      "given": "A. H.",
+      "family": "Author"
+     }
+    ],
+    "year": 2022,
+    "container": "Applied Energy",
+    "short_container": "",
+    "volume": "307",
+    "number": "",
+    "pages": "118196",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.611,
+     "best_title": "Electric Vehicle Charging Infrastructure and Smart Grid Integration",
+     "best_id": "10.70269/10.70269/4464644673"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.676,
+     "best_title": "Integrating Fast Electric Vehicle Charging and Charge-Site Power-Limiting in SUMO.",
+     "best_id": "conf/simutools/LukicFF24"
+    }
+   }
+  },
+  {
+   "n": 76,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission ycmWQfjSsA",
+   "raw": "R. J. Batista, C. A. Silva, and I. G. Costa. Efficient epistasis detection via cartesian interaction modelling. Bioinformatics, 40(5):831-838, 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Efficient epistasis detection via cartesian interaction modelling",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "R. J.",
+      "family": "Batista"
+     },
+     {
+      "given": "C. A.",
+      "family": "Silva"
+     },
+     {
+      "given": "I. G.",
+      "family": "Costa"
+     }
+    ],
+    "year": 2024,
+    "container": "Bioinformatics",
+    "short_container": "",
+    "volume": "40",
+    "number": "5",
+    "pages": "831-838",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "biomed",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.587,
+     "best_title": "Efficient epistasis inference via higher-order covariance matrix factorization",
+     "best_id": "10.1101/2024.10.14.618287"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.448,
+     "best_title": "Deploying a Low-Cost Vision-Guided Cartesian Robot for Physical Interaction in Mobile Testing: An Industrial Case Study.",
+     "best_id": "conf/sast/LopesM25"
+    }
+   },
+   "manual_check": "Crossref search by first author 'R. J. Batista' plus title: best match 0.52 ('Efficient electrical detection of ambipolar acoustic tran...'); arXiv author+keyword search: no results; dblp records sharing the two longest title words: 9, best 0.45; no Crossref record found at the cited location (Bioinformatics 40:831-838)."
+  },
+  {
+   "n": 77,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission cwwb77xxa4",
+   "raw": "Christian Trott, Alan Gray, et al. Porting molecular dynamics codes from CUDA to OpenCL: A case study with LAMMPS. Journal of Computational Chemistry, 33(30):2273-2282, 2012. doi: 10.1002/jcc. 2305",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Porting molecular dynamics codes from CUDA to OpenCL: A case study with LAMMPS",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Christian",
+      "family": "Trott"
+     },
+     {
+      "given": "Alan",
+      "family": "Gray"
+     }
+    ],
+    "year": 2012,
+    "container": "Journal of Computational Chemistry",
+    "short_container": "",
+    "volume": "33",
+    "number": "30",
+    "pages": "2273-2282",
+    "publisher": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.459,
+     "best_title": "Porting ThunderKittens from CUDA to SYCL for Intel GPU: Process, Challenges, and Lessons Learned",
+     "best_id": "10.1145/3811257.3811269"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.592,
+     "best_title": "Porting the GROMACS Molecular Dynamics Code to the Cell Processor.",
+     "best_id": "conf/ipps/OlivierPDV07"
+    }
+   },
+   "transcription_note": "Truncated DOI in the source omitted.",
+   "manual_check": "Crossref search by first author 'Christian Trott' plus title: best match 0.48 ('Molecular Dynamics Simulations of Clathrate Hydrates on S...'); arXiv author+keyword search: best 0.50; dblp records sharing the two longest title words: 400, best 0.56; no Crossref record found at the cited location (Journal of Computational Chemistry 33:2273-2282)."
+  },
+  {
+   "n": 78,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission higDU3itix",
+   "raw": "R. Sharma and A. Patil. Assessment inefficiencies: A survey on examination paper wastage. Journal of Educational Resources, 2017.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Assessment inefficiencies: A survey on examination paper wastage",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "R.",
+      "family": "Sharma"
+     },
+     {
+      "given": "A.",
+      "family": "Patil"
+     }
+    ],
+    "year": 2017,
+    "container": "Journal of Educational Resources",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "social",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.354,
+     "best_title": "Mock examination",
+     "best_id": "10.5005/jp/books/12155_5"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   }
+  },
+  {
+   "n": 79,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission AmKn0wA652",
+   "raw": "X. Chen, Y. Zhang, Q. Liu, and Z. Wang. Exploration and reflection: Dual processes in reasoning with language models. In Proceedings of NeurIPS, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Exploration and reflection: Dual processes in reasoning with language models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "X.",
+      "family": "Chen"
+     },
+     {
+      "given": "Y.",
+      "family": "Zhang"
+     },
+     {
+      "given": "Q.",
+      "family": "Liu"
+     },
+     {
+      "given": "Z.",
+      "family": "Wang"
+     }
+    ],
+    "year": 2023,
+    "container": "Proceedings of NeurIPS",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.496,
+     "best_title": "On the Architecture and Reasoning of Large Language Models",
+     "best_id": "10.14711/thesis-hdl174652"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.565,
+     "best_title": "Exploration and reflection in interactive art: glass pond.",
+     "best_id": "conf/ozchi/SeevinckCE06"
+    }
+   }
+  },
+  {
+   "n": 80,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission V2WSJ2e28q",
+   "raw": "Yue Dong et al. A psychometric approach to evaluating deep learning models. Knowledge-Based Systems, 2021.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "A psychometric approach to evaluating deep learning models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yue",
+      "family": "Dong"
+     }
+    ],
+    "year": 2021,
+    "container": "Knowledge-Based Systems",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.422,
+     "best_title": "Evaluating deep learning time series models for PM2.5 forecasting across diverse horizons",
+     "best_id": "10.1016/j.isci.2026.114770"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.524,
+     "best_title": "Evaluating Psychometric Clustering Methods: A Machine-Learning Comparison of EFA and NCD.",
+     "best_id": "journals/computation/LiL26"
+    }
+   }
+  },
+  {
+   "n": 81,
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission cQvBP4TZHe",
+   "raw": "Yiqi Wang, Xinyue Wang, Raymond A Adomaitis, and Dongxia Liu. Rethinking the implementation of an uncertainty-aware deep learning framework for materials property prediction. Digital Chemical Engineering, 7:100097, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Rethinking the implementation of an uncertainty-aware deep learning framework for materials property prediction",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yiqi",
+      "family": "Wang"
+     },
+     {
+      "given": "Xinyue",
+      "family": "Wang"
+     },
+     {
+      "given": "Raymond A",
+      "family": "Adomaitis"
+     },
+     {
+      "given": "Dongxia",
+      "family": "Liu"
+     }
+    ],
+    "year": 2023,
+    "container": "Digital Chemical Engineering",
+    "short_container": "",
+    "volume": "7",
+    "number": "",
+    "pages": "100097",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-23",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.642,
+     "best_title": "Fragment-Aware Contrastive Learning Framework for Molecular Property Prediction",
+     "best_id": "10.1021/acs.jcim.6c00314.s001"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.537,
+     "best_title": "A full graphics processing unit implementation of uncertainty-aware drainage basin delineation.",
+     "best_id": "journals/gandc/EranenOWS14"
+    }
+   },
+   "manual_check": "Crossref search by first author 'Yiqi Wang' plus title: best match 0.63 ('DeepALM: A Context-Aware Deep Learning Framework for Anti...'); arXiv author+keyword search: best 0.46; dblp records sharing the two longest title words: 73, best 0.54; the cited location (Digital Chemical Engineering 7:100097) holds a different article in Crossref, 'Automatic differentiation rules for Tsoukalas–Mitsos convex relaxat...' (10.1016/j.dche.2023.100097)."
+  }
+ ]
+}

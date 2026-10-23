@@ -9,11 +9,15 @@ from difflib import SequenceMatcher
 from .model import Record, Reference, Score
 
 FOUND_TITLE = 0.90  # at or above: same title (allowing typos, punctuation, a dropped subtitle)
-CLOSE_TITLE = 0.75  # at or above: worth showing as the closest candidate
+CLOSE_TITLE = 0.80  # at or above: worth showing as the closest candidate
 
 _FORMAT_CMD = re.compile(r"\\(?:emph|textit|textbf|textsc|textrm|texttt|mathrm|mathbf|mathit|mathcal|url|text)\b")
 _LATEX_CMD = re.compile(r"\\[a-zA-Z]+\*?")
 _SUBTITLE = re.compile(r"[:?!]|\s[-\u2013\u2014]\s")
+# Registries prefix retracted works and notices: "RETRACTED ARTICLE: ...", "Retraction Note: ...".
+_NOTICE = re.compile(r"^\s*(?:retracted(?: article)?|retraction(?: note)?|withdrawn|expression of concern)\s*[:.\-]\s*",
+                     re.IGNORECASE)
+_GROUP_AUTHOR = re.compile(r"collaborat|consortium|group|network|initiative|investigators|committee", re.IGNORECASE)
 
 
 def _ascii(s: str) -> str:
@@ -21,6 +25,7 @@ def _ascii(s: str) -> str:
 
 
 def normalize_title(s: str) -> str:
+    s = _NOTICE.sub("", s)
     s = s.replace("\\&", " and ").replace("&", " and ")
     s = _FORMAT_CMD.sub(" ", s)  # keep the argument of formatting commands, drop the command
     s = _LATEX_CMD.sub(" ", s).replace("{", "").replace("}", "")  # braces only protect case: "{R}eview"
@@ -29,7 +34,7 @@ def normalize_title(s: str) -> str:
 
 
 def _main_title(s: str) -> str:
-    return normalize_title(_SUBTITLE.split(s, maxsplit=1)[0])
+    return normalize_title(_SUBTITLE.split(_NOTICE.sub("", s), maxsplit=1)[0])
 
 
 def title_similarity(a: str, b: str) -> float:
@@ -46,6 +51,11 @@ def title_similarity(a: str, b: str) -> float:
     for main, other in ((ma, nb), (mb, na)):
         if main and main == other:
             score = max(score, 0.95 if len(main.split()) >= 3 else FOUND_TITLE)
+    # The registry title may wrap the cited one in a series heading: JSTOR lists Quine's paper as
+    # "Main Trends in Recent Philosophy: Two Dogmas of Empiricism". Only this direction counts: an
+    # entry that adds words to a real title ("Attention is all you need for graphs") must not pass.
+    if len(na.split()) >= 3 and f" {na} " in f" {nb} ":
+        score = max(score, FOUND_TITLE)
     return score
 
 
@@ -78,6 +88,9 @@ def author_match(ref_authors: list[str], rec: Record) -> tuple[bool | None, bool
 
     first = hit(keys[0])
     overlap = sum(hit(k) for k in keys) / min(len(keys), len(rec_sets))
+    if not first and overlap < 0.5 and any(_GROUP_AUTHOR.search(n) for n in rec.authors):
+        # "GBD 2019 Collaborators" cannot be compared with named authors: let the year decide.
+        return None, None, None
     return first or overlap >= 0.5, first, overlap
 
 
