@@ -23,10 +23,10 @@ Reference Verifier 0.1.0: 41 references from refs.bib
 ## Install
 
 ```
-pip install reference-verifier
+pip install git+https://github.com/the-aurora-lab/reference-verifier
 ```
 
-Python 3.10 or newer.
+Python 3.10 or newer. A PyPI release (`pip install reference-verifier`) is coming.
 
 ## Use
 
