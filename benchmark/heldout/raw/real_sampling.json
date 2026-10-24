@@ -1,0 +1,792 @@
+{
+ "description": "How each genuine reference was drawn: the OpenAlex filter and seed (or the dblp venue and year), how many records the sample returned, and why records ahead of the chosen one were skipped.",
+ "strata": {
+  "article:cs": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:article,primary_location.source.type:journal,publication_year:1975-2025,primary_topic.field.id:17",
+   "seed": 20261024,
+   "sampled": 45,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W2755238254",
+     "doi": "10.1021/acs.jctc.7b00601",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2083938281",
+     "doi": "10.1016/j.sigpro.2015.01.007",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W1530240242",
+     "doi": "10.1108/el-02-2012-0019",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2057233387",
+     "doi": "10.1068/b200195",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2103707651",
+     "doi": "10.1109/tce.2009.4814442",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2765503488",
+     "doi": "10.1088/1367-2630/aab67f",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W3080477479",
+     "doi": "10.1109/access.2020.3018752",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W4310679736",
+     "doi": "10.3390/su142316126",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W4200561886",
+     "doi": "10.3390/electronics10243178",
+     "skip": null
+    }
+   ]
+  },
+  "article:biomed": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:article,primary_location.source.type:journal,publication_year:1975-2025,primary_topic.field.id:27|13|28|24|30",
+   "seed": 20261025,
+   "sampled": 55,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W2037066451",
+     "doi": "10.4161/cc.8.20.9761",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W4388126569",
+     "doi": "10.1136/bmjopen-2023-073523",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2474936601",
+     "doi": "10.1016/j.medmal.2005.09.002",
+     "skip": "no personal authors"
+    },
+    {
+     "openalex": "https://openalex.org/W2042283785",
+     "doi": "10.1073/pnas.75.6.2897",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2024296170",
+     "doi": "10.1242/jcs.02756",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W1599609091",
+     "doi": "10.1046/j.1432-1327.2001.02135.x",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2118597638",
+     "doi": "10.1093/jac/dkn496",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W1998356213",
+     "doi": "10.1016/0006-8993(86)90839-5",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2294341179",
+     "doi": "10.1242/dev.129.10.2507",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W78479268",
+     "doi": "10.1007/s00142-004-0268-9",
+     "skip": "language de"
+    },
+    {
+     "openalex": "https://openalex.org/W1512337725",
+     "doi": "10.3390/ijms160715220",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W4256495385",
+     "doi": "10.1016/s0889-8529(05)70264-4",
+     "skip": "short title"
+    },
+    {
+     "openalex": "https://openalex.org/W2001813842",
+     "doi": "10.1016/s0960-9822(01)00351-7",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W3126821258",
+     "doi": "10.1075/gest.19029.lev",
+     "skip": "short title"
+    },
+    {
+     "openalex": "https://openalex.org/W4200133893",
+     "doi": "10.1111/resp.14194",
+     "skip": null
+    }
+   ]
+  },
+  "article:physics": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:article,primary_location.source.type:journal,publication_year:1975-2025,primary_topic.field.id:31",
+   "seed": 20261026,
+   "sampled": 45,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W3016688762",
+     "doi": "10.21136/cmj.2020.0128-19",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W1997486243",
+     "doi": "10.1007/s00894-014-2553-5",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W4205345364",
+     "doi": "10.1007/s10509-021-04036-z",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W4318159488",
+     "doi": "10.1364/oe.479367",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2749810065",
+     "doi": "10.1002/2017jd026471",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W3182708916",
+     "doi": "10.1109/jlt.2021.3095100",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W4378781105",
+     "doi": "10.1021/acsaom.3c00055",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W1996692775",
+     "doi": "10.1116/1.587692",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2052016024",
+     "doi": "10.1016/j.tca.2008.12.019",
+     "skip": null
+    }
+   ]
+  },
+  "article:math": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:article,primary_location.source.type:journal,publication_year:1975-2025,primary_topic.field.id:26",
+   "seed": 20261027,
+   "sampled": 50,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W2154334210",
+     "doi": "10.2307/2274712",
+     "skip": "language fr"
+    },
+    {
+     "openalex": "https://openalex.org/W2071360539",
+     "doi": "10.1080/03605300008821550",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W1580453321",
+     "doi": "10.1088/1751-8113/45/22/225202",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2009024697",
+     "doi": "10.1016/0022-247x(76)90211-0",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2296224224",
+     "doi": "10.1007/s00041-016-9463-0",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2111318856",
+     "doi": "10.1088/0951-7715/23/9/001",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W1988018117",
+     "doi": "10.1112/plms/s3-70.1.183",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2240604120",
+     "doi": "10.1016/j.jalgebra.2018.04.031",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2595615739",
+     "doi": "10.1016/j.euromechflu.2017.03.001",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2084992499",
+     "doi": "10.1512/iumj.2008.57.3628",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2023122076",
+     "doi": "10.1137/s0895480100376496",
+     "skip": null
+    }
+   ]
+  },
+  "article:social": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:article,primary_location.source.type:journal,publication_year:1975-2025,primary_topic.field.id:33|32|20|14",
+   "seed": 20261028,
+   "sampled": 50,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W2112806854",
+     "doi": "10.1111/1467-8381.00064",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W4284969451",
+     "doi": "10.3201/eid2808.220557",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W4391797112",
+     "doi": "10.1016/j.resourpol.2024.104652",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2148937210",
+     "doi": "10.1080/02684529608432373",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2034870599",
+     "doi": "10.3141/2246-09",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2790896176",
+     "doi": "10.3390/su10040909",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2796341197",
+     "doi": "10.2307/1289864",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2071880972",
+     "doi": "10.1007/bf00290157",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W1965999457",
+     "doi": "10.1177/0145445501251001",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W1989522959",
+     "doi": "10.1142/s1464333203001280",
+     "skip": "title in capitals"
+    },
+    {
+     "openalex": "https://openalex.org/W2032116457",
+     "doi": "10.1080/10357719008445020",
+     "skip": null
+    }
+   ]
+  },
+  "article:humanities": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:article,primary_location.source.type:journal,publication_year:1975-2025,primary_topic.field.id:12",
+   "seed": 20261029,
+   "sampled": 45,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W1970487712",
+     "doi": "10.1111/1467-968x.00103",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2796715352",
+     "doi": "10.2307/283957",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2170341995",
+     "doi": "10.1016/j.comppsych.2007.10.003",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2891892396",
+     "doi": "10.1558/rosa.37023",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2004384503",
+     "doi": "10.1177/0142064x8200501606",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2028169872",
+     "doi": "10.1080/1462169x.1999.10511919",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2106113855",
+     "doi": "10.1093/alh/ajn030",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2034927472",
+     "doi": "10.1016/j.jml.2006.08.007",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2034845837",
+     "doi": "10.1163/22118993-90000008",
+     "skip": "title in capitals"
+    },
+    {
+     "openalex": "https://openalex.org/W2133415653",
+     "doi": "10.1515/zatw.2004.009",
+     "skip": null
+    }
+   ]
+  },
+  "article:other": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:article,primary_location.source.type:journal,publication_year:1975-2025,primary_topic.field.id:16|25|19|23|21|22|11",
+   "seed": 20261030,
+   "sampled": 45,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W2943288251",
+     "doi": "10.1039/c9ta03253c",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W4365137738",
+     "doi": "10.1007/s10661-023-11202-z",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2604814446",
+     "doi": "10.1088/2053-1591/aa6b71",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2889281419",
+     "doi": "10.1002/pi.5698",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2885841616",
+     "doi": "10.30638/eemj.2008.111",
+     "skip": "title in capitals"
+    },
+    {
+     "openalex": "https://openalex.org/W2047335619",
+     "doi": "10.1002/ejoc.200900662",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2093690075",
+     "doi": "10.1080/13602360110048195",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W3033039047",
+     "doi": "10.1021/acs.macromol.0c00397",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2949806872",
+     "doi": "10.1071/ch02254",
+     "skip": null
+    },
+    {
+     "openalex": "https://openalex.org/W2467310519",
+     "doi": "10.1016/j.cageo.2016.07.002",
+     "skip": null
+    }
+   ]
+  },
+  "book:humanities": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:book,publication_year:1980-2025,primary_topic.field.id:12,language:en",
+   "seed": 20261124,
+   "sampled": 40,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W2490117002",
+     "doi": "10.1057/9780230374980",
+     "skip": null
+    }
+   ]
+  },
+  "book:social": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:book,publication_year:1980-2025,primary_topic.field.id:33|32|20|14,language:en",
+   "seed": 20261125,
+   "sampled": 40,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W4302604349",
+     "doi": "10.2190/shs",
+     "skip": null
+    }
+   ]
+  },
+  "book:math": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:book,publication_year:1980-2025,primary_topic.field.id:26,language:en",
+   "seed": 20261126,
+   "sampled": 40,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W4302781531",
+     "doi": "10.1142/9789812831019",
+     "skip": null
+    }
+   ]
+  },
+  "book:other": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:book,publication_year:1980-2025,primary_topic.field.id:16|25|19|23|21|22|11,language:en",
+   "seed": 20261127,
+   "sampled": 40,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W2760693758",
+     "doi": "10.5040/9781474228503",
+     "skip": "short title"
+    },
+    {
+     "openalex": "https://openalex.org/W2398259668",
+     "doi": "10.1201/9780367806200",
+     "skip": "no personal authors"
+    },
+    {
+     "openalex": "https://openalex.org/W3198007673",
+     "doi": "10.4324/9780429052347",
+     "skip": null
+    }
+   ]
+  },
+  "book-chapter:humanities": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:book-chapter,publication_year:1980-2025,primary_topic.field.id:12,language:en",
+   "seed": 20261128,
+   "sampled": 40,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W2244808099",
+     "doi": "10.4324/9780203323885-27",
+     "skip": "no personal authors"
+    },
+    {
+     "openalex": "https://openalex.org/W2908616803",
+     "doi": "10.4324/9781351128469-15",
+     "skip": "short title"
+    },
+    {
+     "openalex": "https://openalex.org/W2964154200",
+     "doi": "10.3138/9781442602946-018",
+     "skip": null
+    }
+   ]
+  },
+  "book-chapter:social": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:book-chapter,publication_year:1980-2025,primary_topic.field.id:33|32|20|14,language:en",
+   "seed": 20261129,
+   "sampled": 40,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W2903663515",
+     "doi": "10.4324/9781315778495-4",
+     "skip": null
+    }
+   ]
+  },
+  "book-chapter:cs": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:book-chapter,publication_year:1980-2025,primary_topic.field.id:17,language:en",
+   "seed": 20261130,
+   "sampled": 40,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W3179859204",
+     "doi": "10.1007/978-3-030-64653-0_7",
+     "skip": null
+    }
+   ]
+  },
+  "book-chapter:biomed": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:book-chapter,publication_year:1980-2025,primary_topic.field.id:27|13|28|24|30,language:en",
+   "seed": 20261131,
+   "sampled": 40,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W3023182217",
+     "doi": "10.1016/b978-0-444-53173-5.00010-x",
+     "skip": "short title"
+    },
+    {
+     "openalex": "https://openalex.org/W4241786424",
+     "doi": "10.3109/9781420076929-19",
+     "skip": "no personal authors"
+    },
+    {
+     "openalex": "https://openalex.org/W4205346821",
+     "doi": "10.1007/978-1-4020-4061-0_16",
+     "skip": "short title"
+    },
+    {
+     "openalex": "https://openalex.org/W4388323887",
+     "doi": "10.1093/oso/9780199633524.003.0004",
+     "skip": null
+    }
+   ]
+  },
+  "book-chapter:physics": {
+   "filter": "has_doi:true,is_retracted:false,is_paratext:false,cited_by_count:>4,type:book-chapter,publication_year:1980-2025,primary_topic.field.id:31,language:en",
+   "seed": 20261132,
+   "sampled": 40,
+   "tried": [
+    {
+     "openalex": "https://openalex.org/W3173768010",
+     "doi": "10.1007/978-3-030-62777-5_24",
+     "skip": null
+    }
+   ]
+  },
+  "arxiv:cs": {
+   "filter": "primary_location.source.id:S4306400194,locations_count:1,publication_year:2014-2024,cited_by_count:>2,primary_topic.field.id:17",
+   "seed": 20261224,
+   "sampled": 80,
+   "tried": [
+    {
+     "arxiv": "2008.11092",
+     "skip": null
+    },
+    {
+     "arxiv": "1912.02481",
+     "skip": null
+    },
+    {
+     "arxiv": "1803.04660",
+     "skip": "arXiv record has a DOI or journal reference"
+    }
+   ]
+  },
+  "arxiv:math": {
+   "filter": "primary_location.source.id:S4306400194,locations_count:1,publication_year:2014-2024,cited_by_count:>2,primary_topic.field.id:26",
+   "seed": 20261225,
+   "sampled": 80,
+   "tried": [
+    {
+     "arxiv": "1802.04844",
+     "skip": "arXiv record has a DOI or journal reference"
+    },
+    {
+     "arxiv": "1803.07826",
+     "skip": null
+    }
+   ]
+  },
+  "arxiv:physics": {
+   "filter": "primary_location.source.id:S4306400194,locations_count:1,publication_year:2014-2024,cited_by_count:>2,primary_topic.field.id:31",
+   "seed": 20261226,
+   "sampled": 80,
+   "tried": [
+    {
+     "arxiv": "1612.06716",
+     "skip": null
+    },
+    {
+     "arxiv": "1803.03517",
+     "skip": null
+    },
+    {
+     "arxiv": "1910.10092",
+     "skip": null
+    }
+   ]
+  },
+  "arxiv:biomed": {
+   "filter": "primary_location.source.id:S4306400194,locations_count:1,publication_year:2014-2024,cited_by_count:>2,primary_topic.field.id:27|13|28|24|30",
+   "seed": 20261227,
+   "sampled": 80,
+   "tried": [
+    {
+     "arxiv": "1704.05694",
+     "skip": null
+    }
+   ]
+  },
+  "arxiv:social": {
+   "filter": "primary_location.source.id:S4306400194,locations_count:1,publication_year:2014-2024,cited_by_count:>2,primary_topic.field.id:33|32|20|14",
+   "seed": 20261228,
+   "sampled": 80,
+   "tried": [
+    {
+     "arxiv": "1411.4633",
+     "skip": "arXiv record has a DOI or journal reference"
+    }
+   ]
+  },
+  "dblp:NeurIPS": {
+   "year": "2018",
+   "n_keys": 1010,
+   "tried": [
+    {
+     "dblp": "conf/nips/AubinMBKMZ18",
+     "skip": null
+    }
+   ]
+  },
+  "dblp:ICML": {
+   "year": "2016",
+   "n_keys": 322,
+   "tried": [
+    {
+     "dblp": "conf/icml/SyrgkanisKS16",
+     "skip": null
+    }
+   ]
+  },
+  "dblp:ICLR": {
+   "year": "2020",
+   "n_keys": 687,
+   "tried": [
+    {
+     "dblp": "conf/iclr/WengDUXGSK20",
+     "skip": null
+    }
+   ]
+  },
+  "dblp:AISTATS": {
+   "year": "2018",
+   "n_keys": 216,
+   "tried": [
+    {
+     "dblp": "conf/aistats/ChienLW18",
+     "skip": null
+    }
+   ]
+  },
+  "dblp:COLT": {
+   "year": "2016",
+   "n_keys": 70,
+   "tried": [
+    {
+     "dblp": "conf/colt/FleschLP16",
+     "skip": null
+    }
+   ]
+  },
+  "dblp:UAI": {
+   "year": "2019",
+   "n_keys": 118,
+   "tried": [
+    {
+     "dblp": "conf/uai/TracaYR19",
+     "skip": null
+    }
+   ]
+  },
+  "dblp:LREC": {
+   "year": "2016",
+   "n_keys": 746,
+   "tried": [
+    {
+     "dblp": "conf/lrec/Lapshinova-Koltunski16",
+     "skip": null
+    }
+   ]
+  },
+  "dblp:CoRL": {
+   "year": "2021",
+   "n_keys": 166,
+   "tried": [
+    {
+     "dblp": "conf/corl/SinhaMG21",
+     "skip": null
+    }
+   ]
+  },
+  "dblp:MIDL": {
+   "year": "2022",
+   "n_keys": 99,
+   "tried": [
+    {
+     "dblp": "conf/midl/KascenasPO22",
+     "skip": null
+    }
+   ]
+  },
+  "dblp:ISMIR": {
+   "year": "2019",
+   "n_keys": 114,
+   "tried": [
+    {
+     "dblp": "conf/ismir/SimonettaCNW19",
+     "skip": null
+    }
+   ]
+  },
+  "arxiv-topup:cs": {
+   "filter": "primary_location.source.id:S4306400194,locations_count:1,publication_year:2014-2024,cited_by_count:>2,primary_topic.field.id:17",
+   "seed": 20261324,
+   "sampled": 120,
+   "tried": [
+    {
+     "arxiv": "1504.03498",
+     "skip": "arXiv record has a DOI or journal reference"
+    },
+    {
+     "arxiv": "2105.08368",
+     "skip": "arXiv record has a DOI or journal reference"
+    },
+    {
+     "arxiv": "1707.09472",
+     "skip": null
+    }
+   ]
+  },
+  "arxiv-topup:math": {
+   "filter": "primary_location.source.id:S4306400194,locations_count:1,publication_year:2014-2024,cited_by_count:>2,primary_topic.field.id:26",
+   "seed": 20261325,
+   "sampled": 120,
+   "tried": [
+    {
+     "arxiv": "1502.06223",
+     "skip": "arXiv record has a DOI or journal reference"
+    },
+    {
+     "arxiv": "1402.1059",
+     "skip": null
+    }
+   ]
+  },
+  "arxiv-topup:social": {
+   "filter": "primary_location.source.id:S4306400194,locations_count:1,publication_year:2014-2024,cited_by_count:>2,primary_topic.field.id:20|33|32",
+   "seed": 20261326,
+   "sampled": 120,
+   "tried": [
+    {
+     "arxiv": "2207.05133",
+     "skip": null
+    }
+   ]
+  }
+ }
+}

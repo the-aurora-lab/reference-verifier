@@ -1,0 +1,2142 @@
+{
+ "description": "Retracted papers for the held-out set: Retraction Watch rows (RetractionNature 'Retraction') whose Crossref record lists the same notice in updated-by. 'meta' is the Crossref metadata; 'overrides' are curated fixes applied at build time; 'rw' copies facts from the Retraction Watch row.",
+ "retrieved": "2026-10-24",
+ "rw_snapshot": "Retraction Watch data generated 2026-10-22",
+ "items": [
+  {
+   "registry": "crossref",
+   "ident": "10.3233/jifs-212451",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: A simple and efficient technique for leaf extraction in complex backgrounds of low resolution mobile photographed images",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "B.R.",
+      "family": "Pushpa"
+     },
+     {
+      "given": "N.",
+      "family": "Shobha Rani"
+     }
+    ],
+    "year": 2022,
+    "container": "Journal of Intelligent & Fuzzy Systems",
+    "short_container": "IFS",
+    "volume": "43",
+    "number": "1",
+    "pages": "773-789",
+    "publisher": "SAGE Publications",
+    "doi": "10.3233/jifs-212451",
+    "isbn": ""
+   },
+   "notice_doi": "10.3233/jifs-219433",
+   "retraction_date": "2024-08-23",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "62369",
+    "subject": "(B/T) Computer Science;",
+    "journal": "Journal of Intelligent & Fuzzy Systems",
+    "publisher": "IOS Press (bought by Sage November 2023)",
+    "retraction_doi": "10.3233/JIFS-219433",
+    "retraction_date": "8/23/2024 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Compromised Peer Review",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party"
+    ]
+   },
+   "n": 1,
+   "style": [
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1177/0020720918813836",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A high-speed fixed width floating-point multiplier using residue logarithmic number system algorithm",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "J Jency",
+      "family": "Rubia"
+     },
+     {
+      "given": "GA",
+      "family": "Sathish Kumar"
+     }
+    ],
+    "year": 2018,
+    "container": "International Journal of Electrical Engineering & Education",
+    "short_container": "International Journal of Electrical Engineering & Education",
+    "volume": "57",
+    "number": "4",
+    "pages": "361-375",
+    "publisher": "SAGE Publications",
+    "doi": "10.1177/0020720918813836",
+    "isbn": ""
+   },
+   "notice_doi": "10.1177/00207209231197937",
+   "retraction_date": "2023-11-01",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "48870",
+    "subject": "(B/T) Computer Science;",
+    "journal": "The International Journal of Electrical Engineering & Education",
+    "publisher": "SAGE Publications",
+    "retraction_doi": "10.1177/00207209231197937",
+    "retraction_date": "11/1/2023 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Compromised Peer Review",
+     "Investigation by Journal/Publisher",
+     "Unreliable Results and/or Conclusions",
+     "Upgrade/Update of Prior Notice(s)"
+    ]
+   },
+   "n": 2,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s12652-020-01737-1",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: Removal of high density salt and pepper noise in color image through modified cascaded filter",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "B.",
+      "family": "Karthik"
+     },
+     {
+      "given": "T.",
+      "family": "Krishna Kumar"
+     },
+     {
+      "given": "S. P.",
+      "family": "Vijayaragavan"
+     },
+     {
+      "given": "M.",
+      "family": "Sriram"
+     }
+    ],
+    "year": 2020,
+    "container": "Journal of Ambient Intelligence and Humanized Computing",
+    "short_container": "J Ambient Intell Human Comput",
+    "volume": "12",
+    "number": "3",
+    "pages": "3901-3908",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s12652-020-01737-1",
+    "isbn": ""
+   },
+   "notice_doi": "10.1007/s12652-022-04160-w",
+   "retraction_date": "2022-06-14",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "37867",
+    "subject": "(B/T) Computer Science;",
+    "journal": "Journal of Ambient Intelligence and Humanized Computing",
+    "publisher": "Springer - Nature Publishing Group",
+    "retraction_doi": "10.1007/s12652-022-04160-w",
+    "retraction_date": "6/14/2022 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Compromised Peer Review",
+     "Investigation by Journal/Publisher",
+     "Rogue Editor"
+    ]
+   },
+   "n": 3,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1155/2022/2371549",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Time Series Anomaly Detection Model Based on Multi-Features",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Hengyao",
+      "family": "Tang"
+     },
+     {
+      "given": "Qingdong",
+      "family": "Wang"
+     },
+     {
+      "given": "Guosong",
+      "family": "Jiang"
+     }
+    ],
+    "year": 2022,
+    "container": "Computational Intelligence and Neuroscience",
+    "short_container": "Computational Intelligence and Neuroscience",
+    "volume": "2022",
+    "number": "",
+    "pages": "1-8",
+    "publisher": "Wiley",
+    "doi": "10.1155/2022/2371549",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Zhao",
+      "family": "Kaifa"
+     }
+    ]
+   },
+   "notice_doi": "10.1155/2023/9820841",
+   "retraction_date": "2023-07-12",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "49409",
+    "subject": "(B/T) Computer Science;(B/T) Data Science;",
+    "journal": "Computational Intelligence and Neuroscience",
+    "publisher": "Hindawi",
+    "retraction_doi": "10.1155/2023/9820841",
+    "retraction_date": "7/12/2023 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Concerns/Issues about Results and/or Conclusions",
+     "Concerns/Issues about Referencing/Attributions",
+     "Concerns/Issues about Peer Review",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Computer-Aided Content or Computer-Generated Content",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 4,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s00500-019-04171-4",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: Visual communication design elements of Internet of Things based on cloud computing applied in graffiti art schema",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Haotian",
+      "family": "Wu"
+     },
+     {
+      "given": "Guangan",
+      "family": "Li"
+     }
+    ],
+    "year": 2019,
+    "container": "Soft Computing",
+    "short_container": "Soft Comput",
+    "volume": "24",
+    "number": "11",
+    "pages": "8077-8086",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s00500-019-04171-4",
+    "isbn": ""
+   },
+   "notice_doi": "10.1007/s00500-022-07710-8",
+   "retraction_date": "2022-11-30",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "41780",
+    "subject": "(B/T) Computer Science;(B/T) Data Science;",
+    "journal": "Soft Computing",
+    "publisher": "Springer",
+    "retraction_doi": "10.1007/s00500-022-07710-8",
+    "retraction_date": "11/30/2022 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Referencing/Attributions",
+     "Investigation by Journal/Publisher",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 5,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1126/science.1188635",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 9,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "SphK1 Regulates Proinflammatory Responses Associated with Endotoxin and Polymicrobial Sepsis",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Padmam",
+      "family": "Puneet"
+     },
+     {
+      "given": "Celestial T.",
+      "family": "Yap"
+     },
+     {
+      "given": "Lingkai",
+      "family": "Wong"
+     },
+     {
+      "given": "Lam",
+      "family": "Yulin"
+     },
+     {
+      "given": "Dow Rhoon",
+      "family": "Koh"
+     },
+     {
+      "given": "Shabbir",
+      "family": "Moochhala"
+     },
+     {
+      "given": "Josef",
+      "family": "Pfeilschifter"
+     },
+     {
+      "given": "Andrea",
+      "family": "Huwiler"
+     },
+     {
+      "given": "Alirio J.",
+      "family": "Melendez"
+     }
+    ],
+    "year": 2010,
+    "container": "Science",
+    "short_container": "Science",
+    "volume": "328",
+    "number": "5983",
+    "pages": "1290-1294",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "doi": "10.1126/science.1188635",
+    "isbn": ""
+   },
+   "notice_doi": "10.1126/science.341.6144.342-a",
+   "retraction_date": "2013-07-26",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "497",
+    "subject": "(BLS) Biochemistry;(BLS) Biology - Cellular;(BLS) Biology - General;(BLS) Biology - Molecular;(BLS) Genetics;",
+    "journal": "Science",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "retraction_doi": "10.1126/science.341.6144.342-a",
+    "retraction_date": "7/26/2013 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Image",
+     "Euphemisms for Plagiarism",
+     "Investigation by Company/Institution",
+     "Misconduct - Official Investigation(s) and/or Finding(s)",
+     "Misconduct by Author",
+     "Plagiarism of Image",
+     "Plagiarism of Text"
+    ]
+   },
+   "n": 6,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1093/rheumatology/kew027",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 11,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Rectracted: Anti-ribosomal-phosphoprotein autoantibodies penetrate to neuronal cells via neuronal growth associated protein, affecting neuronal cells in vitro",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Shaye",
+      "family": "Kivity"
+     },
+     {
+      "given": "Yehuda",
+      "family": "Shoenfeld"
+     },
+     {
+      "given": "Maria-Teresa",
+      "family": "Arango"
+     },
+     {
+      "given": "Dolores J",
+      "family": "Cahill"
+     },
+     {
+      "given": "Sara Louise",
+      "family": "O’Kane"
+     },
+     {
+      "given": "Margalit",
+      "family": "Zusev"
+     },
+     {
+      "given": "Inna",
+      "family": "Slutsky"
+     },
+     {
+      "given": "Michal",
+      "family": "Harel-Meir"
+     },
+     {
+      "given": "Joab",
+      "family": "Chapman"
+     },
+     {
+      "given": "Torsten",
+      "family": "Matthias"
+     },
+     {
+      "given": "Miri",
+      "family": "Blank"
+     }
+    ],
+    "year": 2016,
+    "container": "Rheumatology",
+    "short_container": "",
+    "volume": "60",
+    "number": "12",
+    "pages": "e456-e466",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1093/rheumatology/kew027",
+    "isbn": ""
+   },
+   "notice_doi": "10.1093/rheumatology/kex259",
+   "retraction_date": "2017-08-10",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "8886",
+    "subject": "(BLS) Biology - Cellular;(BLS) Neuroscience;",
+    "journal": "Rheumatology",
+    "publisher": "Oxford University Press",
+    "retraction_doi": "10.1093/rheumatology/kex259",
+    "retraction_date": "8/10/2017 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Error in Methods",
+     "Error in Results and/or Conclusions"
+    ]
+   },
+   "n": 7,
+   "overrides": {
+    "title": "Anti-ribosomal-phosphoprotein autoantibodies penetrate to neuronal cells via neuronal growth associated protein, affecting neuronal cells in vitro"
+   },
+   "style": [
+    "and_others",
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1038/onc.2013.220",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 10,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: Oncogenic targeting of BRM drives malignancy through C/EBPβ-dependent induction of α5 integrin",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "L",
+      "family": "Damiano"
+     },
+     {
+      "given": "K M",
+      "family": "Stewart"
+     },
+     {
+      "given": "N",
+      "family": "Cohet"
+     },
+     {
+      "given": "J K",
+      "family": "Mouw"
+     },
+     {
+      "given": "J N",
+      "family": "Lakins"
+     },
+     {
+      "given": "J",
+      "family": "Debnath"
+     },
+     {
+      "given": "D",
+      "family": "Reisman"
+     },
+     {
+      "given": "J A",
+      "family": "Nickerson"
+     },
+     {
+      "given": "A N",
+      "family": "Imbalzano"
+     },
+     {
+      "given": "V M",
+      "family": "Weaver"
+     }
+    ],
+    "year": 2013,
+    "container": "Oncogene",
+    "short_container": "Oncogene",
+    "volume": "33",
+    "number": "19",
+    "pages": "2441-2453",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/onc.2013.220",
+    "isbn": ""
+   },
+   "notice_doi": "10.1038/s41388-024-02964-y",
+   "retraction_date": "2024-02-23",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "52156",
+    "subject": "(BLS) Biochemistry;(BLS) Biology - Cancer;(BLS) Biology - Cellular;",
+    "journal": "Oncogene",
+    "publisher": "Springer - Nature Publishing Group",
+    "retraction_doi": "10.1038/s41388-024-02964-y",
+    "retraction_date": "2/23/2024 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Image",
+     "Error in Image"
+    ]
+   },
+   "n": 8,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.3177/jnsv.52.1",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 6,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Comparative Therapeutic Effects of Alendronate and Alfacalcidol on Cancellous and Cortical Bone Mass and Mechanical Properties in Ovariectomized Osteopenic Rats",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jun",
+      "family": "IWAMOTO"
+     },
+     {
+      "given": "Azusa",
+      "family": "SEKI"
+     },
+     {
+      "given": "Tsuyoshi",
+      "family": "TAKEDA"
+     },
+     {
+      "given": "Yoshihiro",
+      "family": "SATO"
+     },
+     {
+      "given": "Harumoto",
+      "family": "YAMADA"
+     },
+     {
+      "given": "James K.",
+      "family": "YEH"
+     }
+    ],
+    "year": 2006,
+    "container": "Journal of Nutritional Science and Vitaminology",
+    "short_container": "Journal of Nutritional Science and Vitaminology",
+    "volume": "52",
+    "number": "1",
+    "pages": "1-8",
+    "publisher": "Center for Academic Publications Japan",
+    "doi": "10.3177/jnsv.52.1",
+    "isbn": ""
+   },
+   "notice_doi": "10.3177/jnsv.65.106",
+   "retraction_date": "2019-02-28",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "20034",
+    "subject": "(BLS) Biochemistry;(BLS) Toxicology;(HSC) Medicine - Obstetrics/Gynecology;(HSC) Medicine - Orthopedics;",
+    "journal": "Journal of Nutritional Science and Vitaminology",
+    "publisher": "Center for Academic Publications Japan",
+    "retraction_doi": "10.3177/jnsv.65.106",
+    "retraction_date": "2/28/2019 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Article"
+    ]
+   },
+   "n": 9,
+   "style": [
+    "and_others",
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1159/000493265",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Long Non-Coding RNA ZEB1-Antisense 1 Affects Cell Migration and Invasion of Cervical Cancer by Regulating Epithelial-Mesenchymal Transition via the p38MAPK Signaling Pathway",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Lu",
+      "family": "Gan"
+     },
+     {
+      "given": "Yan",
+      "family": "Chen"
+     },
+     {
+      "given": "Hua",
+      "family": "Liu"
+     },
+     {
+      "given": "Wen-Hui",
+      "family": "Ju"
+     }
+    ],
+    "year": 2018,
+    "container": "Gynecologic and Obstetric Investigation",
+    "short_container": "Gynecol Obstet Invest",
+    "volume": "84",
+    "number": "2",
+    "pages": "136-144",
+    "publisher": "S. Karger AG",
+    "doi": "10.1159/000493265",
+    "isbn": ""
+   },
+   "notice_doi": "10.1159/000520201",
+   "retraction_date": "2021-10-29",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "42806",
+    "subject": "(BLS) Genetics;(HSC) Medicine - Obstetrics/Gynecology;(HSC) Medicine - Oncology;",
+    "journal": "Gynecologic and Obstetric Investigation",
+    "publisher": "Karger",
+    "retraction_doi": "10.1159/000520201",
+    "retraction_date": "10/29/2021 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Author Unresponsive",
+     "Concerns/Issues about Data",
+     "Concerns/Issues about Image",
+     "Original Data and/or Images not Provided and/or not Available"
+    ]
+   },
+   "n": 10,
+   "style": [
+    "initials",
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.astropartphys.2009.07.004",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: On the nature of relativistic stars",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Silvia",
+      "family": "Morales"
+     },
+     {
+      "given": "Alejandra",
+      "family": "Zorzi"
+     },
+     {
+      "given": "Roberto",
+      "family": "Aquilano"
+     }
+    ],
+    "year": 2009,
+    "container": "Astroparticle Physics",
+    "short_container": "Astroparticle Physics",
+    "volume": "32",
+    "number": "3-4",
+    "pages": "153-159",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.astropartphys.2009.07.004",
+    "isbn": ""
+   },
+   "notice_doi": "10.1016/j.astropartphys.2011.06.004",
+   "retraction_date": "2011-06-29",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "21946",
+    "subject": "(PHY) Astrophysics;",
+    "journal": "Astroparticle Physics",
+    "publisher": "Elsevier",
+    "retraction_doi": "10.1016/j.astropartphys.2011.06.004",
+    "retraction_date": "6/29/2011 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Article"
+    ]
+   },
+   "n": 11,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1088/2515-7639/ab17e5",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 6,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: Solid-state nuclear magnetic resonance study of setting mechanism of β-tricalcium phosphate—inositol phosphate composite cements",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Toshiisa",
+      "family": "Konishi"
+     },
+     {
+      "given": "Kohei",
+      "family": "Yamashita"
+     },
+     {
+      "given": "Kohei",
+      "family": "Nagata"
+     },
+     {
+      "given": "Poon Nian",
+      "family": "Lim"
+     },
+     {
+      "given": "Eng San",
+      "family": "Thian"
+     },
+     {
+      "given": "Mamoru",
+      "family": "Aizawa"
+     }
+    ],
+    "year": 2019,
+    "container": "Journal of Physics: Materials",
+    "short_container": "J. Phys. Mater.",
+    "volume": "2",
+    "number": "3",
+    "pages": "034007",
+    "publisher": "IOP Publishing",
+    "doi": "10.1088/2515-7639/ab17e5",
+    "isbn": ""
+   },
+   "notice_doi": "10.1088/2515-7639/ab8195",
+   "retraction_date": "2020-12-03",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "24792",
+    "subject": "(PHY) Physics;",
+    "journal": "Journal of Physics: Materials",
+    "publisher": "IOP Publishing",
+    "retraction_doi": "10.1088/2515-7639/ab8195",
+    "retraction_date": "12/3/2020 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Authorship/Affiliation",
+     "Concerns/Issues about Results and/or Conclusions",
+     "Concerns/Issues about Referencing/Attributions",
+     "Copyright Claims",
+     "Ethical Violations by Author",
+     "Investigation by Company/Institution",
+     "Investigation by Journal/Publisher",
+     "Lack of Approval from Author",
+     "Lack of Approval from Company/Institution",
+     "Misconduct by Author"
+    ]
+   },
+   "n": 12,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1023/a:1026125928058",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Possible Role of mhd Waves in Heating the Solar Corona",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "B.N.",
+      "family": "Dwivedi"
+     },
+     {
+      "given": "V.S.",
+      "family": "Pandey"
+     }
+    ],
+    "year": 2003,
+    "container": "Solar Physics",
+    "short_container": "Sol Phys",
+    "volume": "216",
+    "number": "1-2",
+    "pages": "59-77",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1023/a:1026125928058",
+    "isbn": ""
+   },
+   "notice_doi": "10.1007/s11207-009-9348-3",
+   "retraction_date": "2019-04-15",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "21919",
+    "subject": "(PHY) Cosmology;(PHY) Physics;",
+    "journal": "Solar Physics",
+    "publisher": "Springer",
+    "retraction_doi": "10.1007/s11207-009-9348-3",
+    "retraction_date": "4/15/2019 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Euphemisms for Plagiarism",
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 13,
+   "style": [
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.2514/1.g003508",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Retracted: Hybrid Attitude Coordination Controller for Multiple-Spacecraft Systems with Hyperbolic-Tangent Distributed Observer",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yao",
+      "family": "Zhang"
+     },
+     {
+      "given": "Shengjing",
+      "family": "Tang"
+     },
+     {
+      "given": "Jie",
+      "family": "Guo"
+     }
+    ],
+    "year": 2018,
+    "container": "Journal of Guidance, Control, and Dynamics",
+    "short_container": "Journal of Guidance, Control, and Dynamics",
+    "volume": "",
+    "number": "",
+    "pages": "1-19",
+    "publisher": "American Institute of Aeronautics and Astronautics (AIAA)",
+    "doi": "10.2514/1.g003508",
+    "isbn": ""
+   },
+   "notice_doi": "10.2514/1.g003508.c1",
+   "retraction_date": "2018-09-14",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "19220",
+    "subject": "(PHY) Astrophysics;",
+    "journal": "Journal of Guidance, Control, and Dynamics",
+    "publisher": "American Institute of Aeronautics and Astronautics",
+    "retraction_doi": "10.2514/1.G003508.c1",
+    "retraction_date": "9/14/2018 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Investigation by Journal/Publisher",
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 14,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1155/2022/3897120",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Theoretical Correction of Viscosity Coefficient Measurement by Falling Ball Method",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ruiqi",
+      "family": "Wang"
+     },
+     {
+      "given": "Qingyu",
+      "family": "Zhang"
+     },
+     {
+      "given": "Shihan",
+      "family": "Xu"
+     },
+     {
+      "given": "Liyuan",
+      "family": "Cui"
+     },
+     {
+      "given": "Haonan",
+      "family": "Jiang"
+     }
+    ],
+    "year": 2022,
+    "container": "International Transactions on Electrical Energy Systems",
+    "short_container": "International Transactions on Electrical Energy Systems",
+    "volume": "2022",
+    "number": "",
+    "pages": "1-12",
+    "publisher": "Wiley",
+    "doi": "10.1155/2022/3897120",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Raghavan",
+      "family": "Dhanasekaran"
+     }
+    ]
+   },
+   "notice_doi": "10.1155/2023/9853945",
+   "retraction_date": "2023-12-13",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "59569",
+    "subject": "(PHY) Physics;",
+    "journal": "International Transactions on Electrical Energy Systems",
+    "publisher": "Hindawi",
+    "retraction_doi": "10.1155/2023/9853945",
+    "retraction_date": "12/13/2023 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Compromised Peer Review",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Paper Mill",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 15,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.heliyon.2024.e40365",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: New conditions for Pascal distribution series to be in a certain class of analytic functions",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Basem Aref",
+      "family": "Frasin"
+     },
+     {
+      "given": "Luminiţa-Ioana",
+      "family": "Cotîrlă"
+     }
+    ],
+    "year": 2024,
+    "container": "Heliyon",
+    "short_container": "Heliyon",
+    "volume": "10",
+    "number": "22",
+    "pages": "e40365",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.heliyon.2024.e40365",
+    "isbn": ""
+   },
+   "notice_doi": "10.1016/j.heliyon.2026.e44664",
+   "retraction_date": "2026-03-02",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "70559",
+    "subject": "(PHY) Mathematics;",
+    "journal": "Heliyon",
+    "publisher": "Elsevier - Cell Press",
+    "retraction_doi": "10.1016/j.heliyon.2026.e44664",
+    "retraction_date": "3/2/2026 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Referencing/Attributions",
+     "Investigation by Journal/Publisher",
+     "Objections by Author(s)",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 16,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.rinp.2022.105683",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 6,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: On novel application of piece-wise fractional operators for a predator–prey model",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Kamsing",
+      "family": "Nonlaopon"
+     },
+     {
+      "given": "B.",
+      "family": "Günay"
+     },
+     {
+      "given": "Shahram",
+      "family": "Rezapour"
+     },
+     {
+      "given": "Musaad S.",
+      "family": "Aldhabani"
+     },
+     {
+      "given": "A.M.",
+      "family": "Alotaibi"
+     },
+     {
+      "given": "S.K.",
+      "family": "Elagan"
+     }
+    ],
+    "year": 2022,
+    "container": "Results in Physics",
+    "short_container": "Results in Physics",
+    "volume": "39",
+    "number": "",
+    "pages": "105683",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.rinp.2022.105683",
+    "isbn": ""
+   },
+   "notice_doi": "10.1016/j.rinp.2024.107839",
+   "retraction_date": "2024-06-25",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "59531",
+    "subject": "(PHY) Mathematics;",
+    "journal": "Results in Physics",
+    "publisher": "Elsevier",
+    "retraction_doi": "10.1016/j.rinp.2024.107839",
+    "retraction_date": "6/25/2024 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Authorship/Affiliation",
+     "Concerns/Issues about Referencing/Attributions",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 17,
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1155/2012/730619",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "[Retracted] On the Weak Relatively Nonexpansive Multivalued Mappings in Banach Spaces",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yongfu",
+      "family": "Su"
+     }
+    ],
+    "year": 2012,
+    "container": "Abstract and Applied Analysis",
+    "short_container": "Abstract and Applied Analysis",
+    "volume": "2012",
+    "number": "1",
+    "pages": "730619",
+    "publisher": "Wiley",
+    "doi": "10.1155/2012/730619",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Xiaolong",
+      "family": "Qin"
+     }
+    ]
+   },
+   "notice_doi": "10.1155/2013/627520",
+   "retraction_date": "2013-06-10",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "26421",
+    "subject": "(PHY) Mathematics;",
+    "journal": "Abstract and Applied Analysis",
+    "publisher": "Hindawi",
+    "retraction_doi": "10.1155/2013/627520",
+    "retraction_date": "6/10/2013 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Euphemisms for Plagiarism",
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 18,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1080/00927872.2022.2077954",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: Split Malcev-Poisson-Jordan algebras",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Elisabete",
+      "family": "Barreiro"
+     },
+     {
+      "given": "José M.",
+      "family": "Sánchez"
+     }
+    ],
+    "year": 2022,
+    "container": "Communications in Algebra",
+    "short_container": "Communications in Algebra",
+    "volume": "50",
+    "number": "12",
+    "pages": "I-X",
+    "publisher": "Informa UK Limited",
+    "doi": "10.1080/00927872.2022.2077954",
+    "isbn": ""
+   },
+   "notice_doi": "10.1080/00927872.2022.2104427",
+   "retraction_date": "2022-07-30",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "38924",
+    "subject": "(PHY) Mathematics;",
+    "journal": "Communications in Algebra",
+    "publisher": "Taylor and Francis",
+    "retraction_doi": "10.1080/00927872.2022.2104427",
+    "retraction_date": "7/30/2022 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Article",
+     "Euphemisms for Duplication",
+     "Objections by Author(s)"
+    ]
+   },
+   "n": 19,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1186/s13661-015-0496-0",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: Boundary value behaviors for solutions of the equilibrium equations with angular velocity",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jiaofeng",
+      "family": "Wang"
+     },
+     {
+      "given": "Jun",
+      "family": "Pu"
+     },
+     {
+      "given": "Bin",
+      "family": "Huang"
+     },
+     {
+      "given": "Guojian",
+      "family": "Shi"
+     }
+    ],
+    "year": 2015,
+    "container": "Boundary Value Problems",
+    "short_container": "Bound Value Probl",
+    "volume": "2015",
+    "number": "1",
+    "pages": "230",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1186/s13661-015-0496-0",
+    "isbn": ""
+   },
+   "notice_doi": "10.1186/s13661-020-01393-6",
+   "retraction_date": "2020-05-07",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "23353",
+    "subject": "(PHY) Mathematics;",
+    "journal": "Boundary Value Problems",
+    "publisher": "Springer",
+    "retraction_doi": "10.1186/s13661-020-01393-6",
+    "retraction_date": "5/7/2020 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Authorship/Affiliation",
+     "Compromised Peer Review",
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 20,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1371/journal.pone.0294269",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Analysis of China’s carbon market price fluctuation and international carbon credit financing mechanism using random forest model",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Cuiling",
+      "family": "Song"
+     }
+    ],
+    "year": 2024,
+    "container": "PLOS ONE",
+    "short_container": "PLoS ONE",
+    "volume": "19",
+    "number": "3",
+    "pages": "e0294269",
+    "publisher": "Public Library of Science (PLoS)",
+    "doi": "10.1371/journal.pone.0294269",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Umer",
+      "family": "Shahzad"
+     }
+    ]
+   },
+   "notice_doi": "10.1371/journal.pone.0331593",
+   "retraction_date": "2025-09-04",
+   "crossref_source": "publisher",
+   "rw": {
+    "record_id": "69663",
+    "subject": "(B/T) Business - Economics;",
+    "journal": "PLoS One",
+    "publisher": "PLoS",
+    "retraction_doi": "10.1371/journal.pone.0331593",
+    "retraction_date": "9/4/2025 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Authorship/Affiliation",
+     "Concerns/Issues about Peer Review",
+     "Concerns/Issues about Results and/or Conclusions"
+    ]
+   },
+   "n": 21,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1155/2022/4146517",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "In the New Multimedia Era, “Post-90s” Counselors Do a Good Job of Adaptive Education Path Research for “Post-00s” Freshmen",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ting",
+      "family": "Wang"
+     }
+    ],
+    "year": 2022,
+    "container": "Advances in Multimedia",
+    "short_container": "Advances in Multimedia",
+    "volume": "2022",
+    "number": "",
+    "pages": "1-10",
+    "publisher": "Wiley",
+    "doi": "10.1155/2022/4146517",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Tao",
+      "family": "Zhou"
+     }
+    ]
+   },
+   "notice_doi": "10.1155/2023/9760509",
+   "retraction_date": "2023-08-16",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "50398",
+    "subject": "(SOC) Education;(SOC) Psychology;",
+    "journal": "Advances in Multimedia",
+    "publisher": "Hindawi",
+    "retraction_doi": "10.1155/2023/9760509",
+    "retraction_date": "8/16/2023 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Concerns/Issues about Results and/or Conclusions",
+     "Concerns/Issues about Referencing/Attributions",
+     "Concerns/Issues about Peer Review",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Computer-Aided Content or Computer-Generated Content",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 22,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.3389/fpsyg.2014.00561",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: Increasing interpersonal trust through divergent thinking",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Roberta",
+      "family": "Sellaro"
+     },
+     {
+      "given": "Bernhard",
+      "family": "Hommel"
+     },
+     {
+      "given": "Erik W.",
+      "family": "de Kwaadsteniet"
+     },
+     {
+      "given": "Suzanne",
+      "family": "van de Groep"
+     },
+     {
+      "given": "Lorenza S.",
+      "family": "Colzato"
+     }
+    ],
+    "year": 2014,
+    "container": "Frontiers in Psychology",
+    "short_container": "Front. Psychol.",
+    "volume": "5",
+    "number": "",
+    "pages": "561",
+    "publisher": "Frontiers Media SA",
+    "doi": "10.3389/fpsyg.2014.00561",
+    "isbn": ""
+   },
+   "notice_doi": "10.3389/fpsyg.2024.1384407",
+   "retraction_date": "2024-02-15",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "52650",
+    "subject": "(SOC) Psychology;",
+    "journal": "Frontiers in Psychology",
+    "publisher": "Frontiers",
+    "retraction_doi": "10.3389/fpsyg.2024.1384407",
+    "retraction_date": "2/15/2024 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Falsification/Fabrication of Data",
+     "Investigation by Company/Institution",
+     "Misconduct - Official Investigation(s) and/or Finding(s)",
+     "Misconduct by Author",
+     "Objections by Author(s)",
+     "Removed"
+    ]
+   },
+   "n": 23,
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1111/1467-9280.00298",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: Now You See It, Now You Don't: Explicit Versus Implicit Measures of the Personal/Group Discrimination Discrepancy",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Karen M.",
+      "family": "Ruggiero"
+     },
+     {
+      "given": "Jason P.",
+      "family": "Mitchell"
+     },
+     {
+      "given": "Nancy",
+      "family": "Krieger"
+     },
+     {
+      "given": "David M.",
+      "family": "Marx"
+     },
+     {
+      "given": "Melanie L.",
+      "family": "Lorenzo"
+     }
+    ],
+    "year": 2000,
+    "container": "Psychological Science",
+    "short_container": "Psychol Sci",
+    "volume": "11",
+    "number": "6",
+    "pages": "511-514",
+    "publisher": "SAGE Publications",
+    "doi": "10.1111/1467-9280.00298",
+    "isbn": ""
+   },
+   "notice_doi": "10.1111/1467-9280.00437",
+   "retraction_date": "2002-03-01",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "2317",
+    "subject": "(SOC) Psychology;",
+    "journal": "Psychological Science",
+    "publisher": "SAGE Publications",
+    "retraction_doi": "10.1111/1467-9280.00437",
+    "retraction_date": "3/1/2002 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Concerns/Issues about Results and/or Conclusions",
+     "Falsification/Fabrication of Results",
+     "Investigation by ORI",
+     "Misconduct - Official Investigation(s) and/or Finding(s)",
+     "Misconduct by Author"
+    ]
+   },
+   "n": 24,
+   "style": [
+    "and_others",
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1037/0022-3514.87.6.860",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Method Matters: Effects of Explicit Versus Implicit Social Comparisons on Activation, Behavior, and Self-Views.",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Diederik A.",
+      "family": "Stapel"
+     },
+     {
+      "given": "Jerry",
+      "family": "Suls"
+     }
+    ],
+    "year": 2004,
+    "container": "Journal of Personality and Social Psychology",
+    "short_container": "Journal of Personality and Social Psychology",
+    "volume": "87",
+    "number": "6",
+    "pages": "860-875",
+    "publisher": "American Psychological Association (APA)",
+    "doi": "10.1037/0022-3514.87.6.860",
+    "isbn": ""
+   },
+   "notice_doi": "10.1037/a0031425",
+   "retraction_date": "2013-01-01",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "4150",
+    "subject": "(SOC) Psychology;",
+    "journal": "Journal of Personality and Social Psychology",
+    "publisher": "American Psychological Association (APA)",
+    "retraction_doi": "10.1037/a0031425",
+    "retraction_date": "1/1/2013 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Falsification/Fabrication of Data",
+     "Investigation by Company/Institution",
+     "Misconduct - Official Investigation(s) and/or Finding(s)",
+     "Misconduct by Author"
+    ]
+   },
+   "n": 25,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1080/10509208.2020.1766309",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Retracted Article: Documentary Method at Featuring Films of Kazakhstan: Systemizing and Analysis on the Selected Films Example within 1945 and 2018",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Azat S.",
+      "family": "Khakimov"
+     },
+     {
+      "given": "Malik F.",
+      "family": "Mukanov"
+     }
+    ],
+    "year": 2020,
+    "container": "Quarterly Review of Film and Video",
+    "short_container": "Quarterly Review of Film and Video",
+    "volume": "39",
+    "number": "8",
+    "pages": "1693-1715",
+    "publisher": "Informa UK Limited",
+    "doi": "10.1080/10509208.2020.1766309",
+    "isbn": ""
+   },
+   "notice_doi": "10.1080/10509208.2022.2127567",
+   "retraction_date": "2022-09-26",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "50016",
+    "subject": "(HUM) Arts - Film Studies;",
+    "journal": "Quarterly Review of Film and Video",
+    "publisher": "Taylor and Francis",
+    "retraction_doi": "10.1080/10509208.2022.2127567",
+    "retraction_date": "9/26/2022 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Error by Journal/Publisher",
+     "Error in Text"
+    ]
+   },
+   "n": 26,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s10936-024-10043-2",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: Reflection of the Japanese Consciousness and Worldview in the Context of Globalization in the Novels of Haruki Murakami",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Xiao",
+      "family": "Li"
+     },
+     {
+      "given": "Xia",
+      "family": "Xiao"
+     }
+    ],
+    "year": 2024,
+    "container": "Journal of Psycholinguistic Research",
+    "short_container": "J Psycholinguist Res",
+    "volume": "53",
+    "number": "2",
+    "pages": "25",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s10936-024-10043-2",
+    "isbn": ""
+   },
+   "notice_doi": "10.1007/s10936-025-10138-4",
+   "retraction_date": "2025-04-10",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "65673",
+    "subject": "(HUM) Arts - Literature/Poetry;",
+    "journal": "Journal of Psycholinguistic Research",
+    "publisher": "Springer - Nature Publishing Group",
+    "retraction_doi": "10.1007/s10936-025-10138-4",
+    "retraction_date": "4/10/2025 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Article",
+     "Concerns/Issues about Peer Review",
+     "Investigation by Journal/Publisher",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 27,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1353/ncf.2023.a911799",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Between Science and Sorcery: Reimagining Human and Animal Relationality in George Sand's La Petite Fadette",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Leah",
+      "family": "Powers"
+     }
+    ],
+    "year": 2023,
+    "container": "Nineteenth-Century French Studies",
+    "short_container": "ncf",
+    "volume": "52",
+    "number": "1-2",
+    "pages": "53-68",
+    "publisher": "Project MUSE",
+    "doi": "10.1353/ncf.2023.a911799",
+    "isbn": ""
+   },
+   "notice_doi": "10.1353/ncf.2024.a941902",
+   "retraction_date": "2024-11-05",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "59925",
+    "subject": "(HUM) Arts - Literature/Poetry;",
+    "journal": "Nineteenth-Century French Studies",
+    "publisher": "University of Nebraska Press",
+    "retraction_doi": "10.1353/ncf.2024.a941902",
+    "retraction_date": "11/5/2024 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Euphemisms for Plagiarism",
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 28,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1155/2022/2439464",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Analysis of Painting Elements of Tea Culture and Art Works Based on Image Perception",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Haiting",
+      "family": "Zhao"
+     }
+    ],
+    "year": 2022,
+    "container": "Security and Communication Networks",
+    "short_container": "Security and Communication Networks",
+    "volume": "2022",
+    "number": "",
+    "pages": "1-9",
+    "publisher": "Wiley",
+    "doi": "10.1155/2022/2439464",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Jun",
+      "family": "Liu"
+     }
+    ]
+   },
+   "notice_doi": "10.1155/2024/9876519",
+   "retraction_date": "2024-01-09",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "57314",
+    "subject": "(HUM) Arts - General;",
+    "journal": "Security and Communication Networks",
+    "publisher": "Hindawi",
+    "retraction_doi": "10.1155/2024/9876519",
+    "retraction_date": "1/9/2024 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Concerns/Issues about Results and/or Conclusions",
+     "Concerns/Issues about Referencing/Attributions",
+     "Concerns/Issues about Peer Review",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Paper Mill",
+     "Computer-Aided Content or Computer-Generated Content",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 29,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1162/artm_a_00199",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: Meanwhile in China … Miao Ying and the Rise of Chinternet Ugly",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ros",
+      "family": "Holmes"
+     }
+    ],
+    "year": 2018,
+    "container": "ARTMargins",
+    "short_container": "",
+    "volume": "7",
+    "number": "1",
+    "pages": "31-57",
+    "publisher": "MIT Press",
+    "doi": "10.1162/artm_a_00199",
+    "isbn": ""
+   },
+   "notice_doi": "10.1162/artm_e_00332",
+   "retraction_date": "2022-10-01",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "42809",
+    "subject": "(HUM) Arts - General;",
+    "journal": "ARTMargins",
+    "publisher": "MIT Press",
+    "retraction_doi": "10.1162/artm_e_00332",
+    "retraction_date": "10/1/2022 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Investigation by Journal/Publisher",
+     "Objections by Third Party",
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 30,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.3390/buildings11120639",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: An Investigation of Bearing Capacity of High-Strength SRC Columns under Eccentric Axial Load",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jun",
+      "family": "Wang"
+     },
+     {
+      "given": "Yuxin",
+      "family": "Duan"
+     },
+     {
+      "given": "Wenze",
+      "family": "Sun"
+     },
+     {
+      "given": "Xinyu",
+      "family": "Yi"
+     }
+    ],
+    "year": 2021,
+    "container": "Buildings",
+    "short_container": "Buildings",
+    "volume": "11",
+    "number": "12",
+    "pages": "639",
+    "publisher": "MDPI AG",
+    "doi": "10.3390/buildings11120639",
+    "isbn": ""
+   },
+   "notice_doi": "10.3390/buildings12091310",
+   "retraction_date": "2022-08-26",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "40194",
+    "subject": "(PHY) Engineering - Structural;",
+    "journal": "Buildings",
+    "publisher": "MDPI",
+    "retraction_doi": "10.3390/buildings12091310",
+    "retraction_date": "8/26/2022 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Article",
+     "Objections by Author(s)"
+    ]
+   },
+   "n": 31,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1039/c2ra01321e",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Retracted Article: Honeycomb-like Co–B amorphous alloy catalysts assembled by a solution plasma process show enhanced catalytic hydrolysis activity for hydrogen generation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Dong Ge",
+      "family": "Tong"
+     },
+     {
+      "given": "Wei",
+      "family": "Chu"
+     },
+     {
+      "given": "Ping",
+      "family": "Wu"
+     },
+     {
+      "given": "Li",
+      "family": "Zhang"
+     }
+    ],
+    "year": 2012,
+    "container": "RSC Advances",
+    "short_container": "RSC Adv.",
+    "volume": "2",
+    "number": "6",
+    "pages": "2369-2376",
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "doi": "10.1039/c2ra01321e",
+    "isbn": ""
+   },
+   "notice_doi": "10.1039/d0ra90028a",
+   "retraction_date": "2020-03-27",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "22989",
+    "subject": "(PHY) Engineering - Chemical;",
+    "journal": "RSC Advances",
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "retraction_doi": "10.1039/D0RA90028A",
+    "retraction_date": "3/27/2020 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Error in Image"
+    ]
+   },
+   "n": 32,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s12540-010-0404-1",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 9,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: Microstructure of Co precipitation strengthened B2-ordered NiAl",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Chang-Sup",
+      "family": "Oh"
+     },
+     {
+      "given": "Chang-Suk",
+      "family": "Han"
+     },
+     {
+      "given": "Chang-Hwan",
+      "family": "Chun"
+     },
+     {
+      "given": "Kyung-Wan",
+      "family": "Koo"
+     },
+     {
+      "given": "Jang-Woo",
+      "family": "Kim"
+     },
+     {
+      "given": "Young-Woo",
+      "family": "Kim"
+     },
+     {
+      "given": "Seung-Oh",
+      "family": "Han"
+     },
+     {
+      "given": "Chang-Hwan",
+      "family": "Bae"
+     },
+     {
+      "given": "Ju-Hee",
+      "family": "Lee"
+     }
+    ],
+    "year": 2010,
+    "container": "Metals and Materials International",
+    "short_container": "Met. Mater. Int.",
+    "volume": "16",
+    "number": "2",
+    "pages": "175-183",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s12540-010-0404-1",
+    "isbn": ""
+   },
+   "notice_doi": "10.1007/s12540-015-2130-1",
+   "retraction_date": "2015-05-12",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "6292",
+    "subject": "(PHY) Chemistry;(PHY) Materials Science;",
+    "journal": "Metals and Materials International",
+    "publisher": "Springer",
+    "retraction_doi": "10.1007/s12540-015-2130-1",
+    "retraction_date": "5/12/2015 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Plagiarism of Image",
+     "Plagiarism of Text"
+    ]
+   },
+   "n": 33,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1080/10643389.2012.672070",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: Promising Unconventional Pretreatments for Lignocellulosic Biomass",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Zumar M. A.",
+      "family": "Bundhoo"
+     },
+     {
+      "given": "Ackmez",
+      "family": "Mudhoo"
+     },
+     {
+      "given": "Romeela",
+      "family": "Mohee"
+     }
+    ],
+    "year": 2013,
+    "container": "Critical Reviews in Environmental Science and Technology",
+    "short_container": "Critical Reviews in Environmental Science and Technology",
+    "volume": "43",
+    "number": "20",
+    "pages": "2140-2211",
+    "publisher": "Informa UK Limited",
+    "doi": "10.1080/10643389.2012.672070",
+    "isbn": ""
+   },
+   "notice_doi": "10.1080/10643389.2014.957984",
+   "retraction_date": "2014-11-04",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "12826",
+    "subject": "(ENV) Environmental Sciences;(PHY) Energy;",
+    "journal": "Critical Reviews in Environmental Science and Technology",
+    "publisher": "Taylor and Francis",
+    "retraction_doi": "10.1080/10643389.2014.957984",
+    "retraction_date": "11/4/2014 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Breach of Policy by Author",
+     "Euphemisms for Plagiarism",
+     "Plagiarism of Text",
+     "Removed"
+    ]
+   },
+   "n": 34,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1107/s1600536807052464",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "N -(2-Fluorophenyl)carbamic acid monohydrate",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Xiao-Mao",
+      "family": "Yang"
+     }
+    ],
+    "year": 2007,
+    "container": "Acta Crystallographica Section E Structure Reports Online",
+    "short_container": "Acta Crystallogr E Struct Rep Online",
+    "volume": "63",
+    "number": "11",
+    "pages": "o4453-o4453",
+    "publisher": "International Union of Crystallography (IUCr)",
+    "doi": "10.1107/s1600536807052464",
+    "isbn": ""
+   },
+   "notice_doi": "10.1107/s1600536809054300",
+   "retraction_date": "2010-03-17",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "5964",
+    "subject": "(PHY) Chemistry;(PHY) Crystallography/Spectroscopy;(PHY) Materials Science;",
+    "journal": "Acta Crystallographica. Section E, Crystallographic Communications",
+    "publisher": "International Union of Crystallography",
+    "retraction_doi": "10.1107/S1600536809054300",
+    "retraction_date": "3/17/2010 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Error in Data",
+     "Falsification/Fabrication of Data",
+     "Investigation by Journal/Publisher"
+    ]
+   },
+   "n": 35,
+   "overrides": {
+    "title": "N-(2-Fluorophenyl)carbamic acid monohydrate"
+   },
+   "style": [
+    "initials"
+   ]
+  }
+ ]
+}

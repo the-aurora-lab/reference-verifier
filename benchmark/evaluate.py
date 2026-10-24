@@ -29,6 +29,15 @@ from reference_verifier.parse import parse_bib
 from reference_verifier.sources import Sources
 
 HERE = Path(__file__).resolve().parent
+
+
+def wilson(k: int, n: int, z: float = 1.96) -> tuple[float, float]:
+    """95% Wilson score interval for k successes in n trials (sound for small n and for 0 or n)."""
+    p = k / n
+    denom = 1 + z * z / n
+    centre = (p + z * z / (2 * n)) / denom
+    half = z * ((p * (1 - p) / n + z * z / (4 * n * n)) ** 0.5) / denom
+    return max(0.0, centre - half), min(1.0, centre + half)
 FLAGS = {Status.NOT_FOUND, Status.DOI_NOT_FOUND, Status.DOI_OTHER_WORK}
 DOI_FLAGS = {Status.DOI_NOT_FOUND, Status.DOI_OTHER_WORK}
 
@@ -38,6 +47,7 @@ def main() -> int:
     ap.add_argument("--data", type=Path, default=HERE / "data" / "benchmark.jsonl")
     ap.add_argument("--out", type=Path, default=HERE / "results")
     ap.add_argument("--workers", type=int, default=4)
+    ap.add_argument("--heldout", action="store_true", help="label the summary as held-out (rules never tuned on it)")
     args = ap.parse_args()
 
     items = [json.loads(line) for line in args.data.read_text(encoding="utf-8").splitlines() if line.strip()]
@@ -82,16 +92,25 @@ def main() -> int:
     found_retr, n_retr = count("retracted", {Status.FOUND})
 
     def pct(a: int, b: int) -> str:
-        return f"{a}/{b} ({100 * a / b:.1f}%)" if b else "n/a"
+        if not b:
+            return "n/a"
+        lo, hi = wilson(a, b)
+        return f"{a}/{b} ({100 * a / b:.1f}%, 95% CI {100 * lo:.1f}–{100 * hi:.1f}%)"
 
+    caveat = (
+        ["Held-out set: built independently of the development set and scored once; the matching rules were",
+         "not changed after seeing these results."]
+        if args.heldout else
+        ["These are development-set numbers: the matching rules were adjusted after looking at misses on these",
+         "items. Publish only scores from a held-out set the rules have not seen."]
+    )
     lines = [
         f"# Benchmark results: refverify {__version__} (existence check)",
         "",
-        f"{len(items)} labelled references; registries unavailable during the run: "
+        f"{len(items)} labelled references ({args.data.name}); registries unavailable during the run: "
         f"{', '.join(sorted(src.unavailable)) or 'none'}.",
         "",
-        "These are development-set numbers: the matching rules were adjusted after looking at misses on these",
-        "items. Publish only scores from a held-out set the rules have not seen.",
+        *caveat,
         "",
         "| Measure | Result |",
         "|---|---|",

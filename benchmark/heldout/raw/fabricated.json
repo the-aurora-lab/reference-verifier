@@ -1,0 +1,4234 @@
+{
+ "description": "Hallucinated references for the held-out set, from the HalluCitation tables (CC BY 4.0) and the CiteTracer ICLR 2026 set (MIT). 'raw' is the printed reference string; 'parsed' is our transcription; 'checks' are our registry title searches; 'web' is the quoted-title web search.",
+ "items": [
+  {
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 13",
+   "cited_in": "ACL Anthology paper 2024.emnlp-main.345",
+   "row": "table9:row13",
+   "raw": "Nelson F Liu, Tony Wu, Duane S Boning, and Tanmoy Choudhury. 2020b. AI bug detector: Adversarial input detection for natural language processing models. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations, page 187–196.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "AI bug detector: Adversarial input detection for natural language processing models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Nelson F",
+      "family": "Liu"
+     },
+     {
+      "given": "Tony",
+      "family": "Wu"
+     },
+     {
+      "given": "Duane S",
+      "family": "Boning"
+     },
+     {
+      "given": "Tanmoy",
+      "family": "Choudhury"
+     }
+    ],
+    "year": 2020,
+    "container": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations, page 187–196",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.599,
+     "best_title": "Enhancing Adversarial Robustness in Natural Language Processing (NLP) Tasks Using Language Models",
+     "best_id": "10.18122/td.2457.boisestate"
+    },
+    "openalex": {
+     "best_sim": 0.49,
+     "best_title": "Black-Box Adversarial Attacks Against Language Model Detector",
+     "best_id": "https://openalex.org/W4389366337"
+    },
+    "dblp": {
+     "best_sim": 0.653,
+     "best_title": "Adversarial Input Detection Using Image Processing Techniques (IPT).",
+     "best_id": "conf/uemcom/GuptaDA20"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"AI bug detector: Adversarial input detection for natural language processing models\"",
+    "result": "no document with this title found; results were other adversarial-text detection papers"
+   },
+   "candidate": "12",
+   "n": 1
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 23",
+   "cited_in": "ACL Anthology paper 2025.dravidianlangtech-",
+   "row": "table9:row23",
+   "raw": "G. Shimi et al. 2024. Language identification for dravidian languages: A crucial step for fake news detection in multilingual settings. TBD.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Language identification for dravidian languages: A crucial step for fake news detection in multilingual settings",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "G.",
+      "family": "Shimi"
+     }
+    ],
+    "year": 2024,
+    "container": "TBD",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.558,
+     "best_title": "KEC_AI_DATA_DRIFTERS@DravidianLangTech 2025: Fake News Detection in Dravidian Languages",
+     "best_id": "10.18653/v1/2025.dravidianlangtech-1.29"
+    },
+    "openalex": {
+     "best_sim": 0.517,
+     "best_title": "Celestia@DravidianLangTech 2025: Malayalam-BERT and m-BERT based transformer models for Fake News Detection in Dravidian Languages",
+     "best_id": "https://openalex.org/W4411113205"
+    },
+    "dblp": {
+     "best_sim": 0.435,
+     "best_title": "Automatic Detection and Language Identification of Multilingual Documents.",
+     "best_id": "journals/tacl/LuiLB14"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Language identification for dravidian languages: A crucial step for fake news detection in multilingual settings\"",
+    "result": "no document with this title found; results were DravidianLangTech shared-task papers"
+   },
+   "candidate": "22",
+   "n": 2
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 55",
+   "cited_in": "ACL Anthology paper 2025.wnu-1.10",
+   "row": "table9:row55",
+   "raw": "Xingxing Lu, Yuning Mao, and Jason Wei. 2023. Autoeval: Llm-based automatic evaluation framework for text summarization. In Findings of ACL.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Autoeval: Llm-based automatic evaluation framework for text summarization",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Xingxing",
+      "family": "Lu"
+     },
+     {
+      "given": "Yuning",
+      "family": "Mao"
+     },
+     {
+      "given": "Jason",
+      "family": "Wei"
+     }
+    ],
+    "year": 2023,
+    "container": "Findings of ACL",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.582,
+     "best_title": "Improving Evaluation Metrics for Automatic Text Summarization Methods",
+     "best_id": "10.70675/5843c57fz6729z4c8fzbbd4zbbb636b02630"
+    },
+    "openalex": {
+     "best_sim": 0.49,
+     "best_title": "UserSumBench: A Benchmark Framework for Evaluating User Summarization Approaches",
+     "best_id": "https://openalex.org/W4403584088"
+    },
+    "dblp": {
+     "best_sim": 0.597,
+     "best_title": "FFCI: A Framework for Interpretable Automatic Evaluation of Summarization.",
+     "best_id": "journals/corr/abs-2011-13662"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Autoeval: Llm-based automatic evaluation framework for text summarization\"",
+    "result": "no document with this title found; the nearest result is SumAutoEval (arXiv 2412.19906), a different paper"
+   },
+   "candidate": "54",
+   "n": 3
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 95",
+   "cited_in": "ACL Anthology paper 2025.findings-acl.1208",
+   "row": "table9:row95",
+   "raw": "Rakesh Gupta, Susan Johnson, and Wei Li. 2023. Prompt abstraction: Leveraging language-image embeddings to scale creativity. arXiv preprint arXiv:2302.12345.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Prompt abstraction: Leveraging language-image embeddings to scale creativity",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Rakesh",
+      "family": "Gupta"
+     },
+     {
+      "given": "Susan",
+      "family": "Johnson"
+     },
+     {
+      "given": "Wei",
+      "family": "Li"
+     }
+    ],
+    "year": 2023,
+    "container": "arXiv preprint arXiv:2302.12345",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.591,
+     "best_title": "Mondrian Abstraction and Language Model Embeddings for Differential Pathway Analysis",
+     "best_id": "10.1101/2024.04.11.589093"
+    },
+    "openalex": {
+     "best_sim": 0.432,
+     "best_title": "A Mathematical Abstraction for Balancing the Trade-off Between Creativity and Reality in Large Language Models",
+     "best_id": "https://openalex.org/W4379539416"
+    },
+    "dblp": {
+     "best_sim": 0.432,
+     "best_title": "A Mathematical Abstraction for Balancing the Trade-off Between Creativity and Reality in Large Language Models.",
+     "best_id": "journals/corr/abs-2306-02295"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2302.12345",
+     "title": "RESI: An R Package for Robust Effect Sizes",
+     "sim": 0.293
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Prompt abstraction: Leveraging language-image embeddings to scale creativity\"",
+    "result": "no document with this title found"
+   },
+   "candidate": "94",
+   "n": 4
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 132",
+   "cited_in": "ACL Anthology paper 2025.semeval-1.37",
+   "row": "table9:row132",
+   "raw": "Yuqing Zhang, Yansong Feng, Yinwen Zhang, and Shujie Liu. 2021. Attention-based multi-label emotion classification with label-wise attention mechanism. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021), pages 5943–5952.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Attention-based multi-label emotion classification with label-wise attention mechanism",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yuqing",
+      "family": "Zhang"
+     },
+     {
+      "given": "Yansong",
+      "family": "Feng"
+     },
+     {
+      "given": "Yinwen",
+      "family": "Zhang"
+     },
+     {
+      "given": "Shujie",
+      "family": "Liu"
+     }
+    ],
+    "year": 2021,
+    "container": "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "5943–5952",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.602,
+     "best_title": "Multi-Label Text Classification model integrating Label Attention and Historical Attention",
+     "best_id": "10.1016/j.knosys.2024.111878"
+    },
+    "openalex": {
+     "best_sim": 0.683,
+     "best_title": "Multi-Label Movie Genre Classification with Attention Mechanism on Movie Plots",
+     "best_id": "https://openalex.org/W4409687593"
+    },
+    "dblp": {
+     "best_sim": 0.622,
+     "best_title": "A multi-modal emotion fusion classification method combined expression and speech based on attention mechanism.",
+     "best_id": "journals/mta/LiuCWW22"
+    },
+    "arxiv": {
+     "best_sim": 0.568,
+     "best_title": "A Simple Attention-Based Mechanism for Bimodal Emotion Classification",
+     "best_id": "2407.00134"
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Attention-based multi-label emotion classification with label-wise attention mechanism\"",
+    "result": "no document with this title found; results were other multi-label emotion papers"
+   },
+   "candidate": "131",
+   "n": 5
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 162",
+   "cited_in": "ACL Anthology paper 2025.emnlp-main.1097",
+   "row": "table9:row162",
+   "raw": "X. Li, P. Wang, and Y. Chen. 2020. Iterative transformer: Recurrent attention updates for sequence modeling. arXiv preprint arXiv:2010.02536.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Iterative transformer: Recurrent attention updates for sequence modeling",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "X.",
+      "family": "Li"
+     },
+     {
+      "given": "P.",
+      "family": "Wang"
+     },
+     {
+      "given": "Y.",
+      "family": "Chen"
+     }
+    ],
+    "year": 2020,
+    "container": "arXiv preprint arXiv:2010.02536",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.567,
+     "best_title": "Transformer-Based Grammatical Error Correction Using Sequence Modeling",
+     "best_id": "10.36227/techrxiv.175433178.81106099/v1"
+    },
+    "openalex": {
+     "best_sim": 0.561,
+     "best_title": "IMRAM: Iterative Matching With Recurrent Attention Memory for Cross-Modal Image-Text Retrieval",
+     "best_id": "https://openalex.org/W3035454331"
+    },
+    "dblp": {
+     "best_sim": 0.617,
+     "best_title": "A Novel Transformer-Based Attention Network for Image Dehazing.",
+     "best_id": "journals/sensors/GaoCBHML22"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2010.02536",
+     "title": "Boundary maps, germs and quasi-regular representations",
+     "sim": 0.355
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Iterative transformer: Recurrent attention updates for sequence modeling\"",
+    "result": "no document with this title found; results were other recurrent-transformer papers"
+   },
+   "candidate": "161",
+   "n": 6
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 172",
+   "cited_in": "ACL Anthology paper 2025.emnlp-main.145",
+   "row": "table9:row172",
+   "raw": "Junnan Li, Ziqing Wang, Yilun Xu, et al. 2024. Alignment Degradation in LLMs: Measuring, Visualizing, and Mitigating Latent Drift. arXiv preprint arXiv:2401.04200.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Alignment Degradation in LLMs: Measuring, Visualizing, and Mitigating Latent Drift",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Junnan",
+      "family": "Li"
+     },
+     {
+      "given": "Ziqing",
+      "family": "Wang"
+     },
+     {
+      "given": "Yilun",
+      "family": "Xu"
+     }
+    ],
+    "year": 2024,
+    "container": "arXiv preprint arXiv:2401.04200",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.451,
+     "best_title": "Adaptive Interactive Process Drift Detection: Detecting and Visualizing Process Drifts",
+     "best_id": "10.1007/978-3-032-03711-4_14"
+    },
+    "openalex": {
+     "best_sim": 0.489,
+     "best_title": "Alignment Drift as a Security Threat: Detecting and Mitigating Misaligned AI Behavior in Regulated Systems",
+     "best_id": "https://openalex.org/W7117460894"
+    },
+    "dblp": {
+     "best_sim": 0.324,
+     "best_title": "Tracking and Visualizing Signs of Degradation for Early Failure Prediction of Rolling Bearings.",
+     "best_id": "journals/jrm/TalmoudiKH21"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2401.04200",
+     "title": "Teacher bias or measurement error?",
+     "sim": 0.304
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Alignment Degradation in LLMs: Measuring, Visualizing, and Mitigating Latent Drift\"",
+    "result": "no document with this title found; results were other alignment-drift papers"
+   },
+   "candidate": "171",
+   "n": 7
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 9 row 251",
+   "cited_in": "ACL Anthology paper 2025.findings-emnlp.534",
+   "row": "table9:row251",
+   "raw": "Ellie Pavlick and Joel Tetreault. 2016. Semantically motivated future directions in linguistic ambiguity detection. In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL).",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Semantically motivated future directions in linguistic ambiguity detection",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ellie",
+      "family": "Pavlick"
+     },
+     {
+      "given": "Joel",
+      "family": "Tetreault"
+     }
+    ],
+    "year": 2016,
+    "container": "Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.386,
+     "best_title": "Semantically Linking Virtual Communities",
+     "best_id": "10.4018/978-1-60960-869-9.ch010"
+    },
+    "openalex": {
+     "best_sim": 0.473,
+     "best_title": "From Disagreement to Understanding: The Case for Ambiguity Detection in NLI",
+     "best_id": "https://openalex.org/W4416033674"
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Semantically motivated future directions in linguistic ambiguity detection\"",
+    "result": "no document with this title found; results were other ambiguity-detection papers"
+   },
+   "candidate": "247",
+   "n": 8
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 10 row 59",
+   "cited_in": "ACL Anthology paper 2026.abjadnlp-1.42",
+   "row": "table10:row59",
+   "raw": "Bert Kamphuis and Sjoerd van der Meer. 2024. Tinytoxic-detector: A compact transformer for toxicity detection. Transactions of the ACL, 12(3):215–229.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Tinytoxic-detector: A compact transformer for toxicity detection",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Bert",
+      "family": "Kamphuis"
+     },
+     {
+      "given": "Sjoerd",
+      "family": "van der Meer"
+     }
+    ],
+    "year": 2024,
+    "container": "Transactions of the ACL",
+    "short_container": "",
+    "volume": "12",
+    "number": "3",
+    "pages": "215–229",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.451,
+     "best_title": "Figure 3: The training process for the BERT and BERT-Transformer on IMDb dataset.",
+     "best_id": "10.7717/peerj-cs.3772/fig-3"
+    },
+    "openalex": {
+     "best_sim": 0.431,
+     "best_title": "A Hybrid Confidence-Aware Framework for Arabic Toxicity Detection in Social Media",
+     "best_id": "https://openalex.org/W7140087303"
+    },
+    "dblp": {
+     "best_sim": 0.605,
+     "best_title": "A Dual-Path Transformer Network for Scene Text Detection.",
+     "best_id": "conf/icassp/LinYW23"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Tinytoxic-detector: A compact transformer for toxicity detection\"",
+    "result": "no document with this title or the name found"
+   },
+   "candidate": "356",
+   "n": 9
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 10 row 127",
+   "cited_in": "ACL Anthology paper 2026.loreslm-1.9",
+   "row": "table10:row127",
+   "raw": "Kevin Scannell. 2007. The challenges of developing computational resources for minority languages. In Proceedings of the ACL-2007 Workshop on Computational Approaches to Semitic Languages, pages 65–72.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "The challenges of developing computational resources for minority languages",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Kevin",
+      "family": "Scannell"
+     }
+    ],
+    "year": 2007,
+    "container": "Proceedings of the ACL-2007 Workshop on Computational Approaches to Semitic Languages",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "65–72",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.491,
+     "best_title": "The Foreign Language Teaching Profession and the Challenges of Developing Language Resources",
+     "best_id": "10.2307/jj.27939673.9"
+    },
+    "openalex": {
+     "best_sim": 0.559,
+     "best_title": "Building Web Corpora for Minority Languages",
+     "best_id": "https://openalex.org/W3030409819"
+    },
+    "dblp": {
+     "best_sim": 0.611,
+     "best_title": "Challenges of Computational Processing of Code-Switching.",
+     "best_id": "conf/acl-codeswitch/CetinogluSV16"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"The challenges of developing computational resources for minority languages\"",
+    "result": "no document with this title found; results were the author's other minority-language work"
+   },
+   "candidate": "424",
+   "n": 10
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "location": "HalluCitation (ACL 2026), Table 10 row 138",
+   "cited_in": "ACL Anthology paper 2026.vardial-1.15",
+   "row": "table10:row138",
+   "raw": "Davide Michelsanti and et al. 2019. Asr for unwritten languages: A survey. Preprint, arXiv:1907.13511.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Asr for unwritten languages: A survey",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Davide",
+      "family": "Michelsanti"
+     }
+    ],
+    "year": 2019,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "misc",
+    "arxiv": "1907.13511"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.597,
+     "best_title": "11. On the Stabilty of Unwritten Languages.",
+     "best_id": "10.2307/2840446"
+    },
+    "openalex": {
+     "best_sim": 0.48,
+     "best_title": "ASR for Documenting Acutely Under-Resourced Indigenous Languages",
+     "best_id": "https://openalex.org/W2806339485"
+    },
+    "dblp": {
+     "best_sim": 0.649,
+     "best_title": "Speech Technology for Unwritten Languages.",
+     "best_id": "journals/taslp/ScharenborgOPAC20"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "1907.13511",
+     "title": "Personalizing ASR for Dysarthric and Accented Speech with Limited Data",
+     "sim": 0.302
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Asr for unwritten languages: A survey\"",
+    "result": "no document with this title found; the nearest results are 'Speech technology for unwritten languages' (Scharenborg et al.) and an ASR survey for under-resourced languages, both with other titles and authors"
+   },
+   "candidate": "435",
+   "n": 11
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission f0TBAdcJ8m",
+   "row": "f0TBAdcJ8m",
+   "raw": "W. Huang et al. Large language models for vehicle routing: A prompting-based approach. In Proceedings of the Conference on Empirical Methods in Natural Language Processing, 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Large language models for vehicle routing: A prompting-based approach",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "W.",
+      "family": "Huang"
+     }
+    ],
+    "year": 2024,
+    "container": "Proceedings of the Conference on Empirical Methods in Natural Language Processing",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.636,
+     "best_title": "Using Large Language Models to Solve the Electric Vehicle Routing Problem with Advanced Prompting Techniques",
+     "best_id": "10.1109/cpe-powereng63314.2025.11027311"
+    },
+    "openalex": {
+     "best_sim": 0.435,
+     "best_title": "Prompt Learning for Generalized Vehicle Routing",
+     "best_id": "https://openalex.org/W4401024673"
+    },
+    "dblp": {
+     "best_sim": 0.566,
+     "best_title": "Shepherd Pre-trained Language Models to Develop a Train of Thought: An Iterative Prompting Approach.",
+     "best_id": "journals/corr/abs-2203-08383"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Large language models for vehicle routing: A prompting-based approach\"",
+    "result": "no document with this title found; the nearest result is 'From Words to Routes: Applying Large Language Models to Vehicle Routing', a different paper"
+   },
+   "candidate": "464",
+   "n": 12
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission ex2CrZ6x1r",
+   "row": "ex2CrZ6x1r",
+   "raw": "Yujia Liu and et al. Differentiable reward alignment for reinforcement learning from human feedback. In Advances in Neural Information Processing Systems, 2021",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Differentiable reward alignment for reinforcement learning from human feedback",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yujia",
+      "family": "Liu"
+     }
+    ],
+    "year": 2021,
+    "container": "Advances in Neural Information Processing Systems",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.641,
+     "best_title": "Explainable Reinforcement Learning from Human Feedback to Improve Alignment",
+     "best_id": "10.52202/085713-4616"
+    },
+    "openalex": {
+     "best_sim": 0.683,
+     "best_title": "The Alignment Ceiling: Objective Mismatch in Reinforcement Learning from Human Feedback",
+     "best_id": "https://openalex.org/W4388275013"
+    },
+    "dblp": {
+     "best_sim": 0.662,
+     "best_title": "Differentiable Architecture Search for Reinforcement Learning.",
+     "best_id": "conf/automl/MiaoSCPYBF22"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Differentiable reward alignment for reinforcement learning from human feedback\"",
+    "result": "no document with this title found; results were other RLHF reward-learning papers"
+   },
+   "candidate": "503",
+   "n": 13
+  },
+  {
+   "transcription_note": "the DOI in the source string is split by a line break and resolves in neither reading (10.1287/opre.48.6.836.1238 or 10.1287/opre.48.6.836.12382), so it is left out",
+   "manual_check": "Crossref has no Operations Research 48(6) article starting at page 836: pages 833-845 are 'Free-Flight and en Route Air Safety: A First-Order Analysis' (10.1287/opre.48.6.833.12394) and pages 846-857 are 'A Relational Modeling System for Linear and Integer Programming'.",
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission Q8g97TA2YC",
+   "row": "Q8g97TA2YC",
+   "raw": "Chun-Hung Chen, Jyh-Jen Lin, Enver Yücesan, and Stephen E. Chick. Simulation selection for constrained optimization. Operations Research, 48(6):836-848, 2000. doi: 10.1287/opre.48.6. 836.1238",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Simulation selection for constrained optimization",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Chun-Hung",
+      "family": "Chen"
+     },
+     {
+      "given": "Jyh-Jen",
+      "family": "Lin"
+     },
+     {
+      "given": "Enver",
+      "family": "Yücesan"
+     },
+     {
+      "given": "Stephen E.",
+      "family": "Chick"
+     }
+    ],
+    "year": 2000,
+    "container": "Operations Research",
+    "short_container": "",
+    "volume": "48",
+    "number": "6",
+    "pages": "836-848",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "math",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.551,
+     "best_title": "A case study for optimal dynamic simulation allocation in ordinal optimization",
+     "best_id": "10.23919/acc.2004.1384774"
+    },
+    "openalex": {
+     "best_sim": 0.661,
+     "best_title": "Stochastic ranking for constrained evolutionary optimization",
+     "best_id": "https://openalex.org/W2151339633"
+    },
+    "dblp": {
+     "best_sim": 0.638,
+     "best_title": "Evaluating Solvers for Linearly Constrained Simulation Optimization.",
+     "best_id": "conf/wsc/Boonsiriphatthanajaroen24"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Simulation selection for constrained optimization\"",
+    "result": "no document with this title found in Operations Research or elsewhere"
+   },
+   "candidate": "568",
+   "n": 14
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission 9235Gzvgiq",
+   "row": "9235Gzvgiq",
+   "raw": "Sandeep Sen et al. Knowledge graph question answering: A benchmark and model. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Knowledge graph question answering: A benchmark and model",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Sandeep",
+      "family": "Sen"
+     }
+    ],
+    "year": 2021,
+    "container": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.503,
+     "best_title": "Spider4SPARQL: A Complex Benchmark for Evaluating Knowledge Graph Question Answering Systems",
+     "best_id": "10.1109/bigdata59044.2023.10386182"
+    },
+    "openalex": {
+     "best_sim": 0.505,
+     "best_title": "Complex Temporal Question Answering on Knowledge Graphs",
+     "best_id": "https://openalex.org/W3200796517"
+    },
+    "dblp": {
+     "best_sim": 0.676,
+     "best_title": "Towards a Spatio-Temporal Knowledge Graph Question-Answering Benchmark for Real Estate.",
+     "best_id": "conf/sccc/TanevitchHT25"
+    },
+    "arxiv": {
+     "best_sim": 0.503,
+     "best_title": "Spider4SPARQL: A Complex Benchmark for Evaluating Knowledge Graph Question Answering Systems",
+     "best_id": "2309.16248"
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Knowledge graph question answering: A benchmark and model\"",
+    "result": "no document with this title found; results were other KGQA benchmarks"
+   },
+   "candidate": "598",
+   "n": 15
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission Hy9bg4NnDG",
+   "row": "Hy9bg4NnDG",
+   "raw": "Gelei Deng, Can Xu, Zhipeng Ma, Yiming Wen, Yi Liu, Zhiruo Liu, Yuekang Li, and Bo Li. Jailbreaking large language models via reading compressed semantics. arXiv preprint arXiv:2310.19837, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Jailbreaking large language models via reading compressed semantics",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Gelei",
+      "family": "Deng"
+     },
+     {
+      "given": "Can",
+      "family": "Xu"
+     },
+     {
+      "given": "Zhipeng",
+      "family": "Ma"
+     },
+     {
+      "given": "Yiming",
+      "family": "Wen"
+     },
+     {
+      "given": "Yi",
+      "family": "Liu"
+     },
+     {
+      "given": "Zhiruo",
+      "family": "Liu"
+     },
+     {
+      "given": "Yuekang",
+      "family": "Li"
+     },
+     {
+      "given": "Bo",
+      "family": "Li"
+     }
+    ],
+    "year": 2023,
+    "container": "arXiv preprint arXiv:2310.19837",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.606,
+     "best_title": "Adjacent Words, Divergent Intents: Jailbreaking Large Language Models via Task Concurrency",
+     "best_id": "10.52202/085713-4919"
+    },
+    "openalex": {
+     "best_sim": 0.538,
+     "best_title": "A Survey on Large Language Models: Applications, Challenges, Limitations, and Practical Usage",
+     "best_id": "https://openalex.org/W4383737134"
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2310.19837",
+     "title": "Private Variable-Length Coding with Zero Leakage",
+     "sim": 0.348
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Jailbreaking large language models via reading compressed semantics\"",
+    "result": "no document with this title found; results were other jailbreak papers"
+   },
+   "candidate": "614",
+   "n": 16
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission fNr4xz74kG",
+   "row": "fNr4xz74kG",
+   "raw": "- Jiahao Chen and et al. Diffconnect: Differentiable connectivity constraints for thin structure segmentation. In CVPR, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Diffconnect: Differentiable connectivity constraints for thin structure segmentation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jiahao",
+      "family": "Chen"
+     }
+    ],
+    "year": 2023,
+    "container": "CVPR",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.555,
+     "best_title": "Anisotropic neighborhoods of superpixels for thin structure segmentation",
+     "best_id": "10.70675/38c1bb04zd784z4dffz99a4z0c9b919c7af6"
+    },
+    "openalex": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.61,
+     "best_title": "HPG-Diff: Hierarchical physics-guided diffusion with differentiable connectivity constraints for topology optimization.",
+     "best_id": "journals/asc/YangYZKJ26"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Diffconnect: Differentiable connectivity constraints for thin structure segmentation\"",
+    "result": "no document with this title or the name DiffConnect found"
+   },
+   "candidate": "649",
+   "n": 17
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission yAApKP1j0E",
+   "row": "yAApKP1j0E",
+   "raw": "Giovanni Grieco, Lorenzo Grinblat, Marino Miculan, et al. Toward massive automated binary analysis. In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS), 2016.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Toward massive automated binary analysis",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Giovanni",
+      "family": "Grieco"
+     },
+     {
+      "given": "Lorenzo",
+      "family": "Grinblat"
+     },
+     {
+      "given": "Marino",
+      "family": "Miculan"
+     }
+    ],
+    "year": 2016,
+    "container": "Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.562,
+     "best_title": "Toward the automated analysis of plasma physics problems",
+     "best_id": "10.2172/6313665"
+    },
+    "openalex": {
+     "best_sim": 0.532,
+     "best_title": "The Tarantula Massive Binary Monitoring",
+     "best_id": "https://openalex.org/W2618075940"
+    },
+    "dblp": {
+     "best_sim": 0.625,
+     "best_title": "A toolset for automated failure analysis.",
+     "best_id": "conf/icse/MarianiPP09"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Toward massive automated binary analysis\"",
+    "result": "no document with this title found; results were other binary-analysis work"
+   },
+   "candidate": "694",
+   "n": 18
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission vrpC7eEMHL",
+   "row": "vrpC7eEMHL",
+   "raw": "- Mingfei Guo, Timothy Miller, Yi-Hsuan Tang, and Yue Xiong. Detecting biased samples in datasets with deep generative models. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 1688-1698, 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Detecting biased samples in datasets with deep generative models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Mingfei",
+      "family": "Guo"
+     },
+     {
+      "given": "Timothy",
+      "family": "Miller"
+     },
+     {
+      "given": "Yi-Hsuan",
+      "family": "Tang"
+     },
+     {
+      "given": "Yue",
+      "family": "Xiong"
+     }
+    ],
+    "year": 2022,
+    "container": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "1688-1698",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.592,
+     "best_title": "Equivariant deep generative models",
+     "best_id": "10.17760/d20449065"
+    },
+    "openalex": {
+     "best_sim": 0.542,
+     "best_title": "An introduction to deep generative modeling",
+     "best_id": "https://openalex.org/W3135719787"
+    },
+    "dblp": {
+     "best_sim": 0.618,
+     "best_title": "Detecting and Naming Actors in Movies Using Generative Appearance Models.",
+     "best_id": "conf/cvpr/GandhiR13"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Detecting biased samples in datasets with deep generative models\"",
+    "result": "no document with this title found; the nearest result is 'Fair Generative Modeling via Weak Supervision' (ICML 2020), a different title and authors"
+   },
+   "candidate": "695",
+   "n": 19
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission 3N0QtlXz6u",
+   "row": "3N0QtlXz6u",
+   "raw": "2) Xuanhe Chen, Ji Zhang, Guoliang Xiong, and Jianhua Li. Towards automated data integration and optimization for database systems. Proceedings of the VLDB Endowment, 13(12):3366-3369, 2020.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Towards automated data integration and optimization for database systems",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Xuanhe",
+      "family": "Chen"
+     },
+     {
+      "given": "Ji",
+      "family": "Zhang"
+     },
+     {
+      "given": "Guoliang",
+      "family": "Xiong"
+     },
+     {
+      "given": "Jianhua",
+      "family": "Li"
+     }
+    ],
+    "year": 2020,
+    "container": "Proceedings of the VLDB Endowment",
+    "short_container": "",
+    "volume": "13",
+    "number": "12",
+    "pages": "3366-3369",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.545,
+     "best_title": "Query Optimization in Relational Database Systems",
+     "best_id": "10.1201/b10711-5"
+    },
+    "openalex": {
+     "best_sim": 0.517,
+     "best_title": "Towards an Automated System for Robot Assembly Cell Layout Optimization",
+     "best_id": "https://openalex.org/W4379365004"
+    },
+    "dblp": {
+     "best_sim": 0.506,
+     "best_title": "Optimization of automated executions based on integration test configurations of embedded software.",
+     "best_id": "conf/icst/MizoguchiII20"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Towards automated data integration and optimization for database systems\"",
+    "result": "no document with this title found; the nearest result is 'Towards Auto-Generated Data Systems' (VLDB 2023), a different paper"
+   },
+   "candidate": "731",
+   "n": 20
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission HjwrSWaMEm",
+   "row": "HjwrSWaMEm",
+   "raw": "Joshua Romoff, Yash Sharma, and Yoshua Bengio. On bias in surrogate model-based optimization: Selection as a source of model bias. Journal of Machine Learning Research, 24(178):1-33, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "On bias in surrogate model-based optimization: Selection as a source of model bias",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Joshua",
+      "family": "Romoff"
+     },
+     {
+      "given": "Yash",
+      "family": "Sharma"
+     },
+     {
+      "given": "Yoshua",
+      "family": "Bengio"
+     }
+    ],
+    "year": 2023,
+    "container": "Journal of Machine Learning Research",
+    "short_container": "",
+    "volume": "24",
+    "number": "178",
+    "pages": "1-33",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.385,
+     "best_title": "Bias-Variance Tradeoff Decomposition based Machine Learning Model Selection: Application to Credit Risk Analysis.",
+     "best_id": "10.21203/rs.3.rs-6442602/v1"
+    },
+    "openalex": {
+     "best_sim": 0.594,
+     "best_title": "Neural network-based surrogate modeling and optimization of a multigeneration system",
+     "best_id": "https://openalex.org/W4393972475"
+    },
+    "dblp": {
+     "best_sim": 0.555,
+     "best_title": "Feature selection for surrogate model-based optimization.",
+     "best_id": "conf/gecco/RehbachGB19"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"On bias in surrogate model-based optimization: Selection as a source of model bias\"",
+    "result": "no document with this title found"
+   },
+   "candidate": "734",
+   "n": 21
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission oqviPysWeN",
+   "row": "oqviPysWeN",
+   "raw": "Hongyi Wan, Hanyu Dong, Chengyu Wang, Xiaorui Liu, Zhihan Zhang, Daya Guo, Jiahai Wang, and Zhiyuan Liu. Tracing and diagnosing copying circuits in large language models. arXiv preprint arXiv:2402.02945, 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Tracing and diagnosing copying circuits in large language models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Hongyi",
+      "family": "Wan"
+     },
+     {
+      "given": "Hanyu",
+      "family": "Dong"
+     },
+     {
+      "given": "Chengyu",
+      "family": "Wang"
+     },
+     {
+      "given": "Xiaorui",
+      "family": "Liu"
+     },
+     {
+      "given": "Zhihan",
+      "family": "Zhang"
+     },
+     {
+      "given": "Daya",
+      "family": "Guo"
+     },
+     {
+      "given": "Jiahai",
+      "family": "Wang"
+     },
+     {
+      "given": "Zhiyuan",
+      "family": "Liu"
+     }
+    ],
+    "year": 2024,
+    "container": "arXiv preprint arXiv:2402.02945",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.517,
+     "best_title": "Dialogical Epistemic Auditing: Tracing Inferential Commitments Across Conversational Turns in Large Language Models",
+     "best_id": "10.21203/rs.3.rs-10712252/v1"
+    },
+    "openalex": {
+     "best_sim": 0.531,
+     "best_title": "Explainability for Large Language Models: A Survey",
+     "best_id": "https://openalex.org/W4390490761"
+    },
+    "dblp": {
+     "best_sim": 0.493,
+     "best_title": "Diagnosing At-Speed Scan BIST Circuits Using a Low Speed and Low Memory Tester.",
+     "best_id": "conf/ats/NakamuraCSF06"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2402.02945",
+     "title": "Stochastic ordering of extreme order statistics in Archimax copula",
+     "sim": 0.277
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Tracing and diagnosing copying circuits in large language models\"",
+    "result": "no document with this title found; results were unrelated circuit-tracing work"
+   },
+   "candidate": "770",
+   "n": 22
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission ARH0jNCV4p",
+   "row": "ARH0jNCV4p",
+   "raw": "Jun Park and Hyung-Bo Kim. Adaptive bayesian control for sensor-based mobile search. Automatica, 112:108713, 2020",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Adaptive bayesian control for sensor-based mobile search",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jun",
+      "family": "Park"
+     },
+     {
+      "given": "Hyung-Bo",
+      "family": "Kim"
+     }
+    ],
+    "year": 2020,
+    "container": "Automatica",
+    "short_container": "",
+    "volume": "112",
+    "number": "",
+    "pages": "108713",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.467,
+     "best_title": "Real-time robust control of mobile robot using ultrasonic sensor",
+     "best_id": "10.1109/iccas.2008.4694292"
+    },
+    "openalex": {
+     "best_sim": 0.495,
+     "best_title": "Adaptive Sampling with Mobile Sensor Networks",
+     "best_id": "https://openalex.org/W158549694"
+    },
+    "dblp": {
+     "best_sim": 0.475,
+     "best_title": "A Bayesian Rule for Adaptive Control based on Causal Interventions",
+     "best_id": "journals/corr/abs-0911-5104"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Adaptive bayesian control for sensor-based mobile search\"",
+    "result": "no document with this title found; results were other Bayesian mobile-search papers"
+   },
+   "candidate": "773",
+   "n": 23
+  },
+  {
+   "manual_check": "the arXiv ID belongs to a real paper on a related topic (strategic deception by LLMs) with a different title and different authors, so a checker that resolves the ID finds a real but different work.",
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission BQfRA3tqt9",
+   "row": "BQfRA3tqt9",
+   "raw": "Evan Hubinger, Richard Ngo, Joseph Carlsmith, and Paul Christiano. Deceptive alignment in ai systems: Concepts, theory, and evidence. arXiv preprint arXiv:2311.07590, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Deceptive alignment in ai systems: Concepts, theory, and evidence",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Evan",
+      "family": "Hubinger"
+     },
+     {
+      "given": "Richard",
+      "family": "Ngo"
+     },
+     {
+      "given": "Joseph",
+      "family": "Carlsmith"
+     },
+     {
+      "given": "Paul",
+      "family": "Christiano"
+     }
+    ],
+    "year": 2023,
+    "container": "arXiv preprint arXiv:2311.07590",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.363,
+     "best_title": "AlignInsight: A Three-Layer Framework for Detecting Deceptive Alignment and Evaluation Awareness in Healthcare AI Systems",
+     "best_id": "10.64898/2026.01.17.26344330"
+    },
+    "openalex": {
+     "best_sim": 0.433,
+     "best_title": "AI Alignment: A Comprehensive Survey",
+     "best_id": "https://openalex.org/W4388274718"
+    },
+    "dblp": {
+     "best_sim": 0.481,
+     "best_title": "Towards Mitigating Deceptive Safety Alignment in Large Reasoning Models.",
+     "best_id": "journals/corr/abs-2609-36254"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2311.07590",
+     "title": "Large Language Models can Strategically Deceive their Users when Put Under Pressure",
+     "sim": 0.248
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Deceptive alignment in ai systems: Concepts, theory, and evidence\"",
+    "result": "no document with this title found; results were blog posts and other papers on deceptive alignment"
+   },
+   "candidate": "805",
+   "n": 24
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission bNRXwUDsQ1",
+   "row": "bNRXwUDsQ1",
+   "raw": "Shizhe Zhou, Kai Xu, and Cheng Liu. Differentiable cad model reconstruction from images. In ICCV, 2021.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Differentiable cad model reconstruction from images",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Shizhe",
+      "family": "Zhou"
+     },
+     {
+      "given": "Kai",
+      "family": "Xu"
+     },
+     {
+      "given": "Cheng",
+      "family": "Liu"
+     }
+    ],
+    "year": 2021,
+    "container": "ICCV",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.685,
+     "best_title": "3D CAD model reconstruction of a human femur from MRI images",
+     "best_id": "10.14569/ijacsa.2013.040410"
+    },
+    "openalex": {
+     "best_sim": 0.549,
+     "best_title": "Coherent Reconstruction of Multiple Humans From a Single Image",
+     "best_id": "https://openalex.org/W3035191304"
+    },
+    "dblp": {
+     "best_sim": 0.582,
+     "best_title": "Extension of Differentiable SAR Renderer for Ground Target Reconstruction From Multiview Images and Shadows.",
+     "best_id": "journals/tgrs/FuJPX23"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Differentiable cad model reconstruction from images\"",
+    "result": "no document with this title found; results were other CAD-reconstruction papers"
+   },
+   "candidate": "820",
+   "n": 25
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission XAnQOoFfBw",
+   "row": "XAnQOoFfBw",
+   "raw": "Priya Kumar, Arvind Narayanan, Marshini Chetty, Sarah Kross, and Benjamin Mako Hill. Large language models and child safety: An empirical investigation of inappropriate responses to minorpresenting users. Proceedings of the ACM on Human-Computer Interaction, 8(CSCW1):1-24, 2024b.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Large language models and child safety: An empirical investigation of inappropriate responses to minorpresenting users",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Priya",
+      "family": "Kumar"
+     },
+     {
+      "given": "Arvind",
+      "family": "Narayanan"
+     },
+     {
+      "given": "Marshini",
+      "family": "Chetty"
+     },
+     {
+      "given": "Sarah",
+      "family": "Kross"
+     },
+     {
+      "given": "Benjamin Mako",
+      "family": "Hill"
+     }
+    ],
+    "year": 2024,
+    "container": "Proceedings of the ACM on Human-Computer Interaction, 8(CSCW1):1-24",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.531,
+     "best_title": "Sophistication and Disinhibition in Large Language Models: An Empirical Investigation of Behavioral Correlates",
+     "best_id": "10.2139/ssrn.6388779"
+    },
+    "openalex": {
+     "best_sim": 0.325,
+     "best_title": "Evaluating LLM Safety Across Child Development Stages: A Simulated Agent Approach",
+     "best_id": "https://openalex.org/W4414977043"
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Large language models and child safety: An empirical investigation of inappropriate responses to minorpresenting users\"",
+    "result": "no document with this title found; results were other child-safety LLM papers"
+   },
+   "candidate": "824",
+   "n": 26
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission GuncMyZ3uN",
+   "row": "GuncMyZ3uN",
+   "raw": "Sai Rajeswar, Tianyi Lin, Ruihan Bao, Andrew Saxe, and R. Devon Hjelm. Diversity and fidelity in generative models: Trade-offs and metrics. arXiv preprint arXiv:2301.06712, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Diversity and fidelity in generative models: Trade-offs and metrics",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Sai",
+      "family": "Rajeswar"
+     },
+     {
+      "given": "Tianyi",
+      "family": "Lin"
+     },
+     {
+      "given": "Ruihan",
+      "family": "Bao"
+     },
+     {
+      "given": "Andrew",
+      "family": "Saxe"
+     },
+     {
+      "given": "R. Devon",
+      "family": "Hjelm"
+     }
+    ],
+    "year": 2023,
+    "container": "arXiv preprint arXiv:2301.06712",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.456,
+     "best_title": "A Multidimensional Benchmark of Generative Models for Neonatal Clinical Tabular Data: Trade-offs in Fidelity, Utility, and Realism",
+     "best_id": "10.21203/rs.3.rs-9457158/v1"
+    },
+    "openalex": {
+     "best_sim": 0.504,
+     "best_title": "Position: All Current Generative Fidelity and Diversity Metrics are Flawed",
+     "best_id": "https://openalex.org/W4416048480"
+    },
+    "dblp": {
+     "best_sim": 0.504,
+     "best_title": "Position: All Current Generative Fidelity and Diversity Metrics are Flawed.",
+     "best_id": "conf/icml/RaisaBS25"
+    },
+    "arxiv": {
+     "best_sim": 0.472,
+     "best_title": "Reliable Fidelity and Diversity Metrics for Generative Models",
+     "best_id": "2002.09797"
+    },
+    "arxiv_id": {
+     "id": "2301.06712",
+     "title": "$(k,q)$-core decomposition of hypergraphs",
+     "sim": 0.194
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Diversity and fidelity in generative models: Trade-offs and metrics\"",
+    "result": "no document with this title found; results were other fidelity and diversity metric papers"
+   },
+   "candidate": "865",
+   "n": 27
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission YCHE8YOqyx",
+   "row": "YCHE8YOqyx",
+   "raw": "Yasin Abbasi-Yadkori and Mehrdad Mahdavi. Riemannian policy optimization with applications to learning representations. In Advances in Neural Information Processing Systems, 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Riemannian policy optimization with applications to learning representations",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yasin",
+      "family": "Abbasi-Yadkori"
+     },
+     {
+      "given": "Mehrdad",
+      "family": "Mahdavi"
+     }
+    ],
+    "year": 2022,
+    "container": "Advances in Neural Information Processing Systems",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.619,
+     "best_title": "A nonsmooth Riemannian trust-region method for multiobjective optimization with applications in machine learning problems",
+     "best_id": "10.1007/s10589-026-00814-z"
+    },
+    "openalex": {
+     "best_sim": 0.512,
+     "best_title": "Toward a Theoretical Foundation of Policy Optimization for Learning Control Policies",
+     "best_id": "https://openalex.org/W4367841446"
+    },
+    "dblp": {
+     "best_sim": 0.596,
+     "best_title": "Exchangeability of GNN Representations with Applications to Graph Retrieval.",
+     "best_id": "conf/iclr/NairRCDD26"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Riemannian policy optimization with applications to learning representations\"",
+    "result": "no document with this title found"
+   },
+   "candidate": "867",
+   "n": 28
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission F02KXwqFdQ",
+   "row": "F02KXwqFdQ",
+   "raw": "Jiajun Dong, Wenjuan Han, Tongshuang Wu, and Xiang Ren. Consistency speaks volumes: A black-box test for memorization in LLMs. arXiv preprint arXiv:2403.08999, 2024. URL https://arxiv.org/abs/2403.08999.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Consistency speaks volumes: A black-box test for memorization in LLMs",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jiajun",
+      "family": "Dong"
+     },
+     {
+      "given": "Wenjuan",
+      "family": "Han"
+     },
+     {
+      "given": "Tongshuang",
+      "family": "Wu"
+     },
+     {
+      "given": "Xiang",
+      "family": "Ren"
+     }
+    ],
+    "year": 2024,
+    "container": "arXiv preprint arXiv:2403.08999",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.461,
+     "best_title": "In ‘Air,’ Michael Jordan’s silence speaks volumes about the marketing of Black athletes",
+     "best_id": "10.64628/aai.ytmtqn79f"
+    },
+    "openalex": {
+     "best_sim": 0.432,
+     "best_title": "Can LLMs Leak Secrets? A Controlled Assessment of Memorization Risks in Enterprise and Government Fine-Tuning",
+     "best_id": "https://openalex.org/W7170046663"
+    },
+    "dblp": {
+     "best_sim": 0.353,
+     "best_title": "On the Memorization of Consistency Distillation for Diffusion Models.",
+     "best_id": "journals/corr/abs-2604-23552"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2403.08999",
+     "title": "Quantum Codes and Irreducible Products of Characters",
+     "sim": 0.233
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Consistency speaks volumes: A black-box test for memorization in LLMs\"",
+    "result": "no document with this title found; results were other memorization papers"
+   },
+   "candidate": "884",
+   "n": 29
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission UDvXiEngkX",
+   "row": "UDvXiEngkX",
+   "raw": "Carl Allen Meyer and Mrinmaya Sachan. Joint learning of sentence segmentation and representation. In Findings of the Association for Computational Linguistics: EMNLP 2023, pp. 12315-12330, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Joint learning of sentence segmentation and representation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Carl Allen",
+      "family": "Meyer"
+     },
+     {
+      "given": "Mrinmaya",
+      "family": "Sachan"
+     }
+    ],
+    "year": 2023,
+    "container": "Findings of the Association for Computational Linguistics: EMNLP",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "12315-12330",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.661,
+     "best_title": "Joint Learning of Sentence Embeddings for Relevance and Entailment",
+     "best_id": "10.18653/v1/w16-1602"
+    },
+    "openalex": {
+     "best_sim": 0.538,
+     "best_title": "Character-based Deep Learning Models for Token and Sentence Segmentation",
+     "best_id": "https://openalex.org/W3135729876"
+    },
+    "dblp": {
+     "best_sim": 0.682,
+     "best_title": "Learning dictionary via subspace segmentation for sparse representation.",
+     "best_id": "conf/icip/FengSYZ11"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Joint learning of sentence segmentation and representation\"",
+    "result": "no document with this title found; results were other joint segmentation papers"
+   },
+   "candidate": "901",
+   "n": 30
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission nhJK05OQne",
+   "row": "nhJK05OQne",
+   "raw": "Richard Shin and Dawn Song. The effects of initialization and optimization on adversarial robustness. arXiv preprint arXiv:2204.07808, 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "The effects of initialization and optimization on adversarial robustness",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Richard",
+      "family": "Shin"
+     },
+     {
+      "given": "Dawn",
+      "family": "Song"
+     }
+    ],
+    "year": 2022,
+    "container": "arXiv preprint arXiv:2204.07808",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.472,
+     "best_title": "Statistical Understanding of Adversarial Robustness",
+     "best_id": "10.70675/0b9d3f17zbd47z4bf8zac5fz955f8a1e85fc"
+    },
+    "openalex": {
+     "best_sim": 0.409,
+     "best_title": "Disentangling Adversarial Robustness and Generalization",
+     "best_id": "https://openalex.org/W2902031012"
+    },
+    "dblp": {
+     "best_sim": 0.54,
+     "best_title": "Initialization and Alignment for Adversarial Texture Optimization.",
+     "best_id": "conf/eccv/ZhaoZS22"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2204.07808",
+     "title": "A Multi-Faceted Study of Nematic Order Reconstruction in Microfluidic Channels",
+     "sim": 0.28
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"The effects of initialization and optimization on adversarial robustness\"",
+    "result": "no document with this title found; the nearest result is 'If You Want to Be Robust, Be Wary of Initialization' (NeurIPS 2024), a different paper"
+   },
+   "candidate": "925",
+   "n": 31
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission wDHaTrs8UT",
+   "row": "wDHaTrs8UT",
+   "raw": "Arjun Singh, Benjamin Chan, and Andrew Thomas. Revisiting the value of risk-sensitivity in deep reinforcement learning. In Conference on Robot Learning, pp. 1117-1126. PMLR, 2020.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Revisiting the value of risk-sensitivity in deep reinforcement learning",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Arjun",
+      "family": "Singh"
+     },
+     {
+      "given": "Benjamin",
+      "family": "Chan"
+     },
+     {
+      "given": "Andrew",
+      "family": "Thomas"
+     }
+    ],
+    "year": 2020,
+    "container": "Conference on Robot Learning",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "1117-1126",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.636,
+     "best_title": "Deep Value-Based Reinforcement Learning",
+     "best_id": "10.1007/978-981-19-0638-1_3"
+    },
+    "openalex": {
+     "best_sim": 0.683,
+     "best_title": "Assessing Generalization in Deep Reinforcement Learning",
+     "best_id": "https://openalex.org/W2898436992"
+    },
+    "dblp": {
+     "best_sim": 0.667,
+     "best_title": "A Method for Evaluating Hyperparameter Sensitivity in Reinforcement Learning.",
+     "best_id": "conf/nips/AdkinsB024"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Revisiting the value of risk-sensitivity in deep reinforcement learning\"",
+    "result": "no document with this title found; results were other risk-sensitive RL papers"
+   },
+   "candidate": "929",
+   "n": 32
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission nN8VhnggF8",
+   "row": "nN8VhnggF8",
+   "raw": "Yasuyuki Yamada et al. Foveated rendering and its applications to virtual reality. Displays, 52:1-9, 2018.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Foveated rendering and its applications to virtual reality",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yasuyuki",
+      "family": "Yamada"
+     }
+    ],
+    "year": 2018,
+    "container": "Displays",
+    "short_container": "",
+    "volume": "52",
+    "number": "",
+    "pages": "1-9",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.651,
+     "best_title": "Dynamic Foveated Rendering for Redirected Walking in Virtual Reality",
+     "best_id": "10.1145/3388770.3407443"
+    },
+    "openalex": {
+     "best_sim": 0.615,
+     "best_title": "Time‐Warped Foveated Rendering for Virtual Reality Headsets",
+     "best_id": "https://openalex.org/W3095951499"
+    },
+    "dblp": {
+     "best_sim": 0.645,
+     "best_title": "Techniques for customized binaural audio rendering with applications to virtual rehabilitation.",
+     "best_id": "phd/it/Spagnol12"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Foveated rendering and its applications to virtual reality\"",
+    "result": "no document with this title found in Displays or elsewhere; results were other foveated-rendering papers"
+   },
+   "candidate": "1011",
+   "n": 33
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission KBqEwFZEgz",
+   "row": "KBqEwFZEgz",
+   "raw": "Yifan Gao, Shiyue Chen, Shujie Wang, and Furu Wei. Prefix-tuning for parameter-efficient speech recognition. In IEEE Spoken Language Technology Workshop (SLT), 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Prefix-tuning for parameter-efficient speech recognition",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yifan",
+      "family": "Gao"
+     },
+     {
+      "given": "Shiyue",
+      "family": "Chen"
+     },
+     {
+      "given": "Shujie",
+      "family": "Wang"
+     },
+     {
+      "given": "Furu",
+      "family": "Wei"
+     }
+    ],
+    "year": 2022,
+    "container": "IEEE Spoken Language Technology Workshop (SLT)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.627,
+     "best_title": "Adapting Whisper for Parameter-efficient Code-Switching Speech Recognition via Soft Prompt Tuning",
+     "best_id": "10.21437/interspeech.2025-2549"
+    },
+    "openalex": {
+     "best_sim": 0.534,
+     "best_title": "CPT: Cross-Modal Prefix-Tuning for Speech-To-Text Translation",
+     "best_id": "https://openalex.org/W4224931284"
+    },
+    "dblp": {
+     "best_sim": 0.667,
+     "best_title": "Parameter-Efficient Long-Tailed Recognition.",
+     "best_id": "journals/corr/abs-2309-10019"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Prefix-tuning for parameter-efficient speech recognition\"",
+    "result": "no document with this title found; results were related speech prefix-tuning papers with other titles"
+   },
+   "candidate": "1012",
+   "n": 34
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission Fbe7OnbkAn",
+   "row": "Fbe7OnbkAn",
+   "raw": "Xiangzhe Lin, Runzhe Yu, Liwen Yuan, Kaitlyn Fan, and Chunting Huang. Rational: Rationalizable and norm-grounded large language models. arXiv preprint arXiv:2503.05021, 2025.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Rational: Rationalizable and norm-grounded large language models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Xiangzhe",
+      "family": "Lin"
+     },
+     {
+      "given": "Runzhe",
+      "family": "Yu"
+     },
+     {
+      "given": "Liwen",
+      "family": "Yuan"
+     },
+     {
+      "given": "Kaitlyn",
+      "family": "Fan"
+     },
+     {
+      "given": "Chunting",
+      "family": "Huang"
+     }
+    ],
+    "year": 2025,
+    "container": "arXiv preprint arXiv:2503.05021",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.638,
+     "best_title": "Retrieval-Augmented Generation and Knowledge-Grounded Large Language Models",
+     "best_id": "10.2139/ssrn.7357178"
+    },
+    "openalex": {
+     "best_sim": 0.545,
+     "best_title": "A Survey on Evaluation of Large Language Models",
+     "best_id": "https://openalex.org/W4391136507"
+    },
+    "dblp": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2503.05021",
+     "title": "Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety",
+     "sim": 0.284
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Rational: Rationalizable and norm-grounded large language models\"",
+    "result": "no document with this title found; results were unrelated normative-reasoning papers"
+   },
+   "candidate": "1063",
+   "n": 35
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission huPQfsUpVd",
+   "row": "huPQfsUpVd",
+   "raw": "Li He, Yu Wang, and Hong Zhang. Spectral sparsification techniques for high-dimensional data. IEEE Transactions on Cybernetics, 50(4):2100-2112, 2020.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Spectral sparsification techniques for high-dimensional data",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Li",
+      "family": "He"
+     },
+     {
+      "given": "Yu",
+      "family": "Wang"
+     },
+     {
+      "given": "Hong",
+      "family": "Zhang"
+     }
+    ],
+    "year": 2020,
+    "container": "IEEE Transactions on Cybernetics",
+    "short_container": "",
+    "volume": "50",
+    "number": "4",
+    "pages": "2100-2112",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.571,
+     "best_title": "Innovative data science techniques in high dimensional time series",
+     "best_id": "10.12681/eadd/59290"
+    },
+    "openalex": {
+     "best_sim": 0.632,
+     "best_title": "Spectral Sparsification by Deterministic Discrepancy Walk",
+     "best_id": "https://openalex.org/W4406143057"
+    },
+    "dblp": {
+     "best_sim": 0.537,
+     "best_title": "Scalable sparsification for efficient decision making under uncertainty in high dimensional state spaces.",
+     "best_id": "conf/iros/ElimelechI17"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Spectral sparsification techniques for high-dimensional data\"",
+    "result": "no document with this title found"
+   },
+   "candidate": "1064",
+   "n": 36
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission 3e8nn8GlR7",
+   "row": "3e8nn8GlR7",
+   "raw": "Xiaolong Wang, Yuxin Fang, Yudong Shen, and Wenyu Liu. Knowledge distillation via soft random projection. In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Knowledge distillation via soft random projection",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Xiaolong",
+      "family": "Wang"
+     },
+     {
+      "given": "Yuxin",
+      "family": "Fang"
+     },
+     {
+      "given": "Yudong",
+      "family": "Shen"
+     },
+     {
+      "given": "Wenyu",
+      "family": "Liu"
+     }
+    ],
+    "year": 2021,
+    "container": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.496,
+     "best_title": "Efficient extreme learning machine via very sparse random projection",
+     "best_id": "10.1007/s00500-018-3128-7"
+    },
+    "openalex": {
+     "best_sim": 0.626,
+     "best_title": "$V_{k}D$: Improving Knowledge Distillation Using Orthogonal Projections",
+     "best_id": "https://openalex.org/W4402727508"
+    },
+    "dblp": {
+     "best_sim": 0.508,
+     "best_title": "Feature Subspace Projection Knowledge Distillation for Medical Image Segmentation.",
+     "best_id": "journals/imst/YuCLYZ25"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Knowledge distillation via soft random projection\"",
+    "result": "no document with this title found; results were other distillation papers"
+   },
+   "candidate": "1087",
+   "n": 37
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission EUX1RkodOk",
+   "row": "EUX1RkodOk",
+   "raw": "Yinan Huang, Jiaming Zhang, and Shizhao Bian. Exploring generalization limits of cross-entropy and mse losses in neural networks. In International Conference on Learning Representations (ICLR), 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Exploring generalization limits of cross-entropy and mse losses in neural networks",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yinan",
+      "family": "Huang"
+     },
+     {
+      "given": "Jiaming",
+      "family": "Zhang"
+     },
+     {
+      "given": "Shizhao",
+      "family": "Bian"
+     }
+    ],
+    "year": 2022,
+    "container": "International Conference on Learning Representations (ICLR)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.622,
+     "best_title": "Generalization and robustness in deep neural networks",
+     "best_id": "10.14711/thesis-991012986098903412"
+    },
+    "openalex": {
+     "best_sim": 0.587,
+     "best_title": "Learning Cartographic Building Generalization with Deep Convolutional Neural Networks",
+     "best_id": "https://openalex.org/W2948919246"
+    },
+    "dblp": {
+     "best_sim": 0.581,
+     "best_title": "Exploring the Generalization Performance of Neural Networks via Diversity.",
+     "best_id": "journals/ajiips/NiuHZZ19"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Exploring generalization limits of cross-entropy and mse losses in neural networks\"",
+    "result": "no document with this title found"
+   },
+   "candidate": "1102",
+   "n": 38
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission 34WC2yucLy",
+   "row": "34WC2yucLy",
+   "raw": "J. Kim. Wafer defect detection with xception and FPN. arXiv preprint, 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Wafer defect detection with xception and FPN",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "J.",
+      "family": "Kim"
+     }
+    ],
+    "year": 2024,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "misc",
+    "note": "arXiv preprint"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.61,
+     "best_title": "Acoustic Wafer Defect Detection System",
+     "best_id": "10.2172/1813835"
+    },
+    "openalex": {
+     "best_sim": 0.504,
+     "best_title": "Research on Defect Detection in Lightweight Photovoltaic Cells Using YOLOv8-FSD",
+     "best_id": "https://openalex.org/W4406984538"
+    },
+    "dblp": {
+     "best_sim": 0.504,
+     "best_title": "A Defect Detection Model for Imbalanced Wafer Image Data Using CAE and Xception.",
+     "best_id": "conf/idsta/ChaOKJ20"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Wafer defect detection with xception and FPN\"",
+    "result": "no document with this title found; results were other wafer-defect papers"
+   },
+   "candidate": "1154",
+   "n": 39
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission P7KtWPDhRz",
+   "row": "P7KtWPDhRz",
+   "raw": "Luyang Huang, Yufan Chen, and Yue Zhang. Narrativeqa revisited: Benchmarking consistency in story understanding. In Proceedings of ACL, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Narrativeqa revisited: Benchmarking consistency in story understanding",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Luyang",
+      "family": "Huang"
+     },
+     {
+      "given": "Yufan",
+      "family": "Chen"
+     },
+     {
+      "given": "Yue",
+      "family": "Zhang"
+     }
+    ],
+    "year": 2023,
+    "container": "Proceedings of ACL",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.552,
+     "best_title": "Rank Xerox: where the benchmarking story started",
+     "best_id": "10.1016/b978-0-7506-3987-3.50005-7"
+    },
+    "openalex": {
+     "best_sim": 0.483,
+     "best_title": "MiA-Signature: Approximating Global Activation for Long-Context Understanding",
+     "best_id": "https://openalex.org/W7160617939"
+    },
+    "dblp": {
+     "best_sim": 0.587,
+     "best_title": "EgoNormia: Benchmarking Physical Social Norm Understanding.",
+     "best_id": "journals/corr/abs-2502-20490"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Narrativeqa revisited: Benchmarking consistency in story understanding\"",
+    "result": "no document with this title found"
+   },
+   "candidate": "1221",
+   "n": 40
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission BoFQUFmXIz",
+   "row": "BoFQUFmXIz",
+   "raw": "Jonathan Scarlett and Ilija Bogunovic. Gaussian process bandits: A tutorial. Foundations and Trends in Machine Learning, 11(5-6):421-516, 2018.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Gaussian process bandits: A tutorial",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jonathan",
+      "family": "Scarlett"
+     },
+     {
+      "given": "Ilija",
+      "family": "Bogunovic"
+     }
+    ],
+    "year": 2018,
+    "container": "Foundations and Trends in Machine Learning",
+    "short_container": "",
+    "volume": "11",
+    "number": "5-6",
+    "pages": "421-516",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.682,
+     "best_title": "Gaussian Process Bandits for Top-k Recommendations",
+     "best_id": "10.52202/079017-2377"
+    },
+    "openalex": {
+     "best_sim": 0.632,
+     "best_title": "High-Dimensional Gaussian Process Bandits",
+     "best_id": "https://openalex.org/W2156375221"
+    },
+    "dblp": {
+     "best_sim": 0.533,
+     "best_title": "Gaussian Processes Regression for Uncertainty Quantification: An Introductory Tutorial.",
+     "best_id": "journals/corr/abs-2502-03090"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Gaussian process bandits: A tutorial\"",
+    "result": "no document with this title found; results were these authors' research papers on GP bandits, not a tutorial"
+   },
+   "candidate": "1246",
+   "n": 41
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission jhan3NJ5x1",
+   "row": "jhan3NJ5x1",
+   "raw": "Jun Chen, Peter Kellman, and Gonzalo R Arce. Scale-space theory for the frequency domain: Properties and applications of the frequency-domain scaling transform. IEEE Transactions on Image Processing, 19(11):2798-2810, 2010.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Scale-space theory for the frequency domain: Properties and applications of the frequency-domain scaling transform",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jun",
+      "family": "Chen"
+     },
+     {
+      "given": "Peter",
+      "family": "Kellman"
+     },
+     {
+      "given": "Gonzalo R",
+      "family": "Arce"
+     }
+    ],
+    "year": 2010,
+    "container": "IEEE Transactions on Image Processing",
+    "short_container": "",
+    "volume": "19",
+    "number": "11",
+    "pages": "2798-2810",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.448,
+     "best_title": "Frequency-Domain and Space-Domain Reconfigurable Metasurfaces",
+     "best_id": "10.1007/978-981-99-7914-1_6"
+    },
+    "openalex": {
+     "best_sim": 0.454,
+     "best_title": "Spatial frequency domain imaging in 2019: principles, applications, and perspectives",
+     "best_id": "https://openalex.org/W2952818417"
+    },
+    "dblp": {
+     "best_sim": 0.566,
+     "best_title": "Correntropy for Random Variables: Properties and Applications in Statistical Inference.",
+     "best_id": "books/sp/10/LiuPXS10"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Scale-space theory for the frequency domain: Properties and applications of the frequency-domain scaling transform\"",
+    "result": "no document with this title found"
+   },
+   "candidate": "1286",
+   "n": 42
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission icnIadBCoR",
+   "row": "icnIadBCoR",
+   "raw": "Huu Pham et al. Safe imitation learning with mode coverage. arXiv preprint arXiv:2304.08438, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Safe imitation learning with mode coverage",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Huu",
+      "family": "Pham"
+     }
+    ],
+    "year": 2023,
+    "container": "arXiv preprint arXiv:2304.08438",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.505,
+     "best_title": "Imitation learning is probably existentially safe",
+     "best_id": "10.1002/aaai.70040"
+    },
+    "openalex": {
+     "best_sim": 0.559,
+     "best_title": "A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges",
+     "best_id": "https://openalex.org/W4400770903"
+    },
+    "dblp": {
+     "best_sim": 0.569,
+     "best_title": "Mitigating Covariate Shift in Imitation Learning via Offline Data Without Great Coverage.",
+     "best_id": "journals/corr/abs-2106-03207"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2304.08438",
+     "title": "Low Seesaw Scale Solution for $M_W$ and $(g-2)_μ$",
+     "sim": 0.313
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Safe imitation learning with mode coverage\"",
+    "result": "no document with this title found; results were other imitation-learning papers"
+   },
+   "candidate": "1308",
+   "n": 43
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission UqjoMDJCmM",
+   "row": "UqjoMDJCmM",
+   "raw": "Zhenning Sun and Xuegang Jeff Ban. Data-driven traffic state estimation with connected vehicle data under low penetration rates. Transportation Research Part C: Emerging Technologies, 147: 103967, 2023.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Data-driven traffic state estimation with connected vehicle data under low penetration rates",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Zhenning",
+      "family": "Sun"
+     },
+     {
+      "given": "Xuegang Jeff",
+      "family": "Ban"
+     }
+    ],
+    "year": 2023,
+    "container": "Transportation Research Part C: Emerging Technologies",
+    "short_container": "",
+    "volume": "147",
+    "number": "",
+    "pages": "103967",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "other",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.643,
+     "best_title": "A Comprehensive Review of Traffic State Estimation Methods under Low Penetration Rate of Connected Vehicles",
+     "best_id": "10.1061/9780784486269.001"
+    },
+    "openalex": {
+     "best_sim": 0.627,
+     "best_title": "Developing Data-Driven Approaches for Traffic Density Estimation Using Connected Vehicle Data",
+     "best_id": "https://openalex.org/W3112210044"
+    },
+    "dblp": {
+     "best_sim": 0.684,
+     "best_title": "Uncertainty Estimation of Connected Vehicle Penetration Rate.",
+     "best_id": "journals/transci/JiaWW23"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Data-driven traffic state estimation with connected vehicle data under low penetration rates\"",
+    "result": "no document with this title found; results were other traffic-state-estimation papers"
+   },
+   "candidate": "1349",
+   "n": 44
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission QNpBrPiUUW",
+   "row": "QNpBrPiUUW",
+   "raw": "Zhiwei Guo, Jun Xu, Wei Chen, and Yu Sun. Cluster-driven gating for interpretable mixture of experts. Knowledge-Based Systems, 269:110551, 2023. doi: 10.1016/j.knosys.2023.110551.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Cluster-driven gating for interpretable mixture of experts",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Zhiwei",
+      "family": "Guo"
+     },
+     {
+      "given": "Jun",
+      "family": "Xu"
+     },
+     {
+      "given": "Wei",
+      "family": "Chen"
+     },
+     {
+      "given": "Yu",
+      "family": "Sun"
+     }
+    ],
+    "year": 2023,
+    "container": "Knowledge-Based Systems",
+    "short_container": "",
+    "volume": "269",
+    "number": "",
+    "pages": "110551",
+    "publisher": "",
+    "doi": "10.1016/j.knosys.2023.110551",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.489,
+     "best_title": "Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts",
+     "best_id": "10.52202/079017-3758"
+    },
+    "openalex": {
+     "best_sim": 0.503,
+     "best_title": "Efficient and Interpretable Mixtures of Experts: Statistical Inference, Initialization, and Applications",
+     "best_id": "https://openalex.org/W7214082357"
+    },
+    "dblp": {
+     "best_sim": 0.486,
+     "best_title": "Learning Unbiased Cluster Descriptors for Interpretable Imbalanced Concept Drift Detection.",
+     "best_id": "journals/corr/abs-2603-06757"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "doi": {
+     "id": "10.1016/j.knosys.2023.110551",
+     "title": "Unsupervised classification for uncertain varying responses: The wisdom-in-the-crowd (WICRO) algorithm",
+     "sim": 0.229
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Cluster-driven gating for interpretable mixture of experts\"",
+    "result": "no document with this title found; results were other mixture-of-experts papers"
+   },
+   "candidate": "1365",
+   "n": 45
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission 6YTEDVd80T",
+   "row": "6YTEDVd80T",
+   "raw": "Muhammad U. Ikram, Sohail J. Abuadbba, M. Ali Akber, Athar Ali, Kristen Moore, Josef Pieprzyk, and Simon S. Woo. Can Deepfake Detectors Be Trusted? A Benchmark and Robustness Analysis. IEEE Transactions on Information Forensics and Security, 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Can Deepfake Detectors Be Trusted? A Benchmark and Robustness Analysis",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Muhammad U.",
+      "family": "Ikram"
+     },
+     {
+      "given": "Sohail J.",
+      "family": "Abuadbba"
+     },
+     {
+      "given": "M. Ali",
+      "family": "Akber"
+     },
+     {
+      "given": "Athar",
+      "family": "Ali"
+     },
+     {
+      "given": "Kristen",
+      "family": "Moore"
+     },
+     {
+      "given": "Josef",
+      "family": "Pieprzyk"
+     },
+     {
+      "given": "Simon S.",
+      "family": "Woo"
+     }
+    ],
+    "year": 2024,
+    "container": "IEEE Transactions on Information Forensics and Security",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.448,
+     "best_title": "Where the Devil Hides: Deepfake Detectors Can No Longer Be Trusted",
+     "best_id": "10.1109/cvpr52734.2025.00819"
+    },
+    "openalex": {
+     "best_sim": 0.45,
+     "best_title": "DeFake StyleGAN Deepfake Detector for Facial Images",
+     "best_id": "https://openalex.org/W7171513154"
+    },
+    "dblp": {
+     "best_sim": 0.62,
+     "best_title": "Deepfake detectors are DUMB: A benchmark to assess adversarial training robustness under transferability constraints.",
+     "best_id": "journals/corr/abs-2601-05986"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Can Deepfake Detectors Be Trusted? A Benchmark and Robustness Analysis\"",
+    "result": "no document with this title found; results were other deepfake-detector benchmarks"
+   },
+   "candidate": "1458",
+   "n": 46
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission pBySAuS5H5",
+   "row": "pBySAuS5H5",
+   "raw": "3. Zihan Chen, Tianyu Wang, Yutong Wang, Ming-Xuan Wu, Wentao Wang, and Gaoang Wang. GPSVRP: A graph-based partition-and-search framework for vehicle routing problems with diffusion model. arXiv preprint arXiv:2309.16016, 2023b.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "GPSVRP: A graph-based partition-and-search framework for vehicle routing problems with diffusion model",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Zihan",
+      "family": "Chen"
+     },
+     {
+      "given": "Tianyu",
+      "family": "Wang"
+     },
+     {
+      "given": "Yutong",
+      "family": "Wang"
+     },
+     {
+      "given": "Ming-Xuan",
+      "family": "Wu"
+     },
+     {
+      "given": "Wentao",
+      "family": "Wang"
+     },
+     {
+      "given": "Gaoang",
+      "family": "Wang"
+     }
+    ],
+    "year": 2023,
+    "container": "arXiv preprint arXiv:2309.16016",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.574,
+     "best_title": "Multi-level graph partition via hierarchical learning for large-scale vehicle routing problems",
+     "best_id": "10.1007/s10458-026-09755-7"
+    },
+    "openalex": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "dblp": {
+     "best_sim": 0.573,
+     "best_title": "A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models.",
+     "best_id": "conf/icml/MoonCYYLC024"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2309.16016",
+     "title": "m-distance-regular graphs and their relation to multivariate P-polynomial association schemes",
+     "sim": 0.392
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"GPSVRP: A graph-based partition-and-search framework for vehicle routing problems with diffusion model\"",
+    "result": "no document with this title or the name GPSVRP found"
+   },
+   "candidate": "1523",
+   "n": 47
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission X5e2x8JSJP",
+   "row": "X5e2x8JSJP",
+   "raw": "Rajkumar Ashok, Manuel López-Ibáñez, and Nadarajen Veerapen. Mcts-ge: Monte carlo tree search for grammar-based genetic programming. In Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion, pp. 171-172. ACM, 2020.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Mcts-ge: Monte carlo tree search for grammar-based genetic programming",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Rajkumar",
+      "family": "Ashok"
+     },
+     {
+      "given": "Manuel",
+      "family": "López-Ibáñez"
+     },
+     {
+      "given": "Nadarajen",
+      "family": "Veerapen"
+     }
+    ],
+    "year": 2020,
+    "container": "Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "171-172",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.54,
+     "best_title": "Molecular Optimization Based on a Monte Carlo Tree Search and Multiobjective Genetic Algorithm",
+     "best_id": "10.1021/acs.jcim.5c00584.s001"
+    },
+    "openalex": {
+     "best_sim": 0.412,
+     "best_title": "Evolving Behaviour Tree Structures Using Grammatical Evolution",
+     "best_id": "https://openalex.org/W2889836925"
+    },
+    "dblp": {
+     "best_sim": 0.676,
+     "best_title": "Modelling Medical Time Series Using Grammar-Guided Genetic Programming.",
+     "best_id": "conf/incdm/AlonsoMPSV08"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Mcts-ge: Monte carlo tree search for grammar-based genetic programming\"",
+    "result": "no document with this title found; results were other MCTS and grammar-guided search papers"
+   },
+   "candidate": "1536",
+   "n": 48
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission X5e2x8JSJP",
+   "row": "X5e2x8JSJP",
+   "raw": "Georgi Tonchev, Theofilos Sainis, Stergios Nikolakopoulos, Zoe Kotti, Pavlos Papasarantopoulos, Prodromos Malakasiotis, and Ion Androutsopoulos. Automating systematic reviews with large language models: a competition-based perspective. arXiv preprint arXiv:2401.06794, 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Automating systematic reviews with large language models: a competition-based perspective",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Georgi",
+      "family": "Tonchev"
+     },
+     {
+      "given": "Theofilos",
+      "family": "Sainis"
+     },
+     {
+      "given": "Stergios",
+      "family": "Nikolakopoulos"
+     },
+     {
+      "given": "Zoe",
+      "family": "Kotti"
+     },
+     {
+      "given": "Pavlos",
+      "family": "Papasarantopoulos"
+     },
+     {
+      "given": "Prodromos",
+      "family": "Malakasiotis"
+     },
+     {
+      "given": "Ion",
+      "family": "Androutsopoulos"
+     }
+    ],
+    "year": 2024,
+    "container": "arXiv preprint arXiv:2401.06794",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.528,
+     "best_title": "Automating Sarcasm Identification from App Reviews Using Transformer-based Language Models",
+     "best_id": "10.1109/fllm67465.2025.11391180"
+    },
+    "openalex": {
+     "best_sim": 0.616,
+     "best_title": "A Systematic Literature Review on Large Language Models for Automated Program Repair",
+     "best_id": "https://openalex.org/W4396651321"
+    },
+    "dblp": {
+     "best_sim": 0.545,
+     "best_title": "Game-Theoretic Security Analysis in Heterogeneous IoT Networks: A Competition Perspective.",
+     "best_id": "journals/iotj/ZhuWTW24"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2401.06794",
+     "title": "Quantifying the hierarchical scales of scientists'mobility",
+     "sim": 0.219
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Automating systematic reviews with large language models: a competition-based perspective\"",
+    "result": "no document with this title found; results were other LLM systematic-review papers"
+   },
+   "candidate": "1544",
+   "n": 49
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission wxayiAI3M7",
+   "row": "wxayiAI3M7",
+   "raw": "Divyanshu Mahajan, Chenhao Tan, and Matthew Turek. Calm: A causality-guided framework for generating local and global model explanations. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 1215–1224, 2021.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Calm: A causality-guided framework for generating local and global model explanations",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Divyanshu",
+      "family": "Mahajan"
+     },
+     {
+      "given": "Chenhao",
+      "family": "Tan"
+     },
+     {
+      "given": "Matthew",
+      "family": "Turek"
+     }
+    ],
+    "year": 2021,
+    "container": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "1215–1224",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.529,
+     "best_title": "LoMEF: A framework to produce local explanations for global model time series forecasts",
+     "best_id": "10.1016/j.ijforecast.2022.06.006"
+    },
+    "openalex": {
+     "best_sim": 0.48,
+     "best_title": "A MULTI-DIMENSIONAL POLICY FRAMEWORK FOR ANALYZING AND RESPONDING TO GLOBAL ECONOMIC CRISES",
+     "best_id": "https://openalex.org/W2735207489"
+    },
+    "dblp": {
+     "best_sim": 0.647,
+     "best_title": "A General Search-Based Framework for Generating Textual Counterfactual Explanations.",
+     "best_id": "conf/aaai/GiloM24"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Calm: A causality-guided framework for generating local and global model explanations\"",
+    "result": "no document with this title found; results were other causal-explanation papers"
+   },
+   "candidate": "1549",
+   "n": 50
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission 3NEN2pH0W9",
+   "row": "3NEN2pH0W9",
+   "raw": "Stefan Schlüter, David Borth, Tim Weninger, and Marco F. Huber. Deep one-class classification for defect detection in industry. In International Conference on Pattern Recognition (ICPR), pp. 1950-1957, 2022.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Deep one-class classification for defect detection in industry",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Stefan",
+      "family": "Schlüter"
+     },
+     {
+      "given": "David",
+      "family": "Borth"
+     },
+     {
+      "given": "Tim",
+      "family": "Weninger"
+     },
+     {
+      "given": "Marco F.",
+      "family": "Huber"
+     }
+    ],
+    "year": 2022,
+    "container": "International Conference on Pattern Recognition (ICPR)",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "1950-1957",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.662,
+     "best_title": "Cluster-based Deep One-Class Classification Model for Anomaly Detection",
+     "best_id": "10.53106/160792642021072204017"
+    },
+    "openalex": {
+     "best_sim": 0.63,
+     "best_title": "Review of Industry Workpiece Classification and Defect Detection using Deep Learning",
+     "best_id": "https://openalex.org/W4285183766"
+    },
+    "dblp": {
+     "best_sim": 0.571,
+     "best_title": "Cloud-based Fault Detection and Classification for Oil & Gas Industry.",
+     "best_id": "journals/corr/KhodabakhshAB17"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Deep one-class classification for defect detection in industry\"",
+    "result": "no document with this title found; results were other one-class defect-detection papers with other titles"
+   },
+   "candidate": "1571",
+   "n": 51
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission hxSTizVqRP",
+   "row": "hxSTizVqRP",
+   "raw": "Min-joon Choi and Seo-yeon Park. Probing the multimodal fusion pathway in large language models. In Proceedings of the AAAI Conference on Artificial Intelligence, 2025.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Probing the multimodal fusion pathway in large language models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Min-joon",
+      "family": "Choi"
+     },
+     {
+      "given": "Seo-yeon",
+      "family": "Park"
+     }
+    ],
+    "year": 2025,
+    "container": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "inproceedings"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.613,
+     "best_title": "Medical multimodal large language models: A survey",
+     "best_id": "10.1016/j.inffus.2026.104386"
+    },
+    "openalex": {
+     "best_sim": 0.595,
+     "best_title": "The Revolution of Multimodal Large Language Models: A Survey",
+     "best_id": "https://openalex.org/W4402670262"
+    },
+    "dblp": {
+     "best_sim": 0.679,
+     "best_title": "A Survey on Multimodal Large Language Models.",
+     "best_id": "journals/corr/abs-2306-13549"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Probing the multimodal fusion pathway in large language models\"",
+    "result": "no document with this title found; results were other multimodal-fusion papers"
+   },
+   "candidate": "1649",
+   "n": 52
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission hxSTizVqRP",
+   "row": "hxSTizVqRP",
+   "raw": "Xiang Li and Hao Zhang. On information loss in cross-modal projections for large language models. arXiv preprint arXiv:2406.11234, 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "On information loss in cross-modal projections for large language models",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Xiang",
+      "family": "Li"
+     },
+     {
+      "given": "Hao",
+      "family": "Zhang"
+     }
+    ],
+    "year": 2024,
+    "container": "arXiv preprint arXiv:2406.11234",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.691,
+     "best_title": "Cross-modal Information Flow in Multimodal Large Language Models",
+     "best_id": "10.1109/cvpr52734.2025.01842"
+    },
+    "openalex": {
+     "best_sim": 0.672,
+     "best_title": "X-VILA: Cross-Modality Alignment for Large Language Model",
+     "best_id": "https://openalex.org/W4399198764"
+    },
+    "dblp": {
+     "best_sim": 0.544,
+     "best_title": "Information Preserving Component Analysis: Data Projections for Flow Cytometry Analysis.",
+     "best_id": "journals/jstsp/CarterRFH09"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2406.11234",
+     "title": "MiniConGTS: A Near Ultimate Minimalist Contrastive Grid Tagging Scheme for Aspect Sentiment Triplet Extraction",
+     "sim": 0.243
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"On information loss in cross-modal projections for large language models\"",
+    "result": "no document with this title found; the nearest result is 'Lost in Embeddings: Information Loss in Vision-Language Models' (EMNLP Findings 2025), a different title"
+   },
+   "candidate": "1650",
+   "n": 53
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "location": "the CiteTracer ICLR 2026 set (desk-reject comments)",
+   "cited_in": "OpenReview submission habbb09al0",
+   "row": "habbb09al0",
+   "raw": "[1]Amir Bahri, Sungsoo Kim, et al. Extending shapley-value based credit assignment in multi-agent rl for continuous spaces. arXiv preprint arXiv:2409.12345, 2024.",
+   "parsed": {
+    "registry": "fabricated",
+    "title": "Extending shapley-value based credit assignment in multi-agent rl for continuous spaces",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Amir",
+      "family": "Bahri"
+     },
+     {
+      "given": "Sungsoo",
+      "family": "Kim"
+     }
+    ],
+    "year": 2024,
+    "container": "arXiv preprint arXiv:2409.12345",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "et_al": true,
+    "bibtype": "article"
+   },
+   "field": "cs",
+   "checked": "2026-10-24",
+   "checks": {
+    "crossref": {
+     "best_sim": 0.489,
+     "best_title": "XMIX: Graph-based temporal credit assignment and attention-augmented value decomposition for multi-agent cooperative reinforcement learning",
+     "best_id": "10.1016/j.neucom.2025.131471"
+    },
+    "openalex": {
+     "best_sim": 0.613,
+     "best_title": "Multiagent Model-based Credit Assignment for Continuous Control",
+     "best_id": "https://openalex.org/W4226427023"
+    },
+    "dblp": {
+     "best_sim": 0.613,
+     "best_title": "Multiagent Model-based Credit Assignment for Continuous Control.",
+     "best_id": "conf/atal/HanLMW22"
+    },
+    "arxiv": {
+     "best_sim": 0.0,
+     "best_title": "",
+     "best_id": ""
+    },
+    "arxiv_id": {
+     "id": "2409.12345",
+     "title": "Wing Optimisation for a tractor propeller driven Micro Aerial Vehicle",
+     "sim": 0.231
+    }
+   },
+   "web": {
+    "date": "2026-10-24",
+    "query": "\"Extending shapley-value based credit assignment in multi-agent rl for continuous spaces\"",
+    "result": "no document with this title found; results were other Shapley credit-assignment papers"
+   },
+   "candidate": "1681",
+   "n": 54
+  }
+ ],
+ "rejected_after_registry_checks": [
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table9:row72",
+   "title": "Datacomplm: Benchmarking data quality in large language models",
+   "why": "garbles DataComp-LM (a real paper)"
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table9:row73",
+   "title": "Metagpt: Meta programming sota autonomous multi-agent cooperative llm workflows",
+   "why": "garbles MetaGPT (a real paper)"
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table9:row104",
+   "title": "MEMIT: Massediting memory in a transformer",
+   "why": "garbles MEMIT (a real paper)"
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table9:row167",
+   "title": "Crescendo: Towards realistic redteaming of llms with language agents",
+   "why": "garbles Crescendo (Russinovich et al., a real paper)"
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table9:row218",
+   "title": "Internvl: Scaling up vision-language pretraining with multimodal reinforcement learning",
+   "why": "garbles InternVL (a real paper)"
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table9:row229",
+   "title": "Grit1: A grammar error correction dataset for llm evaluation",
+   "why": "two references merged into one string"
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table9:row264",
+   "title": "Defakts: A fine-grained dataset for analyzing disinformation in german media",
+   "why": "garbles DeFaktS (a real paper)"
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table9:row273",
+   "title": "Gpt-4: A large-scale multimodal model",
+   "why": "the GPT-4 technical report under a wrong title"
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table9:row275",
+   "title": "Deepseek-prover-v2: Scaling natural-language graph-based test time compute for automated theorem proving",
+   "why": "garbles DeepSeek-Prover-V2 (a real report)"
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table10:row5",
+   "title": "BanglaBERT: A Denoising Autoencoding based Pre-trained Language Model for Bengali",
+   "why": "garbles BanglaBERT (a real paper)"
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table10:row28",
+   "title": "Zero-shot readabilitycontrolled sentence simplification with instructiontuned large language models",
+   "why": "garbles Barayan et al., COLING 2025 (a real paper)"
+  },
+  {
+   "source": "hallucitation-acl2026",
+   "row": "table10:row105",
+   "title": "RAGMemory v2: Nonparametric continual memory for language models",
+   "why": "web search: no exact-title match, but the top result is 'From RAG to Memory: Non-Parametric Continual Learning for Large Language Models' (HippoRAG 2, Gutierrez et al., ICML 2025), which this garbles"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "bb4nYKkmAn",
+   "title": "Evalcrafter: Benchmarking video generation models with comprehensive evaluation",
+   "why": "garbles EvalCrafter (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "u8Vn63eG2K",
+   "title": "Sant: Structural attention networks for graphs",
+   "why": "web search: no exact-title match, but 'Structural attention network for graph' (Zhou and Li, Applied Intelligence 2021) is a real paper with nearly this title"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "NyqskXTfmI",
+   "title": "Agentpoison: Poisoning language agents via prompt injection",
+   "why": "garbles AgentPoison (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "6YMFsGFabM",
+   "title": "The human last exam: A new benchmark for evaluating ai systems",
+   "why": "garbles Humanity's Last Exam (a real benchmark)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "uuCQJtKMqS",
+   "title": "Sentinellms: Training language models to process encrypted or obfuscated inputs",
+   "why": "garbles SentinelLMs (Mishra et al., a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "wBX8a3mVN1",
+   "title": "How do vision transformers work? insights from spatial masking",
+   "why": "garbles Park and Kim, 'How Do Vision Transformers Work?' (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "Jj7xrsQOL6",
+   "title": "Pythia: A real-time autograder for practical programming exercises",
+   "why": "web search: no exact-title match, but Pythia is the name of a real web-based programming autograder (UCLouvain), so this may garble a real work"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "rxvAkQFP7U",
+   "title": "Cbench: A benchmarking suite for evaluating compiler optimization",
+   "why": "names cBench, a real benchmark suite"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "bbUWnnWtgz",
+   "title": "Flipped learning mitigates label noise in in-context learning",
+   "why": "garbles Ye et al.'s flipped learning (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "go44bcifFA",
+   "title": "Project gazelle: A multimodal ai model for meta's next-generation smart glasses",
+   "why": "a company blog post, not a scholarly work"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "LUXsDBYTkp",
+   "title": "2155–2161, July 2019",
+   "why": "fragment of a reference string"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "3ZhFjE6yp1",
+   "title": "Active learning for graph neural networks via uncertainty and diversity",
+   "why": "garbles Cai, Zheng and Chang's real active-learning paper"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "2Ox4O5CCKG",
+   "title": "Longnet 2: When attention is not all you need",
+   "why": "sequel name of LongNet (a real paper) with its authors"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "2Ox4O5CCKG",
+   "title": "Segformer: Segmented transformer for better long sequence language modeling",
+   "why": "names Segformer (a real model) under another title"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "3AoeNlw5MF",
+   "title": "Panel of llm evaluators (poll): A framework for ensemble-based evaluation",
+   "why": "garbles PoLL (Verga et al., a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "AgZr1UEoQI",
+   "title": "The likert scale: An underused and misunderstood tool in evaluation",
+   "why": "title close to a possibly real practitioner article; too poorly indexed to judge"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "583uc6qAGx",
+   "title": "Multi-agent debate emerges in medium-sized language models",
+   "why": "web search: no exact-title match, but the top result is M. Hegazy, 'Diversity of Thought Elicits Stronger Reasoning Capabilities in Multi-Agent Debate Frameworks' on medium-capacity models, which this garbles"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "DKAUzhGiDa",
+   "title": "Wisdom: Progressive curriculum data synthesis for enhancing reasoning in large language models, 2024a",
+   "why": "garbles WISDOM (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "rSetFgvtfH",
+   "title": "Primevul: A comprehensive benchmark for evaluating vulnerability detection with prompt-based methods",
+   "why": "garbles PrimeVul (a real benchmark paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "bNRXwUDsQ1",
+   "title": "Brepmfr: Benchmark for multifaceted reasoning on cad boundary representations",
+   "why": "garbles BRepMFR (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "MTBU1hZHU8",
+   "title": "Olympiadbench: A benchmark for ai mathematical olympiad problems",
+   "why": "garbles OlympiadBench (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "qQuca6fbFX",
+   "title": "Tinyvla: Scaling down vision-language-action models for real-world robots",
+   "why": "garbles TinyVLA (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "qQuca6fbFX",
+   "title": "Act: Transformer with adaptive computation for robot policy learning",
+   "why": "garbles ACT (Action Chunking with Transformers)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "F02KXwqFdQ",
+   "title": "When one example fails, a thousand may succeed: Dataset-level membership inference for large language models",
+   "why": "garbles Maini et al. on dataset inference (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "I4hx723NT5",
+   "title": "Gedit: A unified metric for evaluating instruction-based image editing",
+   "why": "garbles GEdit-Bench (a real benchmark)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "WtYmmVgAZv",
+   "title": "Simple and reliable test-time adaptation with sar",
+   "why": "garbles SAR test-time adaptation (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "nwfEDieg3h",
+   "title": "Winning the New Yorker caption contest with a Scooby-Doo clone",
+   "why": "garbles Hessel et al. on the New Yorker caption contest (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "4vscyWqXDm",
+   "title": "Storyteller: Event-centric video captioning via multimodal alignment",
+   "why": "garbles StoryTeller (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "4vscyWqXDm",
+   "title": "Sharegpt4video: Leveraging gpt-4v for video understanding and captioning",
+   "why": "garbles ShareGPT4Video (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "KQ9aK65BKm",
+   "title": "Laplacianshot: Laplacian-based representation for few-shot classification",
+   "why": "garbles LaplacianShot (Ziko et al., a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "h4FOb6ak0Q",
+   "title": "Deepgate 4: Learning logical circuit synthesis with graph transformers",
+   "why": "garbles DeepGate4 (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "1lRK9XD61d",
+   "title": "Self-ask: Decomposing questions for complex text understanding",
+   "why": "garbles Self-Ask (Press et al., a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "TeZ2witssB",
+   "title": "Mg-ptq: Mixed-precision graph neural post-training quantization",
+   "why": "the source comment names the real paper it garbles"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "3e8nn8GlR7",
+   "title": "Cat-kd: Class-aware attention for knowledge distillation",
+   "why": "garbles CAT-KD (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "3e8nn8GlR7",
+   "title": "Pefd: Progressive enhancement of feature distillation",
+   "why": "garbles PEFD (a real distillation paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "qcNu1mL46N",
+   "title": "Deep spline networks: A perfect fit for signals and images",
+   "why": "garbles Unser's 'Splines: A perfect fit for signal and image processing'"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "XYB67Nu2xD",
+   "title": "Rankgpt: Enhancing zero-shot ranking with instruction-finetuned large language models",
+   "why": "garbles RankGPT (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "nVRbt30wlW",
+   "title": "U-stydit: Transformer meets u-net for high-resolution style diffusion",
+   "why": "garbles U-StyDiT (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "nVRbt30wlW",
+   "title": "DiffLoRA: Zero-shot personalization via latent-diffusion hyper-networks",
+   "why": "garbles DiffLoRA (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "8yWECy22Zi",
+   "title": "Structured text generation with jsonformer",
+   "why": "Jsonformer is a real tool"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "8yWECy22Zi",
+   "title": "Toolbench: A comprehensive evaluation of tool-augmented large language models",
+   "why": "garbles ToolBench (a real benchmark)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "8yWECy22Zi",
+   "title": "Mmbench: Evaluating multimodal models on comprehensive tasks",
+   "why": "garbles MMBench (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "vQmqyjRVjf",
+   "title": "SeAFusion: A Seasonal-Adaptive Infrared and Visible Image Fusion Network",
+   "why": "garbles SeAFusion (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "W6aYwEA7i3",
+   "title": "Mistral: Efficient open-weight llms",
+   "why": "a company model page, not a scholarly work"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "85XC49ehJ1",
+   "title": "Lightstereo: High-efficiency stereo matching with pyramidal cost volume",
+   "why": "garbles LightStereo (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "CYgn0GEtR2",
+   "title": "Predicting physics in meshreduced space with temporal attention",
+   "why": "a real ICLR 2022 paper (Han et al.)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "lBctELT2f9",
+   "title": "\"Llama 3: Advancements in open-source language models.\" arXiv preprint arXiv:2407.XXXX, 2024",
+   "why": "garbles the Llama 3 report"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "7wav7FJA0P",
+   "title": "Adaptable hyperdimensional computing for efficient learning and inference",
+   "why": "garbles AdaptHD (Imani et al., a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "dFRMbEEPBv",
+   "title": "Videocrafter2: A comprehensive framework for text-to-video generation",
+   "why": "garbles VideoCrafter2 (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "VFyOrKqiDY",
+   "title": "Reasoning-sql: Distilling reasoning capabilities from llms to smaller models for text-to-sql",
+   "why": "garbles Reasoning-SQL (Pourreza et al., a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "VFyOrKqiDY",
+   "title": "Ai capabilities and alignment research",
+   "why": "a forum post, not a scholarly work"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "VFyOrKqiDY",
+   "title": "Opensearch-sql: Context-aware sql generation with an open-source suite",
+   "why": "garbles OpenSearch-SQL (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "VFyOrKqiDY",
+   "title": "Askdata: Naturally leveraging data analysis agents for complex text-to-sql generation",
+   "why": "the arXiv ID is a real paper by the same first author"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "NteaYNay7g",
+   "title": "Mjhq: High-quality images collected from midjourney, 2024",
+   "why": "names the MJHQ dataset (a real dataset)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "zkAAVuTbwY",
+   "title": "Stackex: A collection of multi-label datasets from stack exchange forums",
+   "why": "web search: no exact-title match, but Stack Exchange multi-label datasets by the same authors (Charte et al., 2015) are real, so this garbles a real work"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "6x4DWjhMsH",
+   "title": "Safelora: Safety-preserving parameter efficient fine-tuning",
+   "why": "garbles Safe LoRA (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "VdoEQJufI8",
+   "title": "Defect and fault tolerance in VLSI systems: A survey of methodologies and techniques",
+   "why": "web search: no exact-title match, but 'Defect and Fault Tolerance in VLSI Systems' is the title of real edited books (Koren; IEEE CS workshop volumes)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "wdBqDf3BZs",
+   "title": "Planning from pixels through graph search",
+   "why": "web search: no exact-title match; the top results are Bagatella et al., 'Planning from Pixels in Environments with Combinatorially Hard Search Spaces' (NeurIPS 2021), the real paper by the same first author that this garbles"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "wxayiAI3M7",
+   "title": "Explaining groups of instances with shap-iq",
+   "why": "names SHAP-IQ (a real method)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "whkb7c1GAV",
+   "title": "Unveiling representation disparities: Measuring encoder bias under fair output",
+   "why": "web search: no exact-title match, but the URL in the reference points to 'Gender Encoding Patterns in Pretrained Language Model Representations' (TrustNLP 2025), whose finding the title paraphrases"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "vwVp5y2Ovg",
+   "title": "Reviving rotational sensitivity in vision transformers for 3d analysis",
+   "why": "web search: no exact-title match, but the top result is Ding et al., 'Reviving Shift Equivariance in Vision Transformers' (ICML 2023), which this title and first-author surname appear to garble"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "IwQz03tJ24",
+   "title": "Contrastive rewards for mitigating imperfections in reward models",
+   "why": "the arXiv ID is the real paper this garbles (Improving RLHF Using Contrastive Rewards)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "FHXvxKGpdv",
+   "title": "Aligning text-to-image models using reward weighted regression",
+   "why": "garbles Lee et al. on aligning text-to-image models (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "uHDkm6bU04",
+   "title": "Ssr-encoder: Identity-preserving encoder for image-conditioned diffusion models",
+   "why": "garbles SSR-Encoder (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "y0KyBu5gfz",
+   "title": "Visual programming for compositional reasoning and action planning in autonomous agents",
+   "why": "garbles VisProg (Visual Programming, a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "m06fRxiGi9",
+   "title": "Measuring and improving LLMs for math reasoning with visual contexts",
+   "why": "garbles MathVista (a real paper)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "w0mev3QEB1",
+   "title": "The 4th microsoft dns challenge: A large-scale dataset for noise suppression",
+   "why": "garbles the ICASSP 2022 DNS Challenge paper (Dubey et al.)"
+  },
+  {
+   "source": "citetracer-iclr2026",
+   "row": "mmkbgNlrJB",
+   "title": "Research: Autonomous retrieval decision-making in llms using reinforcement learning",
+   "why": "garbles ReSearch (a real paper on RL for retrieval)"
+  }
+ ]
+}

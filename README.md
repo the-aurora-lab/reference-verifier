@@ -77,6 +77,34 @@ the run and says so; rerun later to include it.
 A reference that is not found is not proof of fabrication, and a found one can still have a wrong year,
 venue or author list. `refverify` checks existence.
 
+## How well it works
+
+Measured on a held-out benchmark of 246 labelled references that was built separately from the development set and
+scored once, with no changes to the matching rules afterwards (`benchmark/heldout/`; sources, licences and labelling
+rules in `benchmark/heldout/HELDOUT.md`):
+
+| Measure | Result | 95% CI |
+|---|---|---|
+| Real references found | 93 of 95 | 92.6–99.4% |
+| Fabricated references flagged | 54 of 54 | 93.4–100% |
+| Wrong DOIs flagged as a DOI problem | 30 of 30 | 88.6–100% |
+| Retracted papers found (they exist; flagging retractions is not part of this check) | 35 of 35 | 90.1–100% |
+| Precision of flags (flags on fabricated or wrong-DOI entries, out of all flags) | 84 of 86 (97.7%) | 91.9–99.4% |
+
+- The two real references it missed are DOI-less conference papers (CoRL 2021, MIDL 2022) that only DBLP indexes;
+  DBLP was unavailable during the run.
+- Real references were drawn at random across computer science, biomedicine, physics, mathematics, social science,
+  the humanities and other fields, written in the messy forms real `.bib` files use. The fabricated ones come from
+  public compilations of hallucinated citations found in ACL-family papers and ICLR 2026 submissions, so 51 of the
+  54 are computer science.
+- "Fabricated" means listed by one of those compilations and found neither in any registry nor by a web search for
+  the exact title. That is strong evidence, not proof.
+- The development set the rules were tuned on (342 references) is in `benchmark/`; its scores are in
+  `benchmark/results/summary.md` and are not a fair measure.
+
+Rerun it: `python benchmark/evaluate.py --data benchmark/heldout/heldout.jsonl --out benchmark/heldout/results --heldout`
+(results vary slightly as registries change and become reachable or not).
+
 ## Privacy and etiquette
 
 Titles, first authors, years and identifiers from your bibliography are sent to the registries listed above.

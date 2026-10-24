@@ -1,0 +1,180 @@
+{
+ "description": "Retraction Watch rows tried, in sampling order, and why any were skipped (Crossref check).",
+ "tried": [
+  {
+   "record": "62369",
+   "doi": "10.3233/jifs-212451",
+   "skip": null
+  },
+  {
+   "record": "48870",
+   "doi": "10.1177/0020720918813836",
+   "skip": null
+  },
+  {
+   "record": "37867",
+   "doi": "10.1007/s12652-020-01737-1",
+   "skip": null
+  },
+  {
+   "record": "49409",
+   "doi": "10.1155/2022/2371549",
+   "skip": null
+  },
+  {
+   "record": "41780",
+   "doi": "10.1007/s00500-019-04171-4",
+   "skip": null
+  },
+  {
+   "record": "497",
+   "doi": "10.1126/science.1188635",
+   "skip": null
+  },
+  {
+   "record": "8886",
+   "doi": "10.1093/rheumatology/kew027",
+   "skip": null
+  },
+  {
+   "record": "52156",
+   "doi": "10.1038/onc.2013.220",
+   "skip": null
+  },
+  {
+   "record": "20034",
+   "doi": "10.3177/jnsv.52.1",
+   "skip": null
+  },
+  {
+   "record": "42806",
+   "doi": "10.1159/000493265",
+   "skip": null
+  },
+  {
+   "record": "21946",
+   "doi": "10.1016/j.astropartphys.2009.07.004",
+   "skip": null
+  },
+  {
+   "record": "24792",
+   "doi": "10.1088/2515-7639/ab17e5",
+   "skip": null
+  },
+  {
+   "record": "21919",
+   "doi": "10.1023/A:1026125928058",
+   "skip": null
+  },
+  {
+   "record": "19220",
+   "doi": "10.2514/1.G003508",
+   "skip": null
+  },
+  {
+   "record": "59569",
+   "doi": "10.1155/2022/3897120",
+   "skip": null
+  },
+  {
+   "record": "70559",
+   "doi": "10.1016/j.heliyon.2024.e40365",
+   "skip": null
+  },
+  {
+   "record": "59531",
+   "doi": "10.1016/j.rinp.2022.105683",
+   "skip": null
+  },
+  {
+   "record": "26421",
+   "doi": "10.1155/2012/730619",
+   "skip": null
+  },
+  {
+   "record": "38924",
+   "doi": "10.1080/00927872.2022.2077954",
+   "skip": null
+  },
+  {
+   "record": "23353",
+   "doi": "10.1186/s13661-015-0496-0",
+   "skip": null
+  },
+  {
+   "record": "69663",
+   "doi": "10.1371/journal.pone.0294269",
+   "skip": null
+  },
+  {
+   "record": "50398",
+   "doi": "10.1155/2022/4146517",
+   "skip": null
+  },
+  {
+   "record": "52650",
+   "doi": "10.3389/fpsyg.2014.00561",
+   "skip": null
+  },
+  {
+   "record": "2317",
+   "doi": "10.1111/1467-9280.00298",
+   "skip": null
+  },
+  {
+   "record": "4150",
+   "doi": "10.1037/0022-3514.87.6.860",
+   "skip": null
+  },
+  {
+   "record": "50016",
+   "doi": "10.1080/10509208.2020.1766309",
+   "skip": null
+  },
+  {
+   "record": "65673",
+   "doi": "10.1007/s10936-024-10043-2",
+   "skip": null
+  },
+  {
+   "record": "59925",
+   "doi": "10.1353/ncf.2023.a911799",
+   "skip": null
+  },
+  {
+   "record": "57314",
+   "doi": "10.1155/2022/2439464",
+   "skip": null
+  },
+  {
+   "record": "42809",
+   "doi": "10.1162/ARTM_a_00199",
+   "skip": null
+  },
+  {
+   "record": "40194",
+   "doi": "10.3390/buildings11120639",
+   "skip": null
+  },
+  {
+   "record": "22989",
+   "doi": "10.1039/C2RA01321E",
+   "skip": null
+  },
+  {
+   "record": "6292",
+   "doi": "10.1007/s12540-010-0404-1",
+   "skip": null
+  },
+  {
+   "record": "12826",
+   "doi": "10.1080/10643389.2012.672070",
+   "skip": null
+  },
+  {
+   "record": "5964",
+   "doi": "10.1107/S1600536807052464",
+   "skip": null
+  }
+ ]
+}
