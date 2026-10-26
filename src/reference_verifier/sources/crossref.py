@@ -5,7 +5,7 @@ from __future__ import annotations
 from urllib.parse import quote
 
 from ..http import Http
-from ..model import Record, Reference
+from ..model import Record, Reference, Update
 
 API = "https://api.crossref.org/works"
 _SELECT = "DOI,title,subtitle,author,issued,container-title,type,URL"
@@ -32,6 +32,25 @@ def _relations(item: dict) -> dict[str, list[str]]:
     return out
 
 
+def _date(d: dict | None) -> str | None:
+    try:
+        parts = [int(x) for x in d["date-parts"][0] if x is not None]
+    except (KeyError, IndexError, TypeError, ValueError):
+        return None
+    return "-".join(f"{x:02d}" for x in parts) or None
+
+
+def _updates(item: dict, name: str) -> list[Update]:
+    """Crossref's `updated-by` (notices about this work) or `update-to` (works this notice updates)."""
+    out = []
+    for u in item.get(name) or []:
+        if isinstance(u, dict) and u.get("type"):
+            out.append(Update(type=str(u["type"]).lower(), doi=(u.get("DOI") or "").lower() or None,
+                              date=_date(u.get("updated")), source=u.get("source") or "",
+                              record_id=str(u["record-id"]) if u.get("record-id") else None))
+    return out
+
+
 def to_record(item: dict) -> Record:
     authors = [a.get("family") or a.get("name") or "" for a in item.get("author", [])]
     title = (item.get("title") or [""])[0]
@@ -51,6 +70,8 @@ def to_record(item: dict) -> Record:
         volume=item.get("volume") or None,
         issue=item.get("issue") or None,
         relations=_relations(item),
+        updated_by=_updates(item, "updated-by"),
+        update_to=_updates(item, "update-to"),
     )
 
 

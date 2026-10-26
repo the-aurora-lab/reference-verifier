@@ -38,6 +38,23 @@ def test_crossref_record_carries_pages_volume_issue_and_relations():
     assert to_record({"title": ["T"]}).pages is None
 
 
+def test_crossref_record_carries_notices():
+    from reference_verifier.sources.crossref import to_record
+
+    rec = to_record({"DOI": "10.1/A", "title": ["RETRACTED: T"], "update-to": [
+        {"DOI": "10.1/A", "type": "retraction", "source": "publisher", "updated": {"date-parts": [[2022, 11, 1]]}}],
+        "updated-by": [
+            {"DOI": "10.1/N", "type": "retraction", "source": "retraction-watch", "record-id": "65391",
+             "updated": {"date-parts": [[2025, 6, 9]]}},
+            {"DOI": "10.1/E", "type": "Erratum", "source": "publisher", "updated": {"date-parts": [[2025]]}},
+            {"source": "publisher"}]})
+    assert [(u.type, u.doi, u.date, u.source, u.record_id) for u in rec.updated_by] == [
+        ("retraction", "10.1/n", "2025-06-09", "retraction-watch", "65391"),
+        ("erratum", "10.1/e", "2025", "publisher", None)]
+    assert [(u.type, u.doi, u.date) for u in rec.update_to] == [("retraction", "10.1/a", "2022-11-01")]
+    assert to_record({"title": ["T"]}).updated_by == []
+
+
 def test_arxiv_entry_carries_journal_ref():
     from reference_verifier.sources.arxiv import _entries
 

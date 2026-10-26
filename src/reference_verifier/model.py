@@ -26,6 +26,18 @@ class Reference:
 
 
 @dataclass
+class Update:
+    """A notice about a work: a retraction, correction, expression of concern and the like (Crossref's
+    `updated-by` and `update-to`)."""
+
+    type: str  # Crossref's update type: "retraction", "correction", "erratum", "expression_of_concern", "withdrawal"...
+    doi: str | None  # in `updated_by`, the notice's DOI; in `update_to`, the DOI of the work the notice updates
+    date: str | None = None  # YYYY-MM-DD
+    source: str = ""  # "publisher" or "retraction-watch"
+    record_id: str | None = None  # Retraction Watch's record id
+
+
+@dataclass
 class Record:
     """A work as a registry describes it."""
 
@@ -45,6 +57,8 @@ class Record:
     issue: str | None = None
     journal_ref: str | None = None  # arXiv: where the authors say the paper was published
     relations: dict[str, list[str]] = field(default_factory=dict)  # Crossref: "is-preprint-of" -> [DOI, ...]
+    updated_by: list[Update] = field(default_factory=list)  # Crossref DOI lookups: notices about this work
+    update_to: list[Update] = field(default_factory=list)  # Crossref DOI lookups: works this record is a notice for
 
 
 class Status(str, Enum):
