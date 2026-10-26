@@ -29,6 +29,7 @@ def clean(s: str) -> str:
 
 def split_names(field: str) -> tuple[list[str], bool]:
     """Split an author field on ' and ' outside braces. Returns (names, has_et_al)."""
+    field = " ".join(field.split())  # ACL Anthology and DBLP exports break lines after "and"
     names, depth, start, i = [], 0, 0, 0
     lower = field.lower()
     while i < len(field):

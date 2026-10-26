@@ -110,3 +110,10 @@ def test_missing_inputs_are_reported(tmp_path):
     (tmp_path / "fig.pgf").write_text("")
     (tmp_path / "main.tex").write_text("\\input{contents/intro} \\input{fig.pgf} \\input{missing.tex}\n")
     assert scan_tex(tmp_path / "main.tex").missing_inputs == ["contents/intro", "missing.tex"]
+
+
+def test_author_lists_broken_across_lines():
+    assert split_names("Socher, Richard  and\nPerelygin, Alex  and\n Wu, Jean") == (
+        ["Socher, Richard", "Perelygin, Alex", "Wu, Jean"], False)
+    r = parse_bib("@inproceedings{s, author = {Bogdan Gliwa and\n  Iwona Mochol and\n  Aleksander Wawer}, title = {T}}")[0]
+    assert r.authors == ["Gliwa", "Mochol", "Wawer"]
