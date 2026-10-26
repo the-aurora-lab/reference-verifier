@@ -117,3 +117,9 @@ def test_author_lists_broken_across_lines():
         ["Socher, Richard", "Perelygin, Alex", "Wu, Jean"], False)
     r = parse_bib("@inproceedings{s, author = {Bogdan Gliwa and\n  Iwona Mochol and\n  Aleksander Wawer}, title = {T}}")[0]
     assert r.authors == ["Gliwa", "Mochol", "Wawer"]
+
+
+def test_split_names_after_a_dotted_capital_i():
+    from reference_verifier.parse.bibtex import split_names
+
+    assert split_names("İnce, Bahri and Altinoz, Meric A. and others") == (["İnce, Bahri", "Altinoz, Meric A."], True)

@@ -4,6 +4,8 @@
 
 - Author lists broken across lines (`and` at the end of a line, as the ACL Anthology and DBLP export them) are split
   into separate authors. Before, such an entry was read as having a single author.
+- Author lists after a name with a capital dotted I ("İnce") are split in the right places. Before, every later name
+  lost a letter and "and others" was read as an author called "thers".
 - Capitalised citation commands (`\Citet`, `\Parencite`, `\Textcite` and the like) count as citations.
 - A warning when a `.tex` file inputs a file that does not exist, since citations in it cannot be seen.
 - For tools built on the engine: each entry keeps its raw BibTeX fields; registry records carry pages, volume, issue,
