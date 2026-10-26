@@ -119,6 +119,7 @@ def to_reference(e: dict, source_file: str = "") -> Reference:
         pmid=pmid,
         url=e.get("url") or None,
         source_file=source_file,
+        fields={k: v for k, v in e.items() if k not in ("ID", "ENTRYTYPE")},
     )
 
 

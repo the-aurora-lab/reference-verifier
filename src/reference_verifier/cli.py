@@ -11,20 +11,16 @@ from pathlib import Path
 from . import __version__
 from .check import check_all
 from .http import Cache, Http, default_cache_path
+from .inputs import InputError, load_inputs
 from .model import Status
-from .parse import load_bib, scan_tex
 from .report import render_text, to_json, use_color
 from .sources import SEARCH_ORDER, Sources
 
 _FAIL = {Status.NOT_FOUND, Status.DOI_NOT_FOUND, Status.DOI_OTHER_WORK}
 
 
-def _parser() -> argparse.ArgumentParser:
-    p = argparse.ArgumentParser(
-        prog="refverify",
-        description="Check that every reference exists, against Crossref, OpenAlex, DBLP, arXiv and PubMed.",
-        epilog="A .tex file brings in its \\bibliography/\\addbibresource files and limits the check to cited keys.",
-    )
+def add_arguments(p: argparse.ArgumentParser) -> None:
+    """The inputs and registry options, shared with tools built on this check."""
     p.add_argument("files", nargs="+", type=Path, help=".bib or .tex files")
     p.add_argument("--all", action="store_true", help="check every .bib entry, not only the ones the .tex cites")
     p.add_argument("--json", type=Path, metavar="PATH", help="also write the results as JSON")
@@ -41,69 +37,63 @@ def _parser() -> argparse.ArgumentParser:
     p.add_argument("--offline", action="store_true", help="use only cached answers")
     p.add_argument("--no-cache", action="store_true", help="do not read or write the local cache")
     p.add_argument("--workers", type=int, default=4, help="references checked in parallel (default 4)")
+
+
+def _parser() -> argparse.ArgumentParser:
+    p = argparse.ArgumentParser(
+        prog="refverify",
+        description="Check that every reference exists, against Crossref, OpenAlex, DBLP, arXiv and PubMed.",
+        epilog="A .tex file brings in its \\bibliography/\\addbibresource files and limits the check to cited keys.",
+    )
+    add_arguments(p)
     p.add_argument("--version", action="version", version=f"refverify {__version__}")
     return p
 
 
-def main(argv: list[str] | None = None) -> int:
-    args = _parser().parse_args(argv)
+def open_sources(args: argparse.Namespace) -> tuple[Http, Sources]:
+    """The HTTP client and registries the options ask for. Raises ValueError on an unknown source name."""
     order = [s.strip().lower() for s in args.sources.split(",") if s.strip()]
     unknown = [s for s in order if s not in SEARCH_ORDER]
     if unknown:
-        print(f"refverify: unknown source(s): {', '.join(unknown)}", file=sys.stderr)
-        return 2
-
-    bibs: list[Path] = []
-    cited: list[str] = []
-    restrict = False
-    for f in args.files:
-        if not f.exists():
-            print(f"refverify: {f}: no such file", file=sys.stderr)
-            return 2
-        if f.suffix.lower() == ".tex":
-            scan = scan_tex(f)
-            cited += [k for k in scan.cited if k not in cited]
-            restrict = restrict or not scan.cites_everything
-            for b in scan.bib_files:
-                if b.exists() and b not in bibs:
-                    bibs.append(b)
-                elif not b.exists():
-                    print(f"refverify: {f} names {b}, which does not exist", file=sys.stderr)
-        elif f not in bibs:
-            bibs.append(f)
-    if not bibs:
-        print("refverify: no .bib file to check", file=sys.stderr)
-        return 2
-
-    refs, seen = [], set()
-    for b in bibs:
-        for ref in load_bib(b):
-            if ref.key not in seen:
-                seen.add(ref.key)
-                refs.append(ref)
-    if restrict and cited and not args.all:
-        wanted = set(cited)
-        refs = [r for r in refs if r.key in wanted]
-
+        raise ValueError(f"unknown source(s): {', '.join(unknown)}")
     cache = None if args.no_cache else Cache(default_cache_path())
     http = Http(mailto=args.mailto, cache=cache, offline=args.offline)
-    src = Sources(http, mailto=args.mailto, openalex_key=args.openalex_key, s2_key=args.s2_key, search_order=order)
+    return http, Sources(http, mailto=args.mailto, openalex_key=args.openalex_key, s2_key=args.s2_key, search_order=order)
 
-    progress = None
-    if sys.stderr.isatty():
-        def progress(done: int, total: int) -> None:
-            print(f"\rChecking {done}/{total}", end="" if done < total else "\r\033[K", file=sys.stderr, flush=True)
+
+def progress_printer():
+    """A progress line on an interactive terminal, nothing otherwise."""
+    if not sys.stderr.isatty():
+        return None
+
+    def progress(done: int, total: int) -> None:
+        print(f"\rChecking {done}/{total}", end="" if done < total else "\r\033[K", file=sys.stderr, flush=True)
+
+    return progress
+
+
+def main(argv: list[str] | None = None) -> int:
+    args = _parser().parse_args(argv)
+    try:
+        inputs = load_inputs(args.files, include_uncited=args.all)
+        http, src = open_sources(args)
+    except (InputError, ValueError) as e:
+        print(f"refverify: {e}", file=sys.stderr)
+        return 2
+    for w in inputs.warnings:
+        print(f"refverify: {w}", file=sys.stderr)
+    refs, bibs = inputs.refs, inputs.bibs
 
     try:
-        results = check_all(refs, src, workers=args.workers, progress=progress)
+        results = check_all(refs, src, workers=args.workers, progress=progress_printer())
     finally:
         http.close()
 
-    inputs = [str(p) for p in bibs]
-    print(render_text(results, inputs, dict(http.calls), color=use_color(), show_all=args.show_all,
+    names = [str(p) for p in bibs]
+    print(render_text(results, names, dict(http.calls), color=use_color(), show_all=args.show_all,
                       gave_up=sorted(src.unavailable)))
     if args.json:
-        args.json.write_text(json.dumps(to_json(results, inputs), indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        args.json.write_text(json.dumps(to_json(results, names), indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     failing = set(_FAIL)
     if args.strict:

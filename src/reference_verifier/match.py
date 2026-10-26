@@ -59,14 +59,14 @@ def title_similarity(a: str, b: str) -> float:
     return score
 
 
-def _name_tokens(name: str) -> list[str]:
+def name_tokens(name: str) -> list[str]:
     s = re.sub(r"[^a-z ]", " ", _ascii(name).lower().replace("-", " "))
     return [t for t in s.split() if len(t) > 1]
 
 
 def family_key(name: str) -> str:
     """The comparable part of a family name: 'van der Berg' -> 'berg'."""
-    toks = _name_tokens(name)
+    toks = name_tokens(name)
     return toks[-1] if toks else ""
 
 
@@ -76,7 +76,7 @@ def author_match(ref_authors: list[str], rec: Record) -> tuple[bool | None, bool
     if not keys or not rec.authors:
         return None, None, None
     if rec.full_names:
-        rec_sets = [set(_name_tokens(n)) for n in rec.authors]
+        rec_sets = [set(name_tokens(n)) for n in rec.authors]
     else:
         rec_sets = [{family_key(n)} for n in rec.authors]
     rec_sets = [s for s in rec_sets if s]

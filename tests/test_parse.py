@@ -90,3 +90,23 @@ def test_scan_tex(tmp_path):
 
 def test_sici_doi_keeps_angle_brackets():
     assert normalize_doi("10.1175/1520-0469(1963)020<0130:DNF>2.0.CO;2") == "10.1175/1520-0469(1963)020<0130:dnf>2.0.co;2"
+
+
+def test_raw_fields_are_kept():
+    r = parse_bib("@article{k, title = {T}, pages = {436--444}, volume = {521}, number = {7553}}")[0]
+    assert r.fields["pages"] == "436--444" and r.fields["volume"] == "521" and r.fields["number"] == "7553"
+    assert "ID" not in r.fields and "ENTRYTYPE" not in r.fields
+
+
+def test_capitalised_cite_commands_and_locations(tmp_path):
+    (tmp_path / "sec.tex").write_text("intro\n\\Parencite{c} and \\citep{a}\n")
+    (tmp_path / "main.tex").write_text("\\Citet{a} says\n\\Textcite{b}\n\\input{sec}\n")
+    scan = scan_tex(tmp_path / "main.tex")
+    assert scan.cited == ["a", "b", "c"]
+    assert scan.locations == {"a": ["main.tex:1", "sec.tex:2"], "b": ["main.tex:2"], "c": ["sec.tex:2"]}
+
+
+def test_missing_inputs_are_reported(tmp_path):
+    (tmp_path / "fig.pgf").write_text("")
+    (tmp_path / "main.tex").write_text("\\input{contents/intro} \\input{fig.pgf} \\input{missing.tex}\n")
+    assert scan_tex(tmp_path / "main.tex").missing_inputs == ["contents/intro", "missing.tex"]

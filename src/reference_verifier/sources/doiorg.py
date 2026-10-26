@@ -41,6 +41,9 @@ def by_doi(http: Http, doi: str) -> tuple[Record | None, bool | None]:
             doi=(d.get("DOI") or doi).lower(),
             url=d.get("URL"),
             kind=str(d.get("type", "")),
+            pages=str(d["page"]) if d.get("page") else None,
+            volume=str(d["volume"]) if d.get("volume") else None,
+            issue=str(d["issue"]) if d.get("issue") else None,
         ),
         True,
     )

@@ -21,6 +21,8 @@ class Reference:
     pmid: str | None = None
     url: str | None = None
     source_file: str = ""
+    # Every field of the entry as written in the file (lower-case names), for checks that need more than the above.
+    fields: dict[str, str] = field(default_factory=dict, repr=False)
 
 
 @dataclass
@@ -37,6 +39,12 @@ class Record:
     # True when `authors` holds display names ("Kaiming He") rather than family names.
     full_names: bool = False
     kind: str = ""  # the registry's work type, e.g. "journal-article", "software", "dataset"
+    # Filled when the registry's answer carries them; the existence check does not use these.
+    pages: str | None = None
+    volume: str | None = None
+    issue: str | None = None
+    journal_ref: str | None = None  # arXiv: where the authors say the paper was published
+    relations: dict[str, list[str]] = field(default_factory=dict)  # Crossref: "is-preprint-of" -> [DOI, ...]
 
 
 class Status(str, Enum):

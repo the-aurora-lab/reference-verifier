@@ -14,6 +14,8 @@ _SELECT = "id,doi,display_name,authorships,publication_year,primary_location"
 
 def _record(w: dict) -> Record:
     source = (w.get("primary_location") or {}).get("source") or {}
+    biblio = w.get("biblio") or {}  # only present when the request selects it
+    first, last = biblio.get("first_page"), biblio.get("last_page")
     return Record(
         source="OpenAlex",
         title=w.get("display_name") or "",
@@ -23,6 +25,9 @@ def _record(w: dict) -> Record:
         doi=(w.get("doi") or "").replace("https://doi.org/", "").lower() or None,
         url=w.get("id"),
         full_names=True,
+        pages=(f"{first}-{last}" if last and last != first else first) or None,
+        volume=biblio.get("volume") or None,
+        issue=biblio.get("issue") or None,
     )
 
 

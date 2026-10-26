@@ -24,6 +24,7 @@ def _entries(xml_text: str) -> list[tuple[str, Record]]:
         aid = re.sub(r"v\d+$", "", id_url.rsplit("/abs/", 1)[1])
         published = e.findtext("a:published", "", _NS)[:4]
         doi = e.findtext("arxiv:doi", None, _NS)
+        journal_ref = " ".join(e.findtext("arxiv:journal_ref", "", _NS).split())
         out.append(
             (
                 aid,
@@ -36,6 +37,7 @@ def _entries(xml_text: str) -> list[tuple[str, Record]]:
                     doi=doi.lower() if doi else None,
                     url=f"https://arxiv.org/abs/{aid}",
                     full_names=True,
+                    journal_ref=journal_ref or None,
                 ),
             )
         )

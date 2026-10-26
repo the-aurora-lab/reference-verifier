@@ -27,6 +27,9 @@ def _record(info: dict) -> Record:
         doi=(info.get("doi") or "").lower() or None,
         url=info.get("ee") or info.get("url"),
         full_names=True,
+        pages=info.get("pages") or None,
+        volume=info.get("volume") or None,
+        issue=info.get("number") or None,
     )
 
 

@@ -37,6 +37,9 @@ def by_pmid(http: Http, pmid: str, mailto: str | None) -> tuple[Record | None, b
             venue=d.get("fulljournalname", ""),
             doi=doi.lower() if doi else None,
             url=f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
+            pages=d.get("pages") or None,
+            volume=d.get("volume") or None,
+            issue=d.get("issue") or None,
         ),
         True,
     )

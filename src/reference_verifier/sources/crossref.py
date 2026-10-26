@@ -22,6 +22,16 @@ def _year(issued: dict | None) -> int | None:
         return None
 
 
+def _relations(item: dict) -> dict[str, list[str]]:
+    """Crossref relations that point at other DOIs: {"is-preprint-of": ["10.1038/..."], ...}."""
+    out: dict[str, list[str]] = {}
+    for kind, targets in (item.get("relation") or {}).items():
+        dois = [t["id"].lower() for t in targets if isinstance(t, dict) and t.get("id-type") == "doi" and t.get("id")]
+        if dois:
+            out[kind] = dois
+    return out
+
+
 def to_record(item: dict) -> Record:
     authors = [a.get("family") or a.get("name") or "" for a in item.get("author", [])]
     title = (item.get("title") or [""])[0]
@@ -37,6 +47,10 @@ def to_record(item: dict) -> Record:
         doi=(item.get("DOI") or "").lower() or None,
         url=item.get("URL"),
         kind=item.get("type", ""),
+        pages=item.get("page") or None,
+        volume=item.get("volume") or None,
+        issue=item.get("issue") or None,
+        relations=_relations(item),
     )
 
 
