@@ -23,6 +23,7 @@ class Inputs:
     cites_everything: bool = False  # some .tex has \nocite{*}
     restricted: bool = False  # refs were limited to the cited keys
     locations: dict[str, list[str]] = field(default_factory=dict)  # key -> ["main.tex:12", ...]
+    missing_inputs: list[str] = field(default_factory=list)  # \input files that do not exist (citations unseen)
     warnings: list[str] = field(default_factory=list)
 
 
@@ -40,6 +41,7 @@ def load_inputs(files: list[Path], include_uncited: bool = False) -> Inputs:
             out.cited += [k for k in scan.cited if k not in out.cited]
             out.cites_everything = out.cites_everything or scan.cites_everything
             restrict = restrict or not scan.cites_everything
+            out.missing_inputs += scan.missing_inputs
             for name in scan.missing_inputs:
                 out.warnings.append(f"{f} inputs {name}, which does not exist; citations in it are not seen")
             for key, places in scan.locations.items():
