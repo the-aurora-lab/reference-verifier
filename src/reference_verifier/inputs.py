@@ -9,6 +9,17 @@ from .model import Reference
 from .parse import load_bib, scan_tex
 
 
+def display_path(p: str | Path) -> str:
+    """A file as output shows it: relative to the working folder, or just its name when it lies outside it, so
+    a report, a diff or JSON that gets shared never carries the user's home folder."""
+    if not p:
+        return ""
+    try:
+        return Path(p).resolve().relative_to(Path.cwd().resolve()).as_posix()
+    except (ValueError, OSError):
+        return Path(p).name
+
+
 class InputError(Exception):
     """The inputs cannot be checked at all (a missing file, no .bib to read)."""
 
@@ -50,7 +61,7 @@ def load_inputs(files: list[Path], include_uncited: bool = False) -> Inputs:
                 if b.exists() and b not in out.bibs:
                     out.bibs.append(b)
                 elif not b.exists():
-                    out.warnings.append(f"{f} names {b}, which does not exist")
+                    out.warnings.append(f"{f} names {display_path(b)}, which does not exist")
         elif f not in out.bibs:
             out.bibs.append(f)
     if not out.bibs:

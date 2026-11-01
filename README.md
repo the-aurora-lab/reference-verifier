@@ -9,7 +9,7 @@ references that no registry lists, DOIs that are not registered, and DOIs that b
 ```
 $ refverify main.tex
 
-Reference Verifier 0.2.0: 41 references from refs.bib
+Reference Verifier 0.2.1: 41 references from refs.bib
 
   37 found · 2 not found · 1 wrong DOI · 1 uncertain
 
@@ -23,7 +23,7 @@ Reference Verifier 0.2.0: 41 references from refs.bib
 ## Install
 
 ```
-pip install git+https://github.com/the-aurora-lab/reference-verifier@v0.2.0
+pip install git+https://github.com/the-aurora-lab/reference-verifier@v0.2.1
 ```
 
 Python 3.10 or newer. A PyPI release (`pip install reference-verifier`) is coming.
@@ -79,7 +79,7 @@ venue or author list. `refverify` checks existence.
 
 ## How well it works
 
-Measured with 0.2.0 on a held-out benchmark of 246 labelled references that was built separately from the
+Measured with 0.2.0 (0.2.1 changes only how file names are shown) on a held-out benchmark of 246 labelled references that was built separately from the
 development set and from the earlier held-out set, and scored once, with no changes to the matching rules afterwards
 (`benchmark/heldout-0.2/`; sources, licences and labelling rules in `benchmark/heldout-0.2/HELDOUT.md`):
 

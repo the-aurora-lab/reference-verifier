@@ -7,6 +7,7 @@ import sys
 from datetime import datetime, timezone
 
 from . import __version__
+from .inputs import display_path
 from .model import Result, Status
 from .sources import LABELS
 
@@ -112,7 +113,7 @@ def to_json(results: list[Result], inputs: list[str]) -> dict:
                     "year_delta": r.score.year_delta,
                 },
                 "sources_tried": r.sources_tried,
-                "source_file": r.ref.source_file,
+                "source_file": display_path(r.ref.source_file),
             }
             for r in results
         ],

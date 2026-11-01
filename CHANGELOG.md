@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.1 (2026-11-01)
+
+- Files are named relative to the working folder (or by name alone when they lie outside it) in the report header,
+  in warnings and in the JSON output (`inputs`, `source_file`). Before, a `.bib` found through a `.tex` file appeared
+  with its full path, home folder included, which then went wherever the output was shared.
+
+No change to how references are looked up or matched: the held-out scores of 0.2.0 still apply.
+
 ## 0.2.0 (2026-11-01)
 
 - Author lists broken across lines (`and` at the end of a line, as the ACL Anthology and DBLP export them) are split

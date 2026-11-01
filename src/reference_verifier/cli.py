@@ -11,7 +11,7 @@ from pathlib import Path
 from . import __version__
 from .check import check_all
 from .http import Cache, Http, default_cache_path
-from .inputs import InputError, load_inputs
+from .inputs import InputError, display_path, load_inputs
 from .model import Status
 from .report import render_text, to_json, use_color
 from .sources import SEARCH_ORDER, Sources
@@ -89,7 +89,7 @@ def main(argv: list[str] | None = None) -> int:
     finally:
         http.close()
 
-    names = [str(p) for p in bibs]
+    names = [display_path(p) for p in bibs]
     print(render_text(results, names, dict(http.calls), color=use_color(), show_all=args.show_all,
                       gave_up=sorted(src.unavailable)))
     if args.json:

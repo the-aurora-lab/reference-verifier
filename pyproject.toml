@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "reference-verifier"
-version = "0.2.0"
+version = "0.2.1"
 description = "Check that every reference in your paper exists, against Crossref, OpenAlex, DBLP, arXiv and PubMed."
 readme = "README.md"
 license = "MIT"
