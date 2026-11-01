@@ -1,0 +1,2544 @@
+{
+ "description": "Retracted papers for the 0.2 held-out set: Retraction Watch rows (RetractionNature 'Retraction') whose Crossref record lists the same notice in updated-by. 'meta' is the Crossref metadata; 'overrides' are curated fixes applied at build time; 'rw' copies facts from the Retraction Watch row.",
+ "retrieved": "2026-11-01",
+ "rw_snapshot": "Retraction Watch data generated 2026-10-30",
+ "items": [
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s12652-020-02111-x",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: Estimation of loadability limit with N-1 and N-2 outages using evolutionary computation techniques",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "P.",
+      "family": "Malathy"
+     },
+     {
+      "given": "A.",
+      "family": "Shunmugalatha"
+     }
+    ],
+    "year": 2020,
+    "container": "Journal of Ambient Intelligence and Humanized Computing",
+    "short_container": "J Ambient Intell Human Comput",
+    "volume": "12",
+    "number": "6",
+    "pages": "5771-5782",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s12652-020-02111-x",
+    "isbn": ""
+   },
+   "notice_doi": "10.1007/s12652-022-04326-6",
+   "retraction_date": "2022-07-14",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "38256",
+    "subject": "(B/T) Computer Science;",
+    "journal": "Journal of Ambient Intelligence and Humanized Computing",
+    "publisher": "Springer",
+    "retraction_doi": "10.1007/s12652-022-04326-6",
+    "retraction_date": "7/14/2022 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Compromised Peer Review",
+     "Objections by Author(s)",
+     "Rogue Editor",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 1,
+   "style": [
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.neucom.2022.07.008",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 9,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: Distilled and filtered deep neural networks for real-time object detection in edge computing",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Guoping",
+      "family": "Yang"
+     },
+     {
+      "given": "Bangping",
+      "family": "Wang"
+     },
+     {
+      "given": "Shaojie",
+      "family": "Qiao"
+     },
+     {
+      "given": "Lulu",
+      "family": "Qu"
+     },
+     {
+      "given": "Nan",
+      "family": "Han"
+     },
+     {
+      "given": "Guan",
+      "family": "Yuan"
+     },
+     {
+      "given": "He",
+      "family": "Li"
+     },
+     {
+      "given": "Tao",
+      "family": "Wu"
+     },
+     {
+      "given": "Yuzhong",
+      "family": "Peng"
+     }
+    ],
+    "year": 2022,
+    "container": "Neurocomputing",
+    "short_container": "Neurocomputing",
+    "volume": "505",
+    "number": "",
+    "pages": "225-237",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.neucom.2022.07.008",
+    "isbn": ""
+   },
+   "notice_doi": "10.1016/j.neucom.2022.10.072",
+   "retraction_date": "2022-11-03",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "41821",
+    "subject": "(B/T) Computer Science;",
+    "journal": "Neurocomputing",
+    "publisher": "Elsevier",
+    "retraction_doi": "10.1016/j.neucom.2022.10.072",
+    "retraction_date": "11/3/2022 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 2,
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1155/2022/4705325",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Computational Intelligence Approaches in Developing Cyberattack Detection System",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Mohammed Saeed",
+      "family": "Alzahrani"
+     },
+     {
+      "given": "Fawaz Waselallah",
+      "family": "Alsaade"
+     }
+    ],
+    "year": 2022,
+    "container": "Computational Intelligence and Neuroscience",
+    "short_container": "Computational Intelligence and Neuroscience",
+    "volume": "2022",
+    "number": "",
+    "pages": "1-16",
+    "publisher": "Wiley",
+    "doi": "10.1155/2022/4705325",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Deepika",
+      "family": "Koundal"
+     }
+    ]
+   },
+   "notice_doi": "10.1155/2023/9837830",
+   "retraction_date": "2023-07-26",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "46544",
+    "subject": "(B/T) Computer Science;(B/T) Data Science;",
+    "journal": "Computational Intelligence and Neuroscience",
+    "publisher": "Hindawi",
+    "retraction_doi": "10.1155/2023/9837830",
+    "retraction_date": "7/26/2023 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Concerns/Issues about Referencing/Attributions",
+     "Concerns/Issues about Results and/or Conclusions",
+     "Concerns/Issues about Peer Review",
+     "Investigation by Journal/Publisher",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 3,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.3233/jifs-224215",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A three-way decision model associated with decision-theoretic rough fuzzy sets based on computing with words",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ning",
+      "family": "Wang"
+     },
+     {
+      "given": "Ping",
+      "family": "Zhu"
+     }
+    ],
+    "year": 2023,
+    "container": "Journal of Intelligent & Fuzzy Systems",
+    "short_container": "IFS",
+    "volume": "45",
+    "number": "1",
+    "pages": "285-304",
+    "publisher": "SAGE Publications",
+    "doi": "10.3233/jifs-224215",
+    "isbn": ""
+   },
+   "notice_doi": "10.3233/jifs-219434",
+   "retraction_date": "2025-01-15",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "64978",
+    "subject": "(B/T) Data Science;",
+    "journal": "Journal of Intelligent & Fuzzy Systems",
+    "publisher": "IOS Press (bought by Sage November 2023)",
+    "retraction_doi": "10.3233/JIFS-219434",
+    "retraction_date": "1/15/2025 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Computer-Aided Content or Computer-Generated Content",
+     "Concerns/Issues about Authorship/Affiliation",
+     "Concerns/Issues about Referencing/Attributions",
+     "Concerns/Issues about Third Party Involvement",
+     "Compromised Peer Review",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Paper Mill",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 4,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1371/journal.pone.0156885",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: FSM-F: Finite State Machine Based Framework for Denial of Service and Intrusion Detection in MANET",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Malik",
+      "family": "N. Ahmed"
+     },
+     {
+      "given": "Abdul Hanan",
+      "family": "Abdullah"
+     },
+     {
+      "given": "Omprakash",
+      "family": "Kaiwartya"
+     }
+    ],
+    "year": 2016,
+    "container": "PLOS ONE",
+    "short_container": "PLoS ONE",
+    "volume": "11",
+    "number": "6",
+    "pages": "e0156885",
+    "publisher": "Public Library of Science (PLoS)",
+    "doi": "10.1371/journal.pone.0156885",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Yongtang",
+      "family": "Shi"
+     }
+    ]
+   },
+   "notice_doi": "10.1371/journal.pone.0343279",
+   "retraction_date": "2026-02-23",
+   "crossref_source": "publisher",
+   "rw": {
+    "record_id": "73132",
+    "subject": "(B/T) Computer Science;",
+    "journal": "PLoS One",
+    "publisher": "PLoS",
+    "retraction_doi": "10.1371/journal.pone.0343279",
+    "retraction_date": "2/23/2026 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Computer-Aided Content or Computer-Generated Content",
+     "Euphemisms for Plagiarism",
+     "Plagiarism of Text"
+    ]
+   },
+   "n": 5,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.3389/fendo.2018.00797",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 10,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: Klotho Gene and Protein in Human Placentas According to Birth Weight and Gestational Age",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Germán",
+      "family": "Iñiguez"
+     },
+     {
+      "given": "Pedro",
+      "family": "Gallardo"
+     },
+     {
+      "given": "Juan Jose",
+      "family": "Castro"
+     },
+     {
+      "given": "Rene",
+      "family": "Gonzalez"
+     },
+     {
+      "given": "Mirna",
+      "family": "Garcia"
+     },
+     {
+      "given": "Elena",
+      "family": "Kakarieka"
+     },
+     {
+      "given": "Sebastian",
+      "family": "San Martin"
+     },
+     {
+      "given": "Maria Cecilia",
+      "family": "Johnson"
+     },
+     {
+      "given": "Verónica",
+      "family": "Mericq"
+     },
+     {
+      "given": "Fernando",
+      "family": "Cassorla"
+     }
+    ],
+    "year": 2019,
+    "container": "Frontiers in Endocrinology",
+    "short_container": "Front. Endocrinol.",
+    "volume": "9",
+    "number": "",
+    "pages": "797",
+    "publisher": "Frontiers Media SA",
+    "doi": "10.3389/fendo.2018.00797",
+    "isbn": ""
+   },
+   "notice_doi": "10.3389/fendo.2025.1717791",
+   "retraction_date": "2025-10-09",
+   "crossref_source": "publisher",
+   "rw": {
+    "record_id": "69906",
+    "subject": "(BLS) Biology - Molecular;(BLS) Genetics;(HSC) Medicine - Endocrinology;(HSC) Medicine - Obstetrics/Gynecology;",
+    "journal": "Frontiers in Endocrinology",
+    "publisher": "Frontiers",
+    "retraction_doi": "10.3389/fendo.2025.1717791",
+    "retraction_date": "10/8/2025 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Image",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Objections by Author(s)",
+     "Original Data and/or Images not Provided and/or not Available",
+     "Unreliable Data",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 6,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1155/2022/6128845",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "[Retracted] Analysis of the Performance of Gadoxetic Acid Disodium MRI in Predicting Microvascular Invasion of Hepatocellular Carcinoma",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jiao",
+      "family": "Chen"
+     },
+     {
+      "given": "Xianfang",
+      "family": "Ming"
+     },
+     {
+      "given": "Zhen",
+      "family": "Wang"
+     },
+     {
+      "given": "Yu",
+      "family": "Ye"
+     }
+    ],
+    "year": 2022,
+    "container": "Contrast Media & Molecular Imaging",
+    "short_container": "Contrast Media & Molecular Imaging",
+    "volume": "2022",
+    "number": "1",
+    "pages": "6128845",
+    "publisher": "Wiley",
+    "doi": "10.1155/2022/6128845",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Sorayouth",
+      "family": "Chumnanvej"
+     }
+    ]
+   },
+   "notice_doi": "10.1155/2023/9761084",
+   "retraction_date": "2023-12-13",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "59072",
+    "subject": "(HSC) Medicine - Oncology;(HSC) Medicine - Pathology;(HSC) Radiology/Imaging;",
+    "journal": "Contrast Media & Molecular Imaging",
+    "publisher": "Hindawi",
+    "retraction_doi": "10.1155/2023/9761084",
+    "retraction_date": "12/13/2023 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Compromised Peer Review",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Paper Mill",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 7,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1002/mgg3.1149",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 8,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: Comprehensive genetic structure analysis of Han population from Dalian City revealed by 20 Y‐STRs",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Atif",
+      "family": "Adnan"
+     },
+     {
+      "given": "Kaidirina",
+      "family": "Kasimu"
+     },
+     {
+      "given": "Allah",
+      "family": "Rakha"
+     },
+     {
+      "given": "Guanglin",
+      "family": "He"
+     },
+     {
+      "given": "Tongya",
+      "family": "Yang"
+     },
+     {
+      "given": "Chuan‐Chao",
+      "family": "Wang"
+     },
+     {
+      "given": "Jie",
+      "family": "Lu"
+     },
+     {
+      "given": "Jin‐feng",
+      "family": "Xuan"
+     }
+    ],
+    "year": 2020,
+    "container": "Molecular Genetics & Genomic Medicine",
+    "short_container": "Molec Gen &amp; Gen Med",
+    "volume": "8",
+    "number": "3",
+    "pages": "e1149",
+    "publisher": "Wiley",
+    "doi": "10.1002/mgg3.1149",
+    "isbn": ""
+   },
+   "notice_doi": "10.1002/mgg3.2373",
+   "retraction_date": "2024-02-12",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "51776",
+    "subject": "(BLS) Genetics;(HSC) Biostatistics/Epidemiology;",
+    "journal": "Molecular Genetics & Genomic Medicine",
+    "publisher": "Wiley",
+    "retraction_doi": "10.1002/mgg3.2373",
+    "retraction_date": "2/12/2024 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Informed/Patient Consent - None/Withdrawn",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Lack of Approval from Company/Institution",
+     "Lack of IRB/IACUC Approval and/or Compliance",
+     "Objections by Author(s)"
+    ]
+   },
+   "n": 8,
+   "overrides": {
+    "short_container": "Molec Gen & Gen Med"
+   },
+   "style": [
+    "initials",
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1038/sj.onc.1203339",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: E6 proteins from diverse cutaneous HPV types inhibit apoptosis in response to UV damage",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Sarah",
+      "family": "Jackson"
+     },
+     {
+      "given": "Alan",
+      "family": "Storey"
+     }
+    ],
+    "year": 2000,
+    "container": "Oncogene",
+    "short_container": "Oncogene",
+    "volume": "19",
+    "number": "4",
+    "pages": "592-598",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/sj.onc.1203339",
+    "isbn": ""
+   },
+   "notice_doi": "10.1038/s41388-023-02693-8",
+   "retraction_date": "2023-04-24",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "44049",
+    "subject": "(BLS) Biochemistry;(BLS) Biology - Cellular;(BLS) Microbiology;",
+    "journal": "Oncogene",
+    "publisher": "Springer - Nature Publishing Group",
+    "retraction_doi": "10.1038/s41388-023-02693-8",
+    "retraction_date": "4/24/2023 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Image",
+     "Manipulation of Images",
+     "Original Data and/or Images not Provided and/or not Available",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 9,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.2147/ott.s232542",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 6,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Long Noncoding RNA SNHG7, a Molecular Sponge for microRNA-485, Promotes the Aggressive Behavior of Cervical Cancer by Regulating PAK4",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Fei",
+      "family": "Wu"
+     },
+     {
+      "given": "Yujie",
+      "family": "Sui"
+     },
+     {
+      "given": "Yinhuai",
+      "family": "Wang"
+     },
+     {
+      "given": "Tianmin",
+      "family": "Xu"
+     },
+     {
+      "given": "Limei",
+      "family": "Fan"
+     },
+     {
+      "given": "He",
+      "family": "Zhu"
+     }
+    ],
+    "year": 2020,
+    "container": "OncoTargets and Therapy",
+    "short_container": "OTT",
+    "volume": "Volume 13",
+    "number": "",
+    "pages": "685-699",
+    "publisher": "Informa UK Limited",
+    "doi": "10.2147/ott.s232542",
+    "isbn": ""
+   },
+   "notice_doi": "10.2147/ott.s337553",
+   "retraction_date": "2021-09-09",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "32218",
+    "subject": "(BLS) Biology - Cancer;(BLS) Biology - Cellular;(BLS) Genetics;",
+    "journal": "OncoTargets and Therapy",
+    "publisher": "Taylor and Francis - Dove Press",
+    "retraction_doi": "10.2147/OTT.S337553",
+    "retraction_date": "9/9/2021 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Duplication of/in Image",
+     "Original Data and/or Images not Provided and/or not Available",
+     "Paper Mill"
+    ]
+   },
+   "n": 10,
+   "overrides": {
+    "volume": "13"
+   },
+   "extra_note": "Registry value corrected: volume given as '13' (Crossref: 'Volume 13').",
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1002/2015gl067271",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: Quantitative prediction of type II solar radio emission from the Sun to 1 AU",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "J. M.",
+      "family": "Schmidt"
+     },
+     {
+      "given": "Iver H.",
+      "family": "Cairns"
+     }
+    ],
+    "year": 2016,
+    "container": "Geophysical Research Letters",
+    "short_container": "Geophysical Research Letters",
+    "volume": "43",
+    "number": "1",
+    "pages": "50-57",
+    "publisher": "American Geophysical Union (AGU)",
+    "doi": "10.1002/2015gl067271",
+    "isbn": ""
+   },
+   "notice_doi": "10.1029/grl.72356",
+   "retraction_date": "2026-04-08",
+   "crossref_source": "publisher",
+   "rw": {
+    "record_id": "73632",
+    "subject": "(PHY) Astrophysics;",
+    "journal": "Geophysical Research Letters",
+    "publisher": "American Geophysical Union",
+    "retraction_doi": "10.1029/grl.72356",
+    "retraction_date": "4/8/2026 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Concerns/Issues about Image",
+     "Falsification/Fabrication of Data",
+     "Falsification/Fabrication of Image",
+     "Investigation by Company/Institution",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Unreliable Data",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 11,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1093/mnras/sty1889",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 81,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Survey geometry and the internal consistency of recent cosmic shear measurements",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "M A",
+      "family": "Troxel"
+     },
+     {
+      "given": "E",
+      "family": "Krause"
+     },
+     {
+      "given": "C",
+      "family": "Chang"
+     },
+     {
+      "given": "T F",
+      "family": "Eifler"
+     },
+     {
+      "given": "O",
+      "family": "Friedrich"
+     },
+     {
+      "given": "D",
+      "family": "Gruen"
+     },
+     {
+      "given": "N",
+      "family": "MacCrann"
+     },
+     {
+      "given": "A",
+      "family": "Chen"
+     },
+     {
+      "given": "C",
+      "family": "Davis"
+     },
+     {
+      "given": "J",
+      "family": "DeRose"
+     },
+     {
+      "given": "S",
+      "family": "Dodelson"
+     },
+     {
+      "given": "M",
+      "family": "Gatti"
+     },
+     {
+      "given": "B",
+      "family": "Hoyle"
+     },
+     {
+      "given": "D",
+      "family": "Huterer"
+     },
+     {
+      "given": "M",
+      "family": "Jarvis"
+     },
+     {
+      "given": "F",
+      "family": "Lacasa"
+     },
+     {
+      "given": "P",
+      "family": "Lemos"
+     },
+     {
+      "given": "H V",
+      "family": "Peiris"
+     },
+     {
+      "given": "J",
+      "family": "Prat"
+     },
+     {
+      "given": "S",
+      "family": "Samuroff"
+     },
+     {
+      "given": "C",
+      "family": "Sánchez"
+     },
+     {
+      "given": "E",
+      "family": "Sheldon"
+     },
+     {
+      "given": "P",
+      "family": "Vielzeuf"
+     },
+     {
+      "given": "M",
+      "family": "Wang"
+     },
+     {
+      "given": "J",
+      "family": "Zuntz"
+     },
+     {
+      "given": "O",
+      "family": "Lahav"
+     },
+     {
+      "given": "F B",
+      "family": "Abdalla"
+     },
+     {
+      "given": "S",
+      "family": "Allam"
+     },
+     {
+      "given": "J",
+      "family": "Annis"
+     },
+     {
+      "given": "S",
+      "family": "Avila"
+     },
+     {
+      "given": "E",
+      "family": "Bertin"
+     },
+     {
+      "given": "D",
+      "family": "Brooks"
+     },
+     {
+      "given": "D L",
+      "family": "Burke"
+     },
+     {
+      "given": "A Carnero",
+      "family": "Rosell"
+     },
+     {
+      "given": "M Carrasco",
+      "family": "Kind"
+     },
+     {
+      "given": "J",
+      "family": "Carretero"
+     },
+     {
+      "given": "M",
+      "family": "Crocce"
+     },
+     {
+      "given": "C E",
+      "family": "Cunha"
+     },
+     {
+      "given": "C B",
+      "family": "D’Andrea"
+     },
+     {
+      "given": "L N",
+      "family": "da Costa"
+     },
+     {
+      "given": "J",
+      "family": "De Vicente"
+     },
+     {
+      "given": "H T",
+      "family": "Diehl"
+     },
+     {
+      "given": "P",
+      "family": "Doel"
+     },
+     {
+      "given": "A E",
+      "family": "Evrard"
+     },
+     {
+      "given": "B",
+      "family": "Flaugher"
+     },
+     {
+      "given": "P",
+      "family": "Fosalba"
+     },
+     {
+      "given": "J",
+      "family": "Frieman"
+     },
+     {
+      "given": "J",
+      "family": "García-Bellido"
+     },
+     {
+      "given": "E",
+      "family": "Gaztanaga"
+     },
+     {
+      "given": "D W",
+      "family": "Gerdes"
+     },
+     {
+      "given": "R A",
+      "family": "Gruendl"
+     },
+     {
+      "given": "J",
+      "family": "Gschwend"
+     },
+     {
+      "given": "G",
+      "family": "Gutierrez"
+     },
+     {
+      "given": "W G",
+      "family": "Hartley"
+     },
+     {
+      "given": "D L",
+      "family": "Hollowood"
+     },
+     {
+      "given": "K",
+      "family": "Honscheid"
+     },
+     {
+      "given": "D J",
+      "family": "James"
+     },
+     {
+      "given": "D",
+      "family": "Kirk"
+     },
+     {
+      "given": "K",
+      "family": "Kuehn"
+     },
+     {
+      "given": "N",
+      "family": "Kuropatkin"
+     },
+     {
+      "given": "T S",
+      "family": "Li"
+     },
+     {
+      "given": "M",
+      "family": "Lima"
+     },
+     {
+      "given": "M",
+      "family": "March"
+     },
+     {
+      "given": "F",
+      "family": "Menanteau"
+     },
+     {
+      "given": "R",
+      "family": "Miquel"
+     },
+     {
+      "given": "J J",
+      "family": "Mohr"
+     },
+     {
+      "given": "R L C",
+      "family": "Ogando"
+     },
+     {
+      "given": "A A",
+      "family": "Plazas"
+     },
+     {
+      "given": "A",
+      "family": "Roodman"
+     },
+     {
+      "given": "E",
+      "family": "Sanchez"
+     },
+     {
+      "given": "V",
+      "family": "Scarpine"
+     },
+     {
+      "given": "R",
+      "family": "Schindler"
+     },
+     {
+      "given": "I",
+      "family": "Sevilla-Noarbe"
+     },
+     {
+      "given": "M",
+      "family": "Smith"
+     },
+     {
+      "given": "M",
+      "family": "Soares-Santos"
+     },
+     {
+      "given": "F",
+      "family": "Sobreira"
+     },
+     {
+      "given": "E",
+      "family": "Suchyta"
+     },
+     {
+      "given": "M E C",
+      "family": "Swanson"
+     },
+     {
+      "given": "D",
+      "family": "Thomas"
+     },
+     {
+      "given": "A R",
+      "family": "Walker"
+     },
+     {
+      "given": "R H",
+      "family": "Wechsler"
+     }
+    ],
+    "year": 2018,
+    "container": "Monthly Notices of the Royal Astronomical Society",
+    "short_container": "",
+    "volume": "479",
+    "number": "4",
+    "pages": "4998-5004",
+    "publisher": "Oxford University Press (OUP)",
+    "doi": "10.1093/mnras/sty1889",
+    "isbn": ""
+   },
+   "notice_doi": "10.1093/mnrasl/sly108",
+   "retraction_date": "2019-06-01",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "21585",
+    "subject": "(PHY) Astrophysics;",
+    "journal": "Monthly Notices of the Royal Astronomical Society: Letters",
+    "publisher": "Oxford University Press",
+    "retraction_doi": "10.1093/mnrasl/sly108",
+    "retraction_date": "6/1/2019 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of Content through Error by Journal/Publisher"
+    ]
+   },
+   "n": 12,
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.ijmultiphaseflow.2013.10.010",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The motion of a single heavy sphere in ambient fluid: A benchmark for interface-resolved particulate flow simulations with significant relative velocities",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Markus",
+      "family": "Uhlmann"
+     },
+     {
+      "given": "Jan",
+      "family": "Dušek"
+     }
+    ],
+    "year": 2014,
+    "container": "International Journal of Multiphase Flow",
+    "short_container": "International Journal of Multiphase Flow",
+    "volume": "59",
+    "number": "",
+    "pages": "221-243",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.ijmultiphaseflow.2013.10.010",
+    "isbn": ""
+   },
+   "notice_doi": "10.1016/j.ijmultiphaseflow.2014.01.002",
+   "retraction_date": "2014-03-04",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "17424",
+    "subject": "(PHY) Physics;",
+    "journal": "International Journal of Multiphase Flow",
+    "publisher": "Elsevier",
+    "retraction_doi": "10.1016/j.ijmultiphaseflow.2014.01.002",
+    "retraction_date": "3/4/2014 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Notice - Limited or No Information",
+     "Removed"
+    ]
+   },
+   "n": 13,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1088/0029-5515/47/9/037",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 33,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Extension of operational limits on EAST",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Xiang",
+      "family": "Gao"
+     },
+     {
+      "given": "Jiangang",
+      "family": "Li"
+     },
+     {
+      "given": "Baonian",
+      "family": "Wan"
+     },
+     {
+      "given": "Junyu",
+      "family": "Zhao"
+     },
+     {
+      "given": "Liqun",
+      "family": "Hu"
+     },
+     {
+      "given": "Haiqing",
+      "family": "Liu"
+     },
+     {
+      "given": "Yinxian",
+      "family": "Jie"
+     },
+     {
+      "given": "Qiang",
+      "family": "Xu"
+     },
+     {
+      "given": "Zhenwei",
+      "family": "Wu"
+     },
+     {
+      "given": "Yu",
+      "family": "Yang"
+     },
+     {
+      "given": "Xianzu",
+      "family": "Gong"
+     },
+     {
+      "given": "Biao",
+      "family": "Shen"
+     },
+     {
+      "given": "Jiansheng",
+      "family": "Hu"
+     },
+     {
+      "given": "Yuejiang",
+      "family": "Shi"
+     },
+     {
+      "given": "Bili",
+      "family": "Ling"
+     },
+     {
+      "given": "Jun",
+      "family": "Wang"
+     },
+     {
+      "given": "S.",
+      "family": "Sajjad"
+     },
+     {
+      "given": "Qing",
+      "family": "Zang"
+     },
+     {
+      "given": "Wei",
+      "family": "Gao"
+     },
+     {
+      "given": "Tao",
+      "family": "Zhang"
+     },
+     {
+      "given": "Yaowei",
+      "family": "Yu"
+     },
+     {
+      "given": "Yao",
+      "family": "Yang"
+     },
+     {
+      "given": "Xiaofeng",
+      "family": "Han"
+     },
+     {
+      "given": "Nan",
+      "family": "Shi"
+     },
+     {
+      "given": "Tingfeng",
+      "family": "Ming"
+     },
+     {
+      "given": "Ang",
+      "family": "Ti"
+     },
+     {
+      "given": "Wenyang",
+      "family": "Zhang"
+     },
+     {
+      "given": "Guosheng",
+      "family": "Xu"
+     },
+     {
+      "given": "Junling",
+      "family": "Chen"
+     },
+     {
+      "given": "Guangnan",
+      "family": "Luo"
+     },
+     {
+      "given": "Xiaodong",
+      "family": "Zhang"
+     },
+     {
+      "given": "Jianshan",
+      "family": "Mao"
+     },
+     {
+      "given": "Yuanxi",
+      "family": "Wan"
+     }
+    ],
+    "year": 2007,
+    "container": "Nuclear Fusion",
+    "short_container": "Nucl. Fusion",
+    "volume": "47",
+    "number": "9",
+    "pages": "1353-1357",
+    "publisher": "IOP Publishing",
+    "doi": "10.1088/0029-5515/47/9/037",
+    "isbn": ""
+   },
+   "notice_doi": "10.1088/0029-5515/50/4/049801",
+   "retraction_date": "2010-05-01",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "6848",
+    "subject": "(PHY) Physics;",
+    "journal": "Nuclear Fusion",
+    "publisher": "IOP Publishing",
+    "retraction_doi": "10.1088/0029-5515/50/4/049801",
+    "retraction_date": "5/1/2010 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Article"
+    ]
+   },
+   "n": 14,
+   "style": [
+    "and_others",
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1080/01468030490510324",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Further Theoretical Investigations for Laser Relative Intensity Noise with Fiber Nonlinearities and Higher-Order Dispersion",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "R. S.",
+      "family": "KALER"
+     }
+    ],
+    "year": 2004,
+    "container": "Fiber and Integrated Optics",
+    "short_container": "Fiber and Integrated Optics",
+    "volume": "23",
+    "number": "6",
+    "pages": "479-489",
+    "publisher": "Informa UK Limited",
+    "doi": "10.1080/01468030490510324",
+    "isbn": ""
+   },
+   "notice_doi": "10.1080/01468030.2012.730031",
+   "retraction_date": "2012-10-12",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "22931",
+    "subject": "(PHY) Physics;",
+    "journal": "Fiber and Integrated Optics",
+    "publisher": "Taylor and Francis",
+    "retraction_doi": "10.1080/01468030.2012.730031",
+    "retraction_date": "10/12/2012 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Article"
+    ]
+   },
+   "n": 15,
+   "overrides": {
+    "authors": [
+     {
+      "given": "R. S.",
+      "family": "Kaler"
+     }
+    ]
+   },
+   "extra_note": "Author names that Crossref stores in capitals are written in normal case.",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1155/2022/2643575",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A Novel Study of Graphs Based on m -Polar Cubic Structures",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "G.",
+      "family": "Muhiuddin"
+     },
+     {
+      "given": "A. M.",
+      "family": "Alanazi"
+     },
+     {
+      "given": "A.",
+      "family": "Mahboob"
+     },
+     {
+      "given": "A. H.",
+      "family": "Alkhaldi"
+     },
+     {
+      "given": "Wejdan",
+      "family": "Alatwai"
+     }
+    ],
+    "year": 2022,
+    "container": "Journal of Function Spaces",
+    "short_container": "Journal of Function Spaces",
+    "volume": "2022",
+    "number": "",
+    "pages": "1-12",
+    "publisher": "Wiley",
+    "doi": "10.1155/2022/2643575",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Muhammad",
+      "family": "Gulzar"
+     }
+    ]
+   },
+   "notice_doi": "10.1155/2023/9873179",
+   "retraction_date": "2023-09-14",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "47637",
+    "subject": "(PHY) Mathematics;",
+    "journal": "Journal of Function Spaces",
+    "publisher": "Hindawi",
+    "retraction_doi": "10.1155/2023/9873179",
+    "retraction_date": "9/14/2023 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Concerns/Issues about Referencing/Attributions",
+     "Concerns/Issues about Peer Review",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 16,
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1017/jsl.2017.4",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED – MEASURING CLUB-SEQUENCES TOGETHER WITH THE CONTINUUM LARGE",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "DAVID",
+      "family": "ASPERÓ"
+     },
+     {
+      "given": "MIGUEL ANGEL",
+      "family": "MOTA"
+     }
+    ],
+    "year": 2017,
+    "container": "The Journal of Symbolic Logic",
+    "short_container": "J. symb. log.",
+    "volume": "82",
+    "number": "3",
+    "pages": "1066-1079",
+    "publisher": "Cambridge University Press (CUP)",
+    "doi": "10.1017/jsl.2017.4",
+    "isbn": ""
+   },
+   "notice_doi": "10.1017/jsl.2022.12",
+   "retraction_date": "2022-01-06",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "41946",
+    "subject": "(PHY) Mathematics;",
+    "journal": "Journal of Symbolic Logic",
+    "publisher": "Cambridge University Press",
+    "retraction_doi": "10.1017/jsl.2022.12",
+    "retraction_date": "1/6/2022 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Error in Methods",
+     "Error in Results and/or Conclusions"
+    ]
+   },
+   "n": 17,
+   "overrides": {
+    "title": "Measuring club-sequences together with the continuum large",
+    "authors": [
+     {
+      "given": "David",
+      "family": "Asperó"
+     },
+     {
+      "given": "Miguel Angel",
+      "family": "Mota"
+     }
+    ]
+   },
+   "extra_note": "Author names that Crossref stores in capitals are written in normal case.",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1186/s13661-014-0245-9",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: Growth properties of Green-Sch potentials at infinity",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Tao",
+      "family": "Zhao"
+     },
+     {
+      "given": "Alexander",
+      "family": "Yamada"
+     }
+    ],
+    "year": 2014,
+    "container": "Boundary Value Problems",
+    "short_container": "Bound Value Probl",
+    "volume": "2014",
+    "number": "1",
+    "pages": "245",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1186/s13661-014-0245-9",
+    "isbn": ""
+   },
+   "notice_doi": "10.1186/s13661-020-01329-0",
+   "retraction_date": "2020-01-22",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "22145",
+    "subject": "(PHY) Mathematics;",
+    "journal": "Boundary Value Problems",
+    "publisher": "Springer",
+    "retraction_doi": "10.1186/s13661-020-01329-0",
+    "retraction_date": "1/22/2020 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Author Unresponsive",
+     "Compromised Peer Review",
+     "False/Forged Authorship"
+    ]
+   },
+   "n": 18,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1142/s0218127418501213",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Chaos Synchronization of the Distributed-Order Lorenz System via Active Control and Applications in Chaotic Masking",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jiyang",
+      "family": "Chen"
+     },
+     {
+      "given": "Chuandong",
+      "family": "Li"
+     },
+     {
+      "given": "Xujun",
+      "family": "Yang"
+     }
+    ],
+    "year": 2018,
+    "container": "International Journal of Bifurcation and Chaos",
+    "short_container": "Int. J. Bifurcation Chaos",
+    "volume": "28",
+    "number": "10",
+    "pages": "1850121",
+    "publisher": "World Scientific Pub Co Pte Ltd",
+    "doi": "10.1142/s0218127418501213",
+    "isbn": ""
+   },
+   "notice_doi": "10.1142/s021812741893001x",
+   "retraction_date": "2018-11-01",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "19611",
+    "subject": "(PHY) Statistics;",
+    "journal": "International Journal of Bifurcation and Chaos",
+    "publisher": "World Scientific Publishing Company",
+    "retraction_doi": "10.1142/S021812741893001X",
+    "retraction_date": "11/1/2018 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Notice - Limited or No Information",
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 19,
+   "style": [
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.camwa.2011.04.011",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: A one-step iterative process for two multivalued nonexpansive mappings in Banach spaces",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Safeer Hussain",
+      "family": "Khan"
+     },
+     {
+      "given": "Isa",
+      "family": "Yildirim"
+     },
+     {
+      "given": "B.E.",
+      "family": "Rhoades"
+     }
+    ],
+    "year": 2011,
+    "container": "Computers & Mathematics with Applications",
+    "short_container": "Computers & Mathematics with Applications",
+    "volume": "61",
+    "number": "10",
+    "pages": "3172-3178",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.camwa.2011.04.011",
+    "isbn": ""
+   },
+   "notice_doi": "10.1016/j.camwa.2011.08.067",
+   "retraction_date": "2011-09-23",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "17924",
+    "subject": "(PHY) Mathematics;",
+    "journal": "Computers & Mathematics with Applications",
+    "publisher": "Elsevier",
+    "retraction_doi": "10.1016/j.camwa.2011.08.067",
+    "retraction_date": "9/23/2011 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 20,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s11356-023-28846-6",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: Studying financial aspect of green credit and regional heterogeneity on technology innovation in China",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ke",
+      "family": "Wu"
+     },
+     {
+      "given": "Xinxiu",
+      "family": "Wang"
+     }
+    ],
+    "year": 2023,
+    "container": "Environmental Science and Pollution Research",
+    "short_container": "Environ Sci Pollut Res",
+    "volume": "30",
+    "number": "41",
+    "pages": "93708-93721",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s11356-023-28846-6",
+    "isbn": ""
+   },
+   "notice_doi": "10.1007/s11356-024-35054-3",
+   "retraction_date": "2024-09-20",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "58243",
+    "subject": "(B/T) Business - Economics;",
+    "journal": "Environmental Science and Pollution Research",
+    "publisher": "Springer",
+    "retraction_doi": "10.1007/s11356-024-35054-3",
+    "retraction_date": "9/20/2024 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Author Unresponsive",
+     "Concerns/Issues about Referencing/Attributions",
+     "Compromised Peer Review",
+     "Investigation by Journal/Publisher",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 21,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1111/1745-9125.12176",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: LYNCHINGS, RACIAL THREAT, AND WHITES’ PUNITIVE VIEWS TOWARD BLACKS",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "ERIC A.",
+      "family": "STEWART"
+     },
+     {
+      "given": "DANIEL P.",
+      "family": "MEARS"
+     },
+     {
+      "given": "PATRICIA Y.",
+      "family": "WARREN"
+     },
+     {
+      "given": "ERIC P.",
+      "family": "BAUMER"
+     },
+     {
+      "given": "ASHLEY N.",
+      "family": "ARNIO"
+     }
+    ],
+    "year": 2018,
+    "container": "Criminology",
+    "short_container": "Criminology",
+    "volume": "56",
+    "number": "3",
+    "pages": "455-480",
+    "publisher": "Wiley",
+    "doi": "10.1111/1745-9125.12176",
+    "isbn": ""
+   },
+   "notice_doi": "10.1111/1745-9125.12234",
+   "retraction_date": "2019-12-06",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "21778",
+    "subject": "(SOC) Sociology;",
+    "journal": "Criminology",
+    "publisher": "Wiley",
+    "retraction_doi": "10.1111/1745-9125.12234",
+    "retraction_date": "12/6/2019 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Error in Analyses",
+     "Error in Results and/or Conclusions",
+     "Upgrade/Update of Prior Notice(s)"
+    ]
+   },
+   "n": 22,
+   "overrides": {
+    "title": "Lynchings, Racial Threat, and Whites’ Punitive Views Toward Blacks",
+    "authors": [
+     {
+      "given": "Eric A.",
+      "family": "Stewart"
+     },
+     {
+      "given": "Daniel P.",
+      "family": "Mears"
+     },
+     {
+      "given": "Patricia Y.",
+      "family": "Warren"
+     },
+     {
+      "given": "Eric P.",
+      "family": "Baumer"
+     },
+     {
+      "given": "Ashley N.",
+      "family": "Arnio"
+     }
+    ]
+   },
+   "extra_note": "Author names that Crossref stores in capitals are written in normal case.",
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.ijsl.2004.06.001",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: The institutional model of US Supreme Court decision-making",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Robert",
+      "family": "Getso"
+     }
+    ],
+    "year": 2004,
+    "container": "International Journal of the Sociology of Law",
+    "short_container": "International Journal of the Sociology of Law",
+    "volume": "32",
+    "number": "2",
+    "pages": "119-141",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.ijsl.2004.06.001",
+    "isbn": ""
+   },
+   "notice_doi": "10.1016/j.ijlcj.2009.04.001",
+   "retraction_date": "2009-04-26",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "22883",
+    "subject": "(SOC) Law/Legal Issues;",
+    "journal": "International Journal of Law, Crime and Justice",
+    "publisher": "Elsevier",
+    "retraction_doi": "10.1016/j.ijlcj.2009.04.001",
+    "retraction_date": "4/26/2009 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 23,
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1155/2022/5352958",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Investigation and Countermeasures on Mental Health Status of Applied Fresh Graduates from the Perspective of Psychological Capital",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yuanzhen",
+      "family": "Zeng"
+     }
+    ],
+    "year": 2022,
+    "container": "Computational and Mathematical Methods in Medicine",
+    "short_container": "Computational and Mathematical Methods in Medicine",
+    "volume": "2022",
+    "number": "",
+    "pages": "1-10",
+    "publisher": "Wiley",
+    "doi": "10.1155/2022/5352958",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Min",
+      "family": "Tang"
+     }
+    ]
+   },
+   "notice_doi": "10.1155/2023/9897161",
+   "retraction_date": "2023-08-02",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "48019",
+    "subject": "(SOC) Psychology;",
+    "journal": "Computational and Mathematical Methods in Medicine",
+    "publisher": "Hindawi",
+    "retraction_doi": "10.1155/2023/9897161",
+    "retraction_date": "8/2/2023 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Concerns/Issues about Referencing/Attributions",
+     "Concerns/Issues about Peer Review",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 24,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1177/00207209211005261",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: Research on the countermeasures of college students’ mental health education under the background of the epidemic",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Huifang",
+      "family": "Wang"
+     },
+     {
+      "given": "Longqin",
+      "family": "Jia"
+     }
+    ],
+    "year": 2021,
+    "container": "International Journal of Electrical Engineering & Education",
+    "short_container": "International Journal of Electrical Engineering & Education",
+    "volume": "60",
+    "number": "1_suppl",
+    "pages": "4080-4087",
+    "publisher": "SAGE Publications",
+    "doi": "10.1177/00207209211005261",
+    "isbn": ""
+   },
+   "notice_doi": "10.1177/00207209231197948",
+   "retraction_date": "2023-11-01",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "49224",
+    "subject": "(SOC) Education;(SOC) Psychology;",
+    "journal": "The International Journal of Electrical Engineering & Education",
+    "publisher": "SAGE Publications",
+    "retraction_doi": "10.1177/00207209231197948",
+    "retraction_date": "11/1/2023 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Author Unresponsive",
+     "Concerns/Issues about Authorship/Affiliation",
+     "Concerns/Issues about Third Party Involvement",
+     "Compromised Peer Review",
+     "Investigation by Journal/Publisher",
+     "Unreliable Results and/or Conclusions",
+     "Upgrade/Update of Prior Notice(s)"
+    ]
+   },
+   "n": 25,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.2979/blc.00082",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Aesthetics of Liberation: Carceral Intimacies in Sarah Maldoror's Sambizanga (1972)",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Dineo",
+      "family": "Maine"
+     }
+    ],
+    "year": 2025,
+    "container": "Black Camera",
+    "short_container": "blc",
+    "volume": "17",
+    "number": "1",
+    "pages": "120-142",
+    "publisher": "Indiana University Press",
+    "doi": "10.2979/blc.00082",
+    "isbn": ""
+   },
+   "notice_doi": "10.2979/blc.00094",
+   "retraction_date": "2026-06-01",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "71038",
+    "subject": "(HUM) Arts - Film Studies;",
+    "journal": "Black Camera",
+    "publisher": "Indiana University Press",
+    "retraction_doi": "10.2979/blc.00094",
+    "retraction_date": "6/1/2026 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 26,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1155/2021/7859189",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Morphological Bias of Ancient Artifacts: A Case Study of Incense Burners in Ming and Qing Dynasties",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yu-Fu",
+      "family": "Chen"
+     },
+     {
+      "given": "Jie",
+      "family": "Wei"
+     }
+    ],
+    "year": 2021,
+    "container": "Journal of Mathematics",
+    "short_container": "Journal of Mathematics",
+    "volume": "2021",
+    "number": "",
+    "pages": "1-9",
+    "publisher": "Wiley",
+    "doi": "10.1155/2021/7859189",
+    "isbn": "",
+    "editors": [
+     {
+      "given": "Naeem",
+      "family": "Jan"
+     }
+    ]
+   },
+   "notice_doi": "10.1155/2024/9847963",
+   "retraction_date": "2024-01-31",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "56732",
+    "subject": "(HUM) Arts - General;(HUM) History - Asia;",
+    "journal": "Journal of Mathematics",
+    "publisher": "Hindawi",
+    "retraction_doi": "10.1155/2024/9847963",
+    "retraction_date": "1/31/2024 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Concerns/Issues about Results and/or Conclusions",
+     "Concerns/Issues about Referencing/Attributions",
+     "Concerns/Issues about Peer Review",
+     "Informed/Patient Consent - None/Withdrawn",
+     "Investigation by Journal/Publisher",
+     "Investigation by Third Party",
+     "Lack of IRB/IACUC Approval and/or Compliance",
+     "Paper Mill",
+     "Computer-Aided Content or Computer-Generated Content",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 27,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.5937/artefact1601031a",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Selman Selmanagic and legacy of Bauhaus: The concept of 'architecture beyond four walls'",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Aida",
+      "family": "Abadzic-Hodzic"
+     }
+    ],
+    "year": 2016,
+    "container": "Artefact",
+    "short_container": "Artefact",
+    "volume": "2",
+    "number": "1",
+    "pages": "31-42",
+    "publisher": "Centre for Evaluation in Education and Science (CEON/CEES)",
+    "doi": "10.5937/artefact1601031a",
+    "isbn": ""
+   },
+   "notice_doi": "10.5937/artefact3-15929",
+   "retraction_date": "2017-12-19",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "44265",
+    "subject": "(HUM) Architecture;",
+    "journal": "Artefact",
+    "publisher": "CEON/CEES",
+    "retraction_doi": "10.5937/artefact3-15929",
+    "retraction_date": "12/19/2017 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Article",
+     "Euphemisms for Duplication",
+     "Euphemisms for Plagiarism",
+     "Plagiarism of/in Article"
+    ]
+   },
+   "n": 28,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s10936-024-10080-x",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED ARTICLE: Psychological Approach in the Interpretation of 20th Century Kazakh Postmodern Literature",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Akerke",
+      "family": "Altynbek"
+     },
+     {
+      "given": "Aigerim",
+      "family": "Mussabekova"
+     }
+    ],
+    "year": 2024,
+    "container": "Journal of Psycholinguistic Research",
+    "short_container": "J Psycholinguist Res",
+    "volume": "53",
+    "number": "3",
+    "pages": "40",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s10936-024-10080-x",
+    "isbn": ""
+   },
+   "notice_doi": "10.1007/s10936-025-10135-7",
+   "retraction_date": "2025-04-07",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "65678",
+    "subject": "(HUM) Arts - Literature/Poetry;",
+    "journal": "Journal of Psycholinguistic Research",
+    "publisher": "Springer - Nature Publishing Group",
+    "retraction_doi": "10.1007/s10936-025-10135-7",
+    "retraction_date": "4/7/2025 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Article",
+     "Concerns/Issues about Peer Review",
+     "Investigation by Journal/Publisher",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 29,
+   "style": [
+    "initials",
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1111/j.1477-4658.2009.00603.x",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "THIS ARTICLE HAS BEEN RETRACTED Conscience in Renaissance moral thought: a concept in transition?",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "M. W. F.",
+      "family": "Stone"
+     }
+    ],
+    "year": 2009,
+    "container": "Renaissance Studies",
+    "short_container": "Renaissance Studies",
+    "volume": "23",
+    "number": "4",
+    "pages": "423-444",
+    "publisher": "Wiley",
+    "doi": "10.1111/j.1477-4658.2009.00603.x",
+    "isbn": ""
+   },
+   "notice_doi": "10.1111/j.1477-4658.2010.00694.x",
+   "retraction_date": "2010-08-12",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "8846",
+    "subject": "(HUM) Philosophy;",
+    "journal": "Renaissance Studies",
+    "publisher": "Wiley",
+    "retraction_doi": "10.1111/j.1477-4658.2010.00694.x",
+    "retraction_date": "8/12/2010 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Euphemisms for Plagiarism",
+     "Plagiarism of Text"
+    ]
+   },
+   "n": 30,
+   "overrides": {
+    "title": "Conscience in Renaissance moral thought: a concept in transition?"
+   },
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1039/c5dt00257e",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Retracted Article: Ni/Ti layered double hydroxide: synthesis, characterization and application as a photocatalyst for visible light degradation of aqueous methylene blue",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Priyadarshi",
+      "family": "Roy Chowdhury"
+     },
+     {
+      "given": "Krishna G.",
+      "family": "Bhattacharyya"
+     }
+    ],
+    "year": 2015,
+    "container": "Dalton Transactions",
+    "short_container": "Dalton Trans.",
+    "volume": "44",
+    "number": "15",
+    "pages": "6809-6824",
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "doi": "10.1039/c5dt00257e",
+    "isbn": ""
+   },
+   "notice_doi": "10.1039/d0dt90057e",
+   "retraction_date": "2020-04-06",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "23049",
+    "subject": "(PHY) Chemistry;",
+    "journal": "Dalton Transactions",
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "retraction_doi": "10.1039/d0dt90057e",
+    "retraction_date": "4/6/2020 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Concerns/Issues about Data",
+     "Duplication of/in Image",
+     "Unreliable Results and/or Conclusions"
+    ]
+   },
+   "n": 31,
+   "style": [
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1177/1056789511411739",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: Computational Investigations of the Impact Resistance of Aluminum–Epoxy–Laminated Composites",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ali",
+      "family": "Nazari"
+     },
+     {
+      "given": "Gholamreza",
+      "family": "Khalaj"
+     },
+     {
+      "given": "Neda",
+      "family": "Didehvar"
+     }
+    ],
+    "year": 2011,
+    "container": "International Journal of Damage Mechanics",
+    "short_container": "International Journal of Damage Mechanics",
+    "volume": "21",
+    "number": "5",
+    "pages": "623-646",
+    "publisher": "SAGE Publications",
+    "doi": "10.1177/1056789511411739",
+    "isbn": ""
+   },
+   "notice_doi": "10.1177/1056789519875280",
+   "retraction_date": "2019-09-13",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "21221",
+    "subject": "(PHY) Engineering - Structural;(PHY) Materials Science;",
+    "journal": "International Journal of Damage Mechanics",
+    "publisher": "SAGE Publications",
+    "retraction_doi": "10.1177/1056789519875280",
+    "retraction_date": "9/13/2019 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Complaints about Author",
+     "Duplication of/in Article",
+     "Investigation by Journal/Publisher"
+    ]
+   },
+   "n": 32,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.measurement.2005.12.013",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "RETRACTED: A photochromic dye activation method for measuring the thickness of liquid films",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jeongbae",
+      "family": "Kim"
+     },
+     {
+      "given": "Moo Hwan",
+      "family": "Kim"
+     }
+    ],
+    "year": 2006,
+    "container": "Measurement",
+    "short_container": "Measurement",
+    "volume": "39",
+    "number": "6",
+    "pages": "497-504",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.measurement.2005.12.013",
+    "isbn": ""
+   },
+   "notice_doi": "10.1016/j.measurement.2010.11.017",
+   "retraction_date": "2011-02-24",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "22016",
+    "subject": "(PHY) Engineering - Chemical;",
+    "journal": "Measurement",
+    "publisher": "Elsevier",
+    "retraction_doi": "10.1016/j.measurement.2010.11.017",
+    "retraction_date": "2/24/2011 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Article"
+    ]
+   },
+   "n": 33,
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1088/0268-1242/23/9/095005",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Redistribution of infused and implanted dopants in a multilayer structure during annealing of dopant and radiation defects for the production of a system of p–n junctions",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "E L",
+      "family": "Pankratov"
+     }
+    ],
+    "year": 2008,
+    "container": "Semiconductor Science and Technology",
+    "short_container": "Semicond. Sci. Technol.",
+    "volume": "23",
+    "number": "9",
+    "pages": "095005",
+    "publisher": "IOP Publishing",
+    "doi": "10.1088/0268-1242/23/9/095005",
+    "isbn": ""
+   },
+   "notice_doi": "10.1088/0268-1242/24/4/049801",
+   "retraction_date": "2009-04-01",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "22769",
+    "subject": "(PHY) Engineering - Electrical;",
+    "journal": "Semiconductor Science and Technology",
+    "publisher": "IOP Publishing",
+    "retraction_doi": "10.1088/0268-1242/24/4/049801",
+    "retraction_date": "4/1/2009 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Duplication of/in Article"
+    ]
+   },
+   "n": 34,
+   "style": [
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1021/acs.est.9b03374",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 9,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Polyaniline: A New Metal-Free Catalyst for Peroxymonosulfate Activation with Highly Efficient and Durable Removal of Organic Pollutants",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Bojing",
+      "family": "Sun"
+     },
+     {
+      "given": "Wenjie",
+      "family": "Ma"
+     },
+     {
+      "given": "Na",
+      "family": "Wang"
+     },
+     {
+      "given": "Ping",
+      "family": "Xu"
+     },
+     {
+      "given": "Leijiang",
+      "family": "Zhang"
+     },
+     {
+      "given": "Bianna",
+      "family": "Wang"
+     },
+     {
+      "given": "Honghong",
+      "family": "Zhao"
+     },
+     {
+      "given": "Kun-Yi Andrew",
+      "family": "Lin"
+     },
+     {
+      "given": "Yunchen",
+      "family": "Du"
+     }
+    ],
+    "year": 2019,
+    "container": "Environmental Science & Technology",
+    "short_container": "Environ. Sci. Technol.",
+    "volume": "53",
+    "number": "16",
+    "pages": "9771-9780",
+    "publisher": "American Chemical Society (ACS)",
+    "doi": "10.1021/acs.est.9b03374",
+    "isbn": ""
+   },
+   "notice_doi": "10.1021/acs.est.0c07981",
+   "retraction_date": "2021-02-22",
+   "crossref_source": "retraction-watch",
+   "rw": {
+    "record_id": "26044",
+    "subject": "(ENV) Environmental Sciences;(PHY) Engineering - Chemical;",
+    "journal": "Environmental Science & Technology",
+    "publisher": "American Chemical Society (ACS)",
+    "retraction_doi": "10.1021/acs.est.0c07981",
+    "retraction_date": "2/22/2021 0:00",
+    "nature": "Retraction",
+    "reasons": [
+     "Contamination of Materials",
+     "Results Not Reproducible"
+    ]
+   },
+   "n": 35,
+   "style": [
+    "and_others",
+    "abbrev_journal"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "description": "Retraction Watch rows tried, in sampling order, and why any were skipped (Crossref check).",
+ "tried": [
+  {
+   "record": "38256",
+   "doi": "10.1007/s12652-020-02111-x",
+   "skip": null
+  },
+  {
+   "record": "41821",
+   "doi": "10.1016/j.neucom.2022.07.008",
+   "skip": null
+  },
+  {
+   "record": "46544",
+   "doi": "10.1155/2022/4705325",
+   "skip": null
+  },
+  {
+   "record": "64978",
+   "doi": "10.3233/jifs-224215",
+   "skip": null
+  },
+  {
+   "record": "73132",
+   "doi": "10.1371/journal.pone.0156885",
+   "skip": null
+  },
+  {
+   "record": "69906",
+   "doi": "10.3389/fendo.2018.00797",
+   "skip": null
+  },
+  {
+   "record": "59072",
+   "doi": "10.1155/2022/6128845",
+   "skip": null
+  },
+  {
+   "record": "51776",
+   "doi": "10.1002/mgg3.1149",
+   "skip": null
+  },
+  {
+   "record": "40722",
+   "skip": "Crossref HTTP 404"
+  },
+  {
+   "record": "44049",
+   "doi": "10.1038/sj.onc.1203339",
+   "skip": null
+  },
+  {
+   "record": "32218",
+   "doi": "10.2147/OTT.S232542",
+   "skip": null
+  },
+  {
+   "record": "73632",
+   "doi": "10.1002/2015GL067271",
+   "skip": null
+  },
+  {
+   "record": "21585",
+   "doi": "10.1093/mnras/sty1889",
+   "skip": null
+  },
+  {
+   "record": "17424",
+   "doi": "10.1016/j.ijmultiphaseflow.2013.10.010",
+   "skip": null
+  },
+  {
+   "record": "6848",
+   "doi": "10.1088/0029-5515/47/9/037",
+   "skip": null
+  },
+  {
+   "record": "22931",
+   "doi": "10.1080/01468030490510324",
+   "skip": null
+  },
+  {
+   "record": "47637",
+   "doi": "10.1155/2022/2643575",
+   "skip": null
+  },
+  {
+   "record": "41946",
+   "doi": "10.1017/jsl.2017.4",
+   "skip": null
+  },
+  {
+   "record": "22145",
+   "doi": "10.1186/s13661-014-0245-9",
+   "skip": null
+  },
+  {
+   "record": "19611",
+   "doi": "10.1142/S0218127418501213",
+   "skip": null
+  },
+  {
+   "record": "17924",
+   "doi": "10.1016/j.camwa.2011.04.011",
+   "skip": null
+  },
+  {
+   "record": "58243",
+   "doi": "10.1007/s11356-023-28846-6",
+   "skip": null
+  },
+  {
+   "record": "21778",
+   "doi": "10.1111/1745-9125.12176",
+   "skip": null
+  },
+  {
+   "record": "22883",
+   "doi": "10.1016/j.ijsl.2004.06.001",
+   "skip": null
+  },
+  {
+   "record": "48019",
+   "doi": "10.1155/2022/5352958",
+   "skip": null
+  },
+  {
+   "record": "49224",
+   "doi": "10.1177/00207209211005261",
+   "skip": null
+  },
+  {
+   "record": "38124",
+   "doi": "10.1080/25785273.2022.2033400",
+   "skip": "Crossref updated-by lacks this retraction notice"
+  },
+  {
+   "record": "71038",
+   "doi": "10.2979/blc.00082",
+   "skip": null
+  },
+  {
+   "record": "56732",
+   "doi": "10.1155/2021/7859189",
+   "skip": null
+  },
+  {
+   "record": "44265",
+   "doi": "10.5937/Artefact1601031A",
+   "skip": null
+  },
+  {
+   "record": "65678",
+   "doi": "10.1007/s10936-024-10080-x",
+   "skip": null
+  },
+  {
+   "record": "8846",
+   "doi": "10.1111/j.1477-4658.2009.00603.x",
+   "skip": null
+  },
+  {
+   "record": "23049",
+   "doi": "10.1039/c5dt00257e",
+   "skip": null
+  },
+  {
+   "record": "21221",
+   "doi": "10.1177/1056789511411739",
+   "skip": null
+  },
+  {
+   "record": "22016",
+   "doi": "10.1016/j.measurement.2005.12.013",
+   "skip": null
+  },
+  {
+   "record": "22769",
+   "doi": "10.1088/0268-1242/23/9/095005",
+   "skip": null
+  },
+  {
+   "record": "26044",
+   "doi": "10.1021/acs.est.9b03374",
+   "skip": null
+  }
+ ]
+}

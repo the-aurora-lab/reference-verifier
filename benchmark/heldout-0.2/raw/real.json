@@ -1,0 +1,5017 @@
+{
+ "description": "Genuine references for the 0.2 held-out set. Each was drawn at random (see 'sampled'), and 'meta' is the compact registry metadata the BibTeX is written from. 'overrides' lists curated changes from the registry form; 'style' lists the messy-but-valid BibTeX forms used.",
+ "retrieved": "2026-11-01",
+ "items": [
+  {
+   "registry": "crossref",
+   "ident": "10.1109/access.2021.3075623",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 7,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "An Efficient Video Coding System With an Adaptive Overfitted Multi-Scale Attention Network",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Gang",
+      "family": "He"
+     },
+     {
+      "given": "Chang",
+      "family": "Wu"
+     },
+     {
+      "given": "Li",
+      "family": "Xu"
+     },
+     {
+      "given": "Lei",
+      "family": "Li"
+     },
+     {
+      "given": "Ziyao",
+      "family": "Xu"
+     },
+     {
+      "given": "Weiying",
+      "family": "Xie"
+     },
+     {
+      "given": "Yunsong",
+      "family": "Li"
+     }
+    ],
+    "year": 2021,
+    "container": "IEEE Access",
+    "short_container": "IEEE Access",
+    "volume": "9",
+    "number": "",
+    "pages": "64022-64032",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "doi": "10.1109/access.2021.3075623",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W3157171366",
+   "stratum": "article",
+   "openalex_field": "Computer Science",
+   "n": 1,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Computer Science' fields, seed 20261101",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.ecoinf.2021.101228",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A quantitative detection algorithm based on improved faster R-CNN for marine benthos",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yong",
+      "family": "Liu"
+     },
+     {
+      "given": "Shengnan",
+      "family": "Wang"
+     }
+    ],
+    "year": 2021,
+    "container": "Ecological Informatics",
+    "short_container": "Ecological Informatics",
+    "volume": "61",
+    "number": "",
+    "pages": "101228",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.ecoinf.2021.101228",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W3124410467",
+   "stratum": "article",
+   "openalex_field": "Computer Science",
+   "n": 2,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Computer Science' fields, seed 20261101",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/0167-8655(92)90116-h",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "An algorithm for finding closed curves",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ming",
+      "family": "Xie"
+     },
+     {
+      "given": "Monique",
+      "family": "Thonnat"
+     }
+    ],
+    "year": 1992,
+    "container": "Pattern Recognition Letters",
+    "short_container": "Pattern Recognition Letters",
+    "volume": "13",
+    "number": "1",
+    "pages": "73-81",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/0167-8655(92)90116-h",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2148149886",
+   "stratum": "article",
+   "openalex_field": "Computer Science",
+   "n": 3,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Computer Science' fields, seed 20261101",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1109/lra.2024.3457374",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 7,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "On the Federated Learning Framework for Cooperative Perception",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Zhenrong",
+      "family": "Zhang"
+     },
+     {
+      "given": "Jianan",
+      "family": "Liu"
+     },
+     {
+      "given": "Xi",
+      "family": "Zhou"
+     },
+     {
+      "given": "Tao",
+      "family": "Huang"
+     },
+     {
+      "given": "Qing-Long",
+      "family": "Han"
+     },
+     {
+      "given": "Jingxin",
+      "family": "Liu"
+     },
+     {
+      "given": "Hongbin",
+      "family": "Liu"
+     }
+    ],
+    "year": 2024,
+    "container": "IEEE Robotics and Automation Letters",
+    "short_container": "IEEE Robot. Autom. Lett.",
+    "volume": "9",
+    "number": "11",
+    "pages": "9423-9430",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "doi": "10.1109/lra.2024.3457374",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W4402401365",
+   "stratum": "article",
+   "openalex_field": "Computer Science",
+   "n": 4,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Computer Science' fields, seed 20261101",
+   "style": [
+    "initials",
+    "no_doi",
+    "double_brace"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1109/tce.2024.3396723",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A Federated Unlearning-Based Secure Management Scheme to Enable Automation in Smart Consumer Electronics Facilitated by Digital Twin",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Anik",
+      "family": "Islam"
+     },
+     {
+      "given": "Hadis",
+      "family": "Karimipour"
+     },
+     {
+      "given": "Thippa Reddy",
+      "family": "Gadekallu"
+     },
+     {
+      "given": "Yaodong",
+      "family": "Zhu"
+     }
+    ],
+    "year": 2025,
+    "container": "IEEE Transactions on Consumer Electronics",
+    "short_container": "IEEE Trans. Consumer Electron.",
+    "volume": "71",
+    "number": "1",
+    "pages": "62-74",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "doi": "10.1109/tce.2024.3396723",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W4396605314",
+   "stratum": "article",
+   "openalex_field": "Computer Science",
+   "n": 5,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Computer Science' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1109/90.311627",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The design and analysis of an ATM multicast switch with adaptive traffic controller",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "J.W.",
+      "family": "Byun"
+     },
+     {
+      "given": "T.T.",
+      "family": "Lee"
+     }
+    ],
+    "year": 1994,
+    "container": "IEEE/ACM Transactions on Networking",
+    "short_container": "IEEE/ACM Trans. Networking",
+    "volume": "2",
+    "number": "3",
+    "pages": "288-298",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "doi": "10.1109/90.311627",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2117355102",
+   "stratum": "article",
+   "openalex_field": "Computer Science",
+   "n": 6,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Computer Science' fields, seed 20261101",
+   "style": [
+    "initials",
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1587/transinf.2016edl8252",
+   "field": "cs",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Detecting Transportation Modes Using Deep Neural Network",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Hao",
+      "family": "WANG"
+     },
+     {
+      "given": "GaoJun",
+      "family": "LIU"
+     },
+     {
+      "given": "Jianyong",
+      "family": "DUAN"
+     },
+     {
+      "given": "Lei",
+      "family": "ZHANG"
+     }
+    ],
+    "year": 2017,
+    "container": "IEICE Transactions on Information and Systems",
+    "short_container": "IEICE Trans. Inf. & Syst.",
+    "volume": "E100.D",
+    "number": "5",
+    "pages": "1132-1135",
+    "publisher": "Institute of Electronics, Information and Communications Engineers (IEICE)",
+    "doi": "10.1587/transinf.2016edl8252",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2609649633",
+   "stratum": "article",
+   "openalex_field": "Computer Science",
+   "n": 7,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Computer Science' fields, seed 20261101",
+   "style": [
+    "first_last"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.mpdhp.2023.11.001",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Invasive breast cancer reporting guidelines: ICCR, CAP, RCPath, RCPA datasets and future directions",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Natthawadee",
+      "family": "Laokulrath"
+     },
+     {
+      "given": "Mihir Ananta",
+      "family": "Gudi"
+     },
+     {
+      "given": "Rahul",
+      "family": "Deb"
+     },
+     {
+      "given": "Ian O",
+      "family": "Ellis"
+     },
+     {
+      "given": "Puay Hoon",
+      "family": "Tan"
+     }
+    ],
+    "year": 2024,
+    "container": "Diagnostic Histopathology",
+    "short_container": "Diagnostic Histopathology",
+    "volume": "30",
+    "number": "2",
+    "pages": "87-99",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.mpdhp.2023.11.001",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W4390483793",
+   "stratum": "article",
+   "openalex_field": "Medicine",
+   "n": 8,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s002210100861",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Structure of motor variability in marginally redundant multifinger force production tasks",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Mark",
+      "family": "Latash"
+     },
+     {
+      "given": "John",
+      "family": "Scholz"
+     },
+     {
+      "given": "Frederic",
+      "family": "Danion"
+     },
+     {
+      "given": "Gregor",
+      "family": "Schöner"
+     }
+    ],
+    "year": 2001,
+    "container": "Experimental Brain Research",
+    "short_container": "",
+    "volume": "141",
+    "number": "2",
+    "pages": "153-165",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s002210100861",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2040199070",
+   "stratum": "article",
+   "openalex_field": "Neuroscience",
+   "n": 9,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "initials",
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/s0026-0495(99)90055-0",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Preservation of growth hormone secretion in response to growth hormone—releasing peptide-2 during prednisone therapy",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "L.R.",
+      "family": "Meacham"
+     },
+     {
+      "given": "F.L.",
+      "family": "Culler"
+     },
+     {
+      "given": "H.",
+      "family": "Abdul-Latif"
+     },
+     {
+      "given": "K.M.",
+      "family": "Sullivan"
+     },
+     {
+      "given": "C.Y.",
+      "family": "Bowers"
+     }
+    ],
+    "year": 1999,
+    "container": "Metabolism",
+    "short_container": "Metabolism",
+    "volume": "48",
+    "number": "5",
+    "pages": "585-589",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/s0026-0495(99)90055-0",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2019680138",
+   "stratum": "article",
+   "openalex_field": "Medicine",
+   "n": 10,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.spinee.2023.10.003",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 11,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Primary anterior lumbar interbody fusion, with and without posterior instrumentation: a 1,377-patient cohort from a multicenter spine registry",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Azim N.",
+      "family": "Laiwalla"
+     },
+     {
+      "given": "Richard N.",
+      "family": "Chang"
+     },
+     {
+      "given": "Maya",
+      "family": "Harary"
+     },
+     {
+      "given": "Samir Al",
+      "family": "Salek"
+     },
+     {
+      "given": "Hunter G.",
+      "family": "Richards"
+     },
+     {
+      "given": "Harsimran S.",
+      "family": "Brara"
+     },
+     {
+      "given": "Daniel",
+      "family": "Hirt"
+     },
+     {
+      "given": "Jessica E.",
+      "family": "Harris"
+     },
+     {
+      "given": "Sergei",
+      "family": "Terterov"
+     },
+     {
+      "given": "Ehsan",
+      "family": "Tabaraee"
+     },
+     {
+      "given": "Shayan U.",
+      "family": "Rahman"
+     }
+    ],
+    "year": 2024,
+    "container": "The Spine Journal",
+    "short_container": "The Spine Journal",
+    "volume": "24",
+    "number": "3",
+    "pages": "496-505",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.spinee.2023.10.003",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W4387860332",
+   "stratum": "article",
+   "openalex_field": "Medicine",
+   "n": 11,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.7547/87507315-94-1-43",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Proximal Oblique Crescentic Osteotomy in Hallux Valgus",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ozcan",
+      "family": "Pehlivan"
+     },
+     {
+      "given": "Ibrahim",
+      "family": "Akmaz"
+     },
+     {
+      "given": "Can",
+      "family": "Solakoglu"
+     },
+     {
+      "given": "Ahmet",
+      "family": "Kiral"
+     },
+     {
+      "given": "Haluk",
+      "family": "Kaplan"
+     }
+    ],
+    "year": 2004,
+    "container": "Journal of the American Podiatric Medical Association",
+    "short_container": "",
+    "volume": "94",
+    "number": "1",
+    "pages": "43-46",
+    "publisher": "MDPI AG",
+    "doi": "10.7547/87507315-94-1-43",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2073409212",
+   "stratum": "article",
+   "openalex_field": "Medicine",
+   "n": 12,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "and_others",
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1021/acs.molpharmaceut.9b01080",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 9,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Small-Molecule Inhibitor Prevents Insulin Fibrillogenesis and Preserves Activity",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Anirban",
+      "family": "Das"
+     },
+     {
+      "given": "Yogesh M.",
+      "family": "Gangarde"
+     },
+     {
+      "given": "Viniti",
+      "family": "Tomar"
+     },
+     {
+      "given": "Omkar",
+      "family": "Shinde"
+     },
+     {
+      "given": "Tulsi",
+      "family": "Upadhyay"
+     },
+     {
+      "given": "Sarfaraz",
+      "family": "Alam"
+     },
+     {
+      "given": "Sudipta",
+      "family": "Ghosh"
+     },
+     {
+      "given": "Varun",
+      "family": "Chaudhary"
+     },
+     {
+      "given": "Ishu",
+      "family": "Saraogi"
+     }
+    ],
+    "year": 2020,
+    "container": "Molecular Pharmaceutics",
+    "short_container": "Mol. Pharmaceutics",
+    "volume": "17",
+    "number": "6",
+    "pages": "1827-1834",
+    "publisher": "American Chemical Society (ACS)",
+    "doi": "10.1021/acs.molpharmaceut.9b01080",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W3017993236",
+   "stratum": "article",
+   "openalex_field": "Biochemistry, Genetics and Molecular Biology",
+   "n": 13,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1159/000497310",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 7,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Sentinel Node Biopsy in Urothelial Carcinoma of the Bladder: Systematic Review and Meta-Analysis",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Leili",
+      "family": "Zarifmahmoudi"
+     },
+     {
+      "given": "Hamidreza",
+      "family": "Ghorbani"
+     },
+     {
+      "given": "Kayvan",
+      "family": "Sadri"
+     },
+     {
+      "given": "Mahmoud",
+      "family": "Tavakkoli"
+     },
+     {
+      "given": "Maliheh",
+      "family": "Keshvari"
+     },
+     {
+      "given": "Maryam",
+      "family": "Salehi"
+     },
+     {
+      "given": "Ramin",
+      "family": "Sadeghi"
+     }
+    ],
+    "year": 2019,
+    "container": "Urologia Internationalis",
+    "short_container": "Urol Int",
+    "volume": "103",
+    "number": "4",
+    "pages": "373-382",
+    "publisher": "S. Karger AG",
+    "doi": "10.1159/000497310",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2920579192",
+   "stratum": "article",
+   "openalex_field": "Medicine",
+   "n": 14,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1021/acsmacrolett.4c00789",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 8,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Autophagy-Activating Nanoautophagosome-Tethering Compounds for Targeted Protein Degradation Specifically in Tumor Cells",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Mengchen",
+      "family": "Xu"
+     },
+     {
+      "given": "Jiajing",
+      "family": "Chen"
+     },
+     {
+      "given": "Shuyu",
+      "family": "Wang"
+     },
+     {
+      "given": "Linlin",
+      "family": "Xu"
+     },
+     {
+      "given": "Xiaohui",
+      "family": "Wu"
+     },
+     {
+      "given": "Jinpu",
+      "family": "Yu"
+     },
+     {
+      "given": "Feihe",
+      "family": "Ma"
+     },
+     {
+      "given": "Linqi",
+      "family": "Shi"
+     }
+    ],
+    "year": 2025,
+    "container": "ACS Macro Letters",
+    "short_container": "ACS Macro Lett.",
+    "volume": "14",
+    "number": "3",
+    "pages": "250-257",
+    "publisher": "American Chemical Society (ACS)",
+    "doi": "10.1021/acsmacrolett.4c00789",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W4407372201",
+   "stratum": "article",
+   "openalex_field": "Medicine",
+   "n": 15,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "and_others",
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1001/archneur.1976.00500070036007",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Treatment of Malignant Glioma",
+    "subtitle": "A Controlled Study of Chemotherapy and Irradiation",
+    "authors": [
+     {
+      "given": "William R.",
+      "family": "Shapiro"
+     }
+    ],
+    "year": 1976,
+    "container": "Archives of Neurology",
+    "short_container": "Arch Neurol",
+    "volume": "33",
+    "number": "7",
+    "pages": "494",
+    "publisher": "American Medical Association (AMA)",
+    "doi": "10.1001/archneur.1976.00500070036007",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2130539095",
+   "stratum": "article",
+   "openalex_field": "Medicine",
+   "n": 16,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1186/1471-2180-10-76",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Binding and activation of host plasminogen on the surface of Francisella tularensis",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Shawn R",
+      "family": "Clinton"
+     },
+     {
+      "given": "James E",
+      "family": "Bina"
+     },
+     {
+      "given": "Thomas P",
+      "family": "Hatch"
+     },
+     {
+      "given": "Michael A",
+      "family": "Whitt"
+     },
+     {
+      "given": "Mark A",
+      "family": "Miller"
+     }
+    ],
+    "year": 2010,
+    "container": "BMC Microbiology",
+    "short_container": "BMC Microbiol",
+    "volume": "10",
+    "number": "1",
+    "pages": "76",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1186/1471-2180-10-76",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2147062867",
+   "stratum": "article",
+   "openalex_field": "Biochemistry, Genetics and Molecular Biology",
+   "n": 17,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "and_others",
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.fsi.2020.07.045",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 9,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Development of IglC and GroEL recombinant vaccines for francisellosis in Nile tilapia, Oreochromis niloticus",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Khalid",
+      "family": "Shahin"
+     },
+     {
+      "given": "Felipe",
+      "family": "Pirezan"
+     },
+     {
+      "given": "Matt",
+      "family": "Rogge"
+     },
+     {
+      "given": "Benjamin R.",
+      "family": "LaFrentz"
+     },
+     {
+      "given": "Roshan P.",
+      "family": "Shrestha"
+     },
+     {
+      "given": "Mark",
+      "family": "Hildebrand"
+     },
+     {
+      "given": "Fangjia",
+      "family": "Lu"
+     },
+     {
+      "given": "Harm",
+      "family": "HogenEsch"
+     },
+     {
+      "given": "Esteban",
+      "family": "Soto"
+     }
+    ],
+    "year": 2020,
+    "container": "Fish & Shellfish Immunology",
+    "short_container": "Fish & Shellfish Immunology",
+    "volume": "105",
+    "number": "",
+    "pages": "341-349",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.fsi.2020.07.045",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W3044235614",
+   "stratum": "article",
+   "openalex_field": "Immunology and Microbiology",
+   "n": 18,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s00125-003-1133-5",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Identification and purification from the plasma of Type 1 diabetic subjects of a proteolytically active Grp94",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "A.",
+      "family": "Pagetta"
+     },
+     {
+      "given": "A.",
+      "family": "Folda"
+     },
+     {
+      "given": "A. M.",
+      "family": "Brunati"
+     },
+     {
+      "given": "P.",
+      "family": "Finotti"
+     }
+    ],
+    "year": 2003,
+    "container": "Diabetologia",
+    "short_container": "Diabetologia",
+    "volume": "46",
+    "number": "7",
+    "pages": "996-1006",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s00125-003-1133-5",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2016223924",
+   "stratum": "article",
+   "openalex_field": "Biochemistry, Genetics and Molecular Biology",
+   "n": 19,
+   "overrides": {
+    "title": "Identification and purification from the plasma of Type 1 diabetic subjects of a proteolytically active Grp94"
+   },
+   "extra_note": "The registry stores the title as 'Identification and purification from the plasma of Type�1 diabetic subjects of a proteolytically active Grp94'; the entry uses the form a careful author would write.",
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.2174/2212796811105020142",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Anionic Antimicrobial Peptides from Eukaryotic Organisms and their Mechanisms of Action",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Frederick",
+      "family": "Harris"
+     },
+     {
+      "given": "Sarah",
+      "family": "R. Dennison"
+     },
+     {
+      "given": "David",
+      "family": "A. Phoenix"
+     }
+    ],
+    "year": 2011,
+    "container": "Current Chemical Biology",
+    "short_container": "CCB",
+    "volume": "5",
+    "number": "2",
+    "pages": "142-153",
+    "publisher": "Bentham Science Publishers Ltd.",
+    "doi": "10.2174/2212796811105020142",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2326639912",
+   "stratum": "article",
+   "openalex_field": "Immunology and Microbiology",
+   "n": 20,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1002/(sici)1096-9861(19980105)390:1<52::aid-cne5>3.0.co;2-p",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Immunocytochemical localization of tyrosine hydroxylase in the human striatum: A postmortem ultrastructural study",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Lili",
+      "family": "Kung"
+     },
+     {
+      "given": "Michelle",
+      "family": "Force"
+     },
+     {
+      "given": "Dennis J.",
+      "family": "Chute"
+     },
+     {
+      "given": "Rosalinda C.",
+      "family": "Roberts"
+     }
+    ],
+    "year": 1998,
+    "container": "The Journal of Comparative Neurology",
+    "short_container": "J. Comp. Neurol.",
+    "volume": "390",
+    "number": "1",
+    "pages": "52-62",
+    "publisher": "Wiley",
+    "doi": "10.1002/(sici)1096-9861(19980105)390:1<52::aid-cne5>3.0.co;2-p",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2047662014",
+   "stratum": "article",
+   "openalex_field": "Neuroscience",
+   "n": 21,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/bf02926765",
+   "field": "biomed",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A new concept of priapism based on the results of arteriography and cavernosography",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "W.",
+      "family": "Brühlmann"
+     },
+     {
+      "given": "G.",
+      "family": "Pouliadis"
+     },
+     {
+      "given": "D.",
+      "family": "Hauri"
+     },
+     {
+      "given": "Ch",
+      "family": "Zollikofer"
+     }
+    ],
+    "year": 1983,
+    "container": "Urologic radiology",
+    "short_container": "Urol Radiol",
+    "volume": "5",
+    "number": "1",
+    "pages": "31-36",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/bf02926765",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2020417766",
+   "stratum": "article",
+   "openalex_field": "Medicine",
+   "n": 22,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": [
+    "latex_accents",
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/bf01294172",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Phase diagram for three-dimensional correlated site-bond percolation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "D. W.",
+      "family": "Heermann"
+     },
+     {
+      "given": "D.",
+      "family": "Stauffer"
+     }
+    ],
+    "year": 1981,
+    "container": "Zeitschrift für Physik B Condensed Matter",
+    "short_container": "Z. Physik B - Condensed Matter",
+    "volume": "44",
+    "number": "4",
+    "pages": "339-344",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/bf01294172",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2067149892",
+   "stratum": "article",
+   "openalex_field": "Physics and Astronomy",
+   "n": 23,
+   "overrides": {
+    "container": "Zeitschrift für Physik B Condensed Matter"
+   },
+   "extra_note": "Registry value corrected: container given as 'Zeitschrift für Physik B Condensed Matter'.",
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Physics and Astronomy' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1088/0031-9155/56/5/005",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "A robotic approach to 4D real-time tumor tracking for radiotherapy",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "I",
+      "family": "Buzurovic"
+     },
+     {
+      "given": "K",
+      "family": "Huang"
+     },
+     {
+      "given": "Y",
+      "family": "Yu"
+     },
+     {
+      "given": "T K",
+      "family": "Podder"
+     }
+    ],
+    "year": 2011,
+    "container": "Physics in Medicine and Biology",
+    "short_container": "Phys. Med. Biol.",
+    "volume": "56",
+    "number": "5",
+    "pages": "1299-1318",
+    "publisher": "IOP Publishing",
+    "doi": "10.1088/0031-9155/56/5/005",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W1991301669",
+   "stratum": "article",
+   "openalex_field": "Physics and Astronomy",
+   "n": 24,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Physics and Astronomy' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.nuclphysa.2009.05.019",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "AdS/CFT Overview and Recent Applications to Strongly Interacting Systems",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Dam Thanh",
+      "family": "Son"
+     }
+    ],
+    "year": 2009,
+    "container": "Nuclear Physics A",
+    "short_container": "Nuclear Physics A",
+    "volume": "827",
+    "number": "1-4",
+    "pages": "61c-65c",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.nuclphysa.2009.05.019",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2039962583",
+   "stratum": "article",
+   "openalex_field": "Physics and Astronomy",
+   "n": 25,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Physics and Astronomy' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1088/0953-4075/22/4/008",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Electron detachment in Li$^-$-He collisions: coherence study of Li(2$^2$P) excitation in Li$^-$-He and Li-He collisions",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "T",
+      "family": "Andersen"
+     },
+     {
+      "given": "J Engholm",
+      "family": "Pedersen"
+     }
+    ],
+    "year": 1989,
+    "container": "Journal of Physics B: Atomic, Molecular and Optical Physics",
+    "short_container": "J. Phys. B: At. Mol. Opt. Phys.",
+    "volume": "22",
+    "number": "4",
+    "pages": "617-626",
+    "publisher": "IOP Publishing",
+    "doi": "10.1088/0953-4075/22/4/008",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2048312036",
+   "stratum": "article",
+   "openalex_field": "Physics and Astronomy",
+   "n": 26,
+   "overrides": {
+    "title": "Electron detachment in Li$^-$-He collisions: coherence study of Li(2$^2$P) excitation in Li$^-$-He and Li-He collisions"
+   },
+   "extra_note": "The registry stores the title as 'Electron detachment in Li--He collisions: coherence study of Li(22P) excitation in Li--He and Li-He collisions'; the entry uses the form a careful author would write.",
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Physics and Astronomy' fields, seed 20261101",
+   "style": [
+    "first_last",
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1063/1.873299",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Stability of highly asymmetric non-neutral plasmas",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "E. Yu.",
+      "family": "Backhaus"
+     },
+     {
+      "given": "J.",
+      "family": "Fajans"
+     },
+     {
+      "given": "J. S.",
+      "family": "Wurtele"
+     }
+    ],
+    "year": 1999,
+    "container": "Physics of Plasmas",
+    "short_container": "",
+    "volume": "6",
+    "number": "1",
+    "pages": "19-30",
+    "publisher": "AIP Publishing",
+    "doi": "10.1063/1.873299",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2022259044",
+   "stratum": "article",
+   "openalex_field": "Physics and Astronomy",
+   "n": 27,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Physics and Astronomy' fields, seed 20261101",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1029/2010ja016422",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Saturn's low-latitude boundary layer: 2. Electron structure",
+    "subtitle": "SATURN'S LLBL ELECTRON STRUCTURE",
+    "authors": [
+     {
+      "given": "A.",
+      "family": "Masters"
+     },
+     {
+      "given": "A. P.",
+      "family": "Walsh"
+     },
+     {
+      "given": "A. N.",
+      "family": "Fazakerley"
+     },
+     {
+      "given": "A. J.",
+      "family": "Coates"
+     },
+     {
+      "given": "M. K.",
+      "family": "Dougherty"
+     }
+    ],
+    "year": 2011,
+    "container": "Journal of Geophysical Research: Space Physics",
+    "short_container": "J. Geophys. Res.",
+    "volume": "116",
+    "number": "A6",
+    "pages": "n/a-n/a",
+    "publisher": "American Geophysical Union (AGU)",
+    "doi": "10.1029/2010ja016422",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W1980250981",
+   "stratum": "article",
+   "openalex_field": "Physics and Astronomy",
+   "n": 28,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Physics and Astronomy' fields, seed 20261101",
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.ijleo.2015.04.012",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "One-dimensional nano layered SiC/TiO2 based photonic band gap materials as temperature sensor",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Rajeev",
+      "family": "Kumar"
+     },
+     {
+      "given": "Angad S.",
+      "family": "Kushwaha"
+     },
+     {
+      "given": "S.K.",
+      "family": "Srivastava"
+     }
+    ],
+    "year": 2015,
+    "container": "Optik",
+    "short_container": "Optik",
+    "volume": "126",
+    "number": "14",
+    "pages": "1324-1330",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.ijleo.2015.04.012",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W218014231",
+   "stratum": "article",
+   "openalex_field": "Physics and Astronomy",
+   "n": 29,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Physics and Astronomy' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1103/physrevlett.92.250402",
+   "field": "physics",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "External Time-Varying Fields and Electron Coherence",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jen-Tsung",
+      "family": "Hsiang"
+     },
+     {
+      "given": "L. H.",
+      "family": "Ford"
+     }
+    ],
+    "year": 2004,
+    "container": "Physical Review Letters",
+    "short_container": "Phys. Rev. Lett.",
+    "volume": "92",
+    "number": "25",
+    "pages": "250402",
+    "publisher": "American Physical Society (APS)",
+    "doi": "10.1103/physrevlett.92.250402",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W1984925063",
+   "stratum": "article",
+   "openalex_field": "Physics and Astronomy",
+   "n": 30,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Physics and Astronomy' fields, seed 20261101",
+   "style": [
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1090/s0002-9947-06-04117-1",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The algebraic entropy of the special linear character automorphisms of a free group on two generators",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Richard",
+      "family": "Brown"
+     }
+    ],
+    "year": 2006,
+    "container": "Transactions of the American Mathematical Society",
+    "short_container": "Trans. Amer. Math. Soc.",
+    "volume": "359",
+    "number": "4",
+    "pages": "1445-1470",
+    "publisher": "American Mathematical Society (AMS)",
+    "doi": "10.1090/s0002-9947-06-04117-1",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2098797222",
+   "stratum": "article",
+   "openalex_field": "Mathematics",
+   "n": 31,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Mathematics' fields, seed 20261101",
+   "style": [
+    "first_last",
+    "abbrev_journal",
+    "double_brace"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s00184-017-0629-9",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Adjusted Pearson Chi-Square feature screening for multi-classification with ultrahigh dimensional data",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Lyu",
+      "family": "Ni"
+     },
+     {
+      "given": "Fang",
+      "family": "Fang"
+     },
+     {
+      "given": "Fangjiao",
+      "family": "Wan"
+     }
+    ],
+    "year": 2017,
+    "container": "Metrika",
+    "short_container": "Metrika",
+    "volume": "80",
+    "number": "6-8",
+    "pages": "805-828",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s00184-017-0629-9",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2763137833",
+   "stratum": "article",
+   "openalex_field": "Mathematics",
+   "n": 32,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Mathematics' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1017/etds.2013.36",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Nilsequences, null-sequences, and multiple correlation sequences",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "A.",
+      "family": "LEIBMAN"
+     }
+    ],
+    "year": 2013,
+    "container": "Ergodic Theory and Dynamical Systems",
+    "short_container": "Ergod. Th. Dynam. Sys.",
+    "volume": "35",
+    "number": "1",
+    "pages": "176-191",
+    "publisher": "Cambridge University Press (CUP)",
+    "doi": "10.1017/etds.2013.36",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2100957428",
+   "stratum": "article",
+   "openalex_field": "Mathematics",
+   "n": 33,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Mathematics' fields, seed 20261101",
+   "style": [
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1090/tran/6470",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Unbounded derivations, free dilations, and indecomposability results for II$_1$ factors",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yoann",
+      "family": "Dabrowski"
+     },
+     {
+      "given": "Adrian",
+      "family": "Ioana"
+     }
+    ],
+    "year": 2015,
+    "container": "Transactions of the American Mathematical Society",
+    "short_container": "Trans. Amer. Math. Soc.",
+    "volume": "368",
+    "number": "7",
+    "pages": "4525-4560",
+    "publisher": "American Mathematical Society (AMS)",
+    "doi": "10.1090/tran/6470",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2154528415",
+   "stratum": "article",
+   "openalex_field": "Mathematics",
+   "n": 34,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Mathematics' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1017/s0004972700013204",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Growth of polynomials whose zeros are within or outside a circle",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Abdul",
+      "family": "Aziz"
+     }
+    ],
+    "year": 1987,
+    "container": "Bulletin of the Australian Mathematical Society",
+    "short_container": "Bull. Austral. Math. Soc.",
+    "volume": "35",
+    "number": "2",
+    "pages": "247-256",
+    "publisher": "Cambridge University Press (CUP)",
+    "doi": "10.1017/s0004972700013204",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2131745391",
+   "stratum": "article",
+   "openalex_field": "Mathematics",
+   "n": 35,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Mathematics' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s00025-019-1030-y",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Coefficient Problems in the Subclasses of Close-to-Star Functions",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Adam",
+      "family": "Lecko"
+     },
+     {
+      "given": "Young Jae",
+      "family": "Sim"
+     }
+    ],
+    "year": 2019,
+    "container": "Results in Mathematics",
+    "short_container": "Results Math",
+    "volume": "74",
+    "number": "3",
+    "pages": "104",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s00025-019-1030-y",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2944620497",
+   "stratum": "article",
+   "openalex_field": "Mathematics",
+   "n": 36,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Mathematics' fields, seed 20261101",
+   "style": [
+    "abbrev_journal",
+    "no_doi"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.7146/math.scand.a-11666",
+   "field": "math",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Strong limit theorems for supercritical imigration-branching processes.",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Soren",
+      "family": "Asmussen"
+     },
+     {
+      "given": "Heinrich",
+      "family": "Hering"
+     }
+    ],
+    "year": 1976,
+    "container": "MATHEMATICA SCANDINAVICA",
+    "short_container": "MATH. SCAND.",
+    "volume": "39",
+    "number": "",
+    "pages": "327",
+    "publisher": "Mathematical Sciences Publishers",
+    "doi": "10.7146/math.scand.a-11666",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2531399413",
+   "stratum": "article",
+   "openalex_field": "Mathematics",
+   "n": 37,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Mathematics' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1177/1049732303256357",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Participant Experiences of Talking Circles on Type 2 Diabetes in Two Northern Plains American Indian Tribes",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Roxanne",
+      "family": "Struthers"
+     },
+     {
+      "given": "Felicia Schanche",
+      "family": "Hodge"
+     },
+     {
+      "given": "Betty",
+      "family": "Geishirt-Cantrell"
+     },
+     {
+      "given": "Lorelei",
+      "family": "De Cora"
+     }
+    ],
+    "year": 2003,
+    "container": "Qualitative Health Research",
+    "short_container": "Qual Health Res",
+    "volume": "13",
+    "number": "8",
+    "pages": "1094-1115",
+    "publisher": "SAGE Publications",
+    "doi": "10.1177/1049732303256357",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2161134802",
+   "stratum": "article",
+   "openalex_field": "Social Sciences",
+   "n": 38,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1177/000494410605000106",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The Impact of Sound-Field Amplification in Mainstream Cross-Cultural Classrooms: Part 1 Educational Outcomes",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Robyn",
+      "family": "Massie"
+     },
+     {
+      "given": "Harvey",
+      "family": "Dillon"
+     }
+    ],
+    "year": 2006,
+    "container": "Australian Journal of Education",
+    "short_container": "Australian Journal of Education",
+    "volume": "50",
+    "number": "1",
+    "pages": "62-77",
+    "publisher": "SAGE Publications",
+    "doi": "10.1177/000494410605000106",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2143465163",
+   "stratum": "article",
+   "openalex_field": "Psychology",
+   "n": 39,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1111/j.1467-9655.2008.00493.x",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The antinomies of political evidence in post‐Apartheid Durban, South Africa",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Sharad",
+      "family": "Chari"
+     }
+    ],
+    "year": 2008,
+    "container": "Journal of the Royal Anthropological Institute",
+    "short_container": "Royal Anthropological Inst",
+    "volume": "14",
+    "number": "s1",
+    "pages": "",
+    "publisher": "Wiley",
+    "doi": "10.1111/j.1467-9655.2008.00493.x",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2008549339",
+   "stratum": "article",
+   "openalex_field": "Social Sciences",
+   "n": 40,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1515/cog-2016-0139",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Where metaphors really come from: Social factors as contextual influence in Hungarian teenagers’ metaphorical conceptualizations of life",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Réka",
+      "family": "Benczes"
+     },
+     {
+      "given": "Bence",
+      "family": "Ságvári"
+     }
+    ],
+    "year": 2018,
+    "container": "Cognitive Linguistics",
+    "short_container": "",
+    "volume": "29",
+    "number": "1",
+    "pages": "121-154",
+    "publisher": "Walter de Gruyter GmbH",
+    "doi": "10.1515/cog-2016-0139",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2804044341",
+   "stratum": "article",
+   "openalex_field": "Psychology",
+   "n": 41,
+   "overrides": {
+    "title": "Where metaphors really come from: Social factors as contextual influence in Hungarian teenagers’ metaphorical conceptualizations of life"
+   },
+   "extra_note": "The registry stores the title as 'Where metaphorsreallycome from: Social factors as contextual influence in Hungarian teenagers’ metaphorical conceptualizations of life'; the entry uses the form a careful author would write.",
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": [
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.trd.2019.05.010",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The potential of car advertising in pursuing transport policy goals: Code of good practices in the Spanish context",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "G.",
+      "family": "Pedros-Perez"
+     },
+     {
+      "given": "P.",
+      "family": "Martínez-Jiménez"
+     },
+     {
+      "given": "P.",
+      "family": "Aparicio-Martinez"
+     }
+    ],
+    "year": 2019,
+    "container": "Transportation Research Part D: Transport and Environment",
+    "short_container": "Transportation Research Part D: Transport and Environment",
+    "volume": "72",
+    "number": "",
+    "pages": "312-332",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.trd.2019.05.010",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2947209951",
+   "stratum": "article",
+   "openalex_field": "Business, Management and Accounting",
+   "n": 42,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": [
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1017/s026021051300003x",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Technocratic manager, imperial agent, or diplomatic champion? The IMF in the anarchical society",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "CHRISTIAN",
+      "family": "BRÜTSCH"
+     }
+    ],
+    "year": 2013,
+    "container": "Review of International Studies",
+    "short_container": "Rev. Int. Stud.",
+    "volume": "40",
+    "number": "2",
+    "pages": "207-226",
+    "publisher": "Cambridge University Press (CUP)",
+    "doi": "10.1017/s026021051300003x",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2078449690",
+   "stratum": "article",
+   "openalex_field": "Social Sciences",
+   "n": 43,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": [
+    "initials",
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1037/spq0000020",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 6,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Daily stressors in school-age children: A multilevel approach.",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Milagros",
+      "family": "Escobar"
+     },
+     {
+      "given": "Rafael",
+      "family": "Alarcón"
+     },
+     {
+      "given": "María J.",
+      "family": "Blanca"
+     },
+     {
+      "given": "F. Javier",
+      "family": "Fernández-Baena"
+     },
+     {
+      "given": "Jesús F.",
+      "family": "Rosel"
+     },
+     {
+      "given": "María Victoria",
+      "family": "Trianes"
+     }
+    ],
+    "year": 2013,
+    "container": "School Psychology Quarterly",
+    "short_container": "School Psychology Quarterly",
+    "volume": "28",
+    "number": "3",
+    "pages": "227-238",
+    "publisher": "American Psychological Association (APA)",
+    "doi": "10.1037/spq0000020",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2048788324",
+   "stratum": "article",
+   "openalex_field": "Psychology",
+   "n": 44,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": [
+    "and_others",
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.2307/1061183",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Breaks in Money Demand",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Janice Boucher",
+      "family": "Breuer"
+     },
+     {
+      "given": "Alston Flynn",
+      "family": "Lippert"
+     }
+    ],
+    "year": 1996,
+    "container": "Southern Economic Journal",
+    "short_container": "Southern Economic Journal",
+    "volume": "63",
+    "number": "2",
+    "pages": "496",
+    "publisher": "JSTOR",
+    "doi": "10.2307/1061183",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2325596809",
+   "stratum": "article",
+   "openalex_field": "Economics, Econometrics and Finance",
+   "n": 45,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": [
+    "no_doi"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1080/24694452.2018.1530585",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Unwrapping the OXO Cube: Josué de Castro and the Intellectual History of Metabolism",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Archie",
+      "family": "Davies"
+     }
+    ],
+    "year": 2019,
+    "container": "Annals of the American Association of Geographers",
+    "short_container": "Annals of the American Association of Geographers",
+    "volume": "109",
+    "number": "3",
+    "pages": "837-856",
+    "publisher": "Informa UK Limited",
+    "doi": "10.1080/24694452.2018.1530585",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2921913458",
+   "stratum": "article",
+   "openalex_field": "Social Sciences",
+   "n": 46,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": [
+    "initials",
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.irfa.2021.101858",
+   "field": "social",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The impacts of investors' sentiments on stock returns using fintech approaches",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Hao",
+      "family": "Fang"
+     },
+     {
+      "given": "Chien-Ping",
+      "family": "Chung"
+     },
+     {
+      "given": "Yang-Cheng",
+      "family": "Lu"
+     },
+     {
+      "given": "Yen-Hsien",
+      "family": "Lee"
+     },
+     {
+      "given": "Wen-Hao",
+      "family": "Wang"
+     }
+    ],
+    "year": 2021,
+    "container": "International Review of Financial Analysis",
+    "short_container": "International Review of Financial Analysis",
+    "volume": "77",
+    "number": "",
+    "pages": "101858",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.irfa.2021.101858",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W3192928376",
+   "stratum": "article",
+   "openalex_field": "Economics, Econometrics and Finance",
+   "n": 47,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1080/1554480x.2017.1283993",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The fluid infusion of musical culture: embodied experiences in a grade one classroom",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Shelley M.",
+      "family": "Griffin"
+     }
+    ],
+    "year": 2017,
+    "container": "Pedagogies: An International Journal",
+    "short_container": "Pedagogies: An International Journal",
+    "volume": "12",
+    "number": "1",
+    "pages": "21-40",
+    "publisher": "Informa UK Limited",
+    "doi": "10.1080/1554480x.2017.1283993",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2593013956",
+   "stratum": "article",
+   "openalex_field": "Arts and Humanities",
+   "n": 48,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Arts and Humanities' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.12975/pp2373-2381",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "An analysis of the art aspect of folk music",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Fikri",
+      "family": "Soysal"
+     }
+    ],
+    "year": 2020,
+    "container": "Rast Müzikoloji Dergisi",
+    "short_container": "rastmd",
+    "volume": "8",
+    "number": "1",
+    "pages": "2373-2381",
+    "publisher": "Rast Musicology Journal",
+    "doi": "10.12975/pp2373-2381",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W3044048484",
+   "stratum": "article",
+   "openalex_field": "Arts and Humanities",
+   "n": 49,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Arts and Humanities' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.5840/saap1989175230",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "John Dewey's Theory of Art, Experience and Nature",
+    "subtitle": "The Horizons of Feeling",
+    "authors": [
+     {
+      "given": "Michael",
+      "family": "Eldridge"
+     },
+     {
+      "literal": "Society for the Advancement of American Philosophy"
+     }
+    ],
+    "year": 1989,
+    "container": "Newsletter of the Society for the Advancement of American Philosophy",
+    "short_container": "",
+    "volume": "17",
+    "number": "52",
+    "pages": "12-14",
+    "publisher": "Philosophy Documentation Center",
+    "doi": "10.5840/saap1989175230",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2320029513",
+   "stratum": "article",
+   "openalex_field": "Arts and Humanities",
+   "n": 50,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Arts and Humanities' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.6018/ijes/2012/2/161811",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Performance stylistics: Deleuze and Guattari, poetry and (corpus) linguistics",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Kieran",
+      "family": "O’Halloran"
+     }
+    ],
+    "year": 2012,
+    "container": "International Journal of English Studies",
+    "short_container": "ijes",
+    "volume": "12",
+    "number": "2",
+    "pages": "171",
+    "publisher": "Servicio de Publicaciones de la Universidad de Murcia",
+    "doi": "10.6018/ijes/2012/2/161811",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2156512386",
+   "stratum": "article",
+   "openalex_field": "Arts and Humanities",
+   "n": 51,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Arts and Humanities' fields, seed 20261101",
+   "style": [
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.3390/su132112213",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Post-Syrian War Residential Heritage Transformations in the Old City of Aleppo: Socio-Cultural Sustainability Aspects",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Christine",
+      "family": "Kousa"
+     },
+     {
+      "given": "Uta",
+      "family": "Pottgiesser"
+     },
+     {
+      "given": "Barbara",
+      "family": "Lubelli"
+     }
+    ],
+    "year": 2021,
+    "container": "Sustainability",
+    "short_container": "Sustainability",
+    "volume": "13",
+    "number": "21",
+    "pages": "12213",
+    "publisher": "MDPI AG",
+    "doi": "10.3390/su132112213",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W3213054848",
+   "stratum": "article",
+   "openalex_field": "Arts and Humanities",
+   "n": 52,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Arts and Humanities' fields, seed 20261101",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1093/bjps/27.1.1",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Can a Theory Answer more Questions than one of its Rivals?",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "ADOLF",
+      "family": "GRÜNBAUM"
+     }
+    ],
+    "year": 1976,
+    "container": "The British Journal for the Philosophy of Science",
+    "short_container": "The British Journal for the Philosophy of Science",
+    "volume": "27",
+    "number": "1",
+    "pages": "1-23",
+    "publisher": "University of Chicago Press",
+    "doi": "10.1093/bjps/27.1.1",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2053221019",
+   "stratum": "article",
+   "openalex_field": "Arts and Humanities",
+   "n": 53,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Arts and Humanities' fields, seed 20261101",
+   "style": [
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1046/j.0011-1562.2003.00541.x",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The write kind of knowledge in English",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Bethan",
+      "family": "Marshall"
+     }
+    ],
+    "year": 2003,
+    "container": "Critical Quarterly",
+    "short_container": "Critical Quarterly",
+    "volume": "45",
+    "number": "4",
+    "pages": "113-125",
+    "publisher": "Wiley",
+    "doi": "10.1046/j.0011-1562.2003.00541.x",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2171406021",
+   "stratum": "article",
+   "openalex_field": "Arts and Humanities",
+   "n": 54,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Arts and Humanities' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1080/08935698808657785",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "History and Class Consciousness as an “Unfinished Project”",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Fredric",
+      "family": "Jameson"
+     }
+    ],
+    "year": 1988,
+    "container": "Rethinking Marxism",
+    "short_container": "Rethinking Marxism",
+    "volume": "1",
+    "number": "1",
+    "pages": "49-72",
+    "publisher": "Informa UK Limited",
+    "doi": "10.1080/08935698808657785",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2041680629",
+   "stratum": "article",
+   "openalex_field": "Arts and Humanities",
+   "n": 55,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Arts and Humanities' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.jas.2015.01.021",
+   "field": "humanities",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Steatite-tempered pottery of the Stroke Ornamented Ware culture from Silesia (SW Poland): a Neolithic innovation in ceramic technology",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Michał P.",
+      "family": "Borowski"
+     },
+     {
+      "given": "Mirosław",
+      "family": "Furmanek"
+     },
+     {
+      "given": "Krzysztof",
+      "family": "Czarniak"
+     },
+     {
+      "given": "Piotr",
+      "family": "Gunia"
+     }
+    ],
+    "year": 2015,
+    "container": "Journal of Archaeological Science",
+    "short_container": "Journal of Archaeological Science",
+    "volume": "57",
+    "number": "",
+    "pages": "207-222",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.jas.2015.01.021",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W1963484915",
+   "stratum": "article",
+   "openalex_field": "Arts and Humanities",
+   "n": 56,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Arts and Humanities' fields, seed 20261101",
+   "style": [
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1039/d1ra05063j",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 8,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Ruthenium(IV) N-confused porphyrin μ-oxo-bridged dimers: acid-responsive molecular rotors",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Osamu",
+      "family": "Iwanaga"
+     },
+     {
+      "given": "Kazuki",
+      "family": "Fukuyama"
+     },
+     {
+      "given": "Shigeki",
+      "family": "Mori"
+     },
+     {
+      "given": "Jun Tae",
+      "family": "Song"
+     },
+     {
+      "given": "Tatsumi",
+      "family": "Ishihara"
+     },
+     {
+      "given": "Takaaki",
+      "family": "Miyazaki"
+     },
+     {
+      "given": "Masatoshi",
+      "family": "Ishida"
+     },
+     {
+      "given": "Hiroyuki",
+      "family": "Furuta"
+     }
+    ],
+    "year": 2021,
+    "container": "RSC Advances",
+    "short_container": "RSC Adv.",
+    "volume": "11",
+    "number": "40",
+    "pages": "24575-24579",
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "doi": "10.1039/d1ra05063j",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W3178970126",
+   "stratum": "article",
+   "openalex_field": "Materials Science",
+   "n": 57,
+   "overrides": {
+    "title": "Ruthenium(IV) N-confused porphyrin μ-oxo-bridged dimers: acid-responsive molecular rotors"
+   },
+   "extra_note": "The registry stores the title as 'Ruthenium( iv ) N-confused porphyrin μ-oxo-bridged dimers: acid-responsive molecular rotors'; the entry uses the form a careful author would write.",
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields, seed 20261101",
+   "style": [
+    "and_others",
+    "initials",
+    "latex_accents",
+    "no_doi"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1038/s41598-023-31297-1",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 5,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Deep learning pose estimation for multi-cattle lameness detection",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Shaun",
+      "family": "Barney"
+     },
+     {
+      "given": "Satnam",
+      "family": "Dlay"
+     },
+     {
+      "given": "Andrew",
+      "family": "Crowe"
+     },
+     {
+      "given": "Ilias",
+      "family": "Kyriazakis"
+     },
+     {
+      "given": "Matthew",
+      "family": "Leach"
+     }
+    ],
+    "year": 2023,
+    "container": "Scientific Reports",
+    "short_container": "Sci Rep",
+    "volume": "13",
+    "number": "1",
+    "pages": "4499",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1038/s41598-023-31297-1",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W4327857464",
+   "stratum": "article",
+   "openalex_field": "Agricultural and Biological Sciences",
+   "n": 58,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.apsusc.2022.155454",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 7,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Defect-engineered plasmonic Z-scheme heterostructures for superior photoelectrochemical water oxidation",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Shuoren",
+      "family": "Li"
+     },
+     {
+      "given": "Ping",
+      "family": "Ge"
+     },
+     {
+      "given": "Tianxiang",
+      "family": "Hang"
+     },
+     {
+      "given": "Hui",
+      "family": "Zhou"
+     },
+     {
+      "given": "Feifei",
+      "family": "Guo"
+     },
+     {
+      "given": "Yueyue",
+      "family": "Wu"
+     },
+     {
+      "given": "Chuanping",
+      "family": "Li"
+     }
+    ],
+    "year": 2023,
+    "container": "Applied Surface Science",
+    "short_container": "Applied Surface Science",
+    "volume": "610",
+    "number": "",
+    "pages": "155454",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.apsusc.2022.155454",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W4307863280",
+   "stratum": "article",
+   "openalex_field": "Energy",
+   "n": 59,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1111/jipb.13783",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 15,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "The receptor‐like cytoplasmic kinase OsBSK1‐2 regulates immunity via an HLH/bHLH complex",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Xun",
+      "family": "Wang"
+     },
+     {
+      "given": "Zhijuan",
+      "family": "Diao"
+     },
+     {
+      "given": "Chang",
+      "family": "Cao"
+     },
+     {
+      "given": "Yan",
+      "family": "Liu"
+     },
+     {
+      "given": "Na",
+      "family": "Xia"
+     },
+     {
+      "given": "Youlian",
+      "family": "Zhang"
+     },
+     {
+      "given": "Ling",
+      "family": "Lu"
+     },
+     {
+      "given": "Fanyu",
+      "family": "Kong"
+     },
+     {
+      "given": "Houli",
+      "family": "Zhou"
+     },
+     {
+      "given": "Lizhe",
+      "family": "Chen"
+     },
+     {
+      "given": "Jing",
+      "family": "Zhang"
+     },
+     {
+      "given": "Bangsheng",
+      "family": "Wang"
+     },
+     {
+      "given": "Ronghua",
+      "family": "Huang"
+     },
+     {
+      "given": "Dingzhong",
+      "family": "Tang"
+     },
+     {
+      "given": "Shengping",
+      "family": "Li"
+     }
+    ],
+    "year": 2024,
+    "container": "Journal of Integrative Plant Biology",
+    "short_container": "JIPB",
+    "volume": "66",
+    "number": "12",
+    "pages": "2754-2771",
+    "publisher": "Wiley",
+    "doi": "10.1111/jipb.13783",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W4403299525",
+   "stratum": "article",
+   "openalex_field": "Agricultural and Biological Sciences",
+   "n": 60,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields, seed 20261101",
+   "style": [
+    "and_others"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/0022-3697(78)90193-2",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Pressure-volume-temperature relations for crystalline benzene",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "P.",
+      "family": "Figuière"
+     },
+     {
+      "given": "A.H.",
+      "family": "Fuchs"
+     },
+     {
+      "given": "M.",
+      "family": "Ghelfenstein"
+     },
+     {
+      "given": "H.",
+      "family": "Szwarc"
+     }
+    ],
+    "year": 1978,
+    "container": "Journal of Physics and Chemistry of Solids",
+    "short_container": "Journal of Physics and Chemistry of Solids",
+    "volume": "39",
+    "number": "1",
+    "pages": "19-24",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/0022-3697(78)90193-2",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2055756267",
+   "stratum": "article",
+   "openalex_field": "Earth and Planetary Sciences",
+   "n": 61,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields, seed 20261101",
+   "style": [
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1080/02773818708085262",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Analysis of Lignin and Chlorolignin Residues in a Beech Xylan Fraction by Pyrolysis Gas Chromatography Mass Spectrometry",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Aloys D.",
+      "family": "Pouwels"
+     },
+     {
+      "given": "Jaap J.",
+      "family": "Boon"
+     }
+    ],
+    "year": 1987,
+    "container": "Journal of Wood Chemistry and Technology",
+    "short_container": "Journal of Wood Chemistry and Technology",
+    "volume": "7",
+    "number": "2",
+    "pages": "197-213",
+    "publisher": "Informa UK Limited",
+    "doi": "10.1080/02773818708085262",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2030641455",
+   "stratum": "article",
+   "openalex_field": "Engineering",
+   "n": 62,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/0022-2011(75)90098-1",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Virulence of entomopathogenic Fungi (Fungi imperfecti) for the adults of Acanthoscelides obtectus (Coleoptera: Bruchidae)",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "P.",
+      "family": "Ferron"
+     },
+     {
+      "given": "P.H.",
+      "family": "Robert"
+     }
+    ],
+    "year": 1975,
+    "container": "Journal of Invertebrate Pathology",
+    "short_container": "Journal of Invertebrate Pathology",
+    "volume": "25",
+    "number": "3",
+    "pages": "379-388",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/0022-2011(75)90098-1",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2049121519",
+   "stratum": "article",
+   "openalex_field": "Agricultural and Biological Sciences",
+   "n": 63,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields, seed 20261101",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1016/j.wasman.2015.12.027",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Demolition waste generation for development of a regional management chain model",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Miguel",
+      "family": "Bernardo"
+     },
+     {
+      "given": "Marta Castilho",
+      "family": "Gomes"
+     },
+     {
+      "given": "Jorge",
+      "family": "de Brito"
+     }
+    ],
+    "year": 2016,
+    "container": "Waste Management",
+    "short_container": "Waste Management",
+    "volume": "49",
+    "number": "",
+    "pages": "156-169",
+    "publisher": "Elsevier BV",
+    "doi": "10.1016/j.wasman.2015.12.027",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2265235233",
+   "stratum": "article",
+   "openalex_field": "Engineering",
+   "n": 64,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1364/oe.25.029260",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 6,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Investigation of laser-induced damage threshold improvement mechanism during ion beam sputtering of fused silica",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Mingjin",
+      "family": "Xu"
+     },
+     {
+      "given": "Feng",
+      "family": "Shi"
+     },
+     {
+      "given": "Lin",
+      "family": "Zhou"
+     },
+     {
+      "given": "Yifan",
+      "family": "Dai"
+     },
+     {
+      "given": "Xiaoqiang",
+      "family": "Peng"
+     },
+     {
+      "given": "Wenlin",
+      "family": "Liao"
+     }
+    ],
+    "year": 2017,
+    "container": "Optics Express",
+    "short_container": "Opt. Express",
+    "volume": "25",
+    "number": "23",
+    "pages": "29260",
+    "publisher": "Optica Publishing Group",
+    "doi": "10.1364/oe.25.029260",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2767437006",
+   "stratum": "article",
+   "openalex_field": "Engineering",
+   "n": 65,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields, seed 20261101",
+   "style": [
+    "and_others",
+    "abbrev_journal"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/s10921-014-0231-2",
+   "field": "other",
+   "entry_type": "article",
+   "n_authors": 6,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "journal-article",
+    "title": "Optimized Dynamic Acousto-elasticity Applied to Fatigue Damage and Stress Corrosion Cracking",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Sylvain",
+      "family": "Haupert"
+     },
+     {
+      "given": "Jacques",
+      "family": "Rivière"
+     },
+     {
+      "given": "Brian",
+      "family": "Anderson"
+     },
+     {
+      "given": "Yoshikazu",
+      "family": "Ohara"
+     },
+     {
+      "given": "T. J.",
+      "family": "Ulrich"
+     },
+     {
+      "given": "Paul",
+      "family": "Johnson"
+     }
+    ],
+    "year": 2014,
+    "container": "Journal of Nondestructive Evaluation",
+    "short_container": "J Nondestruct Eval",
+    "volume": "33",
+    "number": "2",
+    "pages": "226-238",
+    "publisher": "Springer Science and Business Media LLC",
+    "doi": "10.1007/s10921-014-0231-2",
+    "isbn": ""
+   },
+   "openalex": "https://openalex.org/W2105123049",
+   "stratum": "article",
+   "openalex_field": "Engineering",
+   "n": 66,
+   "sampled": "OpenAlex random sample of journal articles with a DOI and more than 4 citations in the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields, seed 20261101",
+   "style": [
+    "latex_accents",
+    "abbrev_journal",
+    "no_doi"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1093/acprof:oso/9780190277987.001.0001",
+   "field": "humanities",
+   "entry_type": "book",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "edited-book",
+    "title": "The Emergence of Sin",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Matthew",
+      "family": "Croasmun"
+     }
+    ],
+    "year": 2017,
+    "container": "Oxford Scholarship Online",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Oxford University Press",
+    "doi": "10.1093/acprof:oso/9780190277987.001.0001",
+    "isbn": "9780190277987"
+   },
+   "openalex": "https://openalex.org/W4250804310",
+   "stratum": "book",
+   "openalex_field": "Arts and Humanities",
+   "n": 67,
+   "sampled": "OpenAlex random sample of books with a DOI and more than 4 citations in the 'Arts and Humanities' fields, seed 20261101",
+   "style": [
+    "initials",
+    "no_doi",
+    "no_isbn"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/978-3-030-68060-2",
+   "field": "social",
+   "entry_type": "book",
+   "n_authors": 4,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book",
+    "title": "Arts-Based Methods for Research with Children",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Anna",
+      "family": "Hickey-Moody"
+     },
+     {
+      "given": "Christine",
+      "family": "Horn"
+     },
+     {
+      "given": "Marissa",
+      "family": "Willcox"
+     },
+     {
+      "given": "Eloise",
+      "family": "Florence"
+     }
+    ],
+    "year": 2021,
+    "container": "Studies in Childhood and Youth",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Springer International Publishing",
+    "doi": "10.1007/978-3-030-68060-2",
+    "isbn": "9783030680596"
+   },
+   "openalex": "https://openalex.org/W3130922613",
+   "stratum": "book",
+   "openalex_field": "Social Sciences",
+   "n": 68,
+   "sampled": "OpenAlex random sample of books with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": [
+    "initials",
+    "no_doi"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/978-3-030-00241-1",
+   "field": "math",
+   "entry_type": "book",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book",
+    "title": "Operator Relations Characterizing Derivatives",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Hermann",
+      "family": "König"
+     },
+     {
+      "given": "Vitali",
+      "family": "Milman"
+     }
+    ],
+    "year": 2018,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Springer International Publishing",
+    "doi": "10.1007/978-3-030-00241-1",
+    "isbn": "9783030002404"
+   },
+   "openalex": "https://openalex.org/W2894990587",
+   "stratum": "book",
+   "openalex_field": "Mathematics",
+   "n": 69,
+   "sampled": "OpenAlex random sample of books with a DOI and more than 4 citations in the 'Mathematics' fields, seed 20261101",
+   "style": [
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/978-3-030-23788-2",
+   "field": "math",
+   "entry_type": "book",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book",
+    "title": "Introduction to Numerical Methods for Variational Problems",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Hans Petter",
+      "family": "Langtangen"
+     },
+     {
+      "given": "Kent-Andre",
+      "family": "Mardal"
+     }
+    ],
+    "year": 2019,
+    "container": "Texts in Computational Science and Engineering",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "Springer International Publishing",
+    "doi": "10.1007/978-3-030-23788-2",
+    "isbn": "9783030237875"
+   },
+   "openalex": "https://openalex.org/W3144639659",
+   "stratum": "book",
+   "openalex_field": "Engineering",
+   "field_sampled": "other",
+   "n": 70,
+   "extra_note": "Sampled under the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields; we file it under math because of its subject.",
+   "sampled": "OpenAlex random sample of books with a DOI and more than 4 citations in the 'Chemistry, Materials, Earth, Environment, Energy, Engineering, Agriculture' fields, seed 20261101",
+   "style": [
+    "initials",
+    "no_isbn"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1057/9780230244900_4",
+   "field": "humanities",
+   "entry_type": "incollection",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book-chapter",
+    "title": "Creole Europe: The Reflection of a Reflection",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Christopher",
+      "family": "Pinney"
+     }
+    ],
+    "year": 2009,
+    "container": "Settler and Creole Reenactment",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "55-78",
+    "publisher": "Palgrave Macmillan UK",
+    "doi": "10.1057/9780230244900_4",
+    "isbn": "9781349999828"
+   },
+   "openalex": "https://openalex.org/W2504040543",
+   "stratum": "book-chapter",
+   "openalex_field": "Arts and Humanities",
+   "n": 71,
+   "sampled": "OpenAlex random sample of book chapters with a DOI and more than 4 citations in the 'Arts and Humanities' fields, seed 20261101",
+   "style": [
+    "no_doi"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/978-3-031-13013-7_17",
+   "field": "social",
+   "entry_type": "incollection",
+   "n_authors": 2,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book-chapter",
+    "title": "Connecting Officer Appearance with Officer Safety: A Survey of Police Officers’ Perceptions of Uniforms and Accoutrements",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Rylan",
+      "family": "Simpson"
+     },
+     {
+      "given": "Elise",
+      "family": "Sargeant"
+     }
+    ],
+    "year": 2022,
+    "container": "Policing & Firearms",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "385-403",
+    "publisher": "Springer International Publishing",
+    "doi": "10.1007/978-3-031-13013-7_17",
+    "isbn": "9783031130120"
+   },
+   "openalex": "https://openalex.org/W4307690752",
+   "stratum": "book-chapter",
+   "openalex_field": "Social Sciences",
+   "n": 72,
+   "sampled": "OpenAlex random sample of book chapters with a DOI and more than 4 citations in the 'Social Sciences, Psychology, Economics, Business' fields, seed 20261101",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.4018/979-8-3693-7909-7.ch014",
+   "field": "cs",
+   "entry_type": "incollection",
+   "n_authors": 3,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book-chapter",
+    "title": "The Strategic Role of Artificial Intelligence (AI) in Service Delivery Systems",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Ipseeta",
+      "family": "Satpathy"
+     },
+     {
+      "given": "Arpita",
+      "family": "Nayak"
+     },
+     {
+      "given": "V.",
+      "family": "Jain"
+     }
+    ],
+    "year": 2024,
+    "container": "AI Innovations in Service and Tourism Marketing",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "291-310",
+    "publisher": "IGI Global",
+    "doi": "10.4018/979-8-3693-7909-7.ch014",
+    "isbn": "9798369379097",
+    "series": "Advances in Hospitality, Tourism, and the Services Industry"
+   },
+   "openalex": "https://openalex.org/W4401216937",
+   "stratum": "book-chapter",
+   "openalex_field": "Computer Science",
+   "n": 73,
+   "sampled": "OpenAlex random sample of book chapters with a DOI and more than 4 citations in the 'Computer Science' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/978-1-4615-1745-0_10",
+   "field": "biomed",
+   "entry_type": "incollection",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book-chapter",
+    "title": "Inhibition of Host Cell Macromolecular Synthesis following Togavirus Infection",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Bunsiti",
+      "family": "Simizu"
+     }
+    ],
+    "year": 1984,
+    "container": "Viral Cytopathology",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "465-499",
+    "publisher": "Springer US",
+    "doi": "10.1007/978-1-4615-1745-0_10",
+    "isbn": "9781461357025"
+   },
+   "openalex": "https://openalex.org/W110768925",
+   "stratum": "book-chapter",
+   "openalex_field": "Medicine",
+   "n": 74,
+   "sampled": "OpenAlex random sample of book chapters with a DOI and more than 4 citations in the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "crossref",
+   "ident": "10.1007/1-84628-007-9_3",
+   "field": "physics",
+   "entry_type": "incollection",
+   "n_authors": 1,
+   "meta": {
+    "registry": "crossref",
+    "crossref_type": "book-chapter",
+    "title": "Data Acquisition and Performance Characterization in PET",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Dale L",
+      "family": "Bailey"
+     }
+    ],
+    "year": 2005,
+    "container": "Positron Emission Tomography",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "41-62",
+    "publisher": "Springer London",
+    "doi": "10.1007/1-84628-007-9_3",
+    "isbn": "9781852337988"
+   },
+   "openalex": "https://openalex.org/W2154460718",
+   "stratum": "book-chapter",
+   "openalex_field": "Physics and Astronomy",
+   "n": 75,
+   "sampled": "OpenAlex random sample of book chapters with a DOI and more than 4 citations in the 'Physics and Astronomy' fields, seed 20261101",
+   "style": []
+  },
+  {
+   "registry": "arxiv",
+   "ident": "2006.01868",
+   "field": "cs",
+   "entry_type": "misc",
+   "n_authors": 3,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Convergence and Stability of Graph Convolutional Networks on Large Random Graphs",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Nicolas",
+      "family": "Keriven"
+     },
+     {
+      "given": "Alberto",
+      "family": "Bietti"
+     },
+     {
+      "given": "Samuel",
+      "family": "Vaiter"
+     }
+    ],
+    "year": 2020,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "2006.01868",
+    "arxiv_class": "stat.ML"
+   },
+   "stratum": "arxiv",
+   "n": 76,
+   "sampled": "OpenAlex random sample of works whose only location is arXiv, seed 20261101; the arXiv record has no DOI and no journal reference",
+   "style": [
+    "initials",
+    "double_brace",
+    "arxiv_journal"
+   ]
+  },
+  {
+   "registry": "arxiv",
+   "ident": "2009.07224",
+   "field": "math",
+   "entry_type": "misc",
+   "n_authors": 9,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Hermitian K-theory for stable $\\infty$-categories II: Cobordism categories and additivity",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Baptiste",
+      "family": "Calmès"
+     },
+     {
+      "given": "Emanuele",
+      "family": "Dotto"
+     },
+     {
+      "given": "Yonatan",
+      "family": "Harpaz"
+     },
+     {
+      "given": "Fabian",
+      "family": "Hebestreit"
+     },
+     {
+      "given": "Markus",
+      "family": "Land"
+     },
+     {
+      "given": "Kristian",
+      "family": "Moi"
+     },
+     {
+      "given": "Denis",
+      "family": "Nardin"
+     },
+     {
+      "given": "Thomas",
+      "family": "Nikolaus"
+     },
+     {
+      "given": "Wolfgang",
+      "family": "Steimle"
+     }
+    ],
+    "year": 2020,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "2009.07224",
+    "arxiv_class": "math.KT"
+   },
+   "stratum": "arxiv",
+   "n": 77,
+   "sampled": "OpenAlex random sample of works whose only location is arXiv, seed 20261101; the arXiv record has no DOI and no journal reference",
+   "style": [
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "arxiv",
+   "ident": "1803.05701",
+   "field": "physics",
+   "entry_type": "misc",
+   "n_authors": 158,
+   "meta": {
+    "registry": "arxiv",
+    "title": "The $^{7}$Be(n,p)$^{7}$Li reaction and the Cosmological Lithium Problem: measurement of the cross section in a wide energy range at n_TOF (CERN)",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "L.",
+      "family": "Damone"
+     },
+     {
+      "given": "M.",
+      "family": "Barbagallo"
+     },
+     {
+      "given": "M.",
+      "family": "Mastromarco"
+     },
+     {
+      "given": "A.",
+      "family": "Mengoni"
+     },
+     {
+      "given": "L.",
+      "family": "Cosentino"
+     },
+     {
+      "given": "E.",
+      "family": "Maugeri"
+     },
+     {
+      "given": "S.",
+      "family": "Heinitz"
+     },
+     {
+      "given": "D.",
+      "family": "Schumann"
+     },
+     {
+      "given": "R.",
+      "family": "Dressler"
+     },
+     {
+      "given": "F.",
+      "family": "Käppeler"
+     },
+     {
+      "given": "N.",
+      "family": "Colonna"
+     },
+     {
+      "given": "P.",
+      "family": "Finocchiaro"
+     },
+     {
+      "given": "J.",
+      "family": "Andrzejewski"
+     },
+     {
+      "given": "J.",
+      "family": "Perkowski"
+     },
+     {
+      "given": "A.",
+      "family": "Gawlik"
+     },
+     {
+      "given": "O.",
+      "family": "Aberle"
+     },
+     {
+      "given": "S.",
+      "family": "Altstadt"
+     },
+     {
+      "given": "M.",
+      "family": "Ayranov"
+     },
+     {
+      "given": "L.",
+      "family": "Audouin"
+     },
+     {
+      "given": "M.",
+      "family": "Bacak"
+     },
+     {
+      "given": "J.",
+      "family": "Balibrea-Correa"
+     },
+     {
+      "given": "J.",
+      "family": "Ballof"
+     },
+     {
+      "given": "V.",
+      "family": "Bécares"
+     },
+     {
+      "given": "F.",
+      "family": "Bečvář"
+     },
+     {
+      "given": "C.",
+      "family": "Beinrucker"
+     },
+     {
+      "given": "G.",
+      "family": "Bellia"
+     },
+     {
+      "given": "A. P.",
+      "family": "Bernardes"
+     },
+     {
+      "given": "E.",
+      "family": "Berthoumieux"
+     },
+     {
+      "given": "J.",
+      "family": "Billowes"
+     },
+     {
+      "given": "M. J. G.",
+      "family": "Borge"
+     },
+     {
+      "given": "D.",
+      "family": "Bosnar"
+     },
+     {
+      "given": "A.",
+      "family": "Brown"
+     },
+     {
+      "given": "M.",
+      "family": "Brugger"
+     },
+     {
+      "given": "M.",
+      "family": "Busso"
+     },
+     {
+      "given": "M.",
+      "family": "Caamaño"
+     },
+     {
+      "given": "F.",
+      "family": "Calviño"
+     },
+     {
+      "given": "M.",
+      "family": "Calviani"
+     },
+     {
+      "given": "D.",
+      "family": "Cano-Ott"
+     },
+     {
+      "given": "R.",
+      "family": "Cardella"
+     },
+     {
+      "given": "A.",
+      "family": "Casanovas"
+     },
+     {
+      "given": "D. M.",
+      "family": "Castelluccio"
+     },
+     {
+      "given": "R.",
+      "family": "Catherall"
+     },
+     {
+      "given": "F.",
+      "family": "Cerutti"
+     },
+     {
+      "given": "Y. H.",
+      "family": "Chen"
+     },
+     {
+      "given": "E.",
+      "family": "Chiaveri"
+     },
+     {
+      "given": "G.",
+      "family": "Cortés"
+     },
+     {
+      "given": "M. A.",
+      "family": "Cortés-Giraldo"
+     },
+     {
+      "given": "S.",
+      "family": "Cristallo"
+     },
+     {
+      "given": "M.",
+      "family": "Diakaki"
+     },
+     {
+      "given": "M.",
+      "family": "Dietz"
+     },
+     {
+      "given": "C.",
+      "family": "Domingo-Pardo"
+     },
+     {
+      "given": "A.",
+      "family": "Dorsival"
+     },
+     {
+      "given": "E.",
+      "family": "Dupont"
+     },
+     {
+      "given": "I.",
+      "family": "Duran"
+     },
+     {
+      "given": "B.",
+      "family": "Fernandez-Dominguez"
+     },
+     {
+      "given": "A.",
+      "family": "Ferrari"
+     },
+     {
+      "given": "P.",
+      "family": "Ferreira"
+     },
+     {
+      "given": "W.",
+      "family": "Furman"
+     },
+     {
+      "given": "S.",
+      "family": "Ganesan"
+     },
+     {
+      "given": "A.",
+      "family": "García-Rio"
+     },
+     {
+      "given": "S.",
+      "family": "Gilardoni"
+     },
+     {
+      "given": "T.",
+      "family": "Glodariu"
+     },
+     {
+      "given": "K.",
+      "family": "Göbel"
+     },
+     {
+      "given": "I. F.",
+      "family": "Gonçalves"
+     },
+     {
+      "given": "E.",
+      "family": "González-Romero"
+     },
+     {
+      "given": "T. D.",
+      "family": "Goodacre"
+     },
+     {
+      "given": "E.",
+      "family": "Griesmayer"
+     },
+     {
+      "given": "C.",
+      "family": "Guerrero"
+     },
+     {
+      "given": "F.",
+      "family": "Gunsing"
+     },
+     {
+      "given": "H.",
+      "family": "Harada"
+     },
+     {
+      "given": "T.",
+      "family": "Heftrich"
+     },
+     {
+      "given": "J.",
+      "family": "Heyse"
+     },
+     {
+      "given": "D. G.",
+      "family": "Jenkins"
+     },
+     {
+      "given": "E.",
+      "family": "Jericha"
+     },
+     {
+      "given": "K.",
+      "family": "Johnston"
+     },
+     {
+      "given": "Y.",
+      "family": "Kadi"
+     },
+     {
+      "given": "A.",
+      "family": "Kalamara"
+     },
+     {
+      "given": "T.",
+      "family": "Katabuchi"
+     },
+     {
+      "given": "P.",
+      "family": "Kavrigin"
+     },
+     {
+      "given": "A.",
+      "family": "Kimura"
+     },
+     {
+      "given": "N.",
+      "family": "Kivel"
+     },
+     {
+      "given": "U.",
+      "family": "Kohester"
+     },
+     {
+      "given": "M.",
+      "family": "Kokkoris"
+     },
+     {
+      "given": "M.",
+      "family": "Krtička"
+     },
+     {
+      "given": "D.",
+      "family": "Kurtulgil"
+     },
+     {
+      "given": "E.",
+      "family": "Leal-Cidoncha"
+     },
+     {
+      "given": "C.",
+      "family": "Lederer-Woods"
+     },
+     {
+      "given": "H.",
+      "family": "Leeb"
+     },
+     {
+      "given": "J.",
+      "family": "Lerendegui-Marco"
+     },
+     {
+      "given": "S. Lo",
+      "family": "Meo"
+     },
+     {
+      "given": "S. J.",
+      "family": "Lonsdale"
+     },
+     {
+      "given": "R.",
+      "family": "Losito"
+     },
+     {
+      "given": "D.",
+      "family": "Macina"
+     },
+     {
+      "given": "J.",
+      "family": "Marganiec"
+     },
+     {
+      "given": "B.",
+      "family": "Marsh"
+     },
+     {
+      "given": "T.",
+      "family": "Martíne"
+     },
+     {
+      "given": "J. G. Martins",
+      "family": "Correia"
+     },
+     {
+      "given": "A.",
+      "family": "Masi"
+     },
+     {
+      "given": "C.",
+      "family": "Massimi"
+     },
+     {
+      "given": "P.",
+      "family": "Mastinu"
+     },
+     {
+      "given": "F.",
+      "family": "Matteucci"
+     },
+     {
+      "given": "A.",
+      "family": "Mazzone"
+     },
+     {
+      "given": "E.",
+      "family": "Mendoza"
+     },
+     {
+      "given": "P. M.",
+      "family": "Milazzo"
+     },
+     {
+      "given": "F.",
+      "family": "Mingrone"
+     },
+     {
+      "given": "M.",
+      "family": "Mirea"
+     },
+     {
+      "given": "A.",
+      "family": "Musumarra"
+     },
+     {
+      "given": "A.",
+      "family": "Negret"
+     },
+     {
+      "given": "R.",
+      "family": "Nolte"
+     },
+     {
+      "given": "A.",
+      "family": "Oprea"
+     },
+     {
+      "given": "N.",
+      "family": "Patronis"
+     },
+     {
+      "given": "A.",
+      "family": "Pavlik"
+     },
+     {
+      "given": "L.",
+      "family": "Piersanti"
+     },
+     {
+      "given": "M.",
+      "family": "Piscopo"
+     },
+     {
+      "given": "A.",
+      "family": "Plompen"
+     },
+     {
+      "given": "I.",
+      "family": "Porras"
+     },
+     {
+      "given": "J.",
+      "family": "Praena"
+     },
+     {
+      "given": "J. M.",
+      "family": "Quesada"
+     },
+     {
+      "given": "D.",
+      "family": "Radeck"
+     },
+     {
+      "given": "K.",
+      "family": "Rajeev"
+     },
+     {
+      "given": "T.",
+      "family": "Rauscher"
+     },
+     {
+      "given": "R.",
+      "family": "Reifarth"
+     },
+     {
+      "given": "A.",
+      "family": "Riego-Perez"
+     },
+     {
+      "given": "S.",
+      "family": "Rothe"
+     },
+     {
+      "given": "P.",
+      "family": "Rout"
+     },
+     {
+      "given": "C.",
+      "family": "Rubbia"
+     },
+     {
+      "given": "J.",
+      "family": "Ryan"
+     },
+     {
+      "given": "M.",
+      "family": "Sabaté-Gilarte"
+     },
+     {
+      "given": "A.",
+      "family": "Saxena"
+     },
+     {
+      "given": "J.",
+      "family": "Schell"
+     },
+     {
+      "given": "P.",
+      "family": "Schillebeeckx"
+     },
+     {
+      "given": "S.",
+      "family": "Schmidt"
+     },
+     {
+      "given": "P.",
+      "family": "Sedyshev"
+     },
+     {
+      "given": "C.",
+      "family": "Seiffert"
+     },
+     {
+      "given": "A. G.",
+      "family": "Smith"
+     },
+     {
+      "given": "N. V.",
+      "family": "Sosnin"
+     },
+     {
+      "given": "A.",
+      "family": "Stamatopoulos"
+     },
+     {
+      "given": "T.",
+      "family": "Stora"
+     },
+     {
+      "given": "G.",
+      "family": "Tagliente"
+     },
+     {
+      "given": "J. L.",
+      "family": "Tain"
+     },
+     {
+      "given": "A.",
+      "family": "Tarifeño-Saldivia"
+     },
+     {
+      "given": "L.",
+      "family": "Tassan-Got"
+     },
+     {
+      "given": "A.",
+      "family": "Tsinganis"
+     },
+     {
+      "given": "S.",
+      "family": "Valenta"
+     },
+     {
+      "given": "G.",
+      "family": "Vannini"
+     },
+     {
+      "given": "V.",
+      "family": "Variale"
+     },
+     {
+      "given": "P.",
+      "family": "Vaz"
+     },
+     {
+      "given": "A.",
+      "family": "Ventura"
+     },
+     {
+      "given": "V.",
+      "family": "Vlachoudis"
+     },
+     {
+      "given": "R.",
+      "family": "Vlastou"
+     },
+     {
+      "given": "A.",
+      "family": "Wallner"
+     },
+     {
+      "given": "S.",
+      "family": "Warren"
+     },
+     {
+      "given": "M.",
+      "family": "Weigand"
+     },
+     {
+      "given": "C.",
+      "family": "Weiß"
+     },
+     {
+      "given": "C.",
+      "family": "Wolf"
+     },
+     {
+      "given": "P. J.",
+      "family": "Woods"
+     },
+     {
+      "given": "T.",
+      "family": "Wright"
+     },
+     {
+      "given": "P.",
+      "family": "Žugec"
+     }
+    ],
+    "year": 2018,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "1803.05701",
+    "arxiv_class": "nucl-ex"
+   },
+   "stratum": "arxiv",
+   "n": 78,
+   "sampled": "OpenAlex random sample of works whose only location is arXiv, seed 20261101; the arXiv record has no DOI and no journal reference",
+   "style": [
+    "and_others",
+    "latex_accents"
+   ]
+  },
+  {
+   "registry": "arxiv",
+   "ident": "2205.03468",
+   "field": "social",
+   "entry_type": "misc",
+   "n_authors": 13,
+   "meta": {
+    "registry": "arxiv",
+    "title": "The AI Index 2022 Annual Report",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Daniel",
+      "family": "Zhang"
+     },
+     {
+      "given": "Nestor",
+      "family": "Maslej"
+     },
+     {
+      "given": "Erik",
+      "family": "Brynjolfsson"
+     },
+     {
+      "given": "John",
+      "family": "Etchemendy"
+     },
+     {
+      "given": "Terah",
+      "family": "Lyons"
+     },
+     {
+      "given": "James",
+      "family": "Manyika"
+     },
+     {
+      "given": "Helen",
+      "family": "Ngo"
+     },
+     {
+      "given": "Juan Carlos",
+      "family": "Niebles"
+     },
+     {
+      "given": "Michael",
+      "family": "Sellitto"
+     },
+     {
+      "given": "Ellie",
+      "family": "Sakhaee"
+     },
+     {
+      "given": "Yoav",
+      "family": "Shoham"
+     },
+     {
+      "given": "Jack",
+      "family": "Clark"
+     },
+     {
+      "given": "Raymond",
+      "family": "Perrault"
+     }
+    ],
+    "year": 2022,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "2205.03468",
+    "arxiv_class": "cs.AI"
+   },
+   "stratum": "arxiv",
+   "n": 79,
+   "sampled": "OpenAlex random sample of works whose only location is arXiv, seed 20261101; the arXiv record has no DOI and no journal reference",
+   "style": [
+    "and_others",
+    "arxiv_journal"
+   ]
+  },
+  {
+   "registry": "dblp",
+   "ident": "conf/icml/BrownS17",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "n_authors": 2,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/icml/BrownS17",
+    "dblp_type": "Inproceedings",
+    "title": "Reduced Space and Faster Convergence in Imperfect-Information Games via Pruning",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Noam",
+      "family": "Brown"
+     },
+     {
+      "given": "Tuomas",
+      "family": "Sandholm"
+     }
+    ],
+    "year": 2017,
+    "container": "Proceedings of the 34th International Conference on Machine Learning, ICML 2017, Sydney, NSW, Australia, 6-11 August 2017",
+    "short_container": "ICML",
+    "volume": "",
+    "number": "",
+    "pages": "596-604",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "http://proceedings.mlr.press/v70/brown17a.html"
+   },
+   "stratum": "dblp",
+   "n": 80,
+   "sampled": "random pick among the 434 DOI-less ICML 2017 records in dblp",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "dblp",
+   "ident": "conf/iclr/DeeckeHB22",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "n_authors": 3,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/iclr/DeeckeHB22",
+    "dblp_type": "Inproceedings",
+    "title": "Visual Representation Learning over Latent Domains",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Lucas",
+      "family": "Deecke"
+     },
+     {
+      "given": "Timothy M.",
+      "family": "Hospedales"
+     },
+     {
+      "given": "Hakan",
+      "family": "Bilen"
+     }
+    ],
+    "year": 2022,
+    "container": "The Tenth International Conference on Learning Representations, ICLR 2022, Virtual Event, April 25-29, 2022",
+    "short_container": "ICLR",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://openreview.net/forum?id=kG0AtPi6JI1"
+   },
+   "stratum": "dblp",
+   "n": 81,
+   "sampled": "random pick among the 1094 DOI-less ICLR 2022 records in dblp",
+   "style": [
+    "with_url"
+   ]
+  },
+  {
+   "registry": "dblp",
+   "ident": "conf/aistats/GhalamkariS22",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "n_authors": 2,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/aistats/GhalamkariS22",
+    "dblp_type": "Inproceedings",
+    "title": "Fast Rank-1 NMF for Missing Data with KL Divergence",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Kazu",
+      "family": "Ghalamkari"
+     },
+     {
+      "given": "Mahito",
+      "family": "Sugiyama"
+     }
+    ],
+    "year": 2022,
+    "container": "International Conference on Artificial Intelligence and Statistics, AISTATS 2022, 28-30 March 2022, Virtual Event.",
+    "short_container": "AISTATS",
+    "volume": "",
+    "number": "",
+    "pages": "2927-2940",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://proceedings.mlr.press/v151/ghalamkari22a.html"
+   },
+   "stratum": "dblp",
+   "n": 82,
+   "sampled": "random pick among the 492 DOI-less AISTATS 2022 records in dblp",
+   "style": [
+    "with_url"
+   ]
+  },
+  {
+   "registry": "dblp",
+   "ident": "conf/colt/ArdeshirHS23",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "n_authors": 3,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/colt/ArdeshirHS23",
+    "dblp_type": "Inproceedings",
+    "title": "Intrinsic dimensionality and generalization properties of the R-norm inductive bias",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Navid",
+      "family": "Ardeshir"
+     },
+     {
+      "given": "Daniel J.",
+      "family": "Hsu"
+     },
+     {
+      "given": "Clayton Hendrick",
+      "family": "Sanford"
+     }
+    ],
+    "year": 2023,
+    "container": "The Thirty Sixth Annual Conference on Learning Theory, COLT 2023, 12-15 July 2023, Bangalore, India.",
+    "short_container": "COLT",
+    "volume": "",
+    "number": "",
+    "pages": "3264-3303",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://proceedings.mlr.press/v195/ardeshir23a.html"
+   },
+   "stratum": "dblp",
+   "n": 83,
+   "sampled": "random pick among the 170 DOI-less COLT 2023 records in dblp",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "dblp",
+   "ident": "conf/uai/UlmerC21",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "n_authors": 2,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/uai/UlmerC21",
+    "dblp_type": "Inproceedings",
+    "title": "Know your limits: Uncertainty estimation with ReLU classifiers fails at reliable OOD detection",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Dennis",
+      "family": "Ulmer"
+     },
+     {
+      "given": "Giovanni",
+      "family": "Cinà"
+     }
+    ],
+    "year": 2021,
+    "container": "Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence, UAI 2021, Virtual Event, 27-30 July 2021",
+    "short_container": "UAI",
+    "volume": "",
+    "number": "",
+    "pages": "1766-1776",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://proceedings.mlr.press/v161/ulmer21a.html"
+   },
+   "stratum": "dblp",
+   "n": 84,
+   "sampled": "random pick among the 206 DOI-less UAI 2021 records in dblp",
+   "style": []
+  },
+  {
+   "registry": "dblp",
+   "ident": "conf/lrec/BerlingerioB18",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "n_authors": 2,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/lrec/BerlingerioB18",
+    "dblp_type": "Inproceedings",
+    "title": "Towards a music-language mapping",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Michele",
+      "family": "Berlingerio"
+     },
+     {
+      "given": "Francesca",
+      "family": "Bonin"
+     }
+    ],
+    "year": 2018,
+    "container": "Proceedings of the Eleventh International Conference on Language Resources and Evaluation, LREC 2018, Miyazaki, Japan, May 7-12, 2018.",
+    "short_container": "LREC",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "http://www.lrec-conf.org/proceedings/lrec2018/summaries/831.html"
+   },
+   "stratum": "dblp",
+   "n": 85,
+   "sampled": "random pick among the 728 DOI-less LREC 2018 records in dblp",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "dblp",
+   "ident": "conf/midl/TaherHGL22",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "n_authors": 4,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/midl/TaherHGL22",
+    "dblp_type": "Inproceedings",
+    "title": "CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Mohammad Reza Hosseinzadeh",
+      "family": "Taher"
+     },
+     {
+      "given": "Fatemeh",
+      "family": "Haghighi"
+     },
+     {
+      "given": "Michael B.",
+      "family": "Gotway"
+     },
+     {
+      "given": "Jianming",
+      "family": "Liang"
+     }
+    ],
+    "year": 2022,
+    "container": "International Conference on Medical Imaging with Deep Learning, MIDL 2022, 6-8 July 2022, Zurich, Switzerland.",
+    "short_container": "MIDL",
+    "volume": "",
+    "number": "",
+    "pages": "535-551",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://proceedings.mlr.press/v172/hosseinzadeh-taher22a.html"
+   },
+   "stratum": "dblp",
+   "n": 86,
+   "sampled": "random pick among the 99 DOI-less MIDL 2022 records in dblp",
+   "style": []
+  },
+  {
+   "registry": "dblp",
+   "ident": "conf/ismir/FrielerHPD18",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "n_authors": 4,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/ismir/FrielerHPD18",
+    "dblp_type": "Inproceedings",
+    "title": "Two Web Applications for Exploring Melodic Patterns in Jazz Solos",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Klaus",
+      "family": "Frieler"
+     },
+     {
+      "given": "Frank",
+      "family": "Höger"
+     },
+     {
+      "given": "Martin",
+      "family": "Pfleiderer"
+     },
+     {
+      "given": "Simon",
+      "family": "Dixon"
+     }
+    ],
+    "year": 2018,
+    "container": "Proceedings of the 19th International Society for Music Information Retrieval Conference, ISMIR 2018, Paris, France, September 23-27, 2018",
+    "short_container": "ISMIR",
+    "volume": "",
+    "number": "",
+    "pages": "777-783",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "http://ismir2018.ircam.fr/doc/pdfs/177_Paper.pdf"
+   },
+   "stratum": "dblp",
+   "n": 87,
+   "sampled": "random pick among the 104 DOI-less ISMIR 2018 records in dblp",
+   "style": [
+    "double_brace",
+    "with_url"
+   ]
+  },
+  {
+   "registry": "arxiv",
+   "ident": "1502.06800",
+   "field": "cs",
+   "entry_type": "misc",
+   "n_authors": 1,
+   "meta": {
+    "registry": "arxiv",
+    "title": "On the Equivalence between Kernel Quadrature Rules and Random Feature Expansions",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Francis",
+      "family": "Bach"
+     }
+    ],
+    "year": 2015,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "1502.06800",
+    "arxiv_class": "cs.LG"
+   },
+   "stratum": "arxiv",
+   "n": 88,
+   "sampled": "OpenAlex random sample of works whose only location is arXiv, seed 20261101; the arXiv record has no DOI and no journal reference",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "arxiv",
+   "ident": "1708.08327",
+   "field": "cs",
+   "entry_type": "misc",
+   "n_authors": 6,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Improving Robustness of ML Classifiers against Realizable Evasion Attacks Using Conserved Features",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Liang",
+      "family": "Tong"
+     },
+     {
+      "given": "Bo",
+      "family": "Li"
+     },
+     {
+      "given": "Chen",
+      "family": "Hajaj"
+     },
+     {
+      "given": "Chaowei",
+      "family": "Xiao"
+     },
+     {
+      "given": "Ning",
+      "family": "Zhang"
+     },
+     {
+      "given": "Yevgeniy",
+      "family": "Vorobeychik"
+     }
+    ],
+    "year": 2017,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "1708.08327",
+    "arxiv_class": "cs.CR"
+   },
+   "stratum": "arxiv",
+   "n": 89,
+   "sampled": "OpenAlex random sample of works whose only location is arXiv, seed 20261101; the arXiv record has no DOI and no journal reference",
+   "style": [
+    "and_others",
+    "arxiv_journal"
+   ]
+  },
+  {
+   "registry": "arxiv",
+   "ident": "1602.04941",
+   "field": "math",
+   "entry_type": "misc",
+   "n_authors": 2,
+   "meta": {
+    "registry": "arxiv",
+    "title": "On Perfect Classification and Clustering for Gaussian Processes",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Juan A.",
+      "family": "Cuesta-Albertos"
+     },
+     {
+      "given": "Subhajit",
+      "family": "Dutta"
+     }
+    ],
+    "year": 2016,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "1602.04941",
+    "arxiv_class": "math.ST"
+   },
+   "stratum": "arxiv",
+   "n": 90,
+   "sampled": "OpenAlex random sample of works whose only location is arXiv, seed 20261101; the arXiv record has no DOI and no journal reference",
+   "style": []
+  },
+  {
+   "registry": "arxiv",
+   "ident": "1810.03192",
+   "field": "math",
+   "entry_type": "misc",
+   "n_authors": 3,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Generalized Connectivity Matrix Response Regression with Applications in Brain Connectivity Studies",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jingfei",
+      "family": "Zhang"
+     },
+     {
+      "given": "Will Wei",
+      "family": "Sun"
+     },
+     {
+      "given": "Lexin",
+      "family": "Li"
+     }
+    ],
+    "year": 2018,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "1810.03192",
+    "arxiv_class": "stat.ME"
+   },
+   "stratum": "arxiv",
+   "field_sampled": "physics",
+   "n": 91,
+   "extra_note": "Sampled under the 'Physics and Astronomy' fields; we file it under math because of its subject.",
+   "sampled": "OpenAlex random sample of works whose only location is arXiv, seed 20261101; the arXiv record has no DOI and no journal reference",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "arxiv",
+   "ident": "2004.12977",
+   "field": "physics",
+   "entry_type": "misc",
+   "n_authors": 4,
+   "meta": {
+    "registry": "arxiv",
+    "title": "Towards consistent black-to-white hole bounces from matter collapse",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Jibril Ben",
+      "family": "Achour"
+     },
+     {
+      "given": "Suddhasattwa",
+      "family": "Brahma"
+     },
+     {
+      "given": "Shinji",
+      "family": "Mukohyama"
+     },
+     {
+      "given": "Jean-Philippe",
+      "family": "Uzan"
+     }
+    ],
+    "year": 2020,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "2004.12977",
+    "arxiv_class": "gr-qc"
+   },
+   "stratum": "arxiv",
+   "n": 92,
+   "sampled": "OpenAlex random sample of works whose only location is arXiv, seed 20261101; the arXiv record has no DOI and no journal reference",
+   "style": [
+    "arxiv_journal"
+   ]
+  },
+  {
+   "registry": "arxiv",
+   "ident": "1708.07077",
+   "field": "other",
+   "entry_type": "misc",
+   "n_authors": 7,
+   "meta": {
+    "registry": "arxiv",
+    "title": "A Review of Smart Materials in Tactile Actuators for Information Delivery",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Xin",
+      "family": "Xie"
+     },
+     {
+      "given": "Sanwei",
+      "family": "Liu"
+     },
+     {
+      "given": "Chenye",
+      "family": "Yang"
+     },
+     {
+      "given": "Zhengyu",
+      "family": "Yang"
+     },
+     {
+      "given": "Juncai",
+      "family": "Xu"
+     },
+     {
+      "given": "Cheng",
+      "family": "Zhang"
+     },
+     {
+      "given": "Xianglin",
+      "family": "Zhai"
+     }
+    ],
+    "year": 2017,
+    "container": "",
+    "short_container": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "arxiv": "1708.07077",
+    "arxiv_class": "physics.app-ph"
+   },
+   "stratum": "arxiv",
+   "field_sampled": "biomed",
+   "n": 93,
+   "extra_note": "Sampled under the 'Medicine, Biochemistry, Neuroscience, Immunology, Pharmacology' fields; we file it under other because of its subject.",
+   "sampled": "OpenAlex random sample of works whose only location is arXiv, seed 20261101; the arXiv record has no DOI and no journal reference",
+   "style": [
+    "initials"
+   ]
+  },
+  {
+   "registry": "dblp",
+   "ident": "conf/nips/DongCP17",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "n_authors": 3,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/nips/DongCP17",
+    "dblp_type": "Inproceedings",
+    "title": "Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Xin",
+      "family": "Dong"
+     },
+     {
+      "given": "Shangyu",
+      "family": "Chen"
+     },
+     {
+      "given": "Sinno Jialin",
+      "family": "Pan"
+     }
+    ],
+    "year": 2017,
+    "container": "Advances in Neural Information Processing Systems 30: Annual Conference on Neural Information Processing Systems 2017, December 4-9, 2017, Long Beach, CA, USA",
+    "short_container": "NIPS",
+    "volume": "",
+    "number": "",
+    "pages": "4857-4867",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "https://proceedings.neurips.cc/paper/2017/hash/c5dc3e08849bec07e33ca353de62ea04-Abstract.html"
+   },
+   "stratum": "dblp",
+   "n": 94,
+   "sampled": "random pick among the 679 DOI-less NeurIPS 2017 records in dblp",
+   "style": []
+  },
+  {
+   "registry": "dblp",
+   "ident": "conf/corl/XiaoHA19",
+   "field": "cs",
+   "entry_type": "inproceedings",
+   "n_authors": 3,
+   "meta": {
+    "registry": "dblp",
+    "dblp_key": "conf/corl/XiaoHA19",
+    "dblp_type": "Inproceedings",
+    "title": "Macro-Action-Based Deep Multi-Agent Reinforcement Learning",
+    "subtitle": "",
+    "authors": [
+     {
+      "given": "Yuchen",
+      "family": "Xiao"
+     },
+     {
+      "given": "Joshua",
+      "family": "Hoffman"
+     },
+     {
+      "given": "Christopher",
+      "family": "Amato"
+     }
+    ],
+    "year": 2019,
+    "container": "3rd Annual Conference on Robot Learning, CoRL 2019, Osaka, Japan, October 30 - November 1, 2019, Proceedings",
+    "short_container": "CoRL",
+    "volume": "",
+    "number": "",
+    "pages": "1146-1161",
+    "publisher": "",
+    "doi": "",
+    "isbn": "",
+    "url": "http://proceedings.mlr.press/v100/xiao20a.html"
+   },
+   "stratum": "dblp",
+   "n": 95,
+   "sampled": "random pick among the 110 DOI-less CoRL 2019 records in dblp",
+   "style": []
+  }
+ ]
+}
