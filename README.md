@@ -9,7 +9,7 @@ references that no registry lists, DOIs that are not registered, and DOIs that b
 ```
 $ refverify main.tex
 
-Reference Verifier 0.1.0: 41 references from refs.bib
+Reference Verifier 0.2.0: 41 references from refs.bib
 
   37 found · 2 not found · 1 wrong DOI · 1 uncertain
 
@@ -23,7 +23,7 @@ Reference Verifier 0.1.0: 41 references from refs.bib
 ## Install
 
 ```
-pip install git+https://github.com/the-aurora-lab/reference-verifier
+pip install git+https://github.com/the-aurora-lab/reference-verifier@v0.2.0
 ```
 
 Python 3.10 or newer. A PyPI release (`pip install reference-verifier`) is coming.
@@ -79,30 +79,31 @@ venue or author list. `refverify` checks existence.
 
 ## How well it works
 
-Measured on a held-out benchmark of 246 labelled references that was built separately from the development set and
-scored once, with no changes to the matching rules afterwards (`benchmark/heldout/`; sources, licences and labelling
-rules in `benchmark/heldout/HELDOUT.md`):
+Measured with 0.2.0 on a held-out benchmark of 246 labelled references that was built separately from the
+development set and from the earlier held-out set, and scored once, with no changes to the matching rules afterwards
+(`benchmark/heldout-0.2/`; sources, licences and labelling rules in `benchmark/heldout-0.2/HELDOUT.md`):
 
 | Measure | Result | 95% CI |
 |---|---|---|
-| Real references found | 93 of 95 | 92.6–99.4% |
+| Real references found | 94 of 95 | 94.3–99.8% |
 | Fabricated references flagged | 54 of 54 | 93.4–100% |
 | Wrong DOIs flagged as a DOI problem | 30 of 30 | 88.6–100% |
 | Retracted papers found (they exist; flagging retractions is not part of this check) | 35 of 35 | 90.1–100% |
-| Precision of flags (flags on fabricated or wrong-DOI entries, out of all flags) | 84 of 86 (97.7%) | 91.9–99.4% |
+| Precision of flags (flags on fabricated or wrong-DOI entries, out of all flags) | 84 of 85 (98.8%) | 93.6–99.8% |
 
-- The two real references it missed are DOI-less conference papers (CoRL 2021, MIDL 2022) that only DBLP indexes;
-  DBLP was unavailable during the run.
+- The real reference it missed is a DOI-less ICLR 2022 paper that only DBLP indexes; DBLP's search turned the tool
+  away during the run (it shows a bot check to scripts, which the tool does not try to get past).
 - Real references were drawn at random across computer science, biomedicine, physics, mathematics, social science,
   the humanities and other fields, written in the messy forms real `.bib` files use. The fabricated ones come from
-  public compilations of hallucinated citations found in ACL-family papers and ICLR 2026 submissions, so 51 of the
-  54 are computer science.
+  public compilations of hallucinated citations found in ACL-family papers and ICLR 2026 submissions, so all 54 are
+  computer science.
 - "Fabricated" means listed by one of those compilations and found neither in any registry nor by a web search for
   the exact title. That is strong evidence, not proof.
-- The development set the rules were tuned on (342 references) is in `benchmark/`; its scores are in
+- 0.1.0 was scored on an earlier held-out set (`benchmark/heldout/`; its numbers are in the CHANGELOG). The
+  development set the rules were tuned on (342 references) is in `benchmark/`; its scores are in
   `benchmark/results/summary.md` and are not a fair measure.
 
-Rerun it: `python benchmark/evaluate.py --data benchmark/heldout/heldout.jsonl --out benchmark/heldout/results --heldout`
+Rerun it: `python benchmark/evaluate.py --data benchmark/heldout-0.2/heldout.jsonl --out benchmark/heldout-0.2/results --heldout`
 (results vary slightly as registries change and become reachable or not).
 
 ## Privacy and etiquette

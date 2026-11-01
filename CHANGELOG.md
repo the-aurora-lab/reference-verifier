@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.2.0 (2026-11-01)
 
 - Author lists broken across lines (`and` at the end of a line, as the ACL Anthology and DBLP export them) are split
   into separate authors. Before, such an entry was read as having a single author.
@@ -13,7 +13,11 @@
   concern: `updated-by` and `update-to`) when the registry gives them; citation locations (file:line); one
   input loader and the command-line options shared through `reference_verifier.inputs` and `reference_verifier.cli`.
 
-The benchmark in the README ("How well it works") was measured on 0.1.0.
+Scored once on a new held-out set of 246 references (`benchmark/heldout-0.2/`), built independently of the
+development set and of the 0.1 held-out set; the README's "How well it works" shows those numbers.
+
+0.1.0's held-out scores, on `benchmark/heldout/`: real references found 93 of 95, fabricated flagged 54 of 54,
+wrong DOIs 30 of 30, retracted papers found 35 of 35, precision of flags 84 of 86.
 
 ## 0.1.0
 

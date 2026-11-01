@@ -1,0 +1,2216 @@
+[
+ {
+  "id": "h2-real-0001",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "An Efficient Video Coding System With an Adaptive Overfitted Multi-Scale Attention Network"
+ },
+ {
+  "id": "h2-real-0002",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A quantitative detection algorithm based on improved faster R-CNN for marine benthos"
+ },
+ {
+  "id": "h2-real-0003",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "An algorithm for finding closed curves"
+ },
+ {
+  "id": "h2-real-0004",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "On the Federated Learning Framework for Cooperative Perception"
+ },
+ {
+  "id": "h2-real-0005",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A Federated Unlearning-Based Secure Management Scheme to Enable Automation in Smart Consumer Electronics Facilitated by Digital Twin"
+ },
+ {
+  "id": "h2-real-0006",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The design and analysis of an ATM multicast switch with adaptive traffic controller"
+ },
+ {
+  "id": "h2-real-0007",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Detecting Transportation Modes Using Deep Neural Network"
+ },
+ {
+  "id": "h2-real-0008",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Invasive breast cancer reporting guidelines: ICCR, CAP, RCPath, RCPA datasets and future directions"
+ },
+ {
+  "id": "h2-real-0009",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Structure of motor variability in marginally redundant multifinger force production tasks"
+ },
+ {
+  "id": "h2-real-0010",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Preservation of growth hormone secretion in response to growth hormone—releasing peptide-2 during prednisone therapy"
+ },
+ {
+  "id": "h2-real-0011",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Primary anterior lumbar interbody fusion, with and without posterior instrumentation: a 1,377-patient cohort from a multicenter spine registry"
+ },
+ {
+  "id": "h2-real-0012",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Proximal Oblique Crescentic Osteotomy in Hallux Valgus"
+ },
+ {
+  "id": "h2-real-0013",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Small-Molecule Inhibitor Prevents Insulin Fibrillogenesis and Preserves Activity"
+ },
+ {
+  "id": "h2-real-0014",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Sentinel Node Biopsy in Urothelial Carcinoma of the Bladder: Systematic Review and Meta-Analysis"
+ },
+ {
+  "id": "h2-real-0015",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Autophagy-Activating Nanoautophagosome-Tethering Compounds for Targeted Protein Degradation Specifically in Tumor Cells"
+ },
+ {
+  "id": "h2-real-0016",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Treatment of Malignant Glioma: A Controlled Study of Chemotherapy and Irradiation"
+ },
+ {
+  "id": "h2-real-0017",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Binding and activation of host plasminogen on the surface of Francisella tularensis"
+ },
+ {
+  "id": "h2-real-0018",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Development of IglC and GroEL recombinant vaccines for francisellosis in Nile tilapia, Oreochromis niloticus"
+ },
+ {
+  "id": "h2-real-0019",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Identification and purification from the plasma of Type�1 diabetic subjects of a proteolytically active Grp94"
+ },
+ {
+  "id": "h2-real-0020",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Anionic Antimicrobial Peptides from Eukaryotic Organisms and their Mechanisms of Action"
+ },
+ {
+  "id": "h2-real-0021",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Immunocytochemical localization of tyrosine hydroxylase in the human striatum: A postmortem ultrastructural study"
+ },
+ {
+  "id": "h2-real-0022",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A new concept of priapism based on the results of arteriography and cavernosography"
+ },
+ {
+  "id": "h2-real-0023",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Phase diagram for three-dimensional correlated site-bond percolation"
+ },
+ {
+  "id": "h2-real-0024",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A robotic approach to 4D real-time tumor tracking for radiotherapy"
+ },
+ {
+  "id": "h2-real-0025",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "AdS/CFT Overview and Recent Applications to Strongly Interacting Systems"
+ },
+ {
+  "id": "h2-real-0026",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Electron detachment in Li<sup>-</sup>-He collisions: coherence study of Li(2<sup>2</sup>P) excitation in Li<sup>-</sup>-He and Li-He collisions"
+ },
+ {
+  "id": "h2-real-0027",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Stability of highly asymmetric non-neutral plasmas"
+ },
+ {
+  "id": "h2-real-0028",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Saturn's low-latitude boundary layer: 2. Electron structure: SATURN'S LLBL ELECTRON STRUCTURE"
+ },
+ {
+  "id": "h2-real-0029",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "One-dimensional nano layered SiC/TiO2 based photonic band gap materials as temperature sensor"
+ },
+ {
+  "id": "h2-real-0030",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "External Time-Varying Fields and Electron Coherence"
+ },
+ {
+  "id": "h2-real-0031",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The algebraic entropy of the special linear character automorphisms of a free group on two generators"
+ },
+ {
+  "id": "h2-real-0032",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Adjusted Pearson Chi-Square feature screening for multi-classification with ultrahigh dimensional data"
+ },
+ {
+  "id": "h2-real-0033",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Nilsequences, null-sequences, and multiple correlation sequences"
+ },
+ {
+  "id": "h2-real-0034",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Unbounded derivations, free dilations, and indecomposability results for II$_1$ factors"
+ },
+ {
+  "id": "h2-real-0035",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Growth of polynomials whose zeros are within or outside a circle"
+ },
+ {
+  "id": "h2-real-0036",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Coefficient Problems in the Subclasses of Close-to-Star Functions"
+ },
+ {
+  "id": "h2-real-0037",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Strong limit theorems for supercritical imigration-branching processes."
+ },
+ {
+  "id": "h2-real-0038",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Participant Experiences of Talking Circles on Type 2 Diabetes in Two Northern Plains American Indian Tribes"
+ },
+ {
+  "id": "h2-real-0039",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Impact of Sound-Field Amplification in Mainstream Cross-Cultural Classrooms: Part 1 Educational Outcomes"
+ },
+ {
+  "id": "h2-real-0040",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The antinomies of political evidence in post‐Apartheid Durban, South Africa"
+ },
+ {
+  "id": "h2-real-0041",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Where metaphors<i>really</i>come from: Social factors as contextual influence in Hungarian teenagers’ metaphorical conceptualizations of life"
+ },
+ {
+  "id": "h2-real-0042",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The potential of car advertising in pursuing transport policy goals: Code of good practices in the Spanish context"
+ },
+ {
+  "id": "h2-real-0043",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Technocratic manager, imperial agent, or diplomatic champion? The IMF in the anarchical society"
+ },
+ {
+  "id": "h2-real-0044",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Daily stressors in school-age children: A multilevel approach."
+ },
+ {
+  "id": "h2-real-0045",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Breaks in Money Demand"
+ },
+ {
+  "id": "h2-real-0046",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Unwrapping the OXO Cube: Josué de Castro and the Intellectual History of Metabolism"
+ },
+ {
+  "id": "h2-real-0047",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The impacts of investors' sentiments on stock returns using fintech approaches"
+ },
+ {
+  "id": "h2-real-0048",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The fluid infusion of musical culture: embodied experiences in a grade one classroom"
+ },
+ {
+  "id": "h2-real-0049",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "An analysis of the art aspect of folk music"
+ },
+ {
+  "id": "h2-real-0050",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "John Dewey's Theory of Art, Experience and Nature: The Horizons of Feeling"
+ },
+ {
+  "id": "h2-real-0051",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Performance stylistics: Deleuze and Guattari, poetry and (corpus) linguistics"
+ },
+ {
+  "id": "h2-real-0052",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Post-Syrian War Residential Heritage Transformations in the Old City of Aleppo: Socio-Cultural Sustainability Aspects"
+ },
+ {
+  "id": "h2-real-0053",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Can a Theory Answer more Questions than one of its Rivals?"
+ },
+ {
+  "id": "h2-real-0054",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The write kind of knowledge in English"
+ },
+ {
+  "id": "h2-real-0055",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "<i>History and Class Consciousness</i>\n                    as an “Unfinished Project”"
+ },
+ {
+  "id": "h2-real-0056",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Steatite-tempered pottery of the Stroke Ornamented Ware culture from Silesia (SW Poland): a Neolithic innovation in ceramic technology"
+ },
+ {
+  "id": "h2-real-0057",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Ruthenium(\n                    <scp>iv</scp>\n                    ) N-confused porphyrin μ-oxo-bridged dimers: acid-responsive molecular rotors"
+ },
+ {
+  "id": "h2-real-0058",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Deep learning pose estimation for multi-cattle lameness detection"
+ },
+ {
+  "id": "h2-real-0059",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Defect-engineered plasmonic Z-scheme heterostructures for superior photoelectrochemical water oxidation"
+ },
+ {
+  "id": "h2-real-0060",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The receptor‐like cytoplasmic kinase OsBSK1‐2 regulates immunity via an HLH/bHLH complex"
+ },
+ {
+  "id": "h2-real-0061",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Pressure-volume-temperature relations for crystalline benzene"
+ },
+ {
+  "id": "h2-real-0062",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Analysis of Lignin and Chlorolignin Residues in a Beech Xylan Fraction by Pyrolysis Gas Chromatography Mass Spectrometry"
+ },
+ {
+  "id": "h2-real-0063",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Virulence of entomopathogenic Fungi (Fungi imperfecti) for the adults of Acanthoscelides obtectus (Coleoptera: Bruchidae)"
+ },
+ {
+  "id": "h2-real-0064",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Demolition waste generation for development of a regional management chain model"
+ },
+ {
+  "id": "h2-real-0065",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Investigation of laser-induced damage threshold improvement mechanism during ion beam sputtering of fused silica"
+ },
+ {
+  "id": "h2-real-0066",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Optimized Dynamic Acousto-elasticity Applied to Fatigue Damage and Stress Corrosion Cracking"
+ },
+ {
+  "id": "h2-real-0067",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Emergence of Sin"
+ },
+ {
+  "id": "h2-real-0068",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Arts-Based Methods for Research with Children"
+ },
+ {
+  "id": "h2-real-0069",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Operator Relations Characterizing Derivatives"
+ },
+ {
+  "id": "h2-real-0070",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Introduction to Numerical Methods for Variational Problems"
+ },
+ {
+  "id": "h2-real-0071",
+  "label": "real",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Creole Europe: The Reflection of a Reflection"
+ },
+ {
+  "id": "h2-real-0072",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Connecting Officer Appearance with Officer Safety: A Survey of Police Officers’ Perceptions of Uniforms and Accoutrements"
+ },
+ {
+  "id": "h2-real-0073",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Strategic Role of Artificial Intelligence (AI) in Service Delivery Systems"
+ },
+ {
+  "id": "h2-real-0074",
+  "label": "real",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Inhibition of Host Cell Macromolecular Synthesis following Togavirus Infection"
+ },
+ {
+  "id": "h2-real-0075",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Data Acquisition and Performance Characterization in PET"
+ },
+ {
+  "id": "h2-real-0076",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Convergence and Stability of Graph Convolutional Networks on Large Random Graphs"
+ },
+ {
+  "id": "h2-real-0077",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Hermitian K-theory for stable $\\infty$-categories II: Cobordism categories and additivity"
+ },
+ {
+  "id": "h2-real-0078",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The $^{7}$Be(n,p)$^{7}$Li reaction and the Cosmological Lithium Problem: measurement of the cross section in a wide energy range at n_TOF (CERN)"
+ },
+ {
+  "id": "h2-real-0079",
+  "label": "real",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The AI Index 2022 Annual Report"
+ },
+ {
+  "id": "h2-real-0080",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Reduced Space and Faster Convergence in Imperfect-Information Games via Pruning"
+ },
+ {
+  "id": "h2-real-0081",
+  "label": "real",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-real-0082",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Fast Rank-1 NMF for Missing Data with KL Divergence"
+ },
+ {
+  "id": "h2-real-0083",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Intrinsic dimensionality and generalization properties of the $\\mathcal{R}$-norm inductive bias"
+ },
+ {
+  "id": "h2-real-0084",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Know Your Limits: Uncertainty Estimation with ReLU Classifiers Fails at Reliable OOD Detection"
+ },
+ {
+  "id": "h2-real-0085",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Towards a music-language mapping"
+ },
+ {
+  "id": "h2-real-0086",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "CAiD: Context-Aware Instance Discrimination for Self-supervised Learning in Medical Imaging"
+ },
+ {
+  "id": "h2-real-0087",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Two Web Applications for Exploring Melodic Patterns in Jazz Solos"
+ },
+ {
+  "id": "h2-real-0088",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "On the Equivalence between Kernel Quadrature Rules and Random Feature Expansions"
+ },
+ {
+  "id": "h2-real-0089",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Improving Robustness of ML Classifiers against Realizable Evasion Attacks Using Conserved Features"
+ },
+ {
+  "id": "h2-real-0090",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "On Perfect Classification and Clustering for Gaussian Processes"
+ },
+ {
+  "id": "h2-real-0091",
+  "label": "real",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Generalized Connectivity Matrix Response Regression with Applications in Brain Connectivity Studies"
+ },
+ {
+  "id": "h2-real-0092",
+  "label": "real",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Towards consistent black-to-white hole bounces from matter collapse"
+ },
+ {
+  "id": "h2-real-0093",
+  "label": "real",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A Review of Smart Materials in Tactile Actuators for Information Delivery"
+ },
+ {
+  "id": "h2-real-0094",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon"
+ },
+ {
+  "id": "h2-real-0095",
+  "label": "real",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Macro-Action-Based Deep Multi-Agent Reinforcement Learning"
+ },
+ {
+  "id": "h2-fab-0001",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0002",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0003",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0004",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0005",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0006",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0007",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0008",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0009",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0010",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0011",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0012",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0013",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0014",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "arXiv identifier 2501.00000 does not exist; no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0015",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0016",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0017",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0018",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0019",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0020",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0021",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0022",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0023",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0024",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0025",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0026",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0027",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0028",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0029",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0030",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0031",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0032",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0033",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0034",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0035",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0036",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0037",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0038",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0039",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0040",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0041",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0042",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0043",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0044",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0045",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0046",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0047",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0048",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0049",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0050",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0051",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0052",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0053",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "low",
+  "note": "no matching work in arXiv, Crossref or OpenAlex; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-fab-0054",
+  "label": "fabricated",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-wdoi-0001",
+  "label": "wrong_doi",
+  "field": "math",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1159/000497310 belongs to a different work: \"Sentinel Node Biopsy in Urothelial Carcinoma of the Bladder: Systematic Review and Meta-Analysis\"; the cited work itself exists (found in Crossref)",
+  "match": "Nilsequences, null-sequences, and multiple correlation sequences"
+ },
+ {
+  "id": "h2-wdoi-0002",
+  "label": "wrong_doi",
+  "field": "math",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1090/tran/6470 belongs to a different work: \"Unbounded derivations, free dilations, and indecomposability results for II$_1$ factors\"; the cited work itself exists (found in Crossref)",
+  "match": "Strong limit theorems for supercritical imigration-branching processes."
+ },
+ {
+  "id": "h2-wdoi-0003",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1080/1554480x.2017.1283993 belongs to a different work: \"The fluid infusion of musical culture: embodied experiences in a grade one classroom\"; the cited work itself exists (found in Crossref)",
+  "match": "AdS/CFT Overview and Recent Applications to Strongly Interacting Systems"
+ },
+ {
+  "id": "h2-wdoi-0004",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1002/(sici)1096-9861(19980105)390:1<52::aid-cne5>3.0.co;2-p belongs to a different work: \"Immunocytochemical localization of tyrosine hydroxylase in the human striatum: A postmortem ultrastructural study\"; the cited work itself exists (found in Crossref)",
+  "match": "Development of IglC and GroEL recombinant vaccines for francisellosis in Nile tilapia, Oreochromis niloticus"
+ },
+ {
+  "id": "h2-wdoi-0005",
+  "label": "wrong_doi",
+  "field": "other",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1002/(sici)1096-9861(19980105)390:1<52::aid-cne5>3.0.co;2-p belongs to a different work: \"Immunocytochemical localization of tyrosine hydroxylase in the human striatum: A postmortem ultrastructural study\"; the cited work itself exists (found in Crossref)",
+  "match": "Ruthenium(\n                    <scp>iv</scp>\n                    ) N-confused porphyrin μ-oxo-bridged dimers: acid-responsive molecular rotors"
+ },
+ {
+  "id": "h2-wdoi-0006",
+  "label": "wrong_doi",
+  "field": "other",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/j.wasman.2015.12.027 belongs to a different work: \"Demolition waste generation for development of a regional management chain model\"; the cited work itself exists (found in Crossref)",
+  "match": "Pressure-volume-temperature relations for crystalline benzene"
+ },
+ {
+  "id": "h2-wdoi-0007",
+  "label": "wrong_doi",
+  "field": "math",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.6018/ijes/2012/2/161811 belongs to a different work: \"Performance stylistics: Deleuze and Guattari, poetry and (corpus) linguistics\"; the cited work itself exists (found in Crossref)",
+  "match": "Unbounded derivations, free dilations, and indecomposability results for II$_1$ factors"
+ },
+ {
+  "id": "h2-wdoi-0008",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1001/archneur.1976.00500070036007 belongs to a different work: \"Treatment of Malignant Glioma: A Controlled Study of Chemotherapy and Irradiation\"; the cited work itself exists (found in Crossref)",
+  "match": "Primary anterior lumbar interbody fusion, with and without posterior instrumentation: a 1,377-patient cohort from a multicenter spine registry"
+ },
+ {
+  "id": "h2-wdoi-0009",
+  "label": "wrong_doi",
+  "field": "cs",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1007/1-84628-007-9_3 belongs to a different work: \"Data Acquisition and Performance Characterization in PET\"; the cited work itself exists (found in Crossref)",
+  "match": "Detecting Transportation Modes Using Deep Neural Network"
+ },
+ {
+  "id": "h2-wdoi-0010",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/j.fsi.2020.07.045 belongs to a different work: \"Development of IglC and GroEL recombinant vaccines for francisellosis in Nile tilapia, Oreochromis niloticus\"; the cited work itself exists (found in Crossref)",
+  "match": "Invasive breast cancer reporting guidelines: ICCR, CAP, RCPath, RCPA datasets and future directions"
+ },
+ {
+  "id": "h2-wdoi-0011",
+  "label": "wrong_doi",
+  "field": "other",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1007/978-3-030-68060-2 belongs to a different work: \"Arts-Based Methods for Research with Children\"; the cited work itself exists (found in Crossref)",
+  "match": "Deep Learning Pose Estimation for Multi-Cattle Lameness Detection"
+ },
+ {
+  "id": "h2-wdoi-0012",
+  "label": "wrong_doi",
+  "field": "humanities",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.5840/saap1989175230 belongs to a different work: \"John Dewey's Theory of Art, Experience and Nature: The Horizons of Feeling\"; the cited work itself exists (found in Crossref)",
+  "match": "<i>History and Class Consciousness</i>\n                    as an “Unfinished Project”"
+ },
+ {
+  "id": "h2-wdoi-0013",
+  "label": "wrong_doi",
+  "field": "social",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.3390/su132112213 belongs to a different work: \"Post-Syrian War Residential Heritage Transformations in the Old City of Aleppo: Socio-Cultural Sustainability Aspects\"; the cited work itself exists (found in Crossref)",
+  "match": "Technocratic manager, imperial agent, or diplomatic champion? The IMF in the anarchical society"
+ },
+ {
+  "id": "h2-wdoi-0014",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/j.nuclphysa.2009.05.019 belongs to a different work: \"AdS/CFT Overview and Recent Applications to Strongly Interacting Systems\"; the cited work itself exists (found in Crossref)",
+  "match": "Data Acquisition and Performance Characterization in PET"
+ },
+ {
+  "id": "h2-wdoi-0015",
+  "label": "wrong_doi",
+  "field": "social",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/j.jas.2015.01.021 belongs to a different work: \"Steatite-tempered pottery of the Stroke Ornamented Ware culture from Silesia (SW Poland): a Neolithic innovation in ceramic technology\"; the cited work itself exists (found in Crossref)",
+  "match": "Unwrapping the OXO Cube: Josué de Castro and the Intellectual History of Metabolism"
+ },
+ {
+  "id": "h2-wdoi-0016",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1088/0031-9155/56/5/005 belongs to a different work: \"A robotic approach to 4D real-time tumor tracking for radiotherapy\"; the cited work itself exists (found in Crossref)",
+  "match": "Stability of highly asymmetric non-neutral plasmas"
+ },
+ {
+  "id": "h2-wdoi-0017",
+  "label": "wrong_doi",
+  "field": "math",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1007/s00125-003-1133-5 belongs to a different work: \"Identification and purification from the plasma of Type�1 diabetic subjects of a proteolytically active Grp94\"; the cited work itself exists (found in Crossref)",
+  "match": "Coefficient Problems in the Subclasses of Close-to-Star Functions"
+ },
+ {
+  "id": "h2-wdoi-0018",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1001/archneur.1976.00500070036007 belongs to a different work: \"Treatment of Malignant Glioma: A Controlled Study of Chemotherapy and Irradiation\"; the cited work itself exists (found in Crossref)",
+  "match": "Immunocytochemical localization of tyrosine hydroxylase in the human striatum: A postmortem ultrastructural study"
+ },
+ {
+  "id": "h2-wdoi-0019",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1057/9780230244900_4 belongs to a different work: \"Creole Europe: The Reflection of a Reflection\"; the cited work itself exists (found in Crossref)",
+  "match": "Saturn's low-latitude boundary layer: 2. Electron structure: SATURN'S LLBL ELECTRON STRUCTURE"
+ },
+ {
+  "id": "h2-wdoi-0020",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/j.fsi.2020.07.045 belongs to a different work: \"Development of IglC and GroEL recombinant vaccines for francisellosis in Nile tilapia, Oreochromis niloticus\"; the cited work itself exists (found in Crossref)",
+  "match": "Anionic Antimicrobial Peptides from Eukaryotic Organisms and their Mechanisms of Action"
+ },
+ {
+  "id": "h2-wdoi-0021",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1111/jipb.13783 belongs to a different work: \"The receptor‐like cytoplasmic kinase OsBSK1‐2 regulates immunity via an HLH/bHLH complex\"; the cited work itself exists (found in Crossref)",
+  "match": "Structure of motor variability in marginally redundant multifinger force production tasks"
+ },
+ {
+  "id": "h2-wdoi-0022",
+  "label": "wrong_doi",
+  "field": "social",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1007/978-3-031-13013-7_17 belongs to a different work: \"Connecting Officer Appearance with Officer Safety: A Survey of Police Officers’ Perceptions of Uniforms and Accoutrements\"; the cited work itself exists (found in Crossref)",
+  "match": "The Impact of Sound-Field Amplification in Mainstream Cross-Cultural Classrooms: Part 1 Educational Outcomes"
+ },
+ {
+  "id": "h2-wdoi-0023",
+  "label": "wrong_doi",
+  "field": "other",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.2174/2212796811105020142 belongs to a different work: \"Anionic Antimicrobial Peptides from Eukaryotic Organisms and their Mechanisms of Action\"; the cited work itself exists (found in Crossref)",
+  "match": "The receptor‐like cytoplasmic kinase OsBSK1‐2 regulates immunity via an HLH/bHLH complex"
+ },
+ {
+  "id": "h2-wdoi-0024",
+  "label": "wrong_doi",
+  "field": "other",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/j.wasman.2015.12.027 belongs to a different work: \"Demolition waste generation for development of a regional management chain model\"; the cited work itself exists (found in Crossref)",
+  "match": "Investigation of laser-induced damage threshold improvement mechanism during ion beam sputtering of fused silica"
+ },
+ {
+  "id": "h2-wdoi-0025",
+  "label": "wrong_doi",
+  "field": "social",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1090/s0002-9947-06-04117-1 belongs to a different work: \"The algebraic entropy of the special linear character automorphisms of a free group on two generators\"; the cited work itself exists (found in Crossref)",
+  "match": "The potential of car advertising in pursuing transport policy goals: Code of good practices in the Spanish context"
+ },
+ {
+  "id": "h2-wdoi-0026",
+  "label": "wrong_doi",
+  "field": "cs",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1016/j.ecoinf.2021.101228 belongs to a different work: \"A quantitative detection algorithm based on improved faster R-CNN for marine benthos\"; the cited work itself exists (found in Crossref)",
+  "match": "On the Federated Learning Framework for Cooperative Perception"
+ },
+ {
+  "id": "h2-wdoi-0027",
+  "label": "wrong_doi",
+  "field": "physics",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1109/tce.2024.3396723 belongs to a different work: \"A Federated Unlearning-Based Secure Management Scheme to Enable Automation in Smart Consumer Electronics Facilitated by Digital Twin\"; the cited work itself exists (found in Crossref)",
+  "match": "A robotic approach to 4D real-time tumor tracking for radiotherapy"
+ },
+ {
+  "id": "h2-wdoi-0028",
+  "label": "wrong_doi",
+  "field": "biomed",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1007/s00125-003-1133-5 belongs to a different work: \"Identification and purification from the plasma of Type�1 diabetic subjects of a proteolytically active Grp94\"; the cited work itself exists (found in Crossref)",
+  "match": "Small-Molecule Inhibitor Prevents Insulin Fibrillogenesis and Preserves Activity"
+ },
+ {
+  "id": "h2-wdoi-0029",
+  "label": "wrong_doi",
+  "field": "cs",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1038/s41598-023-31297-1 belongs to a different work: \"Deep learning pose estimation for multi-cattle lameness detection\"; the cited work itself exists (found in Crossref)",
+  "match": "An algorithm for finding closed curves"
+ },
+ {
+  "id": "h2-wdoi-0030",
+  "label": "wrong_doi",
+  "field": "humanities",
+  "status": "doi_other_work",
+  "severity": "high",
+  "note": "DOI 10.1046/j.0011-1562.2003.00541.x belongs to a different work: \"The write kind of knowledge in English\"; the cited work itself exists (found in Crossref)",
+  "match": "The Emergence of Sin"
+ },
+ {
+  "id": "h2-meta-0001",
+  "label": "metadata_error",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Creole Europe: The Reflection of a Reflection"
+ },
+ {
+  "id": "h2-meta-0002",
+  "label": "metadata_error",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Small-Molecule Inhibitor Prevents Insulin Fibrillogenesis and Preserves Activity"
+ },
+ {
+  "id": "h2-meta-0003",
+  "label": "metadata_error",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Optimized Dynamic Acousto-elasticity Applied to Fatigue Damage and Stress Corrosion Cracking"
+ },
+ {
+  "id": "h2-meta-0004",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "arXiv 2006.01868 resolves to the same authors, now titled \"Convergence and Stability of Graph Convolutional Networks on Large Random Graphs\"",
+  "match": "Convergence and Stability of Graph Convolutional Networks on Large Random Graphs"
+ },
+ {
+  "id": "h2-meta-0005",
+  "label": "metadata_error",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The Emergence of Sin"
+ },
+ {
+  "id": "h2-meta-0006",
+  "label": "metadata_error",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The $^{7}$Be(n,p)$^{7}$Li reaction and the Cosmological Lithium Problem: measurement of the cross section in a wide energy range at n_TOF (CERN)"
+ },
+ {
+  "id": "h2-meta-0007",
+  "label": "metadata_error",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Daily stressors in school-age children: A multilevel approach."
+ },
+ {
+  "id": "h2-meta-0008",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"The design and analysis of an ATM multicast switch with adaptive traffic controller\" in Crossref (title similarity 0.81)",
+  "match": "The design and analysis of an ATM multicast switch with adaptive traffic controller"
+ },
+ {
+  "id": "h2-meta-0009",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Operator Relations Characterizing Derivatives"
+ },
+ {
+  "id": "h2-meta-0010",
+  "label": "metadata_error",
+  "field": "social",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"Unwrapping the OXO Cube: Josué de Castro and the Intellectual History of Metabolism\" in Crossref (authors differ)",
+  "match": "Unwrapping the OXO Cube: Josué de Castro and the Intellectual History of Metabolism"
+ },
+ {
+  "id": "h2-meta-0011",
+  "label": "metadata_error",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Virulence of entomopathogenic Fungi (Fungi imperfecti) for the adults of Acanthoscelides obtectus (Coleoptera: Bruchidae)"
+ },
+ {
+  "id": "h2-meta-0012",
+  "label": "metadata_error",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "arXiv 1708.07077 resolves to the same authors, now titled \"A Review of Smart Materials in Tactile Actuators for Information Delivery\"",
+  "match": "A Review of Smart Materials in Tactile Actuators for Information Delivery"
+ },
+ {
+  "id": "h2-meta-0013",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Generalized Connectivity Matrix Response Regression with Applications in Brain Connectivity Studies"
+ },
+ {
+  "id": "h2-meta-0014",
+  "label": "metadata_error",
+  "field": "humanities",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"The fluid infusion of musical culture: embodied experiences in a grade one classroom\" in Crossref (authors differ)",
+  "match": "The fluid infusion of musical culture: embodied experiences in a grade one classroom"
+ },
+ {
+  "id": "h2-meta-0015",
+  "label": "metadata_error",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Primary anterior lumbar interbody fusion, with and without posterior instrumentation: a 1,377-patient cohort from a multicenter spine registry"
+ },
+ {
+  "id": "h2-meta-0016",
+  "label": "metadata_error",
+  "field": "other",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-meta-0017",
+  "label": "metadata_error",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Demolition waste generation for development of a regional management chain model"
+ },
+ {
+  "id": "h2-meta-0018",
+  "label": "metadata_error",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A robotic approach to 4D real-time tumor tracking for radiotherapy"
+ },
+ {
+  "id": "h2-meta-0019",
+  "label": "metadata_error",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Coefficient Problems in the Subclasses of Close-to-Star Functions"
+ },
+ {
+  "id": "h2-meta-0020",
+  "label": "metadata_error",
+  "field": "social",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"Connecting Officer Appearance with Officer Safety: A Survey of Police Officers’ Perceptions of Uniforms and Accoutrements\" in Crossref (title similarity 0.80)",
+  "match": "Connecting Officer Appearance with Officer Safety: A Survey of Police Officers’ Perceptions of Uniforms and Accoutrements"
+ },
+ {
+  "id": "h2-meta-0021",
+  "label": "metadata_error",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "AdS/CFT Overview and Recent Applications to Strongly Interacting Systems"
+ },
+ {
+  "id": "h2-meta-0022",
+  "label": "metadata_error",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The receptor‐like cytoplasmic kinase OsBSK1‐2 regulates immunity via an HLH/bHLH complex"
+ },
+ {
+  "id": "h2-meta-0023",
+  "label": "metadata_error",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The impacts of investors' sentiments on stock returns using fintech approaches"
+ },
+ {
+  "id": "h2-meta-0024",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-meta-0025",
+  "label": "metadata_error",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Phase diagram for three-dimensional correlated site-bond percolation"
+ },
+ {
+  "id": "h2-meta-0026",
+  "label": "metadata_error",
+  "field": "humanities",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"History and Class Consciousness as an “Unfinished Project”\" in OpenAlex (authors differ)",
+  "match": "History and Class Consciousness as an “Unfinished Project”"
+ },
+ {
+  "id": "h2-meta-0027",
+  "label": "metadata_error",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Preservation of growth hormone secretion in response to growth hormone—releasing peptide-2 during prednisone therapy"
+ },
+ {
+  "id": "h2-meta-0028",
+  "label": "metadata_error",
+  "field": "biomed",
+  "status": "uncertain",
+  "severity": "medium",
+  "note": "closest: \"Identification and purification from the plasma of Type�1 diabetic subjects of a proteolytically active Grp94\" in Crossref (title similarity 0.80)",
+  "match": "Identification and purification from the plasma of Type�1 diabetic subjects of a proteolytically active Grp94"
+ },
+ {
+  "id": "h2-meta-0029",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Fast Rank-1 NMF for Missing Data with KL Divergence"
+ },
+ {
+  "id": "h2-meta-0030",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A quantitative detection algorithm based on improved faster R-CNN for marine benthos"
+ },
+ {
+  "id": "h2-meta-0031",
+  "label": "metadata_error",
+  "field": "cs",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-meta-0032",
+  "label": "metadata_error",
+  "field": "humanities",
+  "status": "not_found",
+  "severity": "high",
+  "note": "no matching work in Crossref, OpenAlex or arXiv; DBLP could not be reached",
+  "match": null
+ },
+ {
+  "id": "h2-retr-0001",
+  "label": "retracted",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Estimation of loadability limit with N-1 and N-2 outages using evolutionary computation techniques"
+ },
+ {
+  "id": "h2-retr-0002",
+  "label": "retracted",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Distilled and filtered deep neural networks for real-time object detection in edge computing"
+ },
+ {
+  "id": "h2-retr-0003",
+  "label": "retracted",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Computational Intelligence Approaches in Developing Cyberattack Detection System"
+ },
+ {
+  "id": "h2-retr-0004",
+  "label": "retracted",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A three-way decision model associated with decision-theoretic rough fuzzy sets based on computing with words"
+ },
+ {
+  "id": "h2-retr-0005",
+  "label": "retracted",
+  "field": "cs",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: FSM-F: Finite State Machine Based Framework for Denial of Service and Intrusion Detection in MANET"
+ },
+ {
+  "id": "h2-retr-0006",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Klotho Gene and Protein in Human Placentas According to Birth Weight and Gestational Age"
+ },
+ {
+  "id": "h2-retr-0007",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "[Retracted] Analysis of the Performance of Gadoxetic Acid Disodium MRI in Predicting Microvascular Invasion of Hepatocellular Carcinoma"
+ },
+ {
+  "id": "h2-retr-0008",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Comprehensive genetic structure analysis of Han population from Dalian City revealed by 20 Y‐STRs"
+ },
+ {
+  "id": "h2-retr-0009",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: E6 proteins from diverse cutaneous HPV types inhibit apoptosis in response to UV damage"
+ },
+ {
+  "id": "h2-retr-0010",
+  "label": "retracted",
+  "field": "biomed",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "&lt;p&gt;Long Noncoding RNA SNHG7, a Molecular Sponge for microRNA-485, Promotes the Aggressive Behavior of Cervical Cancer by Regulating PAK4&lt;/p&gt;"
+ },
+ {
+  "id": "h2-retr-0011",
+  "label": "retracted",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Quantitative prediction of type II solar radio emission from the Sun to 1 AU"
+ },
+ {
+  "id": "h2-retr-0012",
+  "label": "retracted",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Survey geometry and the internal consistency of recent cosmic shear measurements"
+ },
+ {
+  "id": "h2-retr-0013",
+  "label": "retracted",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "The motion of a single heavy sphere in ambient fluid: A benchmark for interface-resolved particulate flow simulations with significant relative velocities"
+ },
+ {
+  "id": "h2-retr-0014",
+  "label": "retracted",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Extension of operational limits on EAST"
+ },
+ {
+  "id": "h2-retr-0015",
+  "label": "retracted",
+  "field": "physics",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Further Theoretical Investigations for Laser Relative Intensity Noise with Fiber Nonlinearities and Higher-Order Dispersion"
+ },
+ {
+  "id": "h2-retr-0016",
+  "label": "retracted",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "A Novel Study of Graphs Based on m -Polar Cubic Structures"
+ },
+ {
+  "id": "h2-retr-0017",
+  "label": "retracted",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED – MEASURING CLUB-SEQUENCES TOGETHER WITH THE CONTINUUM LARGE"
+ },
+ {
+  "id": "h2-retr-0018",
+  "label": "retracted",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Growth properties of Green-Sch potentials at infinity"
+ },
+ {
+  "id": "h2-retr-0019",
+  "label": "retracted",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Chaos Synchronization of the Distributed-Order Lorenz System via Active Control and Applications in Chaotic Masking"
+ },
+ {
+  "id": "h2-retr-0020",
+  "label": "retracted",
+  "field": "math",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: A one-step iterative process for two multivalued nonexpansive mappings in Banach spaces"
+ },
+ {
+  "id": "h2-retr-0021",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Studying financial aspect of green credit and\n            regional heterogeneity on technology innovation in China"
+ },
+ {
+  "id": "h2-retr-0022",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: LYNCHINGS, RACIAL THREAT, AND WHITES’ PUNITIVE VIEWS TOWARD BLACKS"
+ },
+ {
+  "id": "h2-retr-0023",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: The institutional model of US Supreme Court decision-making"
+ },
+ {
+  "id": "h2-retr-0024",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Investigation and Countermeasures on Mental Health Status of Applied Fresh Graduates from the Perspective of Psychological Capital"
+ },
+ {
+  "id": "h2-retr-0025",
+  "label": "retracted",
+  "field": "social",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Research on the countermeasures of college students’ mental health education under the background of the epidemic"
+ },
+ {
+  "id": "h2-retr-0026",
+  "label": "retracted",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Aesthetics of Liberation: Carceral Intimacies in Sarah Maldoror's Sambizanga (1972)"
+ },
+ {
+  "id": "h2-retr-0027",
+  "label": "retracted",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Morphological Bias of Ancient Artifacts: A Case Study of Incense Burners in Ming and Qing Dynasties"
+ },
+ {
+  "id": "h2-retr-0028",
+  "label": "retracted",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Selman Selmanagic and legacy of Bauhaus: The concept of 'architecture beyond four walls'"
+ },
+ {
+  "id": "h2-retr-0029",
+  "label": "retracted",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED ARTICLE: Psychological Approach in\n            the Interpretation of 20th Century Kazakh Postmodern Literature"
+ },
+ {
+  "id": "h2-retr-0030",
+  "label": "retracted",
+  "field": "humanities",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "THIS ARTICLE HAS BEEN RETRACTED  Conscience in Renaissance moral thought: a concept in transition?"
+ },
+ {
+  "id": "h2-retr-0031",
+  "label": "retracted",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Retracted Article: Ni/Ti layered double hydroxide: synthesis, characterization and application as a photocatalyst for visible light degradation of aqueous methylene blue"
+ },
+ {
+  "id": "h2-retr-0032",
+  "label": "retracted",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: Computational Investigations of the Impact Resistance of Aluminum–Epoxy–Laminated Composites"
+ },
+ {
+  "id": "h2-retr-0033",
+  "label": "retracted",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "RETRACTED: A photochromic dye activation method for measuring the thickness of liquid films"
+ },
+ {
+  "id": "h2-retr-0034",
+  "label": "retracted",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Redistribution of infused and implanted dopants in a multilayer structure during annealing of dopant and radiation defects for the production of a system of p–n junctions"
+ },
+ {
+  "id": "h2-retr-0035",
+  "label": "retracted",
+  "field": "other",
+  "status": "found",
+  "severity": "ok",
+  "note": "",
+  "match": "Polyaniline: A New Metal-Free Catalyst for Peroxymonosulfate Activation with Highly Efficient and Durable Removal of Organic Pollutants"
+ }
+]
