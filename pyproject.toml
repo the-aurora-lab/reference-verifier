@@ -1,10 +1,10 @@
 [build-system]
-requires = ["hatchling>=1.24"]
+requires = ["hatchling>=1.27"]
 build-backend = "hatchling.build"
 
 [project]
 name = "reference-verifier"
-version = "0.2.1"
+version = "0.2.2"
 description = "Check that every reference in your paper exists, against Crossref, OpenAlex, DBLP, arXiv and PubMed."
 readme = "README.md"
 license = "MIT"
@@ -17,18 +17,26 @@ dependencies = [
 ]
 keywords = ["bibtex", "citations", "references", "latex", "hallucinated citations", "crossref", "research integrity"]
 classifiers = [
-    "Development Status :: 3 - Alpha",
+    "Development Status :: 4 - Beta",
     "Environment :: Console",
     "Intended Audience :: Science/Research",
-    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
     "Topic :: Scientific/Engineering",
     "Topic :: Text Processing :: Markup :: LaTeX",
 ]
 
 [project.urls]
+Homepage = "https://the-aurora-lab.github.io/tools/reference-verifier/"
 Source = "https://github.com/the-aurora-lab/reference-verifier"
 Issues = "https://github.com/the-aurora-lab/reference-verifier/issues"
+Changelog = "https://github.com/the-aurora-lab/reference-verifier/blob/main/CHANGELOG.md"
 
 [project.scripts]
 refverify = "reference_verifier.cli:main"
@@ -40,7 +48,8 @@ dev = ["pytest>=8"]
 packages = ["src/reference_verifier"]
 
 [tool.hatch.build.targets.sdist]
-exclude = ["benchmark/data/raw"]
+# The benchmark data stays in the repository: the package needs none of it.
+include = ["src/reference_verifier", "tests", "README.md", "CHANGELOG.md", "LICENSE"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

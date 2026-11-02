@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.2.2 (2026-11-02)
+
+- On PyPI: `pip install reference-verifier`. Each release is built, tested and uploaded by this repository's
+  GitHub Actions workflow (`.github/workflows/release.yml`) through PyPI's Trusted Publishing, with signed
+  attestations of where each file was built.
+- The source distribution holds the package, its tests and the documents; the benchmark stays in the repository.
+
+No change to how references are looked up or matched: the held-out scores of 0.2.0 still apply.
+
 ## 0.2.1 (2026-11-01)
 
 - Files are named relative to the working folder (or by name alone when they lie outside it) in the report header,

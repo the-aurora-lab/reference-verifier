@@ -9,7 +9,7 @@ references that no registry lists, DOIs that are not registered, and DOIs that b
 ```
 $ refverify main.tex
 
-Reference Verifier 0.2.1: 41 references from refs.bib
+Reference Verifier 0.2.2: 41 references from refs.bib
 
   37 found · 2 not found · 1 wrong DOI · 1 uncertain
 
@@ -23,10 +23,11 @@ Reference Verifier 0.2.1: 41 references from refs.bib
 ## Install
 
 ```
-pip install git+https://github.com/the-aurora-lab/reference-verifier@v0.2.1
+pip install reference-verifier
 ```
 
-Python 3.10 or newer. A PyPI release (`pip install reference-verifier`) is coming.
+Python 3.10 or newer. To keep the command in an environment of its own: `pipx install reference-verifier` or
+`uv tool install reference-verifier`.
 
 ## Use
 
@@ -79,9 +80,10 @@ venue or author list. `refverify` checks existence.
 
 ## How well it works
 
-Measured with 0.2.0 (0.2.1 changes only how file names are shown) on a held-out benchmark of 246 labelled references that was built separately from the
+Measured with 0.2.0 (0.2.1 changes only how file names are shown, 0.2.2 only how it is packaged) on a held-out benchmark of 246 labelled references that was built separately from the
 development set and from the earlier held-out set, and scored once, with no changes to the matching rules afterwards
-(`benchmark/heldout-0.2/`; sources, licences and labelling rules in `benchmark/heldout-0.2/HELDOUT.md`):
+([`benchmark/heldout-0.2/`](https://github.com/the-aurora-lab/reference-verifier/tree/main/benchmark/heldout-0.2); sources, licences and labelling rules in
+[`HELDOUT.md`](https://github.com/the-aurora-lab/reference-verifier/blob/main/benchmark/heldout-0.2/HELDOUT.md)):
 
 | Measure | Result | 95% CI |
 |---|---|---|
@@ -99,11 +101,12 @@ development set and from the earlier held-out set, and scored once, with no chan
   computer science.
 - "Fabricated" means listed by one of those compilations and found neither in any registry nor by a web search for
   the exact title. That is strong evidence, not proof.
-- 0.1.0 was scored on an earlier held-out set (`benchmark/heldout/`; its numbers are in the CHANGELOG). The
-  development set the rules were tuned on (342 references) is in `benchmark/`; its scores are in
-  `benchmark/results/summary.md` and are not a fair measure.
+- 0.1.0 was scored on an earlier held-out set (`benchmark/heldout/`; its numbers are in the
+  [CHANGELOG](https://github.com/the-aurora-lab/reference-verifier/blob/main/CHANGELOG.md)). The development set the rules were tuned on (342 references) is in
+  [`benchmark/`](https://github.com/the-aurora-lab/reference-verifier/tree/main/benchmark); its scores are in `benchmark/results/summary.md` and are not a fair
+  measure. The benchmark is in the repository, not in the package.
 
-Rerun it: `python benchmark/evaluate.py --data benchmark/heldout-0.2/heldout.jsonl --out benchmark/heldout-0.2/results --heldout`
+Rerun it from a clone of the repository: `python benchmark/evaluate.py --data benchmark/heldout-0.2/heldout.jsonl --out benchmark/heldout-0.2/results --heldout`
 (results vary slightly as registries change and become reachable or not).
 
 ## Privacy and etiquette
