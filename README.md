@@ -113,6 +113,14 @@ Nothing else leaves your machine. Answers are cached for 30 days in `~/.cache/re
 repeat runs are fast and light on the registries. Requests are rate-limited per registry, including the one
 request every three seconds that arXiv asks for.
 
+## Reference Verifier Pro
+
+This free core checks that each reference exists. Reference Verifier Pro, a paid add-on, also checks each one against
+the publisher's record and the retraction databases (retractions and corrections, wrong DOIs with the likely correct
+one, authors, years, venues and pages, duplicates and cite keys, published versions of preprints), writes corrected
+copies to review and dated audit reports, and checks a whole class's papers at once. A real run, the held-out
+benchmark and the licences: https://the-aurora-lab.github.io/tools/reference-verifier/
+
 ## Licence
 
 MIT
